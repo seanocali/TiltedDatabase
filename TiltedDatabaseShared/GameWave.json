@@ -1,0 +1,312 @@
+{
+  "PlatformName": "GameWave",
+  "LastUpdate": "5/24/2022 2:34:20 AM",
+  "Games": [
+    {
+      "Titles": [
+        "4 Degrees - The Arc of Trivia - Bible Edition"
+      ],
+      "Sha1": "21001ee96dea1fd92ce2756e684ff9087cbff47f",
+      "Crc32": "10e6f6a6",
+      "SetNames": {
+        "Redump": [
+          "4 Degrees - The Arc of Trivia - Bible Edition (USA)"
+        ]
+      },
+      "Size": 4430123008,
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "4 Degrees - The Arc of Trivia - Volume 1"
+      ],
+      "Sha1": "7290b774ea4cafce0b5bc7fc84f4149fcb43fbac",
+      "Crc32": "d0e92ad6",
+      "SetNames": {
+        "Redump": [
+          "4 Degrees - The Arc of Trivia - Volume 1 (USA)"
+        ]
+      },
+      "Size": 4499558400,
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "4 Degrees - The Arc of Trivia - Volume 2"
+      ],
+      "Sha1": "d074ca912ad3aa374a7db0fd2322c61545a0552c",
+      "Crc32": "b2e53902",
+      "SetNames": {
+        "Redump": [
+          "4 Degrees - The Arc of Trivia - Volume 2 (USA)"
+        ]
+      },
+      "Size": 4405088256,
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Click!"
+      ],
+      "Sha1": "98d978004f7d1c369f445aff7024c3c850a4e6f0",
+      "Crc32": "43ee7f7f",
+      "SetNames": {
+        "Redump": [
+          "Click! (USA)"
+        ]
+      },
+      "Size": 4327985152,
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Gemz"
+      ],
+      "Sha1": "d39984aa1d244193fa59e9694fb86bc91e270032",
+      "Crc32": "294f71de",
+      "SetNames": {
+        "Redump": [
+          "Gemz (USA)"
+        ]
+      },
+      "Size": 2912833536,
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Letter Zap!"
+      ],
+      "Sha1": "674cf8358020f9d608a9b153dd7354e664385311",
+      "Crc32": "cea3128f",
+      "SetNames": {
+        "Redump": [
+          "Letter Zap! (USA)"
+        ]
+      },
+      "Size": 3395833856,
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Lock 5"
+      ],
+      "Sha1": "ea08de08d53d0e727e5d6fcbcb3c71e6a3908664",
+      "Crc32": "0c9e6d49",
+      "SetNames": {
+        "Redump": [
+          "Lock 5 (USA)"
+        ]
+      },
+      "Size": 560189440,
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Rewind"
+      ],
+      "Sha1": "15e57f95ef5aa7dece2d4f70bc6b9da3b14ad786",
+      "Crc32": "d3cf238e",
+      "SetNames": {
+        "Redump": [
+          "Rewind (USA) (Rev 1)"
+        ]
+      },
+      "Size": 4385525760,
+      "CloneOf": "Rewind (USA)",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Rewind 2005"
+      ],
+      "Sha1": "5ce59186744ddc25eef50475f0060643eef3949a",
+      "Crc32": "7359f3d2",
+      "SetNames": {
+        "Redump": [
+          "Rewind 2005 (USA) (Disc A)"
+        ]
+      },
+      "Size": 3469070336,
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Rewind 2005"
+      ],
+      "Sha1": "928da4eb25cc6d81563351a771c22f8d668f292a",
+      "Crc32": "c6409e2a",
+      "SetNames": {
+        "Redump": [
+          "Rewind 2005 (USA) (Disc B)"
+        ]
+      },
+      "Size": 3505344512,
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Rewind 2006"
+      ],
+      "Sha1": "7cbbf19bad2705d58bf220e30942b88c7861ad74",
+      "Crc32": "b512c56e",
+      "SetNames": {
+        "Redump": [
+          "Rewind 2006 (USA) (Disc A)"
+        ]
+      },
+      "Size": 3808251904,
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Rewind 2006"
+      ],
+      "Sha1": "062d1fe4760f1d02eb821eff576db97a5b2d6322",
+      "Crc32": "afdb72c9",
+      "SetNames": {
+        "Redump": [
+          "Rewind 2006 (USA) (Disc B)"
+        ]
+      },
+      "Size": 3781316608,
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Sudoku"
+      ],
+      "Sha1": "f9fd892518b221d2e3519837c2ba1a031d5d45a2",
+      "Crc32": "bc5a76e7",
+      "SetNames": {
+        "Redump": [
+          "Sudoku (USA)"
+        ]
+      },
+      "Size": 3522482176,
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "VeggieTales - Veg-Out! Family Tournament"
+      ],
+      "Sha1": "c6baa40ed4cd5654031a46f7ad48232b56b8e5db",
+      "Crc32": "babe1cb0",
+      "SetNames": {
+        "Redump": [
+          "VeggieTales - Veg-Out! Family Tournament (USA)"
+        ]
+      },
+      "Size": 4461875200,
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Zap 21"
+      ],
+      "Sha1": "77c8042df83c57cf2576a34d12ad4d528e78c4e8",
+      "Crc32": "af4e020b",
+      "SetNames": {
+        "Redump": [
+          "Zap 21 (USA)"
+        ]
+      },
+      "Size": 361287680,
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Rewind"
+      ],
+      "Sha1": "542e7645b9caa8bf8aeaea98cf198c86b56e9f41",
+      "Crc32": "d2fde421",
+      "SetNames": {
+        "Redump": [
+          "Rewind (USA)"
+        ]
+      },
+      "Size": 4635021312,
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    }
+  ],
+  "Overviews": {}
+}

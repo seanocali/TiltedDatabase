@@ -1,0 +1,994 @@
+{
+  "PlatformName": "Neo Geo Pocket",
+  "LastUpdate": "5/25/2022 3:02:12 AM",
+  "Games": [
+    {
+      "Titles": [
+        "[BIOS] SNK Neo Geo Pocket"
+      ],
+      "Sha1": "2f6429b68446536d8b03f35d02f1e98beb6460a0",
+      "Crc32": "6232df8d",
+      "SetNames": {
+        "No-Intro": [
+          "[BIOS] SNK Neo Geo Pocket (Japan, Europe)"
+        ]
+      },
+      "Size": 65536,
+      "Regions": [
+        "JP",
+        "EU"
+      ],
+      "Tags": [
+        "BIOS"
+      ]
+    },
+    {
+      "Titles": [
+        "Baseball Stars - Pocket Sports Series",
+        "Baseball Stars v1.10",
+        "Pocket Sports Series - Baseball Stars",
+        "Baseball Stars"
+      ],
+      "Sha1": "8ece00f21ae49ed4777a9c990b2782465ef95380",
+      "Crc32": "4781ae84",
+      "SetNames": {
+        "No-Intro": [
+          "Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja)"
+        ],
+        "TOSEC": [
+          "Baseball Stars v1.10 (1998)(Saurus - SNK)(en-ja)[m save data]"
+        ],
+        "MESS": [
+          "bstars"
+        ],
+        "TGDB": [
+          "27868"
+        ]
+      },
+      "OverviewId": 1,
+      "Size": 1048576,
+      "Publishers": [
+        "Saurus - SNK",
+        "SNK"
+      ],
+      "Developers": [
+        "SNK"
+      ],
+      "ReleaseDate": "10/28/1998",
+      "Genres": [
+        "Sports"
+      ],
+      "Regions": [
+        "JP",
+        "EU"
+      ],
+      "Languages": [
+        "en",
+        "ja"
+      ],
+      "Tags": [
+        "Modified"
+      ]
+    },
+    {
+      "Titles": [
+        "King of Fighters R-1 - Pocket Fighting Series",
+        "King of Fighters - R-1",
+        "Pocket Fighting Series - King of Fighters R-1",
+        "King of Fighters Round R-1",
+        "King of Fighters R-1"
+      ],
+      "Sha1": "4a7adbcccb05b6047a38bb861523cbae7d956bfa",
+      "Crc32": "dceb7e11",
+      "SetNames": {
+        "No-Intro": [
+          "King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja)"
+        ],
+        "TOSEC": [
+          "King of Fighters - R-1 (1998)(SNK)(en-ja)"
+        ],
+        "MESS": [
+          "kofr1"
+        ],
+        "TGDB": [
+          "27869"
+        ]
+      },
+      "OverviewId": 2,
+      "Size": 2097152,
+      "Publishers": [
+        "SNK"
+      ],
+      "Developers": [
+        "SNK"
+      ],
+      "ReleaseDate": "3/16/1999",
+      "ESRB": "E",
+      "Genres": [
+        "Fighting"
+      ],
+      "Regions": [
+        "JP",
+        "EU"
+      ],
+      "Languages": [
+        "en",
+        "ja"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "King of Fighters R-1 - Pocket Kakutou Series & Melon-chan no Seichou Nikki",
+        "King of Fighters - R-1 & Melon Chan no Seichou Nikki",
+        "King of Fighters R-1 & Melon-chan no Seichou Nikki"
+      ],
+      "Sha1": "a02d1b1113dbeac895832f1501029e40d9aab493",
+      "Crc32": "2660bfc4",
+      "SetNames": {
+        "No-Intro": [
+          "King of Fighters R-1 - Pocket Kakutou Series & Melon-chan no Seichou Nikki (Japan) (Demo)"
+        ],
+        "TOSEC": [
+          "King of Fighters - R-1 & Melon Chan no Seichou Nikki (demo) (199x)(SNK)(JP)"
+        ],
+        "MESS": [
+          "kof_mlon"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "SNK"
+      ],
+      "Regions": [
+        "JP"
+      ],
+      "Tags": [
+        "demo"
+      ]
+    },
+    {
+      "Titles": [
+        "Melon-chan no Seichou Nikki",
+        "Melon Chan no Seichou Nikki",
+        "Melon Chan's Growth Diary"
+      ],
+      "Sha1": "2dbf9c40ab0167ff172f10354d4674e5e6c901d5",
+      "Crc32": "cb42cfa4",
+      "SetNames": {
+        "No-Intro": [
+          "Melon-chan no Seichou Nikki (Japan)"
+        ],
+        "TOSEC": [
+          "Melon Chan no Seichou Nikki (1998)(ADK)(JP)[m save data]"
+        ],
+        "MESS": [
+          "melonchn"
+        ],
+        "TGDB": [
+          "34149"
+        ]
+      },
+      "OverviewId": 3,
+      "Size": 1048576,
+      "Publishers": [
+        "ADK",
+        "SNK"
+      ],
+      "Developers": [
+        "ADK"
+      ],
+      "ReleaseDate": "1/1/1998",
+      "Genres": [
+        "Life Simulation"
+      ],
+      "Regions": [
+        "JP"
+      ],
+      "Tags": [
+        "Modified"
+      ]
+    },
+    {
+      "Titles": [
+        "Neo Cherry Master - Real Casino Series",
+        "Neo Cherry Master",
+        "Pocket Casino Series - Neo Cherry Master",
+        "Neo Cherry Master - Pocket Casino Series"
+      ],
+      "Sha1": "c171d8d22d667d713bfc73c2b1c04bc77aacbb5c",
+      "Crc32": "5c067579",
+      "SetNames": {
+        "No-Intro": [
+          "Neo Cherry Master - Real Casino Series (Japan) (En,Ja)"
+        ],
+        "TOSEC": [
+          "Neo Cherry Master (1998)(Dyna)(JP)(en-ja)"
+        ],
+        "MESS": [
+          "neocher"
+        ],
+        "TGDB": [
+          "27870"
+        ]
+      },
+      "OverviewId": 4,
+      "Size": 1048576,
+      "Publishers": [
+        "Dyna",
+        "SNK"
+      ],
+      "Developers": [
+        "Dyna Corporation"
+      ],
+      "ReleaseDate": "12/25/1998",
+      "Genres": [
+        "Puzzle"
+      ],
+      "Regions": [
+        "JP"
+      ],
+      "Languages": [
+        "en",
+        "ja"
+      ]
+    },
+    {
+      "Titles": [
+        "Neo Geo Cup '98",
+        "NeoGeo Cup '98",
+        "Pocket Sports Series - Neo Geo Cup '98",
+        "Neo Geo Cup '98 Plus"
+      ],
+      "Sha1": "445743119c65a6765a0bdc849a12e9038192840c",
+      "Crc32": "33add5bd",
+      "SetNames": {
+        "No-Intro": [
+          "Neo Geo Cup '98 (Japan, Europe) (En,Ja)"
+        ],
+        "TOSEC": [
+          "NeoGeo Cup '98 (1998)(SNK)(JP)(en-ja)"
+        ],
+        "MESS": [
+          "neocup98"
+        ],
+        "TGDB": [
+          "27871"
+        ]
+      },
+      "OverviewId": 5,
+      "Size": 1048576,
+      "Publishers": [
+        "SNK"
+      ],
+      "Developers": [
+        "SNK"
+      ],
+      "ReleaseDate": "1/1/1998",
+      "ESRB": "E",
+      "Genres": [
+        "Sports"
+      ],
+      "Regions": [
+        "JP",
+        "EU"
+      ],
+      "Languages": [
+        "en",
+        "ja"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Pocket Tennis - Pocket Sports Series",
+        "Pocket Sports Series - Pocket Tennis",
+        "Pocket Tennis"
+      ],
+      "Sha1": "59602e44c631a00b2db53196204a4bc22ccd7025",
+      "Crc32": "89410850",
+      "SetNames": {
+        "No-Intro": [
+          "Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja)"
+        ],
+        "TOSEC": [
+          "Pocket Tennis - Pocket Sports Series (1998)(Yumekobo)(en-ja)"
+        ],
+        "MESS": [
+          "ptennis"
+        ],
+        "TGDB": [
+          "27872"
+        ]
+      },
+      "OverviewId": 6,
+      "Size": 524288,
+      "Publishers": [
+        "Yumekobo",
+        "SNK"
+      ],
+      "Developers": [
+        "Yumekobo Co., Ltd."
+      ],
+      "ReleaseDate": "1/1/1998",
+      "ESRB": "E",
+      "Genres": [
+        "Sports"
+      ],
+      "Regions": [
+        "JP",
+        "EU"
+      ],
+      "Languages": [
+        "en",
+        "ja"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Renketsu Puzzle Tsunagete Pon!",
+        "Puzzle Link"
+      ],
+      "Sha1": "cbe53b08d03ef684c08fc6ee28fca168a3d091a7",
+      "Crc32": "ce09f534",
+      "SetNames": {
+        "No-Intro": [
+          "Renketsu Puzzle Tsunagete Pon! (Japan)"
+        ],
+        "TOSEC": [
+          "Renketsu Puzzle Tsunagete Pon! (1998)(Yumekobo)(JP)"
+        ],
+        "MESS": [
+          "tsunapn"
+        ],
+        "TGDB": [
+          "34148"
+        ]
+      },
+      "OverviewId": 7,
+      "Size": 524288,
+      "Publishers": [
+        "Yumekobo",
+        "SNK"
+      ],
+      "Developers": [
+        "Yumekobo Co., Ltd."
+      ],
+      "ReleaseDate": "1/1/1998",
+      "ESRB": "E",
+      "Genres": [
+        "Puzzle"
+      ],
+      "Regions": [
+        "JP"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Samurai Shodown! - Pocket Fighting Series",
+        "Pocket Fighting Series - Samurai Spirit!  ~ Samurai Shodown!",
+        "Samurai Shodown!",
+        "Samurai Spirits! - Pocket Kakutou Series"
+      ],
+      "Sha1": "2c6adfa69e7aeada7d4198b373436eee35b70d01",
+      "Crc32": "32e4696a",
+      "SetNames": {
+        "No-Intro": [
+          "Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja)"
+        ],
+        "TOSEC": [
+          "Samurai Shodown! - Pocket Fighting Series (1998)(SNK)(en-ja)"
+        ],
+        "MESS": [
+          "samsho"
+        ],
+        "TGDB": [
+          "27583"
+        ]
+      },
+      "OverviewId": 8,
+      "Size": 2097152,
+      "Publishers": [
+        "SNK"
+      ],
+      "Developers": [
+        "SNK"
+      ],
+      "ReleaseDate": "12/25/1998",
+      "Genres": [
+        "Fighting"
+      ],
+      "Regions": [
+        "JP",
+        "EU"
+      ],
+      "Languages": [
+        "en",
+        "ja"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Shougi no Tatsujin",
+        "Master of Syougi"
+      ],
+      "Sha1": "ab0c33236f72d2b317d91d034756b56cfca1b0b4",
+      "Crc32": "f34d0c9b",
+      "SetNames": {
+        "No-Intro": [
+          "Shougi no Tatsujin (Japan)"
+        ],
+        "TOSEC": [
+          "Master of Syougi (1998)(ADK)(JP)"
+        ],
+        "MESS": [
+          "shougi"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "ADK",
+        "SNK"
+      ],
+      "ReleaseDate": "1/1/1998",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Baseball Stars v1.10"
+      ],
+      "Sha1": "d5a53c1b18626909b58fc73740d8c566357a7812",
+      "Crc32": "caa3a827",
+      "SetNames": {
+        "TOSEC": [
+          "Baseball Stars v1.10 (1998)(Saurus - SNK)(en-ja)"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Saurus - SNK"
+      ],
+      "ReleaseDate": "1/1/1998",
+      "Languages": [
+        "en",
+        "ja"
+      ]
+    },
+    {
+      "Titles": [
+        "King of Fighters - R-1 & Melon Chan no Seichou Nikki"
+      ],
+      "Sha1": "cf76f5ead2f49b94def01b9a6e2a571a4d0fd1a6",
+      "Crc32": "b0c77197",
+      "SetNames": {
+        "TOSEC": [
+          "King of Fighters - R-1 & Melon Chan no Seichou Nikki (demo) (199x)(SNK)(JP)[u]"
+        ]
+      },
+      "Size": 1265664,
+      "Publishers": [
+        "SNK"
+      ],
+      "Regions": [
+        "JP"
+      ],
+      "Tags": [
+        "Bad Dump",
+        "demo"
+      ]
+    },
+    {
+      "Titles": [
+        "King of Fighters - R-1",
+        "King of Fighters R-1 - Pocket Fighting Series",
+        "King of Fighters Round R-1",
+        "King of Fighters R-1"
+      ],
+      "Sha1": "d375612129c79a5c3a00d97e44a48a90f9cd8979",
+      "Crc32": "d00ec8e1",
+      "SetNames": {
+        "TOSEC": [
+          "King of Fighters - R-1 (1998)(SNK)(en-ja)[a2]"
+        ],
+        "TGDB": [
+          "27869"
+        ]
+      },
+      "OverviewId": 2,
+      "Size": 2097152,
+      "Publishers": [
+        "SNK"
+      ],
+      "Developers": [
+        "SNK"
+      ],
+      "ReleaseDate": "3/16/1999",
+      "ESRB": "E",
+      "Genres": [
+        "Fighting"
+      ],
+      "Languages": [
+        "en",
+        "ja"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "King of Fighters - R-1",
+        "King of Fighters R-1 - Pocket Fighting Series",
+        "King of Fighters Round R-1",
+        "King of Fighters R-1"
+      ],
+      "Sha1": "81a6131976a190482dd446dfc4d8c7d41031e1be",
+      "Crc32": "4453e97d",
+      "SetNames": {
+        "TOSEC": [
+          "King of Fighters - R-1 (1998)(SNK)(en-ja)[a]"
+        ],
+        "TGDB": [
+          "27869"
+        ]
+      },
+      "OverviewId": 2,
+      "Size": 2097152,
+      "Publishers": [
+        "SNK"
+      ],
+      "Developers": [
+        "SNK"
+      ],
+      "ReleaseDate": "3/16/1999",
+      "ESRB": "E",
+      "Genres": [
+        "Fighting"
+      ],
+      "Languages": [
+        "en",
+        "ja"
+      ],
+      "Tags": [
+        "Alternate"
+      ]
+    },
+    {
+      "Titles": [
+        "King of Fighters - R-1",
+        "King of Fighters R-1 - Pocket Fighting Series",
+        "King of Fighters Round R-1",
+        "King of Fighters R-1"
+      ],
+      "Sha1": "94b6192ec74a39748a8565d52865c6e530927263",
+      "Crc32": "9db398d3",
+      "SetNames": {
+        "TOSEC": [
+          "King of Fighters - R-1 (1998)(SNK)(en-ja)[h Tintin Machine]"
+        ],
+        "TGDB": [
+          "27869"
+        ]
+      },
+      "OverviewId": 2,
+      "Size": 2097152,
+      "Publishers": [
+        "SNK"
+      ],
+      "Developers": [
+        "SNK"
+      ],
+      "ReleaseDate": "3/16/1999",
+      "ESRB": "E",
+      "Genres": [
+        "Fighting"
+      ],
+      "Languages": [
+        "en",
+        "ja"
+      ],
+      "Tags": [
+        "Hacked"
+      ]
+    },
+    {
+      "Titles": [
+        "King of Fighters - R-1",
+        "King of Fighters R-1 - Pocket Fighting Series",
+        "King of Fighters Round R-1",
+        "King of Fighters R-1"
+      ],
+      "Sha1": "bd7d7418d91316d2c133763301c80365da8f5252",
+      "Crc32": "8f09f498",
+      "SetNames": {
+        "TOSEC": [
+          "King of Fighters - R-1 (1998)(SNK)(en-ja)[h2]"
+        ],
+        "TGDB": [
+          "27869"
+        ]
+      },
+      "OverviewId": 2,
+      "Size": 2097152,
+      "Publishers": [
+        "SNK"
+      ],
+      "Developers": [
+        "SNK"
+      ],
+      "ReleaseDate": "3/16/1999",
+      "ESRB": "E",
+      "Genres": [
+        "Fighting"
+      ],
+      "Languages": [
+        "en",
+        "ja"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "King of Fighters - R-1",
+        "King of Fighters R-1 - Pocket Fighting Series",
+        "King of Fighters Round R-1",
+        "King of Fighters R-1"
+      ],
+      "Sha1": "28437e64585ada423b71cb4b6fd39a6fda5e9d69",
+      "Crc32": "a2bea42d",
+      "SetNames": {
+        "TOSEC": [
+          "King of Fighters - R-1 (1998)(SNK)(en-ja)[h]"
+        ],
+        "TGDB": [
+          "27869"
+        ]
+      },
+      "OverviewId": 2,
+      "Size": 2097152,
+      "Publishers": [
+        "SNK"
+      ],
+      "Developers": [
+        "SNK"
+      ],
+      "ReleaseDate": "3/16/1999",
+      "ESRB": "E",
+      "Genres": [
+        "Fighting"
+      ],
+      "Languages": [
+        "en",
+        "ja"
+      ],
+      "Tags": [
+        "Hacked"
+      ]
+    },
+    {
+      "Titles": [
+        "King of Fighters - R-1",
+        "King of Fighters R-1 - Pocket Fighting Series",
+        "King of Fighters Round R-1",
+        "King of Fighters R-1"
+      ],
+      "Sha1": "ffcc09fc604ac5e50b64d085edc46156cd856c1c",
+      "Crc32": "36e7943a",
+      "SetNames": {
+        "TOSEC": [
+          "King of Fighters - R-1 (1998)(SNK)(en-ja)[tr es Ele_91][base ROM unknown]"
+        ],
+        "TGDB": [
+          "27869"
+        ]
+      },
+      "OverviewId": 2,
+      "Size": 2097152,
+      "Publishers": [
+        "SNK"
+      ],
+      "Developers": [
+        "SNK"
+      ],
+      "ReleaseDate": "3/16/1999",
+      "ESRB": "E",
+      "Genres": [
+        "Fighting"
+      ],
+      "Languages": [
+        "en",
+        "ja"
+      ],
+      "Tags": [
+        "Translated"
+      ]
+    },
+    {
+      "Titles": [
+        "Master of Syougi"
+      ],
+      "Sha1": "503fbfd8095388ad5d0f9aec2534369efae6265c",
+      "Crc32": "1ac22e32",
+      "SetNames": {
+        "TOSEC": [
+          "Master of Syougi (1998)(ADK)(JP)[b2]"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "ADK"
+      ],
+      "ReleaseDate": "1/1/1998",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Master of Syougi"
+      ],
+      "Sha1": "bb9f6ecf8c411af510541f110de6f417be02390d",
+      "Crc32": "17903fcd",
+      "SetNames": {
+        "TOSEC": [
+          "Master of Syougi (1998)(ADK)(JP)[b]"
+        ]
+      },
+      "Size": 524287,
+      "Publishers": [
+        "ADK"
+      ],
+      "ReleaseDate": "1/1/1998",
+      "Regions": [
+        "JP"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Melon Chan no Seichou Nikki"
+      ],
+      "Sha1": "f0353334c42730fb30c41229fb881183e11ad304",
+      "Crc32": "c4e58fd2",
+      "SetNames": {
+        "TOSEC": [
+          "Melon Chan no Seichou Nikki (1998)(ADK)(JP)"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "ADK"
+      ],
+      "ReleaseDate": "1/1/1998",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Melon Chan no Seichou Nikki"
+      ],
+      "Sha1": "1dab3cafc49d4a11617bd09089f037f07950f771",
+      "Crc32": "4939f933",
+      "SetNames": {
+        "TOSEC": [
+          "Melon Chan no Seichou Nikki (1998)(ADK)(JP)[a]"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "ADK"
+      ],
+      "ReleaseDate": "1/1/1998",
+      "Regions": [
+        "JP"
+      ],
+      "Tags": [
+        "Alternate"
+      ]
+    },
+    {
+      "Titles": [
+        "NeoGeo Cup '98"
+      ],
+      "Sha1": "420a8e80e84b0ce2edea08aea258f2445e2158b0",
+      "Crc32": "8ae2e7e4",
+      "SetNames": {
+        "TOSEC": [
+          "NeoGeo Cup '98 (1998)(SNK)(JP)(en-ja)[a]"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "SNK"
+      ],
+      "ReleaseDate": "1/1/1998",
+      "Regions": [
+        "JP"
+      ],
+      "Languages": [
+        "en",
+        "ja"
+      ],
+      "Tags": [
+        "Alternate"
+      ]
+    },
+    {
+      "Titles": [
+        "Pocket Tennis - Pocket Sports Series",
+        "Pocket Tennis"
+      ],
+      "Sha1": "67826f4c8e488938f7e1b26e331f79ebf0aa2565",
+      "Crc32": "4b1eed05",
+      "SetNames": {
+        "TOSEC": [
+          "Pocket Tennis - Pocket Sports Series (1998)(Yumekobo)(en-ja)[a]"
+        ],
+        "TGDB": [
+          "27872"
+        ]
+      },
+      "OverviewId": 6,
+      "Size": 524288,
+      "Publishers": [
+        "Yumekobo",
+        "SNK"
+      ],
+      "Developers": [
+        "Yumekobo Co., Ltd."
+      ],
+      "ReleaseDate": "1/1/1998",
+      "ESRB": "E",
+      "Genres": [
+        "Sports"
+      ],
+      "Languages": [
+        "en",
+        "ja"
+      ],
+      "Tags": [
+        "Alternate"
+      ]
+    },
+    {
+      "Titles": [
+        "Renketsu Puzzle Tsunagete Pon!",
+        "Puzzle Link"
+      ],
+      "Sha1": "7a75e3b6874a18b29ba636ff22308d944a7901e6",
+      "Crc32": "37e79afc",
+      "SetNames": {
+        "TOSEC": [
+          "Renketsu Puzzle Tsunagete Pon! (1998)(Yumekobo)(JP)[b]"
+        ],
+        "TGDB": [
+          "34148"
+        ]
+      },
+      "OverviewId": 7,
+      "Size": 524288,
+      "Publishers": [
+        "Yumekobo",
+        "SNK"
+      ],
+      "Developers": [
+        "Yumekobo Co., Ltd."
+      ],
+      "ReleaseDate": "1/1/1998",
+      "ESRB": "E",
+      "Genres": [
+        "Puzzle"
+      ],
+      "Regions": [
+        "JP"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Samurai Shodown! - Pocket Fighting Series",
+        "Samurai Shodown!",
+        "Samurai Spirits! - Pocket Kakutou Series"
+      ],
+      "Sha1": "3c601996bec27624aa69e34ba3a1e9cf45f05f01",
+      "Crc32": "7ac81e19",
+      "SetNames": {
+        "TOSEC": [
+          "Samurai Shodown! - Pocket Fighting Series (1998)(SNK)(en-ja)[t][button to increase blood]"
+        ],
+        "TGDB": [
+          "27583"
+        ]
+      },
+      "OverviewId": 8,
+      "Size": 2097152,
+      "Publishers": [
+        "SNK"
+      ],
+      "Developers": [
+        "SNK"
+      ],
+      "ReleaseDate": "12/25/1998",
+      "Genres": [
+        "Fighting"
+      ],
+      "Languages": [
+        "en",
+        "ja"
+      ],
+      "Tags": [
+        "Trained"
+      ]
+    },
+    {
+      "Titles": [
+        "Samurai Shodown! - Pocket Fighting Series",
+        "Samurai Shodown!",
+        "Samurai Spirits! - Pocket Kakutou Series"
+      ],
+      "Sha1": "a1de177ba51e7d5bc904b9ba356abe5d9ef4c2a1",
+      "Crc32": "73336427",
+      "SetNames": {
+        "TOSEC": [
+          "Samurai Shodown! - Pocket Fighting Series (1998)(SNK)(en-ja)[tr es Max1323]"
+        ],
+        "TGDB": [
+          "27583"
+        ]
+      },
+      "OverviewId": 8,
+      "Size": 2097152,
+      "Publishers": [
+        "SNK"
+      ],
+      "Developers": [
+        "SNK"
+      ],
+      "ReleaseDate": "12/25/1998",
+      "Genres": [
+        "Fighting"
+      ],
+      "Languages": [
+        "en",
+        "ja"
+      ],
+      "Tags": [
+        "Translated"
+      ]
+    }
+  ],
+  "Overviews": {
+    "1": {
+      "en": "Baseball Stars is sports game about baseball. Game is similar to Baseball Stars from NES but has less realistic characters and gameplay's style. You manage own baseball team and play in series of matches. Game has typical baseball rules - one player throws the ball, second hits the ball, someone else grabs it etc. Each character has own statistics, like stamina."
+    },
+    "2": {
+      "en": "The King of Fighters: R1 marks SNK's first time bringing the KOF series onto a handheld... and what better system than their own Neo Geo Pocket to do just that? 14 of the most well known KOF characters make their appearance in KOF: R-1, along with some recognizable backgrounds and gameplay features based on The King of Fighters '97. Players can choose from \"Extra\" & \"Advance\" play modes similar to KOF '97, and most characters play closely to their original versions."
+    },
+    "3": {
+      "en": "Melon Chan's Growth Diary (Japan: Melon-chan no Seichouki) is a Life simulation game it is comparable to Tamagotchi and other virtual life simulations. In Melon Chan's Growth Diary the player raises and nurtures little girl Melon Chan. The games was only released in Japan and was one of the earliest titles released for the Neo Geo Pocket.\r\n\r\nThe game was released for the Neo Geo Pocket and features monochrome graphics; however the Neo Geo Pocket Color is backwards compatible with the game."
+    },
+    "4": {
+      "en": "Neo Cherry Master (or Real Casino Series: Neo Cherry Master) is a fruit machine/\"one-armed bandit\" simulator. Simple - spin the reels and wait for luck - identical fruits in the row. Controls are simple: player push A button to spin the reels and the B button to increase \"credits\". No real gambling – player can't lose real money."
+    },
+    "5": {
+      "en": "Neo Geo Cup '98 Plus is a soccer game for the Neo Geo Pocket. The game features single match play, head-to-head play (using a link cable), and story mode. You can choose to play one of 16 international teams. Each team has their own collective stats. On the field you can perform passes, shots, dribbles, slidings and charges. In the story mode you have to win as many matches as possible in a series of tournaments. Before and during matches you can change the field formations and switch players. Each won match gives you prize money, this can be used to buy items for your team. These items usually improve one stat, but decrease another."
+    },
+    "6": {
+      "en": "Pocket Tennis a simple tennis game with two play modes: Exhibition and Tournament.\r\n\r\nExhibition is a single match against computer or human opponent (requires link cable). There do exist eight player characters with different skills (human player must select one of those eight characters too) and four (five in the color version) different courts. Also amount of sets per game can be selected (1, 3 or 5).\r\n\r\nTournament is only against computer. Human player can pick his/her character but not the computer opponent. Also selection of courts and amount of sets is missing. Three games will be played: quarter and semifinals and of course the final."
+    },
+    "7": {
+      "en": "Renketsu Puzzle Tsunagete Pon! is a game where blocks  have to be dissolved. New blocks constantly scroll into the screen from the top. The game is over when the first blocks reach the bottom of the screen."
+    },
+    "8": {
+      "en": "Iza To! En Garde! Dude! Twelve of the mightiest samurai, ninja, knights, and warriors from Japan, France, the United States, and China lock swords in NEO GEO's SAMURAI SHODOWN. With blades, bare knuckles, rage, and various Methods of Mayhem, fight your way to the final battle with Satan's Shogun. Use all powers at your disposal to get a head!"
+    }
+  }
+}

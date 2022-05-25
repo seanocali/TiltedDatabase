@@ -1,0 +1,8505 @@
+{
+  "PlatformName": "Pico",
+  "LastUpdate": "5/25/2022 3:03:21 AM",
+  "Games": [
+    {
+      "Titles": [
+        "101-piki Wan-chan - Wan-chan Daikoushin!",
+        "101piki Wanchan - Wanchan Dai Koushin"
+      ],
+      "Sha1": "f9e2bde5351f34cd565c03a1cad3d1baedd8c7c3",
+      "Crc32": "27bb0b0a",
+      "SetNames": {
+        "No-Intro": [
+          "101-piki Wan-chan - Wan-chan Daikoushin! (Japan)"
+        ],
+        "MESS": [
+          "101dalmaj"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega"
+      ],
+      "CloneOf": "101dalma",
+      "ReleaseDate": "1/1/1997",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "3-choume no Tama - Momo-chan wa Doko!",
+        "3-choume no Tama Momo-chan wa Doko!"
+      ],
+      "Sha1": "c8a5aeab3451617a11b4ecb7e43d78ad9d0daaa2",
+      "Crc32": "238dd68a",
+      "SetNames": {
+        "No-Intro": [
+          "3-choume no Tama - Momo-chan wa Doko! (Japan) (Rev 1)"
+        ],
+        "MESS": [
+          "3chometm"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/1999",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "3-choume no Tama - Momo-chan wa Doko!",
+        "3-choume no Tama Momo-chan wa Doko!"
+      ],
+      "Sha1": "2f30b7017a02db7ffe483b36388a8d2747732aa1",
+      "Crc32": "b0473895",
+      "SetNames": {
+        "No-Intro": [
+          "3-choume no Tama - Momo-chan wa Doko! (Japan)"
+        ],
+        "MESS": [
+          "3chometma"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "CloneOf": "3chometm",
+      "ReleaseDate": "1/1/1999",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "6000-nin no Sensei-tachi ga Tsukutta Tanoshii Shougakkou Tanken 1"
+      ],
+      "Sha1": "71804b391ca24d6de1775cfdf0d5a21f7d90b768",
+      "Crc32": "d62e3372",
+      "SetNames": {
+        "No-Intro": [
+          "6000-nin no Sensei-tachi ga Tsukutta Tanoshii Shougakkou Tanken 1 (Japan)"
+        ],
+        "MESS": [
+          "6000ni1"
+        ],
+        "TGDB": [
+          "37734"
+        ]
+      },
+      "OverviewId": 1,
+      "Size": 2097152,
+      "Publishers": [
+        "Sega"
+      ],
+      "Developers": [
+        "Sega"
+      ],
+      "ReleaseDate": "9/30/1999",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "6000-nin no Sensei-tachi ga Tsukutta Tanoshii Shougakkou Tanken 2",
+        "6000-nin no Sensei Tachiga Tsukutta Tanoshii Shougakkou Tanken 2"
+      ],
+      "Sha1": "2dd8b5e6510a71b75494ff9f3bf9963a21b2c7a9",
+      "Crc32": "9c058e95",
+      "SetNames": {
+        "No-Intro": [
+          "6000-nin no Sensei-tachi ga Tsukutta Tanoshii Shougakkou Tanken 2 (Japan)"
+        ],
+        "MESS": [
+          "6000ni2"
+        ],
+        "TGDB": [
+          "37735"
+        ]
+      },
+      "OverviewId": 2,
+      "Size": 2097152,
+      "Publishers": [
+        "Sega"
+      ],
+      "Developers": [
+        "Sega Toys"
+      ],
+      "ReleaseDate": "6/18/1999",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "A Bug's Life"
+      ],
+      "Sha1": "aff437671cbfa0119b1828c47e538ff32db3a0db",
+      "Crc32": "96ee02a2",
+      "SetNames": {
+        "No-Intro": [
+          "A Bug's Life (Japan)"
+        ],
+        "MESS": [
+          "bugslife"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Sega Toys"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "A Year at Pooh Corner",
+        "Pooh-san to Tanoshii Nakama-tachi"
+      ],
+      "Sha1": "65581aa9b77a5011039ff88a5b282c77ef0c9e81",
+      "Crc32": "333e88d2",
+      "SetNames": {
+        "No-Intro": [
+          "A Year at Pooh Corner (USA)"
+        ],
+        "MESS": [
+          "poohcornu"
+        ],
+        "TGDB": [
+          "37736"
+        ]
+      },
+      "OverviewId": 3,
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "Developers": [
+        "Novotrade International"
+      ],
+      "CloneOf": "poohcorn",
+      "ReleaseDate": "11/15/1994",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "A Year at Pooh Corner",
+        "Pooh-san to Tanoshii Nakama-tachi"
+      ],
+      "Sha1": "c063e2dc2789db0d72fe478bea010ac6841f3aab",
+      "Crc32": "6c9ea7fc",
+      "SetNames": {
+        "No-Intro": [
+          "A Year at Pooh Corner (Europe)"
+        ],
+        "MESS": [
+          "poohcorn"
+        ],
+        "TGDB": [
+          "37736"
+        ]
+      },
+      "OverviewId": 3,
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "Developers": [
+        "Novotrade International"
+      ],
+      "ReleaseDate": "11/15/1994",
+      "Regions": [
+        "EU"
+      ]
+    },
+    {
+      "Titles": [
+        "Adventures in Letterland with Jack & Jill"
+      ],
+      "Sha1": "fe4412ba81673894167841f47780a3f67d93c4e7",
+      "Crc32": "e846858b",
+      "SetNames": {
+        "No-Intro": [
+          "Adventures in Letterland with Jack & Jill (USA)"
+        ],
+        "MESS": [
+          "jackjill"
+        ]
+      },
+      "Size": 1048576,
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Aendiwa Billieui Suhaktamheom"
+      ],
+      "Sha1": "5682e8714f8b48959962cc885ead9b1cb6012fbc",
+      "Crc32": "b7f5a628",
+      "SetNames": {
+        "No-Intro": [
+          "Aendiwa Billieui Suhaktamheom (Korea) (Samsung Pico)"
+        ],
+        "MESS": [
+          "aendiwa"
+        ],
+        "TGDB": [
+          "37738"
+        ]
+      },
+      "OverviewId": 4,
+      "Size": 1048576,
+      "Publishers": [
+        "Samsung"
+      ],
+      "Developers": [
+        "Samsung"
+      ],
+      "ReleaseDate": "3/12/1997",
+      "Regions": [
+        "KR"
+      ]
+    },
+    {
+      "Titles": [
+        "Ai to Yume no Kuni Sanrio Puroland - Asobinagara Oboeyou! Hiragana Katakana",
+        "Ai to Yume no Kuni Sanrio Puroland Asobinagara Oboeyou! Hiragana Katakana"
+      ],
+      "Sha1": "5df847c8140f0c8762d6959ecfdb5f53c70ee0bc",
+      "Crc32": "6859c975",
+      "SetNames": {
+        "No-Intro": [
+          "Ai to Yume no Kuni Sanrio Puroland - Asobinagara Oboeyou! Hiragana Katakana (Japan)"
+        ],
+        "TGDB": [
+          "37740"
+        ]
+      },
+      "OverviewId": 5,
+      "Size": 1048576,
+      "Publishers": [
+        "Sega"
+      ],
+      "Developers": [
+        "Sega"
+      ],
+      "ReleaseDate": "8/2/1997",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Ai to Yume no Kuni Sanrio Puroland - Chanto Dekiru Kana Minna to Tanoshii Oyuugikai",
+        "Ai to Yume no Kuni - Sanrio Puroland - Chanto Dekirukana? Minna to Tanoshii Oyuugikai"
+      ],
+      "Sha1": "ce47f2a5d941597475ea1565d76d7d6c0fbf1338",
+      "Crc32": "0087112a",
+      "SetNames": {
+        "No-Intro": [
+          "Ai to Yume no Kuni Sanrio Puroland - Chanto Dekiru Kana Minna to Tanoshii Oyuugikai (Japan)"
+        ],
+        "MESS": [
+          "sanriocd"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/1998",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Ai to Yume to Bouken Sanrio Puroland"
+      ],
+      "Sha1": "3da7124a74f53330d87d25eb5032b41eca022ff1",
+      "Crc32": "6befd952",
+      "SetNames": {
+        "No-Intro": [
+          "Ai to Yume to Bouken Sanrio Puroland (Japan)"
+        ],
+        "MESS": [
+          "sanriopl"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Allowa Pongka"
+      ],
+      "Sha1": "94d3c164524fd9b5667bcba7a6533993b673366a",
+      "Crc32": "68bc6c65",
+      "SetNames": {
+        "No-Intro": [
+          "Allowa Pongka (Korea) (Samsung Pico)"
+        ],
+        "MESS": [
+          "alpongka"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Samsung"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "KR"
+      ]
+    },
+    {
+      "Titles": [
+        "Anpanman Eigo - Tanosii Kanibaru",
+        "Soreike! Anpanman - Eigo Tanosii Kanibaru"
+      ],
+      "Sha1": "a2014920d3c255130738f687c49c2ade3cd37331",
+      "Crc32": "d2f15d6f",
+      "SetNames": {
+        "No-Intro": [
+          "Anpanman Eigo - Tanosii Kanibaru (Taiwan)"
+        ],
+        "MESS": [
+          "anpanmentw"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega"
+      ],
+      "CloneOf": "anpanmen",
+      "ReleaseDate": "1/1/1997",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Anpanman Pico Wakuwaku Pan Koujou"
+      ],
+      "Sha1": "b9fce10b2558f73048d30398410b0e3340e87610",
+      "Crc32": "a10118a5",
+      "SetNames": {
+        "No-Intro": [
+          "Anpanman Pico Wakuwaku Pan Koujou (Japan)"
+        ],
+        "MESS": [
+          "anpanwpk"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Bandai"
+      ],
+      "ReleaseDate": "1/1/2001",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Anpanman to PC Renshuu!",
+        "Anpanman to Pasokon Renshuu!"
+      ],
+      "Sha1": "0df483eaa1ab7d1c56b0a2ede6b385ed14393e46",
+      "Crc32": "7080cc7a",
+      "SetNames": {
+        "No-Intro": [
+          "Anpanman to PC Renshuu! (Japan)"
+        ],
+        "MESS": [
+          "anpanpc"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Sega Toys"
+      ],
+      "ReleaseDate": "1/1/2002",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Ashita no Nadja"
+      ],
+      "Sha1": "19dd2e42ee1d785dfe52ec334ab5b226259f9ba5",
+      "Crc32": "0a7f07cc",
+      "SetNames": {
+        "No-Intro": [
+          "Ashita no Nadja (Japan)"
+        ],
+        "MESS": [
+          "nadja"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Bandai"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "B-Fighter Kabuto",
+        "BF B-Fighter Kabuto"
+      ],
+      "Sha1": "d40e1d4daf6fc7ed8f07e362033c329204ba5553",
+      "Crc32": "88c8e104",
+      "SetNames": {
+        "No-Intro": [
+          "B-Fighter Kabuto (Japan)"
+        ],
+        "MESS": [
+          "bfighter"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Bandai"
+      ],
+      "ReleaseDate": "1/1/1996",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "B-Robo Kabutack",
+        "Bi-Robo Kabutakku"
+      ],
+      "Sha1": "392128b92f38b7aabb59c0253bc2a85b34ab677c",
+      "Crc32": "df504ee6",
+      "SetNames": {
+        "No-Intro": [
+          "B-Robo Kabutack (Japan)"
+        ],
+        "MESS": [
+          "biroboka"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Bandai"
+      ],
+      "ReleaseDate": "1/1/1997",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Bakuryuu Sentai Abaranger"
+      ],
+      "Sha1": "df12e28a2f1e49f51d2d8968d38993f2f93b648c",
+      "Crc32": "0bd73cf6",
+      "SetNames": {
+        "No-Intro": [
+          "Bakuryuu Sentai Abaranger (Japan)"
+        ],
+        "MESS": [
+          "abarangr"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Bandai"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Barbapapa no Uchuu Ryokou"
+      ],
+      "Sha1": "3b1d65cf77c1c70011d9b12c8531ceaeebd0e98d",
+      "Crc32": "d9ad6eff",
+      "SetNames": {
+        "No-Intro": [
+          "Barbapapa no Uchuu Ryokou (Japan)"
+        ],
+        "MESS": [
+          "barbapap"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/1996",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Beogseu Laipeu",
+        "Bug's Life"
+      ],
+      "Sha1": "a7ff319deaffbb27d732d86ad42458f26e4fcb12",
+      "Crc32": "63e37ab9",
+      "SetNames": {
+        "No-Intro": [
+          "Beogseu Laipeu (Korea) (Samsung Pico)"
+        ],
+        "MESS": [
+          "bugslifek"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Samsung"
+      ],
+      "CloneOf": "bugslife",
+      "Regions": [
+        "KR"
+      ]
+    },
+    {
+      "Titles": [
+        "Berenstain Bears, The - A School Day",
+        "The Berenstain Bears' A School Day"
+      ],
+      "Sha1": "f4ae09a8a0e11cd8bec95ec3ac3908ce6da7a30f",
+      "Crc32": "e92af9f1",
+      "SetNames": {
+        "No-Intro": [
+          "Berenstain Bears, The - A School Day (USA)"
+        ],
+        "MESS": [
+          "berenstb"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Bioneun Nal"
+      ],
+      "Sha1": "970d04fd31f7a1ac88531a0df7ce3cd6453628d8",
+      "Crc32": "d074b19e",
+      "SetNames": {
+        "No-Intro": [
+          "Bioneun Nal (Korea) (Samsung Pico)"
+        ],
+        "MESS": [
+          "bioneun"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Samsung"
+      ],
+      "Regions": [
+        "KR"
+      ]
+    },
+    {
+      "Titles": [
+        "Bishoujo Senshi Sailor Moon S"
+      ],
+      "Sha1": "2706bd45dafe7470e5504485877d23864caf7277",
+      "Crc32": "44502cc9",
+      "SetNames": {
+        "No-Intro": [
+          "Bishoujo Senshi Sailor Moon S (Japan)"
+        ],
+        "MESS": [
+          "sailors"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Bandai"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Bishoujo Senshi Sailor Moon Sailor Stars - Tokimeki Party",
+        "Bishoujou Senshi Sailor Moon - Sailor Stars Tokimeki Party"
+      ],
+      "Sha1": "6737ba2590e6dc48b125ff9725a55430465f707c",
+      "Crc32": "a503503d",
+      "SetNames": {
+        "No-Intro": [
+          "Bishoujo Senshi Sailor Moon Sailor Stars - Tokimeki Party (Japan)"
+        ],
+        "MESS": [
+          "sailortp"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Bandai"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Bishoujo Senshi Sailor Moon SuperS"
+      ],
+      "Sha1": "773ca5ef704a17227f25318d6e5113c0a72bf5e8",
+      "Crc32": "a616e7b3",
+      "SetNames": {
+        "No-Intro": [
+          "Bishoujo Senshi Sailor Moon SuperS (Japan)"
+        ],
+        "MESS": [
+          "sailorss"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Bandai"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Chibi Maruko-chan - Issho ni Asobou Yo"
+      ],
+      "Sha1": "d4a51f8894157dc8ef845931366d2ab482d43839",
+      "Crc32": "c81acb46",
+      "SetNames": {
+        "No-Intro": [
+          "Chibi Maruko-chan - Issho ni Asobou Yo (Japan)"
+        ],
+        "MESS": [
+          "chibim"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Takara"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Choukou Senshi Changerion"
+      ],
+      "Sha1": "68a592ebe972a984eb6c631a363bd60c384ed5af",
+      "Crc32": "763cbcf4",
+      "SetNames": {
+        "No-Intro": [
+          "Choukou Senshi Changerion (Japan)"
+        ],
+        "MESS": [
+          "changern"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/1996",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Conveni de o-Kaimono!",
+        "Conveni de Okaimono!"
+      ],
+      "Sha1": "24d03589c4192e139f0eb33ce6e4b4a87c949a9b",
+      "Crc32": "c95a4ef3",
+      "SetNames": {
+        "No-Intro": [
+          "Conveni de o-Kaimono! (Japan)"
+        ],
+        "MESS": [
+          "conveni"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Sega Toys"
+      ],
+      "ReleaseDate": "1/1/2001",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Cooking Pico"
+      ],
+      "Sha1": "6d35b3411df37222acb3a36e4c7830e92a8e3fba",
+      "Crc32": "c8fd3ad4",
+      "SetNames": {
+        "No-Intro": [
+          "Cooking Pico (Korea) (Samsung Pico)"
+        ],
+        "MESS": [
+          "cookpicok"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Sega Toys",
+        "Samsung"
+      ],
+      "CloneOf": "cookpico",
+      "ReleaseDate": "1/1/1999",
+      "Regions": [
+        "KR"
+      ]
+    },
+    {
+      "Titles": [
+        "Cooking Pico"
+      ],
+      "Sha1": "dabeb440adbb7477cc880c51fb0cfc1e5f99d23b",
+      "Crc32": "b94f7d54",
+      "SetNames": {
+        "No-Intro": [
+          "Cooking Pico (Japan)"
+        ],
+        "MESS": [
+          "cookpico"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Sega Toys"
+      ],
+      "ReleaseDate": "1/1/1999",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Copera no Chikyuu Daisuki"
+      ],
+      "Sha1": "730195fc41efb923a4f8e8acd5228d1ae8b16c16",
+      "Crc32": "9a5dd562",
+      "SetNames": {
+        "No-Intro": [
+          "Copera no Chikyuu Daisuki (Japan) (Mixt Book Player - Copera)"
+        ]
+      },
+      "Size": 1048576,
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Copera no Kono Oto Naani"
+      ],
+      "Sha1": "422f46d670a5f8094267984051ed6f90babe2dce",
+      "Crc32": "1041e52a",
+      "SetNames": {
+        "No-Intro": [
+          "Copera no Kono Oto Naani (Japan) (Mixt Book Player - Copera)"
+        ]
+      },
+      "Size": 1048576,
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Copera no Time Machine"
+      ],
+      "Sha1": "081c61e35478ffdda6eda58f40be056732f35595",
+      "Crc32": "a7d33072",
+      "SetNames": {
+        "No-Intro": [
+          "Copera no Time Machine (Japan) (Mixt Book Player - Copera)"
+        ]
+      },
+      "Size": 1048576,
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Cores Magicas",
+        "Cores Mágicas"
+      ],
+      "Sha1": "ca2ffba211e088a9b1f0047e86013e65e2948b04",
+      "Crc32": "81046d4d",
+      "SetNames": {
+        "No-Intro": [
+          "Cores Magicas (Brazil)"
+        ],
+        "MESS": [
+          "magiccrab"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "CloneOf": "magiccra",
+      "ReleaseDate": "1/1/1994",
+      "Regions": [
+        "BR"
+      ]
+    },
+    {
+      "Titles": [
+        "Crayola Crayons - Create a World",
+        "Crayola - Create a World",
+        "Crayola Crayons: Create a World"
+      ],
+      "Sha1": "88738c2b5b6302385fbaad60af1221cf70cf0f93",
+      "Crc32": "04fc1c21",
+      "SetNames": {
+        "No-Intro": [
+          "Crayola Crayons - Create a World (USA)"
+        ],
+        "MESS": [
+          "crayola"
+        ],
+        "TGDB": [
+          "97703"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "8/7/1995",
+      "ESRB": "EC",
+      "Genres": [],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Crayon Shin-chan no o-Ekaki Note",
+        "Crayon Shin-chan Oekaki Note"
+      ],
+      "Sha1": "878733ffb5b0464f82f102f8500650bfe0b4add4",
+      "Crc32": "843c3af4",
+      "SetNames": {
+        "No-Intro": [
+          "Crayon Shin-chan no o-Ekaki Note (Japan)"
+        ],
+        "MESS": [
+          "crayonon"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Bandai"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Crayon Shin-chan no Ora to Issho ni Asobou yo!"
+      ],
+      "Sha1": "07c0acdc0871a962d9bfcc79178a1c8e8fec4953",
+      "Crc32": "966002fb",
+      "SetNames": {
+        "No-Intro": [
+          "Crayon Shin-chan no Ora to Issho ni Asobou yo! (Japan)"
+        ],
+        "MESS": [
+          "crayon"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Bandai"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Crayons Magiques"
+      ],
+      "Sha1": "34ff47646eb90f243b4a793ecff3591ee85a71d0",
+      "Crc32": "dc2aeb72",
+      "SetNames": {
+        "No-Intro": [
+          "Crayons Magiques (France)"
+        ],
+        "MESS": [
+          "magiccraf"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "CloneOf": "magiccra",
+      "ReleaseDate": "1/1/1994",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cutey Honey"
+      ],
+      "Sha1": "02aa1df927a9a1ffed62ad042f348afe2810a509",
+      "Crc32": "f5c3fe17",
+      "SetNames": {
+        "No-Intro": [
+          "Cutey Honey (Japan)"
+        ],
+        "MESS": [
+          "cuteyhon"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Bandai"
+      ],
+      "ReleaseDate": "1/1/1997",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Dance Pico - Hashitte Odotte Chou Happy!",
+        "Dance Pico with Hashitte Odotte Chou Happy!"
+      ],
+      "Sha1": "e53362675c66762c3046bc03d03c22cf2c745c01",
+      "Crc32": "412f06fc",
+      "SetNames": {
+        "No-Intro": [
+          "Dance Pico - Hashitte Odotte Chou Happy! (Japan)"
+        ],
+        "MESS": [
+          "dancehoc"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Sega Toys"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Dare ga Deru kana Moshimoshi Pico de TV to o-Shaberi!",
+        "Moshimoshi Pico Set with Dare ga Deru kana? Moshimoshi Pico de TV to Oshaberi!"
+      ],
+      "Sha1": "22f0d1c6a37eff02ee3a277ea9df018304557ccf",
+      "Crc32": "13df7314",
+      "SetNames": {
+        "No-Intro": [
+          "Dare ga Deru kana Moshimoshi Pico de TV to o-Shaberi! (Japan)"
+        ],
+        "MESS": [
+          "moshimos"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/1997",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Ddoddo-rang Koko-rang"
+      ],
+      "Sha1": "5dd748a1bdfc661d0b96f6a1d26babc6a0ae7f2d",
+      "Crc32": "042520ce",
+      "SetNames": {
+        "No-Intro": [
+          "Ddoddo-rang Koko-rang (Korea) (Samsung Pico)"
+        ],
+        "MESS": [
+          "dorangkr"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Samsung"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "KR"
+      ]
+    },
+    {
+      "Titles": [
+        "Denji Sentai Megaranger"
+      ],
+      "Sha1": "f1fd7787e6bcbba207dbb8b0a43960fe8618c2e4",
+      "Crc32": "b69b31ba",
+      "SetNames": {
+        "No-Intro": [
+          "Denji Sentai Megaranger (Japan)"
+        ],
+        "MESS": [
+          "megarang"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Bandai"
+      ],
+      "ReleaseDate": "1/1/1997",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Densha Daishuugou!"
+      ],
+      "Sha1": "3c4d76549cefb8ac8aa66f24ad347198b819ee1a",
+      "Crc32": "faee3efa",
+      "SetNames": {
+        "No-Intro": [
+          "Densha Daishuugou! (Japan)"
+        ],
+        "MESS": [
+          "dendaish"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Yonezawa"
+      ],
+      "ReleaseDate": "1/1/1997",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Disney Princess - Ariel",
+        "Disney Princess Ariel"
+      ],
+      "Sha1": "921ad22eee062dd053c24590cbf05a9c4d591882",
+      "Crc32": "581361f7",
+      "SetNames": {
+        "No-Intro": [
+          "Disney Princess - Ariel (Japan)"
+        ],
+        "MESS": [
+          "ariel"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Sega Toys"
+      ],
+      "ReleaseDate": "1/1/2004",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Disney Princess - Princess ni Naritai!",
+        "Disney Princesses - Princesses ni Naritai!"
+      ],
+      "Sha1": "0d2f19d9d2d96faf97aafca82f2e05fe9fc1ace8",
+      "Crc32": "64b1906b",
+      "SetNames": {
+        "No-Intro": [
+          "Disney Princess - Princess ni Naritai! (Japan)"
+        ],
+        "MESS": [
+          "princessa"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Sega Toys"
+      ],
+      "CloneOf": "princess",
+      "ReleaseDate": "1/1/2003",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Disney Princess - Princess ni Naritai!",
+        "Disney Princesses - Princesses ni Naritai!"
+      ],
+      "Sha1": "31d47cad551aa46d78565a17a78914dab3ab58ed",
+      "Crc32": "5d8d1eda",
+      "SetNames": {
+        "No-Intro": [
+          "Disney Princess - Princess ni Naritai! (Japan) (Rev 1)"
+        ],
+        "MESS": [
+          "princess"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Sega Toys"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Disney Princess Suteki ni Lesson! Hiragana-Katakana"
+      ],
+      "Sha1": "f7e35cb1084130b95ca5add40e263d15dc54b6a5",
+      "Crc32": "761e7d3c",
+      "SetNames": {
+        "No-Intro": [
+          "Disney Princess Suteki ni Lesson! Hiragana-Katakana (Japan)"
+        ],
+        "MESS": [
+          "princehk"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Sega Toys"
+      ],
+      "ReleaseDate": "1/1/2004",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Do Re Mi Fa Animals no Tanoshii Ensoukai"
+      ],
+      "Sha1": "e79b11753822a14b6abe5654cdd768ec144e3ca9",
+      "Crc32": "7048409f",
+      "SetNames": {
+        "No-Intro": [
+          "Do Re Mi Fa Animals no Tanoshii Ensoukai (Japan)"
+        ],
+        "MESS": [
+          "animalte"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Do Re Mi Fa Densetsu"
+      ],
+      "Sha1": "1a7d5156aa3f2ffba168bce1bbd9436cb0c11510",
+      "Crc32": "24aa1251",
+      "SetNames": {
+        "No-Intro": [
+          "Do Re Mi Fa Densetsu (Japan) (Mixt Book Player - Copera)"
+        ]
+      },
+      "Size": 1048576,
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Donald no Obake Taiji"
+      ],
+      "Sha1": "342916b5f08e90fae7ee9bd77a3ffd98286bf2f8",
+      "Crc32": "d660d6fa",
+      "SetNames": {
+        "No-Intro": [
+          "Donald no Obake Taiji (Japan)"
+        ],
+        "MESS": [
+          "donaldot"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "CloneOf": "donaldgj",
+      "ReleaseDate": "1/1/1993",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Donald no TV Show",
+        "Donald no Terebi Show"
+      ],
+      "Sha1": "9d3d17c0ec4798730bba4670bef1723ed6a46b98",
+      "Crc32": "c11a2b37",
+      "SetNames": {
+        "No-Intro": [
+          "Donald no TV Show (Japan) (Rev 2)"
+        ],
+        "MESS": [
+          "donaldts"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Donalds Gespensterjagd"
+      ],
+      "Sha1": "2d8591fc2e1e90033faebc0c0670e981c695daf9",
+      "Crc32": "45c2177a",
+      "SetNames": {
+        "No-Intro": [
+          "Donalds Gespensterjagd (Germany) (Proto)"
+        ],
+        "MESS": [
+          "donaldgj"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/1993",
+      "Regions": [
+        "DE"
+      ],
+      "Languages": [
+        "de",
+        "en"
+      ],
+      "Tags": [
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "Doraemon - Chiiku Asobi Dora-Land"
+      ],
+      "Sha1": "e37f722d4c04cb965bbebd3da22b9f97f836c315",
+      "Crc32": "a83470ca",
+      "SetNames": {
+        "No-Intro": [
+          "Doraemon - Chiiku Asobi Dora-Land (Japan)"
+        ],
+        "MESS": [
+          "doraland"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Shogakukan"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Doraemon - Eigo de Asobou ABC",
+        "Doraemon - Eigo de Asobou ABC!"
+      ],
+      "Sha1": "5addf4ea6cd6c022286a7979f758478eec0331f0",
+      "Crc32": "efd5d261",
+      "SetNames": {
+        "No-Intro": [
+          "Doraemon - Eigo de Asobou ABC (Japan)"
+        ],
+        "MESS": [
+          "doraabc"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Shogakukan"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Doraemon - Ensoku, Imohori, Undoukai",
+        "Doraemon Ensoku-Imohori-Undoukai"
+      ],
+      "Sha1": "cf626fe6f25435e42ce0c4cdfc8a4d335f64fe76",
+      "Crc32": "7d9ebcee",
+      "SetNames": {
+        "No-Intro": [
+          "Doraemon - Ensoku, Imohori, Undoukai (Japan)"
+        ],
+        "MESS": [
+          "doraeiu"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Shogakukan"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Doraemon - Ensoku, Imohori, Undoukai",
+        "Doraemon Ensoku-Imohori-Undoukai"
+      ],
+      "Sha1": "9609c98dd34e6d5e5d0389d019c3017b9f244aff",
+      "Crc32": "5adcb456",
+      "SetNames": {
+        "No-Intro": [
+          "Doraemon - Ensoku, Imohori, Undoukai (Japan) (10th Anniversary)"
+        ],
+        "MESS": [
+          "doraeiu10th"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Shogakukan"
+      ],
+      "CloneOf": "doraeiu",
+      "ReleaseDate": "1/1/2003",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Doraemon - Issho ni Utaou! Doraemon - Waku Waku Karaoke",
+        "Doraemon no Utatte Pico Set with Issho ni Utaou! Doraemon Wakuwaku Karaoke"
+      ],
+      "Sha1": "69f191db6bccb53c81561a5d3c3e47d7fcc45da9",
+      "Crc32": "17d36259",
+      "SetNames": {
+        "No-Intro": [
+          "Doraemon - Issho ni Utaou! Doraemon - Waku Waku Karaoke (Japan)"
+        ],
+        "MESS": [
+          "dorawwk"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/1999",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Doraemon - Kazoete, Kantan Kazu Tokei",
+        "Doraemon Kazoete-Kanzan Kazu Tokei"
+      ],
+      "Sha1": "44ab8ac936683446a9b2a438ab22e878521ec32c",
+      "Crc32": "c603fb1b",
+      "SetNames": {
+        "No-Intro": [
+          "Doraemon - Kazoete, Kantan Kazu Tokei (Japan)"
+        ],
+        "MESS": [
+          "dorakkkt"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Shogakukan"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Doraemon - Nobita no Machinaka Dokidoki Tanken!"
+      ],
+      "Sha1": "69d3c5754ccbcde0737455bf7bf0eee4ec610972",
+      "Crc32": "314f6cb4",
+      "SetNames": {
+        "No-Intro": [
+          "Doraemon - Nobita no Machinaka Dokidoki Tanken! (Japan)"
+        ],
+        "MESS": [
+          "doranmdt"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Doraemon - Nobita to Maigo no Kyouryuu"
+      ],
+      "Sha1": "4ba7a3b30033f1c5b5adfd3ec7a1500ac912790d",
+      "Crc32": "190dadbe",
+      "SetNames": {
+        "No-Intro": [
+          "Doraemon - Nobita to Maigo no Kyouryuu (Japan) (Rev 2)"
+        ],
+        "MESS": [
+          "doranmk"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/1993",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Doraemon - Time Machine de Daibouken"
+      ],
+      "Sha1": "acfa501eddbad82dffbc75a988c7413b97b952c2",
+      "Crc32": "7010775a",
+      "SetNames": {
+        "No-Intro": [
+          "Doraemon - Time Machine de Daibouken (Japan)"
+        ],
+        "MESS": [
+          "doratimm"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Shogakukan"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Doraemon - Yometa yo, Kaketa yo Hiragana Katakana",
+        "Doraemon - Yometayo-Kaketayo Hiragana Katakana"
+      ],
+      "Sha1": "7c1d2f216ebcb28261e3a28e119266318b834ff1",
+      "Crc32": "67eae2d0",
+      "SetNames": {
+        "No-Intro": [
+          "Doraemon - Yometa yo, Kaketa yo Hiragana Katakana (Japan)"
+        ],
+        "MESS": [
+          "dorahika"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Shogakukan"
+      ],
+      "ReleaseDate": "1/1/1999",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Doraemon - Youchien wa Tanoshii na"
+      ],
+      "Sha1": "df2a97a73cff3c097d16a18cd673177d6824c7ab",
+      "Crc32": "c68c35c0",
+      "SetNames": {
+        "No-Intro": [
+          "Doraemon - Youchien wa Tanoshii na (Japan)"
+        ],
+        "MESS": [
+          "dorayuta"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Shogakukan"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Doraemon Machinaka"
+      ],
+      "Sha1": "c9f8da3b87491543f9b9784136dbd433b2970978",
+      "Crc32": "cdc2855a",
+      "SetNames": {
+        "No-Intro": [
+          "Doraemon Machinaka (Taiwan)"
+        ],
+        "MESS": [
+          "doratimmtw"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "CloneOf": "doratimm",
+      "ReleaseDate": "1/1/1995",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Dorehmipa Dongmooleumakhwoe"
+      ],
+      "Sha1": "73ea5de987b3bc7c66c2e7f53a930eb2d36dc1f4",
+      "Crc32": "9c4af8d8",
+      "SetNames": {
+        "No-Intro": [
+          "Dorehmipa Dongmooleumakhwoe (Korea) (Samsung Pico)"
+        ],
+        "MESS": [
+          "animaltek"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Samsung"
+      ],
+      "CloneOf": "animalte",
+      "Regions": [
+        "KR"
+      ]
+    },
+    {
+      "Titles": [
+        "Doubutsu Pico - Hamster Land",
+        "Doubutsu Pico Hamster Land ~Shokai Gentei-Hamster Ningyou Fuzoku~"
+      ],
+      "Sha1": "07ceac76997cb9442be45ffb8e23c226f699359b",
+      "Crc32": "8ff36cde",
+      "SetNames": {
+        "No-Intro": [
+          "Doubutsu Pico - Hamster Land (Japan)"
+        ],
+        "MESS": [
+          "hamstlnd"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Bandai"
+      ],
+      "ReleaseDate": "1/1/2002",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Dreamland Tour"
+      ],
+      "Sha1": "17060b1d622fa8dffe0db2de748472c21aaac364",
+      "Crc32": "7d2aaa9a",
+      "SetNames": {
+        "No-Intro": [
+          "Dreamland Tour (Korea) (Samsung Pico)"
+        ],
+        "MESS": [
+          "drmtour"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega",
+        "Samsung"
+      ],
+      "ReleaseDate": "1/1/1997",
+      "Regions": [
+        "KR"
+      ]
+    },
+    {
+      "Titles": [
+        "Drive Pico - Go Go! Car Navi Touring!",
+        "Drive Pico with Go Go! Car Navi Touring!"
+      ],
+      "Sha1": "8149b48140515b12d466181a45819b043caaf0ca",
+      "Crc32": "e29f2af2",
+      "SetNames": {
+        "No-Intro": [
+          "Drive Pico - Go Go! Car Navi Touring! (Japan)"
+        ],
+        "MESS": [
+          "carcarnt"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Sega Toys"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "ECC Junior no Hajimete Eigo Vol. 1 Patty And Her Family - Patty-chan Family",
+        "ECC Junior no Hajimete Eigo Vol. 1 - Patty And Her Family - Patty-chan Family"
+      ],
+      "Sha1": "2e69a43afe121ad394667fb784bc7203d9df2a12",
+      "Crc32": "2650e0c1",
+      "SetNames": {
+        "No-Intro": [
+          "ECC Junior no Hajimete Eigo Vol. 1 Patty And Her Family - Patty-chan Family (Japan) (Rev 1)"
+        ],
+        "MESS": [
+          "ecc1"
+        ]
+      },
+      "Size": 4194304,
+      "Publishers": [
+        "Sega Toys"
+      ],
+      "ReleaseDate": "1/1/2002",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "ECC Junior no Hajimete Eigo Vol. 2 Patty Goes On A Picnic - Patty-chan no Picnic",
+        "ECC Junior no Hajimete Eigo Vol. 2 - Patty Goes On A Picnic - Patty-chan no Picnic"
+      ],
+      "Sha1": "f69cc420cc178d1efd9c76c853a9aa8d8cc24091",
+      "Crc32": "c867237a",
+      "SetNames": {
+        "No-Intro": [
+          "ECC Junior no Hajimete Eigo Vol. 2 Patty Goes On A Picnic - Patty-chan no Picnic (Japan)"
+        ],
+        "MESS": [
+          "ecc2"
+        ]
+      },
+      "Size": 4194304,
+      "Publishers": [
+        "Sega Toys"
+      ],
+      "ReleaseDate": "1/1/2002",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "ECC Junior no Hajimete Eigo Vol. 3 Happy Birthday, Patty! - Patty-chan no o-Tanjoubi",
+        "ECC Junior no Hajimete Eigo Vol. 3 - Happy Birthday, Patty! - Patty-chan no o-Tanjoubi"
+      ],
+      "Sha1": "25527816ebea51395b1abf011e3784eb24662d78",
+      "Crc32": "a7faf67c",
+      "SetNames": {
+        "No-Intro": [
+          "ECC Junior no Hajimete Eigo Vol. 3 Happy Birthday, Patty! - Patty-chan no o-Tanjoubi (Japan)"
+        ],
+        "MESS": [
+          "ecc3"
+        ]
+      },
+      "Size": 4194304,
+      "Publishers": [
+        "Sega Toys"
+      ],
+      "ReleaseDate": "1/1/2002",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "ECC Junior no Hajimete Eigo Vol. 4 Patty Loves Animals - Doubutsu Daisuki, Patty-chan",
+        "ECC Junior no Hajimete Eigo Vol. 4 - Patty Loves Animals - Doubutsu Daisuki, Patty-chan"
+      ],
+      "Sha1": "9cd14906040c3c5f5e4232bbd91daba5bfe2670a",
+      "Crc32": "d412c517",
+      "SetNames": {
+        "No-Intro": [
+          "ECC Junior no Hajimete Eigo Vol. 4 Patty Loves Animals - Doubutsu Daisuki, Patty-chan (Japan)"
+        ],
+        "MESS": [
+          "ecc4"
+        ]
+      },
+      "Size": 4194304,
+      "Publishers": [
+        "Sega Toys"
+      ],
+      "ReleaseDate": "1/1/2002",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "ECC Junior no Hajimete Eigo Vol. 5 Merry Christmas, Patty! - Merry Christmas, Patty-chan",
+        "ECC Junior no Hajimete Eigo Vol. 5 - Merry Christmas, Patty! - Merry Christmas, Patty-chan"
+      ],
+      "Sha1": "9a4f2b0a0c0c8ae0bbb5977c6743e18bc65c39e0",
+      "Crc32": "7aed02a7",
+      "SetNames": {
+        "No-Intro": [
+          "ECC Junior no Hajimete Eigo Vol. 5 Merry Christmas, Patty! - Merry Christmas, Patty-chan (Japan)"
+        ],
+        "MESS": [
+          "ecc5"
+        ]
+      },
+      "Size": 4194304,
+      "Publishers": [
+        "Sega Toys"
+      ],
+      "ReleaseDate": "1/1/2002",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "ECC Junior no Hajimete Eigo Vol. 6 Patty Goes to the Amusement Park - Patty-chan Yuuenchi ni Iku",
+        "ECC Junior no Hajimete Eigo Vol. 6 - Patty Goes to the Amusement Park - Patty-chan Yuuenchi ni Iku"
+      ],
+      "Sha1": "7a9910d88c25197ae31f70b80f9a336dd133cba7",
+      "Crc32": "8f3335a8",
+      "SetNames": {
+        "No-Intro": [
+          "ECC Junior no Hajimete Eigo Vol. 6 Patty Goes to the Amusement Park - Patty-chan Yuuenchi ni Iku (Japan)"
+        ],
+        "MESS": [
+          "ecc6"
+        ]
+      },
+      "Size": 4194304,
+      "Publishers": [
+        "Sega Toys"
+      ],
+      "ReleaseDate": "1/1/2002",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Ecco Jr. - No fundo do mar!"
+      ],
+      "Sha1": "fc8936611b4fb868838fd1ad60fba4944e4f8822",
+      "Crc32": "557670cf",
+      "SetNames": {
+        "No-Intro": [
+          "Ecco Jr. - No fundo do mar! (Brazil)"
+        ],
+        "MESS": [
+          "eccojrb"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "CloneOf": "eccojr",
+      "Regions": [
+        "BR"
+      ]
+    },
+    {
+      "Titles": [
+        "Ecco Jr. and the Great Ocean Treasure Hunt!"
+      ],
+      "Sha1": "0eaa54e3e67469efbdb3737c8dee3b1f11fd04ed",
+      "Crc32": "c8862213",
+      "SetNames": {
+        "No-Intro": [
+          "Ecco Jr. and the Great Ocean Treasure Hunt! (USA)"
+        ],
+        "MESS": [
+          "eccojru"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "CloneOf": "eccojr",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Ecco Jr. and The Great Ocean Treasure Hunt!"
+      ],
+      "Sha1": "e958de86e66fca658e59e55207621ca8226b8831",
+      "Crc32": "19d01424",
+      "SetNames": {
+        "No-Intro": [
+          "Ecco Jr. and The Great Ocean Treasure Hunt! (Europe)"
+        ],
+        "MESS": [
+          "eccojr"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "Regions": [
+        "EU"
+      ]
+    },
+    {
+      "Titles": [
+        "Ecco Jr. e la Grande Caccia al Tesoro nell'Oceano!"
+      ],
+      "Sha1": "64e5d8f749e9e6c839b3655c9e8cf38e699c058d",
+      "Crc32": "03ca1014",
+      "SetNames": {
+        "No-Intro": [
+          "Ecco Jr. e la Grande Caccia al Tesoro nell'Oceano! (Italy)"
+        ],
+        "MESS": [
+          "eccojri"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "CloneOf": "eccojr",
+      "ReleaseDate": "1/1/1994",
+      "Regions": [
+        "IT"
+      ]
+    },
+    {
+      "Titles": [
+        "Ecco Jr. et la Chasse au Tresor Sous-Marine!",
+        "Ecco Jr. et la Chasse au Trésor Sous-marine!"
+      ],
+      "Sha1": "64706b5f1240941a4989db96dab432aed6009e0a",
+      "Crc32": "1b7b3825",
+      "SetNames": {
+        "No-Intro": [
+          "Ecco Jr. et la Chasse au Tresor Sous-Marine! (France)"
+        ],
+        "MESS": [
+          "eccojrf"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "CloneOf": "eccojr",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Ecco Jr. und die Grosse Schatzsuche im Ozean!",
+        "Ecco Jr. und die große Schatzsuche im Ozean!"
+      ],
+      "Sha1": "f57b18e13d44eb1a1dc85701757e5cdafcf43faa",
+      "Crc32": "470af94e",
+      "SetNames": {
+        "No-Intro": [
+          "Ecco Jr. und die Grosse Schatzsuche im Ozean! (Germany)"
+        ],
+        "MESS": [
+          "eccojrg"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "CloneOf": "eccojr",
+      "Regions": [
+        "DE"
+      ],
+      "Languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Ecco Jr. y la Gran Busqueda del Tesoro en el Oceano!",
+        "Ecco Jr. y la Gran Búsqueda del Tesoro en el Océano!"
+      ],
+      "Sha1": "7b518e8c6b97cc68958084b65cbe3a74f34df914",
+      "Crc32": "f11b9f3f",
+      "SetNames": {
+        "No-Intro": [
+          "Ecco Jr. y la Gran Busqueda del Tesoro en el Oceano! (Spain)"
+        ],
+        "MESS": [
+          "eccojrs"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "CloneOf": "eccojr",
+      "Regions": [
+        "ES"
+      ],
+      "Languages": [
+        "es",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Ehko Junieoeui Shinbiroun Badayeohaeng"
+      ],
+      "Sha1": "83572706b7fc6a5fbece845f51425179442b184a",
+      "Crc32": "989f59cc",
+      "SetNames": {
+        "No-Intro": [
+          "Ehko Junieoeui Shinbiroun Badayeohaeng (Korea) (Samsung Pico)"
+        ],
+        "MESS": [
+          "eccojrk"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Samsung"
+      ],
+      "CloneOf": "eccojr",
+      "Regions": [
+        "KR"
+      ]
+    },
+    {
+      "Titles": [
+        "Ein Jahr in Winnie Puuhs Leben"
+      ],
+      "Sha1": "3c3af9d643060e5a5477210c67528923ff107751",
+      "Crc32": "b4120752",
+      "SetNames": {
+        "No-Intro": [
+          "Ein Jahr in Winnie Puuhs Leben (Germany)"
+        ],
+        "MESS": [
+          "poohcorng"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "CloneOf": "poohcorn",
+      "Regions": [
+        "DE"
+      ],
+      "Languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "El Profesor Pico en el Mundo de los Colores"
+      ],
+      "Sha1": "56c27945258c46bad7f6b71f57838184349d5882",
+      "Crc32": "1596dc6a",
+      "SetNames": {
+        "No-Intro": [
+          "El Profesor Pico en el Mundo de los Colores (Spain)"
+        ],
+        "MESS": [
+          "profpicos"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "CloneOf": "profpico",
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "ES"
+      ],
+      "Languages": [
+        "es",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Ett Ar Med Nalle Puh",
+        "Ett år med Nalle Puh"
+      ],
+      "Sha1": "a702d91a72066bea72e7cff9013f1b94f2623761",
+      "Crc32": "0a48bbb9",
+      "SetNames": {
+        "No-Intro": [
+          "Ett Ar Med Nalle Puh (Sweden)"
+        ],
+        "MESS": [
+          "poohcornsw"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "CloneOf": "poohcorn",
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "SE"
+      ]
+    },
+    {
+      "Titles": [
+        "Exciting! Hataraku Norimono-tachi"
+      ],
+      "Sha1": "3d572469af1e38b748452894a55566ac23892523",
+      "Crc32": "eaf2b204",
+      "SetNames": {
+        "No-Intro": [
+          "Exciting! Hataraku Norimono-tachi (Japan)"
+        ],
+        "MESS": [
+          "hatanori"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Fishing Pico - Donald no Adventure Fishing",
+        "Fishing Pico - Donald no Adventure"
+      ],
+      "Sha1": "2bbdce0aabf19ce1bde30efd39de83b1ad4b9970",
+      "Crc32": "5bc3be15",
+      "SetNames": {
+        "No-Intro": [
+          "Fishing Pico - Donald no Adventure Fishing (Japan)"
+        ],
+        "MESS": [
+          "fishpico"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Sega Toys"
+      ],
+      "ReleaseDate": "1/1/2000",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Futari wa Pretty Cure"
+      ],
+      "Sha1": "a57f509065126118abf065edf2c4189631aeeb73",
+      "Crc32": "9b99dc02",
+      "SetNames": {
+        "No-Intro": [
+          "Futari wa Pretty Cure (Japan)"
+        ],
+        "MESS": [
+          "futaripc"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Bandai"
+      ],
+      "ReleaseDate": "1/1/2004",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Gabutcho Tsuri Gakkou - Yatta ne! Boku wa Tsuri Meijn",
+        "Gabucho Tsuri Gakkou Yatta ne! Boku Hatsuri Meijn"
+      ],
+      "Sha1": "9f0a87a6baf060323b1f7b08fa905ce76cf5c1c9",
+      "Crc32": "33a61b64",
+      "SetNames": {
+        "No-Intro": [
+          "Gabutcho Tsuri Gakkou - Yatta ne! Boku wa Tsuri Meijn (Japan)"
+        ],
+        "MESS": [
+          "gabucho"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Yonezawa"
+      ],
+      "ReleaseDate": "1/1/1998",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Gakken Anpanman to Chinou Up!"
+      ],
+      "Sha1": "eff1447d20fa7532af948df8267261e51d14589c",
+      "Crc32": "2a8da73b",
+      "SetNames": {
+        "No-Intro": [
+          "Gakken Anpanman to Chinou Up! (Japan)"
+        ],
+        "MESS": [
+          "anpanchi"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Sega Toys"
+      ],
+      "ReleaseDate": "1/1/2002",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Gakken Hajimete no Moji, Kotoba",
+        "Gakken Hajimete no Moji-Kotoba"
+      ],
+      "Sha1": "948685170cb41200e255d10db23e73d33f92b92a",
+      "Crc32": "e1f3f407",
+      "SetNames": {
+        "No-Intro": [
+          "Gakken Hajimete no Moji, Kotoba (Japan)"
+        ],
+        "MESS": [
+          "gakkemoj"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Gakken"
+      ],
+      "ReleaseDate": "1/1/2001",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Gakken no o-Benkyou Soft - Eigo ABC",
+        "Gakken no Obenkyou Soft - Eigo ABC"
+      ],
+      "Sha1": "82ffe0b0b6b0131f06e4f4cb6b535ee45559f0f4",
+      "Crc32": "1259f360",
+      "SetNames": {
+        "No-Intro": [
+          "Gakken no o-Benkyou Soft - Eigo ABC (Japan)"
+        ],
+        "MESS": [
+          "gakkeabc"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Gakken"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Gakken no o-Benkyou Soft - Hiragana",
+        "Gakken no Obenkyou Soft - Hiragana"
+      ],
+      "Sha1": "8ab5239a99ce2c97cfe0c4ec786538c8a153a71d",
+      "Crc32": "1eb0ba1c",
+      "SetNames": {
+        "No-Intro": [
+          "Gakken no o-Benkyou Soft - Hiragana (Japan) (Rev 1)"
+        ],
+        "MESS": [
+          "gakkehir"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Gakken"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Gakken no o-Benkyou Soft - Kakezan Kuku",
+        "Gakken no Obenkyou Soft - Kakezan Kuku"
+      ],
+      "Sha1": "6f5af8dfcdcea5f79a451e611e23b3e88432ef81",
+      "Crc32": "6470b56e",
+      "SetNames": {
+        "No-Intro": [
+          "Gakken no o-Benkyou Soft - Kakezan Kuku (Japan)"
+        ],
+        "MESS": [
+          "gakkekak"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Gakken"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Gakken no o-Benkyou Soft - Kanji",
+        "Gakken no Obenkyou Soft - Kanji"
+      ],
+      "Sha1": "40ae0e0b6f644511e8864acd1d1965de8151c7a6",
+      "Crc32": "68aacb63",
+      "SetNames": {
+        "No-Intro": [
+          "Gakken no o-Benkyou Soft - Kanji (Japan)"
+        ],
+        "MESS": [
+          "gakkekan"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Gakken"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Gakken no o-Benkyou Soft - Kazu, Suuji",
+        "Gakken no Obenkyou Soft - Kazu-Suuji"
+      ],
+      "Sha1": "c12f22a7d2a99c01cd0fb70154eee07b41420d30",
+      "Crc32": "1c828987",
+      "SetNames": {
+        "No-Intro": [
+          "Gakken no o-Benkyou Soft - Kazu, Suuji (Japan)"
+        ],
+        "MESS": [
+          "gakkekaz"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Gakken"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Gakken no o-Benkyou Soft - Tashizan Hikizan",
+        "Gakken no Obenkyou Soft - Tashizan Hikizan"
+      ],
+      "Sha1": "d0a768236e21d05ea1734691ab9031ea7a4b3e47",
+      "Crc32": "25639a73",
+      "SetNames": {
+        "No-Intro": [
+          "Gakken no o-Benkyou Soft - Tashizan Hikizan (Japan)"
+        ],
+        "MESS": [
+          "gakkohik"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Gakken"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Gakken Pico de Gakushuu 1-nensei"
+      ],
+      "Sha1": "bd3695ea269ebb584129d59d18ff14cb46246003",
+      "Crc32": "242172ff",
+      "SetNames": {
+        "No-Intro": [
+          "Gakken Pico de Gakushuu 1-nensei (Japan)"
+        ],
+        "MESS": [
+          "picogak1"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Gakken"
+      ],
+      "ReleaseDate": "1/1/2002",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Gakken Pico de Kagaku 1 - Hakken Mushi no Himitsu"
+      ],
+      "Sha1": "6c01cf26acc58307ac2f0f74a6c64a96318db3bb",
+      "Crc32": "26029ad3",
+      "SetNames": {
+        "No-Intro": [
+          "Gakken Pico de Kagaku 1 - Hakken Mushi no Himitsu (Japan)"
+        ],
+        "MESS": [
+          "picokag1"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Gakken"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Game o Shinagara Oboeyou! - Kantan Waku Waku Keyboard",
+        "Game wo Shinagara Oboe You! Kantan Wakuwaku Keyboard"
+      ],
+      "Sha1": "ffd6289f41a95ed04cb04ef40041fa9fcc4f1661",
+      "Crc32": "57e973f7",
+      "SetNames": {
+        "No-Intro": [
+          "Game o Shinagara Oboeyou! - Kantan Waku Waku Keyboard (Japan)"
+        ],
+        "MESS": [
+          "gsoy"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/1997",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Ganbare! Bokura no Compati Heroes"
+      ],
+      "Sha1": "eb28ad4558efd2b20e5b26ba0ccd81781a275fe0",
+      "Crc32": "bbae26f2",
+      "SetNames": {
+        "No-Intro": [
+          "Ganbare! Bokura no Compati Heroes (Japan)"
+        ],
+        "MESS": [
+          "comphero"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Banpresto"
+      ],
+      "ReleaseDate": "1/1/1996",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Gegege no Kitarou"
+      ],
+      "Sha1": "8f4636e2181132715e068a4251064cf120e91d66",
+      "Crc32": "f1e31a7b",
+      "SetNames": {
+        "No-Intro": [
+          "Gegege no Kitarou (Japan)"
+        ],
+        "MESS": [
+          "gegege"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Bandai"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Gekisou Sentai Carranger"
+      ],
+      "Sha1": "b4f276d4ecc300b38b73bf1d7030f6820786fe55",
+      "Crc32": "8ed536bc",
+      "SetNames": {
+        "No-Intro": [
+          "Gekisou Sentai Carranger (Japan)"
+        ],
+        "MESS": [
+          "carrangr"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Bandai"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Geuljanara Yeohaeng!"
+      ],
+      "Sha1": "d31699afc125338eacbbbf8a0e45ce786888e2a8",
+      "Crc32": "7fb65731",
+      "SetNames": {
+        "No-Intro": [
+          "Geuljanara Yeohaeng! (Korea) (Samsung Pico)"
+        ],
+        "MESS": [
+          "jackjillk"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Samsung"
+      ],
+      "CloneOf": "jackjill",
+      "ReleaseDate": "1/1/1996",
+      "Regions": [
+        "KR"
+      ]
+    },
+    {
+      "Titles": [
+        "Geumdokki Eundokki"
+      ],
+      "Sha1": "9343306c6f021274e1fb67cfebf1b4b19587724e",
+      "Crc32": "b27663e5",
+      "SetNames": {
+        "No-Intro": [
+          "Geumdokki Eundokki (Korea) (Samsung Pico)"
+        ],
+        "MESS": [
+          "geumdokk"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Samsung"
+      ],
+      "Regions": [
+        "KR"
+      ]
+    },
+    {
+      "Titles": [
+        "Giorno di Scuola degli Orsi Berenstain, Un",
+        "Un Giorno di Scuola degli Orsi Berenstain"
+      ],
+      "Sha1": "64b537616207b3e98dfb700f98b63e61284ced13",
+      "Crc32": "61b889a2",
+      "SetNames": {
+        "No-Intro": [
+          "Giorno di Scuola degli Orsi Berenstain, Un (Italy)"
+        ],
+        "MESS": [
+          "berenstbi"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega"
+      ],
+      "CloneOf": "berenstb",
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "IT"
+      ]
+    },
+    {
+      "Titles": [
+        "Go! Go! Connie-chan! Doki Doki World!",
+        "Go! Go! Koni-chan! Dokidoki World"
+      ],
+      "Sha1": "0727fe4c7050e9ef3baa74bf153258c435232ac6",
+      "Crc32": "b8d9a5cc",
+      "SetNames": {
+        "No-Intro": [
+          "Go! Go! Connie-chan! Doki Doki World! (Japan)"
+        ],
+        "MESS": [
+          "konichan"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Bandai"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Gojira - Doki Doki Kaijuu-tou!!",
+        "Godzilla - Dokidoki Kaijuu Shima"
+      ],
+      "Sha1": "47c8357c16d76dd067063c4fe61e579c8bc0e13c",
+      "Crc32": "fd8a2715",
+      "SetNames": {
+        "No-Intro": [
+          "Gojira - Doki Doki Kaijuu-tou!! (Japan)"
+        ],
+        "MESS": [
+          "godzilla"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Gomdori Puooeui Sagyejeol"
+      ],
+      "Sha1": "66a746cdc3ca9afd6a0251daf97e608130deeb44",
+      "Crc32": "d0641699",
+      "SetNames": {
+        "No-Intro": [
+          "Gomdori Puooeui Sagyejeol (Korea) (Samsung Pico)"
+        ],
+        "MESS": [
+          "poohcornk"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Samsung"
+      ],
+      "CloneOf": "poohcorn",
+      "Regions": [
+        "KR"
+      ]
+    },
+    {
+      "Titles": [
+        "Great Counting Caper with 3 Blind Mice, The",
+        "The Great Counting Caper with The 3 Blind Mice"
+      ],
+      "Sha1": "76a27504a36f7d4b68892e56f7586a26326d0878",
+      "Crc32": "06dc8145",
+      "SetNames": {
+        "No-Intro": [
+          "Great Counting Caper with 3 Blind Mice, The (USA)"
+        ],
+        "MESS": [
+          "gccaper"
+        ],
+        "TGDB": [
+          "97704"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega"
+      ],
+      "Developers": [
+        "Realtime Associates"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "ESRB": "EC",
+      "Genres": [],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Hajimema Series 1 - Donald no Obake Taiji"
+      ],
+      "Sha1": "568c7a64bec6e88f0b4d8366861f779c48d8f120",
+      "Crc32": "e3a5db51",
+      "SetNames": {
+        "No-Intro": [
+          "Hajimema Series 1 - Donald no Obake Taiji (Japan)"
+        ],
+        "MESS": [
+          "donaldota"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "CloneOf": "donaldgj",
+      "ReleaseDate": "1/1/1998",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Hataraku Kuruma - Diapet Daishuugou!",
+        "Hataraku Kuruma Daiya Pet Daishuugou"
+      ],
+      "Sha1": "7bc48b393c815d7a596d8d8a422ed1e99172679e",
+      "Crc32": "48ff9900",
+      "SetNames": {
+        "No-Intro": [
+          "Hataraku Kuruma - Diapet Daishuugou! (Japan)"
+        ],
+        "MESS": [
+          "hatakuru"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Yonezawa"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Heisei Kyouiku Iinkai Jr. Mezase Yuutousei"
+      ],
+      "Sha1": "85e6ed98f5e7bfa04c1b099bba79ddd34ccdd40e",
+      "Crc32": "8ba23bbe",
+      "SetNames": {
+        "No-Intro": [
+          "Heisei Kyouiku Iinkai Jr. Mezase Yuutousei (Japan)"
+        ],
+        "MESS": [
+          "heiseijr"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Imagineer"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Heisei Tensai Bakabon - Minna de Family Resturant ni Iku no da!",
+        "Heisei Tensai Bakabon - Minna de Family Resturant ni Ikunoda!"
+      ],
+      "Sha1": "708cd58d6182a4f2448be3d2db97943c063a04f9",
+      "Crc32": "3656af85",
+      "SetNames": {
+        "No-Intro": [
+          "Heisei Tensai Bakabon - Minna de Family Resturant ni Iku no da! (Japan)"
+        ],
+        "MESS": [
+          "bakabon"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "GE"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Hello Kitty no Castelo"
+      ],
+      "Sha1": "c58a8b64d6372e85199b03c379aae2cfb0308a62",
+      "Crc32": "788de189",
+      "SetNames": {
+        "No-Intro": [
+          "Hello Kitty no Castelo (Brazil)"
+        ],
+        "MESS": [
+          "hellokcs"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Tec Toy"
+      ],
+      "Regions": [
+        "BR"
+      ]
+    },
+    {
+      "Titles": [
+        "Hello Kitty no Suteki na O-tanjoubi",
+        "Hello Kitty no Suteki na Outanjoubi"
+      ],
+      "Sha1": "a451d2674a3d7aa88b8a0befb96f48b55ff77bc1",
+      "Crc32": "45ded176",
+      "SetNames": {
+        "No-Intro": [
+          "Hello Kitty no Suteki na O-tanjoubi (Japan)"
+        ],
+        "MESS": [
+          "hellokso"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/1997",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Hello Kitty no Tanoshii Butoukai"
+      ],
+      "Sha1": "1dffea9f1087cdf4c92c1091f9033bd97f2e28e3",
+      "Crc32": "18256466",
+      "SetNames": {
+        "No-Intro": [
+          "Hello Kitty no Tanoshii Butoukai (Japan)"
+        ],
+        "MESS": [
+          "helloktb"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "CloneOf": "hellokcs",
+      "ReleaseDate": "1/1/1993",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Hello Kitty no Tanoshii o-Mise-ya-san",
+        "Hello Kitty no Tanoshii Omiseyasan"
+      ],
+      "Sha1": "b563b40f5b8975c01cbf468e6398930fd1830643",
+      "Crc32": "d56d174d",
+      "SetNames": {
+        "No-Intro": [
+          "Hello Kitty no Tanoshii o-Mise-ya-san (Japan)"
+        ],
+        "MESS": [
+          "hellokto"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/2002",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Hello Kitty to McDonald's de Asobo!",
+        "Hello Kitty to McDonald de Asobo!"
+      ],
+      "Sha1": "22b8a709f88cd9a7d22c5538fd39d253af3f98c1",
+      "Crc32": "829a4ec5",
+      "SetNames": {
+        "No-Intro": [
+          "Hello Kitty to McDonald's de Asobo! (Japan)"
+        ],
+        "MESS": [
+          "hellokmc"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Sega Toys"
+      ],
+      "ReleaseDate": "1/1/2001",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Heokulwa Rollineun Babbayo"
+      ],
+      "Sha1": "5058640eb70268345e6e630ac78958c99121e294",
+      "Crc32": "c7eb7f24",
+      "SetNames": {
+        "No-Intro": [
+          "Heokulwa Rollineun Babbayo (Korea) (Samsung Pico)"
+        ],
+        "MESS": [
+          "hucklowlk"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Samsung"
+      ],
+      "CloneOf": "hucklowl",
+      "Regions": [
+        "KR"
+      ]
+    },
+    {
+      "Titles": [
+        "Hirake! Ponkikki - Party o Hirakou!",
+        "Hirake! Ponkikki Party wo Hirakou!"
+      ],
+      "Sha1": "13d3c6d97cd703a7450272b44ad37e38c5339dee",
+      "Crc32": "369d5e12",
+      "SetNames": {
+        "No-Intro": [
+          "Hirake! Ponkikki - Party o Hirakou! (Japan)"
+        ],
+        "MESS": [
+          "hiraponk"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/1993",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Issho ni Hashirou Kikansha Thomas"
+      ],
+      "Sha1": "2f3a5f3b1b5c096c4037b1c1025f5dbd7f8d524d",
+      "Crc32": "91e0aeac",
+      "SetNames": {
+        "No-Intro": [
+          "Issho ni Hashirou Kikansha Thomas (Japan) (Best Selection)"
+        ]
+      },
+      "Size": 2097152,
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Issho ni Hashirou Kikansha Thomas"
+      ],
+      "Sha1": "bf542822f90bd5c5590b8ae637b85c5ea982688c",
+      "Crc32": "e5b93c6c",
+      "SetNames": {
+        "No-Intro": [
+          "Issho ni Hashirou Kikansha Thomas (Japan)"
+        ],
+        "MESS": [
+          "ihthomas"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Bandai"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Itsudemo Issho Doraemon",
+        "Itsudemo Issho Doraemon Set"
+      ],
+      "Sha1": "fac2a89ed72a7fb85c6d02a46048a062de67486d",
+      "Crc32": "da7e56dc",
+      "SetNames": {
+        "No-Intro": [
+          "Itsudemo Issho Doraemon (Japan)"
+        ],
+        "MESS": [
+          "itsudemo"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Sega Toys"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Jeulgeo-oon Pati-leul Yeolja!"
+      ],
+      "Sha1": "d89bcc9111e7a2fa2fb85b77ea6c79c622bbd440",
+      "Crc32": "311a471e",
+      "SetNames": {
+        "No-Intro": [
+          "Jeulgeo-oon Pati-leul Yeolja! (Korea) (Samsung Pico)"
+        ],
+        "MESS": [
+          "jeulgeop"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Samsung?"
+      ],
+      "Regions": [
+        "KR"
+      ]
+    },
+    {
+      "Titles": [
+        "Jeulgeoun Deuraibeu"
+      ],
+      "Sha1": "0d1a3b02f33b1fddc90ba70785873b148f0a8fd2",
+      "Crc32": "2a7574b6",
+      "SetNames": {
+        "No-Intro": [
+          "Jeulgeoun Deuraibeu (Korea) (Samsung Pico)"
+        ],
+        "MESS": [
+          "kpwdrivek"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Samsung"
+      ],
+      "CloneOf": "kpwdrive",
+      "Regions": [
+        "KR"
+      ]
+    },
+    {
+      "Titles": [
+        "Jidou Eiken Taiou - Moomin to Eigo - Tanjoubi no Okurimono",
+        "Jidou Eiken Taiou Soft Moomin to Eigo Tanjoubi no Okurimono"
+      ],
+      "Sha1": "0c7fdafefac1cf2b536faaac8a551529ab171b29",
+      "Crc32": "5ced9954",
+      "SetNames": {
+        "No-Intro": [
+          "Jidou Eiken Taiou - Moomin to Eigo - Tanjoubi no Okurimono (Japan) (Rev 2)"
+        ],
+        "MESS": [
+          "moomin"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Obunsha"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Kaitou Saint Tail - Saint Tail to One, Two, Three!"
+      ],
+      "Sha1": "174f46776f27d133e947ddd6dc8929f29b76d071",
+      "Crc32": "e1abf964",
+      "SetNames": {
+        "No-Intro": [
+          "Kaitou Saint Tail - Saint Tail to One, Two, Three! (Japan)"
+        ],
+        "MESS": [
+          "sainttl"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Kamen Rider 555",
+        "Kamen Rider Fives 555"
+      ],
+      "Sha1": "944f588cc0bcf2311852e83dfc4a67387aada3af",
+      "Crc32": "2194fad5",
+      "SetNames": {
+        "No-Intro": [
+          "Kamen Rider 555 (Japan)"
+        ],
+        "MESS": [
+          "kamen555"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Bandai"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Kamen Rider Agito & Kuuga - Wild Battle"
+      ],
+      "Sha1": "18dc0756e0c61a397fe88d06c5915d543440d16e",
+      "Crc32": "316596dc",
+      "SetNames": {
+        "No-Intro": [
+          "Kamen Rider Agito & Kuuga - Wild Battle (Japan)"
+        ],
+        "MESS": [
+          "kamenrid"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Bandai"
+      ],
+      "ReleaseDate": "1/1/2001",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Kawaii Nakama o Sodateyou! - 3-tsu no Shippo",
+        "Kawaii Nakama wo Sodate you! 3-tsu no Shippo"
+      ],
+      "Sha1": "0a5cb3a917880b755465d3bd9d110dffcb52a2a3",
+      "Crc32": "a6dea807",
+      "SetNames": {
+        "No-Intro": [
+          "Kawaii Nakama o Sodateyou! - 3-tsu no Shippo (Japan)"
+        ],
+        "MESS": [
+          "kawai3s"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/1998",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Kero Kero Keroppi no Harikiri Undoukai"
+      ],
+      "Sha1": "6e424a9f3ce358b93a5dcd29315dd2db809c6989",
+      "Crc32": "8386ab4c",
+      "SetNames": {
+        "No-Intro": [
+          "Kero Kero Keroppi no Harikiri Undoukai (Japan)"
+        ],
+        "MESS": [
+          "kerohar"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/1993",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Keyboard Pico 2 Set with Sawattemiyou! Yoiko no Hajimete Keyboard",
+        "Keyboard Pico 2 Set with Sawatte Miyou! Yoiko no Hajimete Keyboard"
+      ],
+      "Sha1": "95dd0c0517bfa468486a14959ebb1b10a70227d7",
+      "Crc32": "01b0869e",
+      "SetNames": {
+        "No-Intro": [
+          "Keyboard Pico 2 Set with Sawattemiyou! Yoiko no Hajimete Keyboard (Japan)"
+        ],
+        "MESS": [
+          "keybord2"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/1997",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Kibodeu Piko",
+        "Keyboard Pico"
+      ],
+      "Sha1": "5657fa083c1bc64aac721a97877c80cb40cb3172",
+      "Crc32": "92f13c50",
+      "SetNames": {
+        "No-Intro": [
+          "Kibodeu Piko (Korea) (Samsung Pico)"
+        ],
+        "MESS": [
+          "keyboard"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Samsung"
+      ],
+      "Regions": [
+        "KR"
+      ]
+    },
+    {
+      "Titles": [
+        "Kikansha Thomas ni Notte"
+      ],
+      "Sha1": "cf7cce404c013c57bfb0e80c5da3213af64dd505",
+      "Crc32": "32f926ac",
+      "SetNames": {
+        "No-Intro": [
+          "Kikansha Thomas ni Notte (Japan)"
+        ],
+        "MESS": [
+          "thomas"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Bandai"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Kiki & Lala - Hoshi no Kazu Asobi"
+      ],
+      "Sha1": "c1322828a22148cc678fa637f156cb56d49e50a4",
+      "Crc32": "8250f8d6",
+      "SetNames": {
+        "No-Intro": [
+          "Kiki & Lala - Hoshi no Kazu Asobi (Japan)"
+        ],
+        "MESS": [
+          "kikilala"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Sega Toys"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Kiteretsu Daihyakka - Edo ni Itte Kiteretsusai-sama ni Au Nari",
+        "Kiteretsu Daihyakka - Edo ni Itte Kiteretsu Saisamaniau Nari"
+      ],
+      "Sha1": "e13ad62f7dbd270f74a4dbbe881d1ca619899d31",
+      "Crc32": "85f80871",
+      "SetNames": {
+        "No-Intro": [
+          "Kiteretsu Daihyakka - Edo ni Itte Kiteretsusai-sama ni Au Nari (Japan)"
+        ],
+        "MESS": [
+          "kitereda"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Koenig der Loewen, Der - Abenteuer",
+        "Die Abenteuer des Löwen Königs"
+      ],
+      "Sha1": "d0a352378c5ce9baacb9d161cb04f63d4913ce50",
+      "Crc32": "1102c039",
+      "SetNames": {
+        "No-Intro": [
+          "Koenig der Loewen, Der - Abenteuer (Germany)"
+        ],
+        "MESS": [
+          "lionkingg"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega"
+      ],
+      "CloneOf": "lionking",
+      "Regions": [
+        "DE"
+      ],
+      "Languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Kosume Pico Motto Kawaiku Naritai na"
+      ],
+      "Sha1": "07c4ee9f8cd73ff64ea9c18fc8573e1bf57a4d5f",
+      "Crc32": "bfc8fa4b",
+      "SetNames": {
+        "No-Intro": [
+          "Kosume Pico Motto Kawaiku Naritai na (Japan)"
+        ],
+        "MESS": [
+          "kosumemk"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Sega Toys"
+      ],
+      "ReleaseDate": "1/1/2002",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Kouchuu Ouja Mushiking - Atsumete Asobou Kouchuu Zukan",
+        "Mushiking Atsumete Asobou Kouchuu Zukan"
+      ],
+      "Sha1": "2ba57037e9155d3537c2d204de5f873f67a8a3a6",
+      "Crc32": "37c59a71",
+      "SetNames": {
+        "No-Intro": [
+          "Kouchuu Ouja Mushiking - Atsumete Asobou Kouchuu Zukan (Japan)"
+        ],
+        "MESS": [
+          "mushikin"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Sega Toys"
+      ],
+      "ReleaseDate": "1/1/2005",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Kuma no Pooh-san - Christopher Robin wo Sagase!",
+        "Kuma no Pooh-san - Christopher Robin wo Sagase"
+      ],
+      "Sha1": "14f757263f138cbe02e03c48748935224805edf1",
+      "Crc32": "40e2cdfc",
+      "SetNames": {
+        "No-Intro": [
+          "Kuma no Pooh-san - Christopher Robin wo Sagase! (Japan)"
+        ],
+        "MESS": [
+          "poohcrs"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Kodansha"
+      ],
+      "ReleaseDate": "1/1/1998",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Kuma no Pooh-san - Tanoshii Tashizan Hikizan",
+        "Kuma no Pooh-san - Tanoshii Tashizan - Hikizan"
+      ],
+      "Sha1": "5dc53a2b40bb3f11181862c819a9fd4d02e77d9c",
+      "Crc32": "eda6b93c",
+      "SetNames": {
+        "No-Intro": [
+          "Kuma no Pooh-san - Tanoshii Tashizan Hikizan (Japan)"
+        ],
+        "MESS": [
+          "poohtth"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Sega Toys"
+      ],
+      "ReleaseDate": "1/1/2004",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Kumon no Suku Suku Lesson - 1 kara 30 made no Suuji",
+        "Kumon no Sukusuku Ressun 1-Kara 30-made no Suuji"
+      ],
+      "Sha1": "c8828068b6fb15cdcbd116860390241f5743c140",
+      "Crc32": "2019bb5b",
+      "SetNames": {
+        "No-Intro": [
+          "Kumon no Suku Suku Lesson - 1 kara 30 made no Suuji (Japan)"
+        ],
+        "MESS": [
+          "kumon1k"
+        ]
+      },
+      "Size": 4194304,
+      "Publishers": [
+        "Kumon"
+      ],
+      "ReleaseDate": "1/1/2001",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Kurehyolla",
+        "Crayola - Kurehyolla"
+      ],
+      "Sha1": "22400747517689b90003f16407c8fde3e3d67ee6",
+      "Crc32": "a89bf6cd",
+      "SetNames": {
+        "No-Intro": [
+          "Kurehyolla (Korea) (Samsung Pico)"
+        ],
+        "MESS": [
+          "crayolak"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Samsung"
+      ],
+      "CloneOf": "crayola",
+      "Regions": [
+        "KR"
+      ]
+    },
+    {
+      "Titles": [
+        "Lancio di Topolino nel Passato"
+      ],
+      "Sha1": "16702ae751798a59e7c81c3e373ceb247b1ea0c3",
+      "Crc32": "6e406f2c",
+      "SetNames": {
+        "No-Intro": [
+          "Lancio di Topolino nel Passato (Italy)"
+        ],
+        "MESS": [
+          "mickblsti"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "CloneOf": "mickblst",
+      "ReleaseDate": "1/1/1994",
+      "Regions": [
+        "IT"
+      ]
+    },
+    {
+      "Titles": [
+        "Lapices de Colores Magicos",
+        "Lápices de Colores Mágicos"
+      ],
+      "Sha1": "5e40b09d2f14fdac6069c09118a6af8c76f488b8",
+      "Crc32": "7fe5394e",
+      "SetNames": {
+        "No-Intro": [
+          "Lapices de Colores Magicos (Spain)"
+        ],
+        "MESS": [
+          "magiccras"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "CloneOf": "magiccra",
+      "ReleaseDate": "1/1/1994",
+      "Regions": [
+        "ES"
+      ],
+      "Languages": [
+        "es",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Las Adventuras del Rey Leon",
+        "Las Aventuras del Rey León"
+      ],
+      "Sha1": "f3eb0844b49329e2f522e595d887adee7171e88b",
+      "Crc32": "ca5534bc",
+      "SetNames": {
+        "No-Intro": [
+          "Las Adventuras del Rey Leon (Spain)"
+        ],
+        "MESS": [
+          "lionkings"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega"
+      ],
+      "CloneOf": "lionking",
+      "Regions": [
+        "ES"
+      ],
+      "Languages": [
+        "es",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "LEGO - Fun to Build",
+        "Lego Fun to Build"
+      ],
+      "Sha1": "2f269325deef0db0a14e3b0d3cdf9a0c06436a70",
+      "Crc32": "cbcc377c",
+      "SetNames": {
+        "No-Intro": [
+          "LEGO - Fun to Build (Japan)"
+        ],
+        "MESS": [
+          "legofun"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Lejonkungen Aventyr",
+        "Lejonkungen - Äventyr"
+      ],
+      "Sha1": "f72f9037c7f21a6ba5bebd7f835ae74be352d29a",
+      "Crc32": "c515eb6e",
+      "SetNames": {
+        "No-Intro": [
+          "Lejonkungen Aventyr (Sweden)"
+        ],
+        "MESS": [
+          "lionkingsw"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega"
+      ],
+      "CloneOf": "lionking",
+      "Regions": [
+        "SE"
+      ]
+    },
+    {
+      "Titles": [
+        "Les Aventures du Roi Lion"
+      ],
+      "Sha1": "8c1853e1c6eba378cb2efc71039462cbb021c0ed",
+      "Crc32": "f8a95177",
+      "SetNames": {
+        "No-Intro": [
+          "Les Aventures du Roi Lion (France)"
+        ],
+        "MESS": [
+          "lionkingf"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega"
+      ],
+      "CloneOf": "lionking",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Licca-chan ni Naritai!"
+      ],
+      "Sha1": "a1ac56d43eeade0fa57ee3791f43a5447a8da824",
+      "Crc32": "a0e18b3e",
+      "SetNames": {
+        "No-Intro": [
+          "Licca-chan ni Naritai! (Japan)"
+        ],
+        "MESS": [
+          "liccachn"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Sega Toys"
+      ],
+      "ReleaseDate": "1/1/2001",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Lion King Adventures, The",
+        "The Lion King - Adventures at Pride Rock",
+        "The Lion King: Adventures at Pride Rock"
+      ],
+      "Sha1": "7f20cd3bec73624f93c8235887ad82f33a78077e",
+      "Crc32": "a7b92dc1",
+      "SetNames": {
+        "No-Intro": [
+          "Lion King Adventures, The (Europe)"
+        ],
+        "MESS": [
+          "lionking"
+        ],
+        "TGDB": [
+          "62872"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega"
+      ],
+      "Developers": [
+        "Sega"
+      ],
+      "ReleaseDate": "5/13/1995",
+      "ESRB": "EC",
+      "Genres": [
+        "Puzzle"
+      ],
+      "Regions": [
+        "EU"
+      ]
+    },
+    {
+      "Titles": [
+        "Lion King, The - Adventures at Pride Rock",
+        "The Lion King - Adventure at Pride Rock"
+      ],
+      "Sha1": "2da72b5ab41d95675163850bab11e38d7e8a098d",
+      "Crc32": "2c0db3b9",
+      "SetNames": {
+        "No-Intro": [
+          "Lion King, The - Adventures at Pride Rock (USA)"
+        ],
+        "MESS": [
+          "lionkingu"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega"
+      ],
+      "CloneOf": "lionking",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Magic Crayons"
+      ],
+      "Sha1": "08a3236fa54a6a4993baf5cf4c1ffbd77739c6bf",
+      "Crc32": "a443512b",
+      "SetNames": {
+        "No-Intro": [
+          "Magic Crayons (USA)"
+        ],
+        "MESS": [
+          "magiccrau"
+        ],
+        "TGDB": [
+          "62871"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega"
+      ],
+      "Developers": [
+        "Sega"
+      ],
+      "CloneOf": "magiccra",
+      "ReleaseDate": "6/19/1994",
+      "Genres": [
+        "Life Simulation"
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Magic Crayons"
+      ],
+      "Sha1": "c03f33fabf77989f0177a20b786447728eaae96e",
+      "Crc32": "8f97e8fb",
+      "SetNames": {
+        "No-Intro": [
+          "Magic Crayons (Europe)"
+        ],
+        "MESS": [
+          "magiccra"
+        ],
+        "TGDB": [
+          "62871"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "Developers": [
+        "Sega"
+      ],
+      "ReleaseDate": "6/19/1994",
+      "Genres": [
+        "Life Simulation"
+      ],
+      "Regions": [
+        "EU"
+      ]
+    },
+    {
+      "Titles": [
+        "Magic Knight Rayearth - Magic Knight Tanjou",
+        "Magic Knight Rayearth"
+      ],
+      "Sha1": "86ced0eb5329c1cebfffc5cd977f7988a6e0c0a9",
+      "Crc32": "5e3762e2",
+      "SetNames": {
+        "No-Intro": [
+          "Magic Knight Rayearth - Magic Knight Tanjou (Japan)"
+        ],
+        "MESS": [
+          "rayearth"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Magic School Bus, The",
+        "Scholastic's The Magic School Bus",
+        "The Magic School Bus"
+      ],
+      "Sha1": "927e48f24745732235de4745d3acf1656750e12b",
+      "Crc32": "e6ef55f9",
+      "SetNames": {
+        "No-Intro": [
+          "Magic School Bus, The (USA)"
+        ],
+        "MESS": [
+          "magschol"
+        ],
+        "TGDB": [
+          "78765"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "Developers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Genres": [
+        "Adventure"
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Math Antics with Disney's 101 Dalmatians",
+        "Math Antics With 101 Dalmatians"
+      ],
+      "Sha1": "bbbb351396ae9c636092efc6780dd1f80f4ca854",
+      "Crc32": "d271f727",
+      "SetNames": {
+        "No-Intro": [
+          "Math Antics with Disney's 101 Dalmatians (USA)"
+        ],
+        "MESS": [
+          "101dalma"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/1996",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "McDonald's de Asobo!",
+        "McDonald de Asobo!"
+      ],
+      "Sha1": "3615cf2f28133c3d35003bef16a517d5379e9c20",
+      "Crc32": "474d946e",
+      "SetNames": {
+        "No-Intro": [
+          "McDonald's de Asobo! (Japan)"
+        ],
+        "MESS": [
+          "mcdonald"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Sega Toys"
+      ],
+      "ReleaseDate": "1/1/2000",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Melody Land"
+      ],
+      "Sha1": "cd4f3260309a1236f6f0d491f385d4dececa349e",
+      "Crc32": "9b05acc9",
+      "SetNames": {
+        "No-Intro": [
+          "Melody Land (Japan) (Mixt Book Player - Copera)"
+        ]
+      },
+      "Size": 1048576,
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Mezase Pro Yakyuu"
+      ],
+      "Sha1": "8989810067e9aabc8fe01646fe2e6d9fca4a7059",
+      "Crc32": "c66d53d2",
+      "SetNames": {
+        "No-Intro": [
+          "Mezase Pro Yakyuu (Japan)"
+        ],
+        "MESS": [
+          "proyakyu"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Mickey - Ausflug in die Vergangenheit"
+      ],
+      "Sha1": "eab3c41aef6c30adc82e92e143ffc0360118b99e",
+      "Crc32": "627ea96c",
+      "SetNames": {
+        "No-Intro": [
+          "Mickey - Ausflug in die Vergangenheit (Germany)"
+        ],
+        "MESS": [
+          "mickblstg"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "CloneOf": "mickblst",
+      "ReleaseDate": "1/1/1994",
+      "Regions": [
+        "DE"
+      ],
+      "Languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Mickey - Fait un Voyage Eclair Dans le Passe",
+        "Mickey - Fait un Voyage Eclair Dans Le Passé"
+      ],
+      "Sha1": "6cacd57339ad8dcdbc40f08abffb6fa0f00b5ae5",
+      "Crc32": "fafee898",
+      "SetNames": {
+        "No-Intro": [
+          "Mickey - Fait un Voyage Eclair Dans le Passe (France)"
+        ],
+        "MESS": [
+          "mickblstf"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "CloneOf": "mickblst",
+      "ReleaseDate": "1/1/1994",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Mickey - Le Echa un Vistazo al Pasado"
+      ],
+      "Sha1": "76a7a97d11b7a86e68e88e6bb1238c9c3b998b35",
+      "Crc32": "64809150",
+      "SetNames": {
+        "No-Intro": [
+          "Mickey - Le Echa un Vistazo al Pasado (Spain)"
+        ],
+        "MESS": [
+          "mickblsts"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "CloneOf": "mickblst",
+      "ReleaseDate": "1/1/1994",
+      "Regions": [
+        "ES"
+      ],
+      "Languages": [
+        "es",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Mickey - Viajando no Tempo",
+        "Mickey Viajando no Tempo"
+      ],
+      "Sha1": "b1912dd0ddd19c38cc5dfeb92e669535b2e1619f",
+      "Crc32": "a1d63b9a",
+      "SetNames": {
+        "No-Intro": [
+          "Mickey - Viajando no Tempo (Brazil)"
+        ],
+        "MESS": [
+          "mickblstb"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "CloneOf": "mickblst",
+      "ReleaseDate": "1/1/1994",
+      "Regions": [
+        "BR"
+      ]
+    },
+    {
+      "Titles": [
+        "Mickey no Boku wa Meitantei"
+      ],
+      "Sha1": "b11e35b71a3d24fddad746b60c1f79ea011d39c1",
+      "Crc32": "2eb957b3",
+      "SetNames": {
+        "No-Intro": [
+          "Mickey no Boku wa Meitantei (Japan)"
+        ],
+        "MESS": [
+          "mickbmt"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Kodansha"
+      ],
+      "ReleaseDate": "1/1/2000",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Mickey no Tokyo Disneyland Stamp Rally"
+      ],
+      "Sha1": "25d7b87e42e69e49d813b7f49888696dd5924c51",
+      "Crc32": "f3d95a84",
+      "SetNames": {
+        "No-Intro": [
+          "Mickey no Tokyo Disneyland Stamp Rally (Japan) (Rev 1)"
+        ],
+        "MESS": [
+          "mickdsr"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Kodansha"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Mickey no Tokyo Disneyland Stamp Rally"
+      ],
+      "Sha1": "94ba4902c9675cd9bf9e6f0449ee87c34c90072b",
+      "Crc32": "bbd0d994",
+      "SetNames": {
+        "No-Intro": [
+          "Mickey no Tokyo Disneyland Stamp Rally (Japan)"
+        ],
+        "MESS": [
+          "mickdsra"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Kodansha"
+      ],
+      "CloneOf": "mickdsr",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Mickey no Yukai na Bouken"
+      ],
+      "Sha1": "bb35a699c883121dbe5b16877531c2ba8e1d2242",
+      "Crc32": "5a6767a9",
+      "SetNames": {
+        "No-Intro": [
+          "Mickey no Yukai na Bouken (Japan)"
+        ],
+        "MESS": [
+          "mickybka"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "CloneOf": "mickybk",
+      "ReleaseDate": "1/1/1993",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Mickey no Yukai na Bouken"
+      ],
+      "Sha1": "2d385f42d609b3f0c1b9c392a3dc2195e89fbcd3",
+      "Crc32": "a07db677",
+      "SetNames": {
+        "No-Intro": [
+          "Mickey no Yukai na Bouken (Japan) (Rev 1)"
+        ],
+        "MESS": [
+          "mickybk"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/1993",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Mickey to Ooki na Furudokei",
+        "Mickey to Ookina Furudokei"
+      ],
+      "Sha1": "459b9c49124894e0a3e5124d13ce34ff109ff076",
+      "Crc32": "27b74c2d",
+      "SetNames": {
+        "No-Intro": [
+          "Mickey to Ooki na Furudokei (Taiwan)"
+        ],
+        "MESS": [
+          "mickbmttw"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega"
+      ],
+      "CloneOf": "mickbmt",
+      "ReleaseDate": "1/1/1998",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Mickey to Ooki na Furudokei"
+      ],
+      "Sha1": "c790d72aef37a835e977231e8097c1f4950a1b11",
+      "Crc32": "cb331903",
+      "SetNames": {
+        "No-Intro": [
+          "Mickey to Ooki na Furudokei (Japan) (Rev 2)"
+        ],
+        "MESS": [
+          "mickofrd"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Mickey to Utau Tori no Shima - Minnie wo Sagashite Waku Waku Daibouken!",
+        "Mickey to Utau Tori no Shima"
+      ],
+      "Sha1": "d47298e7dab451218cede56fd758401e356e6b2b",
+      "Crc32": "643700aa",
+      "SetNames": {
+        "No-Intro": [
+          "Mickey to Utau Tori no Shima - Minnie wo Sagashite Waku Waku Daibouken! (Japan)"
+        ],
+        "MESS": [
+          "mickuts"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Kodansha"
+      ],
+      "ReleaseDate": "1/1/1998",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Mickey's Blast into the Past"
+      ],
+      "Sha1": "1d04a40d353f71061b206d893d2d8e7864a2faee",
+      "Crc32": "2628f6ef",
+      "SetNames": {
+        "No-Intro": [
+          "Mickey's Blast into the Past (USA)"
+        ],
+        "MESS": [
+          "mickblstu"
+        ],
+        "TGDB": [
+          "54649"
+        ]
+      },
+      "OverviewId": 6,
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "CloneOf": "mickblst",
+      "ReleaseDate": "8/1/1994",
+      "Genres": [
+        "Action"
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Mickey's Blast into the Past"
+      ],
+      "Sha1": "82482636109e42135ae7db677d92ff814a684633",
+      "Crc32": "28d87851",
+      "SetNames": {
+        "No-Intro": [
+          "Mickey's Blast into the Past (Europe)"
+        ],
+        "MESS": [
+          "mickblst"
+        ],
+        "TGDB": [
+          "54649"
+        ]
+      },
+      "OverviewId": 6,
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "8/1/1994",
+      "Genres": [
+        "Action"
+      ],
+      "Regions": [
+        "EU"
+      ]
+    },
+    {
+      "Titles": [
+        "Mickys lustiges Abenteuer"
+      ],
+      "Sha1": "7ba83b5b8cd085989e0be0c773e0699e278fe47e",
+      "Crc32": "c301a37f",
+      "SetNames": {
+        "No-Intro": [
+          "Mickys lustiges Abenteuer (Germany) (Proto)"
+        ],
+        "MESS": [
+          "mickladv"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/1993",
+      "Regions": [
+        "DE"
+      ],
+      "Languages": [
+        "de",
+        "en"
+      ],
+      "Tags": [
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "Miimi to Taata no Wai Wai o-Ekaki Doubutsuen!!",
+        "Miimi to Taata no Waiwai Oekaki Doubutsuen"
+      ],
+      "Sha1": "b056919eed642d3838c4d9cd71750bce9bf3a999",
+      "Crc32": "070cb5d6",
+      "SetNames": {
+        "No-Intro": [
+          "Miimi to Taata no Wai Wai o-Ekaki Doubutsuen!! (Japan)"
+        ],
+        "MESS": [
+          "mimitata"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/1993",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Mike to Asobou Tobidase Milky Way"
+      ],
+      "Sha1": "5f271c69f574a761f2c83f8005978dcb0635e81b",
+      "Crc32": "0cb5727d",
+      "SetNames": {
+        "No-Intro": [
+          "Mike to Asobou Tobidase Milky Way (Japan) (Mixt Book Player - Copera)"
+        ]
+      },
+      "Size": 1048576,
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Mikiwa Moheom-eul Ddeonayo"
+      ],
+      "Sha1": "d3f635960540e8554eb99e58b319e6c4ac1ecec6",
+      "Crc32": "bb51f4ca",
+      "SetNames": {
+        "No-Intro": [
+          "Mikiwa Moheom-eul Ddeonayo (Korea) (Samsung Pico)"
+        ],
+        "MESS": [
+          "mickybkk"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Samsung?"
+      ],
+      "CloneOf": "mickybk",
+      "Regions": [
+        "KR"
+      ]
+    },
+    {
+      "Titles": [
+        "MiniMoni. - Eigo de Asobun Da pyon!",
+        "Mini Moni. - Eigo de Asobundapyon!"
+      ],
+      "Sha1": "dea9772e3503180a844b4728e3ed8eeb0911a978",
+      "Crc32": "9cedfac5",
+      "SetNames": {
+        "No-Intro": [
+          "MiniMoni. - Eigo de Asobun Da pyon! (Japan)"
+        ],
+        "MESS": [
+          "minimoea"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Sega Toys"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "MiniMoni. - Shougakkou e Ikun Da pyon!",
+        "Mini Moni. Shougakkou he Iku Ndapyon!"
+      ],
+      "Sha1": "b0f82f3b7ad188656a048dd24fff8b844ca6068c",
+      "Crc32": "bfe1ceb5",
+      "SetNames": {
+        "No-Intro": [
+          "MiniMoni. - Shougakkou e Ikun Da pyon! (Japan)"
+        ],
+        "MESS": [
+          "minimosn"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Sega Toys"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "MiniMoni. - Televi ni Derun Da pyon!",
+        "Mini Moni. - Terebi ni Derundapyon!"
+      ],
+      "Sha1": "f508bc6891d1dd2cbe52007c1d0645de685b478a",
+      "Crc32": "67069e42",
+      "SetNames": {
+        "No-Intro": [
+          "MiniMoni. - Televi ni Derun Da pyon! (Japan)"
+        ],
+        "MESS": [
+          "minimotd"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Sega Toys"
+      ],
+      "ReleaseDate": "1/1/2002",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Minna de Karaoke! - Issho ni Utaou Suki na Uta!",
+        "Minna de Karaoke! Issho ni Utaou Suki na Uta!"
+      ],
+      "Sha1": "a7ddcc4e3fc2e2504bb063c9c9cd4aba37fa4c57",
+      "Crc32": "68c7d517",
+      "SetNames": {
+        "No-Intro": [
+          "Minna de Karaoke! - Issho ni Utaou Suki na Uta! (Japan)"
+        ],
+        "MESS": [
+          "mkaraoke"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/1997",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Minna de Odorou - Oz no Mahoutsukai"
+      ],
+      "Sha1": "0c60d4ff8cef472bb9ec01af21d503a5bf8cfaa6",
+      "Crc32": "b2c17f1b",
+      "SetNames": {
+        "No-Intro": [
+          "Minna de Odorou - Oz no Mahoutsukai (Japan)"
+        ],
+        "MESS": [
+          "oz"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/1996",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Moero!! Robocon - o-Ekaki Robocon!!",
+        "Oekaki Robokon!!"
+      ],
+      "Sha1": "78b17719d1d3dc81394509ac6f988c05d50b638a",
+      "Crc32": "e4116dc0",
+      "SetNames": {
+        "No-Intro": [
+          "Moero!! Robocon - o-Ekaki Robocon!! (Japan)"
+        ],
+        "MESS": [
+          "oekarobo"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Bandai"
+      ],
+      "ReleaseDate": "1/1/1999",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Mootto! Ojamajo Doremi",
+        "Mo~tto! Ojamajo Doremi"
+      ],
+      "Sha1": "807eba6e44cb941b295f4f047ef949eea63f82fc",
+      "Crc32": "42d8aad2",
+      "SetNames": {
+        "No-Intro": [
+          "Mootto! Ojamajo Doremi (Japan)"
+        ],
+        "MESS": [
+          "mottodrm"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Bandai"
+      ],
+      "ReleaseDate": "1/1/2001",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Muat Tago Galka"
+      ],
+      "Sha1": "7026dec346ce459ad5e81f3c4d209e2480d6626c",
+      "Crc32": "9974d421",
+      "SetNames": {
+        "No-Intro": [
+          "Muat Tago Galka (Korea) (Samsung Pico)"
+        ],
+        "MESS": [
+          "muattago"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega",
+        "Samsung"
+      ],
+      "ReleaseDate": "1/1/1998",
+      "Regions": [
+        "KR"
+      ]
+    },
+    {
+      "Titles": [
+        "Muppets, The - On the Go!",
+        "The Muppets on the Go!",
+        "The Muppets On The Go"
+      ],
+      "Sha1": "731ad3ab65f1681f48594cad86e1a1adb9f57829",
+      "Crc32": "d686b96e",
+      "SetNames": {
+        "No-Intro": [
+          "Muppets, The - On the Go! (USA)"
+        ],
+        "MESS": [
+          "muppetgo"
+        ],
+        "TGDB": [
+          "97705"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "Developers": [
+        "Climax Entertainment"
+      ],
+      "ReleaseDate": "1/1/1996",
+      "ESRB": "EC",
+      "Genres": [],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Musical Zoo"
+      ],
+      "Sha1": "a9f0f50c0631c4be34b6e71f76d67ef156ac2552",
+      "Crc32": "35add3d0",
+      "SetNames": {
+        "No-Intro": [
+          "Musical Zoo (USA)"
+        ],
+        "MESS": [
+          "musiczoo"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "NHK o-Kaasan to Issho - Do Re Mi Fa Donut! - Asobi Ippai Uta Ippai!",
+        "NHK Okaasan to Issho Do Re Mi Fa Do~nuts! Asobi Ippai Utaippai!"
+      ],
+      "Sha1": "7a13953f214dc56caa2565317ce984ab6c302b37",
+      "Crc32": "a26f6ceb",
+      "SetNames": {
+        "No-Intro": [
+          "NHK o-Kaasan to Issho - Do Re Mi Fa Donut! - Asobi Ippai Uta Ippai! (Japan)"
+        ],
+        "MESS": [
+          "okaissai"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Bandai"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "NHK o-Kaasan to Issho - Do Re Mi Fa Donut! - o-Ekaki Daaisuki! - Omoshiro o-Ekaki Daishuugou!",
+        "NHK Okaasan to Issho Do Re Mi Fa Do~nuts! Oekaki Daisuki! Omoshiro Oekaki Daishuugou!"
+      ],
+      "Sha1": "1fd236710576ca69a5f361ee721fc26f64c00f4b",
+      "Crc32": "d3172171",
+      "SetNames": {
+        "No-Intro": [
+          "NHK o-Kaasan to Issho - Do Re Mi Fa Donut! - o-Ekaki Daaisuki! - Omoshiro o-Ekaki Daishuugou! (Japan)"
+        ],
+        "MESS": [
+          "okaissod"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/1998",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "NHK o-Kaasan to Issho - Genki na Ko Atsumare!",
+        "NHK Okaasan to Issho Genki na Ko Atsumare!"
+      ],
+      "Sha1": "f9d2f7a3b88cbffb1f77d595d2eb151a5fdeec92",
+      "Crc32": "6275cc32",
+      "SetNames": {
+        "No-Intro": [
+          "NHK o-Kaasan to Issho - Genki na Ko Atsumare! (Japan)"
+        ],
+        "MESS": [
+          "okaissgk"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "NHK o-Kaasan to Issho - Goo Choco Lantan - Minna de o-Ekaki! - Tanoshii Asobi mo ippai!",
+        "Gu~chokorantan - Minna de Oekaki! Tanoshii Asobi mo Ippai!"
+      ],
+      "Sha1": "9143b0688dca4c9557e8a1d05e2810cad818fafb",
+      "Crc32": "40764bcf",
+      "SetNames": {
+        "No-Intro": [
+          "NHK o-Kaasan to Issho - Goo Choco Lantan - Minna de o-Ekaki! - Tanoshii Asobi mo ippai! (Japan)"
+        ],
+        "MESS": [
+          "guchoko"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Sega Toys"
+      ],
+      "ReleaseDate": "1/1/2001",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Ninpuu Sentai Hurricaneger & Hyakujuu Sentai Gaoranger - Chou Sentai Super Battle",
+        "Ninja Sentai Hurricanger & Hyakujuu Sentai Gaoranger - Chou Sentai Super Battle"
+      ],
+      "Sha1": "006f5442ab0798cff18067ad948265a22595fe35",
+      "Crc32": "e3da2ace",
+      "SetNames": {
+        "No-Intro": [
+          "Ninpuu Sentai Hurricaneger & Hyakujuu Sentai Gaoranger - Chou Sentai Super Battle (Japan)"
+        ],
+        "MESS": [
+          "cssbattl"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Bandai"
+      ],
+      "ReleaseDate": "1/1/2002",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Nintama Rantarou"
+      ],
+      "Sha1": "ecb68ef756dacbf15b100ba29f62f0588c05457b",
+      "Crc32": "eb563723",
+      "SetNames": {
+        "No-Intro": [
+          "Nintama Rantarou (Japan)"
+        ],
+        "MESS": [
+          "nintama"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Bandai"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Norimono Studio - Go Go! Norista AsobiMacho!",
+        "Norimono Studio - Go Go! Noristar Asobi Maccho"
+      ],
+      "Sha1": "092f458cc6bd53de74c54533dbde0e485a726fb1",
+      "Crc32": "1b126912",
+      "SetNames": {
+        "No-Intro": [
+          "Norimono Studio - Go Go! Norista AsobiMacho! (Japan)"
+        ],
+        "MESS": [
+          "gogonori"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Shogakukan"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Nurie Daisuki! - Dumbo - Dumbo no Waku Waku Circus!",
+        "Nurie Daisuki! Dumbo no Wakuwaku Saakasu!"
+      ],
+      "Sha1": "d0c490db4080e276de1b1b20d5137613a6b620c8",
+      "Crc32": "d86dc4dc",
+      "SetNames": {
+        "No-Intro": [
+          "Nurie Daisuki! - Dumbo - Dumbo no Waku Waku Circus! (Japan)"
+        ],
+        "MESS": [
+          "dumbo"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/1997",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "O Rei Leao - As Aventuras De Simba",
+        "O Rei Leão - As Aventuras de Simba"
+      ],
+      "Sha1": "32c18f081935a2752c942a1570aedb9b9b4ade18",
+      "Crc32": "e0e0fef1",
+      "SetNames": {
+        "No-Intro": [
+          "O Rei Leao - As Aventuras De Simba (Brazil)"
+        ],
+        "MESS": [
+          "lionkingb"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Tec Toy"
+      ],
+      "CloneOf": "lionking",
+      "Regions": [
+        "BR"
+      ]
+    },
+    {
+      "Titles": [
+        "o-Sewa Shimasho! Aka-chan Pico"
+      ],
+      "Sha1": "3494b01637c5546c537839edac0471a1105797bb",
+      "Crc32": "1e843a86",
+      "SetNames": {
+        "No-Intro": [
+          "o-Sewa Shimasho! Aka-chan Pico (Japan)"
+        ],
+        "MESS": [
+          "osewashi"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Sega Toys"
+      ],
+      "ReleaseDate": "1/1/2002",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Ojamajo Doremi #",
+        "Ojamajo Doremi#"
+      ],
+      "Sha1": "44bf0ee3d134174a736703e0e1354b4544a681e7",
+      "Crc32": "b4858fff",
+      "SetNames": {
+        "No-Intro": [
+          "Ojamajo Doremi # (Japan)"
+        ],
+        "MESS": [
+          "ojadrm"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Bandai"
+      ],
+      "ReleaseDate": "1/1/2000",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Ojamajo Doremi Dokka",
+        "n!",
+        "Ojamajo Doremi Dokka~n!"
+      ],
+      "Sha1": "f96f74adbff56dfd1685fd769828dcc56429404e",
+      "Crc32": "9c31107f",
+      "SetNames": {
+        "No-Intro": [
+          "Ojamajo Doremi Dokka~n! (Japan)"
+        ],
+        "MESS": [
+          "ojadrmdn"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Bandai"
+      ],
+      "ReleaseDate": "1/1/2002",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Ojarumaru"
+      ],
+      "Sha1": "ad87574e303a6792743409599bba25c56d777f88",
+      "Crc32": "ea435ada",
+      "SetNames": {
+        "No-Intro": [
+          "Ojarumaru (Japan)"
+        ],
+        "MESS": [
+          "ojarumar"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Bandai"
+      ],
+      "ReleaseDate": "1/1/1999",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Ongaku Daisuki Snoopy"
+      ],
+      "Sha1": "28c9dc463534e7e152890e0c2a105f149dca34cd",
+      "Crc32": "287e866f",
+      "SetNames": {
+        "No-Intro": [
+          "Ongaku Daisuki Snoopy (Japan)"
+        ],
+        "MESS": [
+          "snoopyod"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/1996",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Oryouri Daisuki! Kitchen Pico"
+      ],
+      "Sha1": "3525ca7bba4e2c747734ae5cf0d4673052c3874c",
+      "Crc32": "9a74e63f",
+      "SetNames": {
+        "No-Intro": [
+          "Oryouri Daisuki! Kitchen Pico (Japan)"
+        ],
+        "MESS": [
+          "kitchenp"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Sega Toys"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Oshare Pico - 'Suteki ni Henshin! Runa-chan no Oshare Hair Salon'",
+        "Oshare Pico Suteki ni Henshin! Naruchan no Oshare Hair Salon"
+      ],
+      "Sha1": "ff7b03a62620ea668ab41fe731af07b78db984fc",
+      "Crc32": "376cfa05",
+      "SetNames": {
+        "No-Intro": [
+          "Oshare Pico - 'Suteki ni Henshin! Runa-chan no Oshare Hair Salon' (Japan)"
+        ],
+        "MESS": [
+          "hairsaln"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Sega Toys"
+      ],
+      "ReleaseDate": "1/1/2000",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Otto Katachitchi"
+      ],
+      "Sha1": "93c825160286b483904428eece2b14e521c20d15",
+      "Crc32": "d1aee834",
+      "SetNames": {
+        "No-Intro": [
+          "Otto Katachitchi (Japan) (Mixt Book Player - Copera)"
+        ]
+      },
+      "Size": 1048576,
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Ougon Yuusha Goldran Himitsu Daihyakka"
+      ],
+      "Sha1": "a5c3da1403fc8a17abefa68b8dbcde751cfa74a9",
+      "Crc32": "9a167a43",
+      "SetNames": {
+        "No-Intro": [
+          "Ougon Yuusha Goldran Himitsu Daihyakka (Japan)"
+        ],
+        "MESS": [
+          "goldran"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Takara"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Outa no Canvas"
+      ],
+      "Sha1": "0578314e66b2385e0520a421af695ccfef44f076",
+      "Crc32": "b25e7134",
+      "SetNames": {
+        "No-Intro": [
+          "Outa no Canvas (Japan) (Mixt Book Player - Copera)"
+        ]
+      },
+      "Size": 1048576,
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Paddington no Sekai Ryokou"
+      ],
+      "Sha1": "58a8f00c0156271c5de7fa890c88a3aeaef6397e",
+      "Crc32": "ac96a86d",
+      "SetNames": {
+        "No-Intro": [
+          "Paddington no Sekai Ryokou (Japan)"
+        ],
+        "MESS": [
+          "padding"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/1996",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Paketto 2 Yukai na Nakama to Game de Kazu Asobi",
+        "Paketto 2 - Yukai na Nakama to Game de Kazu Asobi"
+      ],
+      "Sha1": "56579b02774ec28521e1b25f16debe43bc43149f",
+      "Crc32": "6dd450f5",
+      "SetNames": {
+        "No-Intro": [
+          "Paketto 2 Yukai na Nakama to Game de Kazu Asobi (Japan)"
+        ],
+        "MESS": [
+          "paketto2"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Sega"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Pecola no Daibouken - Maboroshi no Ice Cream o Sagase!",
+        "Pecola no Daibouken Maboroshi no Ice Cream wo Sagase!"
+      ],
+      "Sha1": "e89f1bcd17d4d3ba6f97bd16a13336e094b90210",
+      "Crc32": "8b393840",
+      "SetNames": {
+        "No-Intro": [
+          "Pecola no Daibouken - Maboroshi no Ice Cream o Sagase! (Japan)"
+        ],
+        "MESS": [
+          "pecola"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/1998",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Pengin Ukiuki Bikkuri Suizokukan - Meiro Puzzle",
+        "Penguin Ukiuki Bikkuri Suizokukan Meiro Puzzle"
+      ],
+      "Sha1": "92efda23d282ba2d2d7bfb5490442b55795ab9ce",
+      "Crc32": "502ccaa3",
+      "SetNames": {
+        "No-Intro": [
+          "Pengin Ukiuki Bikkuri Suizokukan - Meiro Puzzle (Japan)"
+        ],
+        "MESS": [
+          "penguki"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Pepe's Puzzles"
+      ],
+      "Sha1": "faf327f39af6e6f8957b307eacbd940fd02919a4",
+      "Crc32": "41e5618a",
+      "SetNames": {
+        "No-Intro": [
+          "Pepe's Puzzles (USA)"
+        ],
+        "MESS": [
+          "pepepuzl"
+        ],
+        "TGDB": [
+          "66924"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "ESRB": "EC",
+      "Genres": [
+        "Puzzle"
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Pet to Issho ni Tanoshiku Asobo - Pasokon Pico"
+      ],
+      "Sha1": "60c7404a81edcf1d558dbbd97eda0d93fc4227d9",
+      "Crc32": "bdad4962",
+      "SetNames": {
+        "No-Intro": [
+          "Pet to Issho ni Tanoshiku Asobo - Pasokon Pico (Japan)"
+        ],
+        "MESS": [
+          "pcpico"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Sega Toys"
+      ],
+      "ReleaseDate": "1/1/2004",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Petapeta Chokkin Asoberu Zukan - Doubutsu",
+        "Petapeta Chokkin Asoberu Zukan ~Doubutsu~"
+      ],
+      "Sha1": "9782459dca47ac06890789f5299bcc0bf7466bc8",
+      "Crc32": "4f0edce3",
+      "SetNames": {
+        "No-Intro": [
+          "Petapeta Chokkin Asoberu Zukan - Doubutsu (Japan)"
+        ],
+        "MESS": [
+          "petapeta"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Peter Pan - Neverland e Ikou!"
+      ],
+      "Sha1": "ae35761b41632dfbe4f1a6f3065a5db2514d5558",
+      "Crc32": "e0ea39c0",
+      "SetNames": {
+        "No-Intro": [
+          "Peter Pan - Neverland e Ikou! (Japan) (10th Anniversary)"
+        ],
+        "MESS": [
+          "peterpan10th"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Sega Toys"
+      ],
+      "CloneOf": "peterpan",
+      "ReleaseDate": "1/1/2003",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Peter Pan - Neverland e Ikou!"
+      ],
+      "Sha1": "68acb94634912e38d3d25385bd00b3832042eedc",
+      "Crc32": "e91ef80a",
+      "SetNames": {
+        "No-Intro": [
+          "Peter Pan - Neverland e Ikou! (Japan)"
+        ],
+        "MESS": [
+          "peterpan"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/1997",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Peuraideu Rokeui Moheom"
+      ],
+      "Sha1": "adb29bf6f37a028db9f3c677596921af96e52d43",
+      "Crc32": "6dfc0fe5",
+      "SetNames": {
+        "No-Intro": [
+          "Peuraideu Rokeui Moheom (Korea) (Samsung Pico)"
+        ],
+        "MESS": [
+          "lionkingk"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Samsung"
+      ],
+      "CloneOf": "lionking",
+      "Regions": [
+        "KR"
+      ]
+    },
+    {
+      "Titles": [
+        "Pico Sampler",
+        "Pico Storyware Sampler"
+      ],
+      "Sha1": "d3342d20002fed586b43e26b29aefe15138d98ae",
+      "Crc32": "85c4f26b",
+      "SetNames": {
+        "No-Intro": [
+          "Pico Sampler (USA)"
+        ],
+        "MESS": [
+          "picosamp"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/1996",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Pico Soccer - Mezase Soccer Senshu"
+      ],
+      "Sha1": "94a10f18bcf6bea864f8223638850a55aa2be285",
+      "Crc32": "02c3c4fd",
+      "SetNames": {
+        "No-Intro": [
+          "Pico Soccer - Mezase Soccer Senshu (Japan)"
+        ],
+        "MESS": [
+          "psoccer"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Plarail Pico - Plarail de Asobou!"
+      ],
+      "Sha1": "e40812561106e177b7874e6f7827aaad26b1740d",
+      "Crc32": "442298ee",
+      "SetNames": {
+        "No-Intro": [
+          "Plarail Pico - Plarail de Asobou! (Japan)"
+        ],
+        "MESS": [
+          "plarail"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Sega Toys"
+      ],
+      "ReleaseDate": "1/1/2001",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Pocahontas"
+      ],
+      "Sha1": "f1ca449a2aab70f1f4aeb4430e9ee0f7384d6364",
+      "Crc32": "752114c8",
+      "SetNames": {
+        "No-Intro": [
+          "Pocahontas (Brazil)"
+        ],
+        "MESS": [
+          "pocahontb"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Tec Toy"
+      ],
+      "CloneOf": "pocahont",
+      "Regions": [
+        "BR"
+      ]
+    },
+    {
+      "Titles": [
+        "Pocahontas"
+      ],
+      "Sha1": "8376f01619def050fa7a2f53d48aa32ab0e860cd",
+      "Crc32": "deefbfd9",
+      "SetNames": {
+        "No-Intro": [
+          "Pocahontas (Europe)"
+        ],
+        "MESS": [
+          "pocahont"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega"
+      ],
+      "Regions": [
+        "EU"
+      ]
+    },
+    {
+      "Titles": [
+        "Pocahontas - Riverbend Adventures"
+      ],
+      "Sha1": "b2c70bb26f9fed925b6beab27db73d8fc7e21cd7",
+      "Crc32": "edf2218b",
+      "SetNames": {
+        "No-Intro": [
+          "Pocahontas - Riverbend Adventures (USA)"
+        ],
+        "MESS": [
+          "pocahontu"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega"
+      ],
+      "CloneOf": "pocahont",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Pocket Monsters - Suuji o Tsukamaeyou!",
+        "Pocket Monsters Suuji wo Tsukamaeyou!"
+      ],
+      "Sha1": "42f0b341e99ebf1596d7c4f239425ebe2e9cfb77",
+      "Crc32": "bb46bb44",
+      "SetNames": {
+        "No-Intro": [
+          "Pocket Monsters - Suuji o Tsukamaeyou! (Japan)"
+        ],
+        "MESS": [
+          "pokemon"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Sega Toys"
+      ],
+      "ReleaseDate": "1/1/2002",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Pocket Monsters Advance Generation - Hiragana Katakana Kakechatta!"
+      ],
+      "Sha1": "1fac4b9c373d441c0ba27e8a976b113cadaddfc3",
+      "Crc32": "ada52e72",
+      "SetNames": {
+        "No-Intro": [
+          "Pocket Monsters Advance Generation - Hiragana Katakana Kakechatta! (Japan)"
+        ],
+        "MESS": [
+          "pokehkk"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Sega Toys"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Pocket Monsters Advance Generation - Minna de Pico - Pokemon Wai Wai Battle!",
+        "Pocket Monsters Advance Generation - Minna De Pico - Pokemon Waiwai Battle!"
+      ],
+      "Sha1": "97b88d0b09376b108d611e036e415c37d67bb943",
+      "Crc32": "c3b77d13",
+      "SetNames": {
+        "No-Intro": [
+          "Pocket Monsters Advance Generation - Minna de Pico - Pokemon Wai Wai Battle! (Japan)"
+        ],
+        "MESS": [
+          "pokewai"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Sega Toys"
+      ],
+      "ReleaseDate": "1/1/2004",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Pooh-san no Hajimete no Eigo"
+      ],
+      "Sha1": "a6fc3b973518678caf89605f841cad6407c7e861",
+      "Crc32": "265a764a",
+      "SetNames": {
+        "No-Intro": [
+          "Pooh-san no Hajimete no Eigo (Japan) (Rev 1)"
+        ],
+        "MESS": [
+          "poohhaji"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Kodansha"
+      ],
+      "ReleaseDate": "1/1/2001",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Pooh-san no Hajimete no Eigo"
+      ],
+      "Sha1": "29bffce1aecaa7cc439ad18a23ecb4d5c919ad65",
+      "Crc32": "7e4f093c",
+      "SetNames": {
+        "No-Intro": [
+          "Pooh-san no Hajimete no Eigo (Japan)"
+        ],
+        "MESS": [
+          "poohhajia"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Kodansha"
+      ],
+      "CloneOf": "poohhaji",
+      "ReleaseDate": "1/1/2001",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Pooh-san no Ichinichi",
+        "Pooh-san no Ichi Nichi"
+      ],
+      "Sha1": "8d88b726a9558f1925398b561616ed3bfee3d1b2",
+      "Crc32": "654cc2a0",
+      "SetNames": {
+        "No-Intro": [
+          "Pooh-san no Ichinichi (Japan)"
+        ],
+        "MESS": [
+          "poohcornj1"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "CloneOf": "poohcorn",
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Pooh-san no Ichinichi",
+        "Pooh-san no Ichi Nichi"
+      ],
+      "Sha1": "6d9dd74c9b1b22bd173d00be88ce87d3e32bde55",
+      "Crc32": "bd9626b7",
+      "SetNames": {
+        "No-Intro": [
+          "Pooh-san no Ichinichi (Japan) (Rev 1)"
+        ],
+        "MESS": [
+          "poohcornj"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "CloneOf": "poohcorn",
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Pooh-san to Tanoshii Nakama-tachi",
+        "Pooh-san to Tanoshii na Kamatachi",
+        "A Year at Pooh Corner"
+      ],
+      "Sha1": "7321cdecb77d27e7fde6cd3937a24d24de6d35df",
+      "Crc32": "4811d334",
+      "SetNames": {
+        "No-Intro": [
+          "Pooh-san to Tanoshii Nakama-tachi (Japan)"
+        ],
+        "MESS": [
+          "poohtano"
+        ],
+        "TGDB": [
+          "37736"
+        ]
+      },
+      "OverviewId": 3,
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "Developers": [
+        "Novotrade International"
+      ],
+      "ReleaseDate": "11/15/1994",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Professeur Pico et la Machine a Couleurs"
+      ],
+      "Sha1": "cec40575c1ddbb9c73241346b9e6510820c28b7a",
+      "Crc32": "2870805c",
+      "SetNames": {
+        "No-Intro": [
+          "Professeur Pico et la Machine a Couleurs (France)"
+        ],
+        "MESS": [
+          "profpicof"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "CloneOf": "profpico",
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Professor Pico and the Paintbox Puzzle"
+      ],
+      "Sha1": "a32376e294d0b7f0cc2043965891784bbe614e09",
+      "Crc32": "2e81a633",
+      "SetNames": {
+        "No-Intro": [
+          "Professor Pico and the Paintbox Puzzle (Europe)"
+        ],
+        "MESS": [
+          "profpico"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "EU"
+      ]
+    },
+    {
+      "Titles": [
+        "Professor Pico e l'Enigma della Scatola di Pastelli, Il",
+        "Professor Pico e l'Enigma della Scatola di Pastelli"
+      ],
+      "Sha1": "831816248c39133f5251b0a4bf5d92515932d536",
+      "Crc32": "8aa99b73",
+      "SetNames": {
+        "No-Intro": [
+          "Professor Pico e l'Enigma della Scatola di Pastelli, Il (Italy)"
+        ],
+        "MESS": [
+          "profpicoi"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "CloneOf": "profpico",
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "IT"
+      ]
+    },
+    {
+      "Titles": [
+        "Professor Pico und das Malkasten Puzzle"
+      ],
+      "Sha1": "429777d4b1204e3341bb83d72e0eb361a9f3623e",
+      "Crc32": "d2b063ed",
+      "SetNames": {
+        "No-Intro": [
+          "Professor Pico und das Malkasten Puzzle (Germany)"
+        ],
+        "MESS": [
+          "profpicog"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "CloneOf": "profpico",
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "DE"
+      ],
+      "Languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Puff e as Quatro Estacoes",
+        "Puff e as Quatro Estações"
+      ],
+      "Sha1": "02b84b7bf5fad09ea83ee63bfd4c4296050ad8a0",
+      "Crc32": "88d92655",
+      "SetNames": {
+        "No-Intro": [
+          "Puff e as Quatro Estacoes (Brazil)"
+        ],
+        "MESS": [
+          "poohcornb"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Tec Toy"
+      ],
+      "CloneOf": "poohcorn",
+      "Regions": [
+        "BR"
+      ]
+    },
+    {
+      "Titles": [
+        "Quiz ni Challenge! Doraemon"
+      ],
+      "Sha1": "50214e02c82f9d85efc2dcbca6e1c82dd86b7854",
+      "Crc32": "876a43a8",
+      "SetNames": {
+        "No-Intro": [
+          "Quiz ni Challenge! Doraemon (Japan)"
+        ],
+        "MESS": [
+          "quizdora"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Race ni Deyou yo! - Ken-chan to Pepe Boku no Kuruma de Daibouken",
+        "Race ni de Youyo! Ken-chan to Pepe Boku no Kuruma de Daibouken"
+      ],
+      "Sha1": "af6dde5231081e91e88235765ab3d340d783ddd3",
+      "Crc32": "466c69db",
+      "SetNames": {
+        "No-Intro": [
+          "Race ni Deyou yo! - Ken-chan to Pepe Boku no Kuruma de Daibouken (Japan)"
+        ],
+        "MESS": [
+          "kpkuruma"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/1996",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Rhythm Pico - Pippi-chan to Rhythm Asobi",
+        "Rhythm Pico Pippi-chan to Rhythm Asobi"
+      ],
+      "Sha1": "f99a6701e6295edb41e887f50474a873cac3db57",
+      "Crc32": "1652ea8d",
+      "SetNames": {
+        "No-Intro": [
+          "Rhythm Pico - Pippi-chan to Rhythm Asobi (Japan)"
+        ],
+        "MESS": [
+          "pippirtm"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Sega Toys"
+      ],
+      "ReleaseDate": "1/1/1999",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Richard Scarry's El Dia Mas Ajetreado de las Vidas de Felipe y Gusy",
+        "Richard Scarry's - El Día Más Ajetreado de las Vidas de Felipe y Gusy"
+      ],
+      "Sha1": "e65c808a51499c254ec24cbf9fb611a10e7505ff",
+      "Crc32": "d529aacd",
+      "SetNames": {
+        "No-Intro": [
+          "Richard Scarry's El Dia Mas Ajetreado de las Vidas de Felipe y Gusy (Spain)"
+        ],
+        "MESS": [
+          "hucklowls"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega"
+      ],
+      "CloneOf": "hucklowl",
+      "Regions": [
+        "ES"
+      ],
+      "Languages": [
+        "es",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Richard Scarry's Huckle and Lowly's Busiest Day Ever",
+        "Richard Scarry's - Huckle and Lowly's Busiest Day Ever"
+      ],
+      "Sha1": "24c892b87c0a55aa10b5a8559c3eddbaa15af69a",
+      "Crc32": "e9604594",
+      "SetNames": {
+        "No-Intro": [
+          "Richard Scarry's Huckle and Lowly's Busiest Day Ever (Europe)"
+        ],
+        "MESS": [
+          "hucklowl"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Regions": [
+        "EU"
+      ]
+    },
+    {
+      "Titles": [
+        "Richard Scarry's Huckle and Lowly's Busiest Day Ever",
+        "Richard Scarry's - Huckle and Lowly's Busiest Day Ever"
+      ],
+      "Sha1": "ce0b387427226baa4067d6eacebe90cef760a18e",
+      "Crc32": "42007e92",
+      "SetNames": {
+        "No-Intro": [
+          "Richard Scarry's Huckle and Lowly's Busiest Day Ever (USA)"
+        ],
+        "MESS": [
+          "hucklowlu"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega"
+      ],
+      "CloneOf": "hucklowl",
+      "ReleaseDate": "1/1/1994",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Richard Scarry's La Giornata Indaffaratissima di Sandrino e Zigo-Zago",
+        "Richard Scarry's - La Giornata Indaffaratissima di Sandrino e Zigo-Zago"
+      ],
+      "Sha1": "0e5c14fe1fd3360b9269fdf219decb7ef4480304",
+      "Crc32": "2573131a",
+      "SetNames": {
+        "No-Intro": [
+          "Richard Scarry's La Giornata Indaffaratissima di Sandrino e Zigo-Zago (Italy)"
+        ],
+        "MESS": [
+          "hucklowli"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega"
+      ],
+      "CloneOf": "hucklowl",
+      "Regions": [
+        "IT"
+      ]
+    },
+    {
+      "Titles": [
+        "Richard Scarry's Une Journee Bien Remplie pour Cassis et Asticot",
+        "Richard Scarry's - Une Journee Bien Remplie pour Cassis et Asticot"
+      ],
+      "Sha1": "9d9cdd8281e7dadb6668f35692e42fbde74d6349",
+      "Crc32": "53f94256",
+      "SetNames": {
+        "No-Intro": [
+          "Richard Scarry's Une Journee Bien Remplie pour Cassis et Asticot (France)"
+        ],
+        "MESS": [
+          "hucklowlf"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega"
+      ],
+      "CloneOf": "hucklowl",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Richard Scarry's Viel zu tun fuer Huckleberry und Egon",
+        "Richard Scarry's - Viel zu tun für Huckleberry und Egon."
+      ],
+      "Sha1": "d1e3e9d3dba32c39d53cfbe76f0d233ec36bab79",
+      "Crc32": "659d7fee",
+      "SetNames": {
+        "No-Intro": [
+          "Richard Scarry's Viel zu tun fuer Huckleberry und Egon (Germany)"
+        ],
+        "MESS": [
+          "hucklowlg"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega"
+      ],
+      "CloneOf": "hucklowl",
+      "Regions": [
+        "DE"
+      ],
+      "Languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Saa Shuppatsu Da! - Ken-chan to Pepe no Wanpaku Drive",
+        "Saa Shuppatsuda! Ken-chan to Pepe no Wanpaku Drive"
+      ],
+      "Sha1": "bed4ce255b139f0e71eb3197a058075e0c051aa1",
+      "Crc32": "1eb9b7f6",
+      "SetNames": {
+        "No-Intro": [
+          "Saa Shuppatsu Da! - Ken-chan to Pepe no Wanpaku Drive (Japan)"
+        ],
+        "MESS": [
+          "kpwdrive"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/1996",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Sanou Kaihatsu Series 1 - Atama ga Yoku Naru - Zukei Ninshiki",
+        "Sanou Kaihatsu Series 1 Zukei Ninshiki"
+      ],
+      "Sha1": "6194c99ac07ac343dc98fee23a8d77aa7049d779",
+      "Crc32": "836f6478",
+      "SetNames": {
+        "No-Intro": [
+          "Sanou Kaihatsu Series 1 - Atama ga Yoku Naru - Zukei Ninshiki (Japan) (Rev 1)"
+        ],
+        "MESS": [
+          "sanouk1"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Imagineer"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Sanou Kaihatsu Series 1 - Atama ga Yoku Naru - Zukei Ninshiki",
+        "Sanou Kaihatsu Series 1 Zukei Ninshiki"
+      ],
+      "Sha1": "5be121b25ab4cda4c7859707107ec04b42f25469",
+      "Crc32": "6080779d",
+      "SetNames": {
+        "No-Intro": [
+          "Sanou Kaihatsu Series 1 - Atama ga Yoku Naru - Zukei Ninshiki (Japan)"
+        ],
+        "MESS": [
+          "sanouk1a"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Imagineer"
+      ],
+      "CloneOf": "sanouk1",
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Sanou Kaihatsu Series 3 - Atama ga Yoku Naru - Hikaku, Bunrui",
+        "Sanou Kaihatsu Series 3 Hikaku - Bunrui"
+      ],
+      "Sha1": "03dc707836be4ceaeea1ddedc5b909d8c577b504",
+      "Crc32": "c8a23b22",
+      "SetNames": {
+        "No-Intro": [
+          "Sanou Kaihatsu Series 3 - Atama ga Yoku Naru - Hikaku, Bunrui (Japan)"
+        ],
+        "MESS": [
+          "sanouk3"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Imagineer"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Sanou Kaihatsu Series 4 - Atama ga Yoku Naru - Suiri, Kousei",
+        "Sanou Kaihatsu Series 4 Suiri - Kousei"
+      ],
+      "Sha1": "aa0b7e4c9dac198214fcc25d3ee185b63bd1813d",
+      "Crc32": "2a34282a",
+      "SetNames": {
+        "No-Intro": [
+          "Sanou Kaihatsu Series 4 - Atama ga Yoku Naru - Suiri, Kousei (Japan) (Rev 1)"
+        ],
+        "MESS": [
+          "sanouk4"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Imagineer"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Sanou Kaihatsu Series 5 - Meiro - Kioku",
+        "Sanou Kaihatsu Series 5 Meiro - Kioku"
+      ],
+      "Sha1": "101d5652ffd704788f1f44b671be843e3430e58a",
+      "Crc32": "6340c18a",
+      "SetNames": {
+        "No-Intro": [
+          "Sanou Kaihatsu Series 5 - Meiro - Kioku (Japan)"
+        ],
+        "MESS": [
+          "sanouk5"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Imagineer"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Sanou Kaihatsu Series 6 - Atama ga Yoku Naru - Ouyou Mondai",
+        "Sanou Kaihatsu Series 6 Ouyoumondai"
+      ],
+      "Sha1": "cbfbbc8aea7116e319582ecd340fabae855881d0",
+      "Crc32": "0444049f",
+      "SetNames": {
+        "No-Intro": [
+          "Sanou Kaihatsu Series 6 - Atama ga Yoku Naru - Ouyou Mondai (Japan)"
+        ],
+        "MESS": [
+          "sanouk6"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Imagineer"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Sanrio Festival - Tanoshii Card-zukuri",
+        "Sanrio Carnival Tanoshii Card Dukuri"
+      ],
+      "Sha1": "7dad2ad9f60e508d264efd048686788cfdd2f73f",
+      "Crc32": "732373f6",
+      "SetNames": {
+        "No-Intro": [
+          "Sanrio Festival - Tanoshii Card-zukuri (Japan)"
+        ],
+        "MESS": [
+          "sanrioct"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Sanrio Puroland de Dance Carnival - Minna de o-Ryouri o-Saihou",
+        "Sanrio Puroland de Dance Carnival - Minna de Oryouri Osaihou"
+      ],
+      "Sha1": "ea7b9e819e282d7be83b07a5ca6258f01fb77541",
+      "Crc32": "b69e3baa",
+      "SetNames": {
+        "No-Intro": [
+          "Sanrio Puroland de Dance Carnival - Minna de o-Ryouri o-Saihou (Japan)"
+        ],
+        "MESS": [
+          "sanriodca"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega"
+      ],
+      "CloneOf": "sanriodc",
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Sanrio Puroland de Dance Carnival - Minna de o-Ryouri o-Saihou",
+        "Sanrio Puroland de Dance Carnival - Minna de Oryouri Osaihou"
+      ],
+      "Sha1": "80cf679b4d542e0c9dde7d026f4a37bd8dcb7c29",
+      "Crc32": "a947a477",
+      "SetNames": {
+        "No-Intro": [
+          "Sanrio Puroland de Dance Carnival - Minna de o-Ryouri o-Saihou (Japan) (Rev 1)"
+        ],
+        "MESS": [
+          "sanriodc"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Sanrio Puroland ni Ikou! - Kitty to Minna no Hajimete no Keyboard!",
+        "Kitty to Minna no Keyboard Pico Sanrio Puroland ni Ikou!"
+      ],
+      "Sha1": "06df86055b9d4cd06d91406ad6639d9729ccde97",
+      "Crc32": "3df93ffe",
+      "SetNames": {
+        "No-Intro": [
+          "Sanrio Puroland ni Ikou! - Kitty to Minna no Hajimete no Keyboard! (Japan)"
+        ],
+        "MESS": [
+          "kittykbd"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Sega Toys"
+      ],
+      "ReleaseDate": "1/1/2000",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Satonaka Machiko no Tanoshii Origami"
+      ],
+      "Sha1": "531db0b4bce64d312e73b97341e4eaf134506068",
+      "Crc32": "90d39634",
+      "SetNames": {
+        "No-Intro": [
+          "Satonaka Machiko no Tanoshii Origami (Japan)"
+        ],
+        "MESS": [
+          "origami"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Nayuta"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Sekai Meisaku Gekijou"
+      ],
+      "Sha1": "8da44d61ada02fc56b528948be443dea00709a07",
+      "Crc32": "c9334ac9",
+      "SetNames": {
+        "No-Intro": [
+          "Sekai Meisaku Gekijou (Japan)"
+        ],
+        "MESS": [
+          "sekaimg"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Sesame Street - Alphabet Avenue",
+        "Sesame Street Alphabet Avenue "
+      ],
+      "Sha1": "62ce7f387eb9f61bdef3f74df8aff98106b022da",
+      "Crc32": "ca1bbeef",
+      "SetNames": {
+        "No-Intro": [
+          "Sesame Street - Alphabet Avenue (USA)"
+        ],
+        "MESS": [
+          "sesame"
+        ],
+        "TGDB": [
+          "76183"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "11/1/1992",
+      "ESRB": "E",
+      "Genres": [],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Shichida Makoto Kanshuu - Unou Image Training - Hiragana, Katakana Casino de Mojavegas Dream!",
+        "Kanshuu Unou Image Training - Hiragana - Katakana"
+      ],
+      "Sha1": "88d1f8ce5ef824f1a989bed02f4dbf9b7861ee05",
+      "Crc32": "8e12c06d",
+      "SetNames": {
+        "No-Intro": [
+          "Shichida Makoto Kanshuu - Unou Image Training - Hiragana, Katakana Casino de Mojavegas Dream! (Japan)"
+        ],
+        "MESS": [
+          "kanshuno"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Pony Canyon"
+      ],
+      "ReleaseDate": "1/1/2000",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Shichida Makoto Kanshuu - Unou Image Training - Hiragana, Katakana Casino de Mojavegas Dream!",
+        "Kanshuu Unou Image Training - Hiragana - Katakana"
+      ],
+      "Sha1": "d3ff8969d9262688a92ee51c8cd3fc9d48f027c9",
+      "Crc32": "f7dc86dc",
+      "SetNames": {
+        "No-Intro": [
+          "Shichida Makoto Kanshuu - Unou Image Training - Hiragana, Katakana Casino de Mojavegas Dream! (Japan) (Best Selection)"
+        ],
+        "MESS": [
+          "kanshunobs"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Pony Canyon"
+      ],
+      "CloneOf": "kanshuno",
+      "ReleaseDate": "1/1/2005",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Shichida Makoto Kanshuu - Unou Image Training - Sansuu, Eigo de Mojars ni Chousen - The Arithmetic & ABC Fight VS Mojars - Image Training for the Right Side of the Brain",
+        "Image Training for the Right Side of the Brain - The Arithmetic & ABC Fight vs Mojars"
+      ],
+      "Sha1": "5ca5f0ef8741acb5d58ce0f61e6789ec2adb00ea",
+      "Crc32": "42a578a8",
+      "SetNames": {
+        "No-Intro": [
+          "Shichida Makoto Kanshuu - Unou Image Training - Sansuu, Eigo de Mojars ni Chousen - The Arithmetic & ABC Fight VS Mojars - Image Training for the Right Side of the Brain (Japan)"
+        ],
+        "MESS": [
+          "imagtrn",
+          "imagtrnbs"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Sega Toys"
+      ],
+      "CloneOf": "imagtrn",
+      "ReleaseDate": "1/1/2004",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Shima Shima Tora no Shimajiro - Shimajiro to Yume no Kuni e Daibouken!",
+        "Shimajiro to Yume no Kuni he Daibouken!"
+      ],
+      "Sha1": "606f6794cc18120684eff36f06e29a3d2f373b93",
+      "Crc32": "00239298",
+      "SetNames": {
+        "No-Intro": [
+          "Shima Shima Tora no Shimajiro - Shimajiro to Yume no Kuni e Daibouken! (Japan)"
+        ],
+        "MESS": [
+          "shimayum"
+        ]
+      },
+      "Size": 4194304,
+      "Publishers": [
+        "Sega Toys"
+      ],
+      "ReleaseDate": "1/1/2002",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Shima Shima Tora no Shimajiro - Tanoshii Ichinichi",
+        "Shima Shima Tora no Shimajiro - Tanoshii Ichi Nichi"
+      ],
+      "Sha1": "1b2c4a81c88a86274f0a24f63ae4ee59339b8e67",
+      "Crc32": "d228a783",
+      "SetNames": {
+        "No-Intro": [
+          "Shima Shima Tora no Shimajiro - Tanoshii Ichinichi (Japan)"
+        ],
+        "MESS": [
+          "shimatan"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Sega Toys"
+      ],
+      "ReleaseDate": "1/1/2000",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Shin Ultra Hero",
+        "Shin Ultrahero"
+      ],
+      "Sha1": "db7648dd4b9c54f46b5248ee9c726848ae59998b",
+      "Crc32": "92097565",
+      "SetNames": {
+        "No-Intro": [
+          "Shin Ultra Hero (Japan)"
+        ],
+        "MESS": [
+          "shinuher"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Bandai"
+      ],
+      "ReleaseDate": "1/1/1998",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Shin Ultraman Pico - Ultra Fighting Base",
+        "Shin Ultraman Pico Ultraman Fighting Best"
+      ],
+      "Sha1": "4d2d17bddb03b4ab179f4db1ffa2482137b51a29",
+      "Crc32": "203dc701",
+      "SetNames": {
+        "No-Intro": [
+          "Shin Ultraman Pico - Ultra Fighting Base (Japan)"
+        ],
+        "MESS": [
+          "ultrafgt"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Bandai"
+      ],
+      "ReleaseDate": "1/1/2001",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Shinseiki Ultraman Densetsu"
+      ],
+      "Sha1": "971706bd87e7d611ddf379ad87fad7b3560f0ecb",
+      "Crc32": "cfd50a38",
+      "SetNames": {
+        "No-Intro": [
+          "Shinseiki Ultraman Densetsu (Japan)"
+        ],
+        "MESS": [
+          "ultraden"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Bandai"
+      ],
+      "ReleaseDate": "1/1/2002",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Shirayukihime"
+      ],
+      "Sha1": "daad822ffbcf1784f5cda10984d4fc62352b7844",
+      "Crc32": "6b2493a2",
+      "SetNames": {
+        "No-Intro": [
+          "Shirayukihime (Japan)"
+        ],
+        "MESS": [
+          "shirayuk"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Sega Toys"
+      ],
+      "ReleaseDate": "1/1/1999",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Smart Alex and Smart Alice - Curious Kids"
+      ],
+      "Sha1": "1d809139fd2926107a9fae6270b10615c6f6477f",
+      "Crc32": "8b5e7490",
+      "SetNames": {
+        "No-Intro": [
+          "Smart Alex and Smart Alice - Curious Kids (USA)"
+        ],
+        "MESS": [
+          "curkids"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega?"
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Snoopy no Gakugeikai"
+      ],
+      "Sha1": "6d6b49249cd4513d59e1c863fed5f273113d7e9b",
+      "Crc32": "b76cd97c",
+      "SetNames": {
+        "No-Intro": [
+          "Snoopy no Gakugeikai (Japan)"
+        ],
+        "MESS": [
+          "snoopy"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Sodatete Manabu Doubutsu Oukoku",
+        "Sodatete Manabu - Doubutsu Oukoku!"
+      ],
+      "Sha1": "6783a8a25bf1f71ceb7b109ddce89c94e5f492b7",
+      "Crc32": "40d9252e",
+      "SetNames": {
+        "No-Intro": [
+          "Sodatete Manabu Doubutsu Oukoku (Japan)"
+        ],
+        "MESS": [
+          "sodatete"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Yonezawa"
+      ],
+      "ReleaseDate": "1/1/1996",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Sonic The Hedgehog's Gameworld",
+        "Sonic the Hedgehog's Gameworld"
+      ],
+      "Sha1": "839d8be99eabf371bb992166471c877db6f6e265",
+      "Crc32": "e472a795",
+      "SetNames": {
+        "No-Intro": [
+          "Sonic The Hedgehog's Gameworld (USA)"
+        ],
+        "MESS": [
+          "sonicgam"
+        ],
+        "TGDB": [
+          "53857"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/1996",
+      "ESRB": "EC",
+      "Genres": [
+        "Action"
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Sonic The Hedgehog's Gameworld",
+        "Sonic the Hedgehog's Gameworld"
+      ],
+      "Sha1": "a2f920ea5737eb24591274f84b28da97db72a151",
+      "Crc32": "b8f507fa",
+      "SetNames": {
+        "No-Intro": [
+          "Sonic The Hedgehog's Gameworld (Japan) (Rev 1)"
+        ],
+        "MESS": [
+          "sonigamj"
+        ],
+        "TGDB": [
+          "53857"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "CloneOf": "sonicgam",
+      "ReleaseDate": "8/1/1994",
+      "ESRB": "EC",
+      "Genres": [
+        "Action"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Sonic The Hedgehog's Gameworld",
+        "Sonic the Hedgehog's Gameworld"
+      ],
+      "Sha1": "6af6bf20056ccac6ecdc0ebad323eaf4bffb5963",
+      "Crc32": "df7a9599",
+      "SetNames": {
+        "No-Intro": [
+          "Sonic The Hedgehog's Gameworld (Japan)"
+        ],
+        "MESS": [
+          "sonigamja"
+        ],
+        "TGDB": [
+          "53857"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "CloneOf": "sonicgam",
+      "ReleaseDate": "8/1/1994",
+      "ESRB": "EC",
+      "Genres": [
+        "Action"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Sootjanara Yeohaeng!"
+      ],
+      "Sha1": "5370e95ac01f005bd810d8dc84e765335d64603c",
+      "Crc32": "d0ff9b7d",
+      "SetNames": {
+        "No-Intro": [
+          "Sootjanara Yeohaeng! (Korea) (Samsung Pico)"
+        ],
+        "MESS": [
+          "gccaperk"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Samsung"
+      ],
+      "CloneOf": "gccaper",
+      "ReleaseDate": "1/1/1996",
+      "Regions": [
+        "KR"
+      ]
+    },
+    {
+      "Titles": [
+        "Soreike! Anpanman - Anpanman no Chie no World"
+      ],
+      "Sha1": "f663e6dc7e5919773571e84b27e1882160dd1c01",
+      "Crc32": "1f633203",
+      "SetNames": {
+        "No-Intro": [
+          "Soreike! Anpanman - Anpanman no Chie no World (Japan)"
+        ],
+        "MESS": [
+          "anpanmcw"
+        ]
+      },
+      "Size": 4194304,
+      "Publishers": [
+        "Sega Toys"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Soreike! Anpanman - Anpanman no Hitori de Dekichatta!"
+      ],
+      "Sha1": "af10335af9c0a61fc6d6390ef648038e7776a57a",
+      "Crc32": "0ee99056",
+      "SetNames": {
+        "No-Intro": [
+          "Soreike! Anpanman - Anpanman no Hitori de Dekichatta! (Japan)"
+        ],
+        "MESS": [
+          "anpanmhd"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Sega Toys"
+      ],
+      "ReleaseDate": "1/1/2005",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Soreike! Anpanman - Anpanman to Denwa de Asobou!"
+      ],
+      "Sha1": "b5b06d19a41c677afa046e47ad674242c765de06",
+      "Crc32": "f2e1d899",
+      "SetNames": {
+        "No-Intro": [
+          "Soreike! Anpanman - Anpanman to Denwa de Asobou! (Japan)"
+        ],
+        "MESS": [
+          "anpanman"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/1997",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Soreike! Anpanman - Anpanman to Kotoba Asobi"
+      ],
+      "Sha1": "99bcf3eb0ca4671629739bd575e2356634cee466",
+      "Crc32": "9ccd5cae",
+      "SetNames": {
+        "No-Intro": [
+          "Soreike! Anpanman - Anpanman to Kotoba Asobi (Japan)"
+        ],
+        "MESS": [
+          "anpanmka"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/1998",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Soreike! Anpanman - Anpanman to Suuji Asobi"
+      ],
+      "Sha1": "b79329d8a4327c6627713d533d5e108ea5fbbee4",
+      "Crc32": "515ac6ad",
+      "SetNames": {
+        "No-Intro": [
+          "Soreike! Anpanman - Anpanman to Suuji Asobi (Japan)"
+        ],
+        "MESS": [
+          "anpanmsa"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Sega Toys"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Soreike! Anpanman - Anpanman to Tanoshii Drive!"
+      ],
+      "Sha1": "000808ad7fa7120976f2d579c23ce8662e721b92",
+      "Crc32": "ad3ef418",
+      "SetNames": {
+        "No-Intro": [
+          "Soreike! Anpanman - Anpanman to Tanoshii Drive! (Japan)"
+        ],
+        "MESS": [
+          "anpanmtd"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/1998",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Soreike! Anpanman Eigo to Nakayoshi 2 - Tanoshii Carnival",
+        "Soreike! Anpanman - Eigo to Nakayoshi 2 - Tanoshii Carnival"
+      ],
+      "Sha1": "b61bb5b7ef0572b50c806d4a7ea01f8db04f814d",
+      "Crc32": "1b28d597",
+      "SetNames": {
+        "No-Intro": [
+          "Soreike! Anpanman Eigo to Nakayoshi 2 - Tanoshii Carnival (Japan)"
+        ],
+        "MESS": [
+          "anpanme2"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Soreike! Anpanman Eigo to Nakayoshi Youchien de ABC",
+        "Soreike! Anpanman - Eigo to Nakayoshi - Youchien de ABC"
+      ],
+      "Sha1": "fc07a121ca26e6ccb32e09b15e55bc72c3a83848",
+      "Crc32": "700e90db",
+      "SetNames": {
+        "No-Intro": [
+          "Soreike! Anpanman Eigo to Nakayoshi Youchien de ABC (Japan)"
+        ],
+        "MESS": [
+          "anpanmen"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Soreike! Anpanman no Game de Asobou Anpanman"
+      ],
+      "Sha1": "bd721f6aa96d1c258019b93cf041354887cae389",
+      "Crc32": "75bd0685",
+      "SetNames": {
+        "No-Intro": [
+          "Soreike! Anpanman no Game de Asobou Anpanman (Japan)"
+        ],
+        "MESS": [
+          "anpanmga"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Bandai"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Soreike! Anpanman no Medalympic World"
+      ],
+      "Sha1": "d7a63c7fe9682c3271452fdaab816ed51cb9da17",
+      "Crc32": "eda45344",
+      "SetNames": {
+        "No-Intro": [
+          "Soreike! Anpanman no Medalympic World (Japan)"
+        ],
+        "MESS": [
+          "anpanmmw"
+        ],
+        "TGDB": [
+          "63742"
+        ]
+      },
+      "OverviewId": 7,
+      "Size": 524288,
+      "Publishers": [
+        "Bandai",
+        "Bandai Co., Ltd."
+      ],
+      "Developers": [
+        "Bandai Co., Ltd."
+      ],
+      "ReleaseDate": "11/17/1995",
+      "ESRB": "E",
+      "Genres": [
+        "Life Simulation"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Soreike! Anpanman no Medalympic World 2"
+      ],
+      "Sha1": "4335e65d238c46a286e2d0ce8d821d35799ab76a",
+      "Crc32": "3c57e47d",
+      "SetNames": {
+        "No-Intro": [
+          "Soreike! Anpanman no Medalympic World 2 (Japan)"
+        ],
+        "MESS": [
+          "anpanmm2a"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Bandai"
+      ],
+      "CloneOf": "anpanmm2",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Soreike! Anpanman no Medalympic World 2"
+      ],
+      "Sha1": "6ee0ce5db07c4f3feba319f77f714a399176e72e",
+      "Crc32": "8dab2ec3",
+      "SetNames": {
+        "No-Intro": [
+          "Soreike! Anpanman no Medalympic World 2 (Japan) (Best Selection)"
+        ],
+        "MESS": [
+          "anpanmm2"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Bandai"
+      ],
+      "ReleaseDate": "1/1/2004",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Soreike! Anpanman no Minna de Kyousou Anpanman!"
+      ],
+      "Sha1": "23cc8f96fe41b45a666e87959297eee7d6e26ddb",
+      "Crc32": "3822c958",
+      "SetNames": {
+        "No-Intro": [
+          "Soreike! Anpanman no Minna de Kyousou Anpanman! (Japan)"
+        ],
+        "MESS": [
+          "anpanmdk"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Bandai"
+      ],
+      "ReleaseDate": "1/1/1997",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Soreike! Anpanman no Ohanashi Daisuki Anpanman"
+      ],
+      "Sha1": "b443d6d5ec4109c3239b860eac5ab024ffb68d1e",
+      "Crc32": "6ed63704",
+      "SetNames": {
+        "No-Intro": [
+          "Soreike! Anpanman no Ohanashi Daisuki Anpanman (Japan)"
+        ],
+        "MESS": [
+          "anpanmod"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Bandai"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Susie-chan to Marvy o-Tetsudai Da",
+        "isuki!",
+        "Susie-chan to Marvy o-Tetsudai Da~isuki!"
+      ],
+      "Sha1": "87c129ae9c253df476a4b588fdaa8afc0e4ecf67",
+      "Crc32": "178fd129",
+      "SetNames": {
+        "No-Intro": [
+          "Susie-chan to Marvy o-Tetsudai Da~isuki! (Japan)"
+        ],
+        "MESS": [
+          "susiechn"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Sega Toys"
+      ],
+      "ReleaseDate": "1/1/2000",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Sylvanian Families - Mori no Nakama to Tanoshii o-Tanjoubikai",
+        "Silvanian Families - Mori no Nakama to Tanoshii Otanjoubikai"
+      ],
+      "Sha1": "e253ef8d3695cd62621451a168818f8ebde69873",
+      "Crc32": "badac589",
+      "SetNames": {
+        "No-Intro": [
+          "Sylvanian Families - Mori no Nakama to Tanoshii o-Tanjoubikai (Japan)"
+        ],
+        "MESS": [
+          "sylvan"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Epoch"
+      ],
+      "ReleaseDate": "1/1/2001",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Tails and the Music Maker"
+      ],
+      "Sha1": "807ee1ed88ffdd780754043d836a848864155844",
+      "Crc32": "982154ab",
+      "SetNames": {
+        "No-Intro": [
+          "Tails and the Music Maker (USA)"
+        ],
+        "MESS": [
+          "tailsmmu"
+        ],
+        "TGDB": [
+          "53856"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "CloneOf": "tailsmm",
+      "ReleaseDate": "10/4/1994",
+      "Genres": [
+        "Action"
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Tails and the Music Maker"
+      ],
+      "Sha1": "e44e6f6520b5a9b07ea2f3cadf6114d746897595",
+      "Crc32": "3fd2c406",
+      "SetNames": {
+        "No-Intro": [
+          "Tails and the Music Maker (Europe)"
+        ],
+        "MESS": [
+          "tailsmm"
+        ],
+        "TGDB": [
+          "53856"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "10/4/1994",
+      "Genres": [
+        "Action"
+      ],
+      "Regions": [
+        "EU"
+      ]
+    },
+    {
+      "Titles": [
+        "Tails et le Faiseur de Musique"
+      ],
+      "Sha1": "3f1ec0e7e55c7b1c1e4577f516c24ab1068d77ef",
+      "Crc32": "8cec50fa",
+      "SetNames": {
+        "No-Intro": [
+          "Tails et le Faiseur de Musique (France)"
+        ],
+        "MESS": [
+          "tailsmmf"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "CloneOf": "tailsmm",
+      "ReleaseDate": "1/1/1994",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Tails no Mundo da Musica",
+        "Tails no Mundo da Música"
+      ],
+      "Sha1": "4206d0264edc636d8a4d435baa87070fb8cbee5a",
+      "Crc32": "2bc80b15",
+      "SetNames": {
+        "No-Intro": [
+          "Tails no Mundo da Musica (Brazil)"
+        ],
+        "MESS": [
+          "tailsmmb"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Tec Toy"
+      ],
+      "CloneOf": "tailsmm",
+      "Regions": [
+        "BR"
+      ]
+    },
+    {
+      "Titles": [
+        "Tails und der Musikant"
+      ],
+      "Sha1": "0b477e485a143b5bab7d26925bd587b0f3da2695",
+      "Crc32": "8edf7d4c",
+      "SetNames": {
+        "No-Intro": [
+          "Tails und der Musikant (Germany)"
+        ],
+        "MESS": [
+          "tailsmmg"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "CloneOf": "tailsmm",
+      "ReleaseDate": "1/1/1994",
+      "Regions": [
+        "DE"
+      ],
+      "Languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Tails y el Musico",
+        "Tails y el Músico"
+      ],
+      "Sha1": "832a77f8e6c59b8d0e3bbc606b6b93aa303857b6",
+      "Crc32": "1281c3a4",
+      "SetNames": {
+        "No-Intro": [
+          "Tails y el Musico (Spain)"
+        ],
+        "MESS": [
+          "tailsmms"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "CloneOf": "tailsmm",
+      "Regions": [
+        "ES"
+      ],
+      "Languages": [
+        "es",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Tanoshiku Asonde Nouryoku Up!! - Tanoshii Youchien",
+        "4 5 6 Tanoshii Youchien"
+      ],
+      "Sha1": "19c061ba15c32ac4a9ee321263e36a87bb48157d",
+      "Crc32": "ae02801d",
+      "SetNames": {
+        "No-Intro": [
+          "Tanoshiku Asonde Nouryoku Up!! - Tanoshii Youchien (Japan)"
+        ],
+        "MESS": [
+          "tanoyouc"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Bandai"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Tanoshiku Asonde Nouryoku Up!! - Tanoshii Youchien '95 Nendo Ban",
+        "Tanoshi ku Asonde Nouryoku Appu!! Tanoshii Youchien '95-nendoban"
+      ],
+      "Sha1": "f2a6ae4c7728dd6d8052d6f9425bc06e5764941a",
+      "Crc32": "5ac3927e",
+      "SetNames": {
+        "No-Intro": [
+          "Tanoshiku Asonde Nouryoku Up!! - Tanoshii Youchien '95 Nendo Ban (Japan)"
+        ],
+        "MESS": [
+          "tanoason"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Bandai"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "The Cloud is Wizard"
+      ],
+      "Sha1": "d6f7b9c9e5714afebfdb116480f73976eae23d17",
+      "Crc32": "70b7440e",
+      "SetNames": {
+        "No-Intro": [
+          "The Cloud is Wizard (Korea) (Samsung Pico)"
+        ],
+        "MESS": [
+          "clouwizd"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega",
+        "Samsung"
+      ],
+      "ReleaseDate": "1/1/1997",
+      "Regions": [
+        "KR"
+      ]
+    },
+    {
+      "Titles": [
+        "Tinga-wa Haenggo-eui Toongtang Toongtang Doshi"
+      ],
+      "Sha1": "e6022562d2b1c7448835d47b749ed57144397c9a",
+      "Crc32": "9cb9d32b",
+      "SetNames": {
+        "No-Intro": [
+          "Tinga-wa Haenggo-eui Toongtang Toongtang Doshi (Korea) (Samsung Pico)"
+        ],
+        "MESS": [
+          "tingahtt"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Samsung"
+      ],
+      "Regions": [
+        "KR"
+      ]
+    },
+    {
+      "Titles": [
+        "Tokusou Sentai Dekaranger"
+      ],
+      "Sha1": "79a09c334b518357d380d09350bc31f0df0ae243",
+      "Crc32": "9d5067a3",
+      "SetNames": {
+        "No-Intro": [
+          "Tokusou Sentai Dekaranger (Japan)"
+        ],
+        "MESS": [
+          "dekrangr"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Bandai"
+      ],
+      "ReleaseDate": "1/1/2004",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Tokyo Disneyland Toon Town - Mickey no Boku wa Untenshu"
+      ],
+      "Sha1": "301b2db8dca36b6aaeaa6d00e91c2f0b870b08cf",
+      "Crc32": "029c2d9f",
+      "SetNames": {
+        "No-Intro": [
+          "Tokyo Disneyland Toon Town - Mickey no Boku wa Untenshu (Japan)"
+        ],
+        "MESS": [
+          "tokyodtt"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Kodansha"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Tokyo DisneySea - Mickey to Asobou!"
+      ],
+      "Sha1": "ad29728e7421d4b7505159dc69ba5978964c6c35",
+      "Crc32": "38b713b3",
+      "SetNames": {
+        "No-Intro": [
+          "Tokyo DisneySea - Mickey to Asobou! (Japan)"
+        ],
+        "MESS": [
+          "tokyosea"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Kodansha"
+      ],
+      "ReleaseDate": "1/1/2002",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Tomica Pico - Bokura no Machi Tomica Town de Asobou!"
+      ],
+      "Sha1": "57c3da145e97ffd94397c2c265efd05ae4e43dd9",
+      "Crc32": "a1ace3b8",
+      "SetNames": {
+        "No-Intro": [
+          "Tomica Pico - Bokura no Machi Tomica Town de Asobou! (Japan)"
+        ],
+        "MESS": [
+          "tomica"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Sega Toys"
+      ],
+      "ReleaseDate": "1/1/2000",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Tomica Pico Rescue Parking",
+        "Shokai-Tomica Fuzoku",
+        "",
+        "Tomica Pico Rescue Parking - Shokai-Tomica Fuzoku"
+      ],
+      "Sha1": "fff0d70882c10adab3065bebe4ce07aee690f674",
+      "Crc32": "3e53c515",
+      "SetNames": {
+        "No-Intro": [
+          "Tomica Pico Rescue Parking ~Shokai-Tomica Fuzoku~ (Japan)"
+        ],
+        "MESS": [
+          "tomicarp"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Sega Toys"
+      ],
+      "ReleaseDate": "1/1/2002",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Tottoko Hamtarou Tottoko Tanoshiku Aiueo - Maboroshin no Hikaru Tane o Mitsukeru no dah!",
+        "Tottoko Hamtaro - Tottoko Tanoshiku Aiueo - Maboroshi no Hikaru Tane wo Mitsukeru no Datsu!"
+      ],
+      "Sha1": "b001e0d43194dce3cb9aa7136c67e54c19fffa05",
+      "Crc32": "037b7dfb",
+      "SetNames": {
+        "No-Intro": [
+          "Tottoko Hamtarou Tottoko Tanoshiku Aiueo - Maboroshin no Hikaru Tane o Mitsukeru no dah! (Japan)"
+        ],
+        "MESS": [
+          "hamttano"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Sega Toys"
+      ],
+      "ReleaseDate": "1/1/2004",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Tottoko Hamutaro - Haru, Natsu, Aki, Fuyu Tottoko Nakayoshi! Ham-chans!",
+        "Tottoko Hamtaro - Haru-Natsu-Aki-Fuyu - Tottoko Nakayoshi! Ham Chance!"
+      ],
+      "Sha1": "faa6a6c997c9a5a8f9da30b0db44df01097c12b8",
+      "Crc32": "71f39f19",
+      "SetNames": {
+        "No-Intro": [
+          "Tottoko Hamutaro - Haru, Natsu, Aki, Fuyu Tottoko Nakayoshi! Ham-chans! (Japan)"
+        ],
+        "MESS": [
+          "hamtnaka"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Sega Toys"
+      ],
+      "ReleaseDate": "1/1/2001",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Tottoko Hamutaro - Oekaki Ippai! Ham-chans!",
+        "Tottoko Hamtaro - Oekaki Ippai! Ham Chance!"
+      ],
+      "Sha1": "6e7c1ceeedf9c8ed641a7332fb1fe1a06d48fc17",
+      "Crc32": "c71101d8",
+      "SetNames": {
+        "No-Intro": [
+          "Tottoko Hamutaro - Oekaki Ippai! Ham-chans! (Japan)"
+        ],
+        "MESS": [
+          "hamtchan"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Shogakukan"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Toy Story 2"
+      ],
+      "Sha1": "e4f908d235d25d21390a8965416a34c91b880b63",
+      "Crc32": "27ef458e",
+      "SetNames": {
+        "No-Intro": [
+          "Toy Story 2 (Korea) (Samsung Pico)"
+        ],
+        "MESS": [
+          "toystor2k"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Sega Toys",
+        "Samsung"
+      ],
+      "CloneOf": "toystor2",
+      "Regions": [
+        "KR"
+      ]
+    },
+    {
+      "Titles": [
+        "Toy Story 2 - Woody Sousaku Daisakusen!!"
+      ],
+      "Sha1": "fb1618898e0b3ea860bf5e4b6cf6ec257f4c5da9",
+      "Crc32": "dcea1ca1",
+      "SetNames": {
+        "No-Intro": [
+          "Toy Story 2 - Woody Sousaku Daisakusen!! (Japan)"
+        ],
+        "MESS": [
+          "toystor2"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Sega Toys"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Uchuu Bouken Space Shuttle Pilot",
+        "Space Pico - Uchuu Bouken Space Shuttle Pilot Set"
+      ],
+      "Sha1": "2dce1d752a922fc94d9f580a605714ffdcfbd042",
+      "Crc32": "e77f3c70",
+      "SetNames": {
+        "No-Intro": [
+          "Uchuu Bouken Space Shuttle Pilot (Japan)"
+        ],
+        "MESS": [
+          "sshuttle"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/1997",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Ultra Hero",
+        "UltraHero"
+      ],
+      "Sha1": "4a6731fdfde7f65d3d8b481ff54b6cad922a335a",
+      "Crc32": "a6cbd22e",
+      "SetNames": {
+        "No-Intro": [
+          "Ultra Hero (Japan)"
+        ],
+        "MESS": [
+          "ultraher"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Bandai"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Ultraman Dyna"
+      ],
+      "Sha1": "b1bec7fa1fca53205fc7fec2547c8da4da4928b2",
+      "Crc32": "501e97d9",
+      "SetNames": {
+        "No-Intro": [
+          "Ultraman Dyna (Japan)"
+        ],
+        "MESS": [
+          "ultradd"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Bandai"
+      ],
+      "ReleaseDate": "1/1/1998",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Ultraman Kids - Tobidase! Space Picnic"
+      ],
+      "Sha1": "4a9bf5f5352933bb18da5f7a33da83589a04241c",
+      "Crc32": "093357d5",
+      "SetNames": {
+        "No-Intro": [
+          "Ultraman Kids - Tobidase! Space Picnic (Japan)"
+        ],
+        "MESS": [
+          "ultrakds"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "GE"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Ultraman Tiga"
+      ],
+      "Sha1": "7270c0594f0e18a3c6cf2b2a190c2999b643cd19",
+      "Crc32": "35be2a19",
+      "SetNames": {
+        "No-Intro": [
+          "Ultraman Tiga (Japan)"
+        ],
+        "MESS": [
+          "ultratig"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Bandai"
+      ],
+      "ReleaseDate": "1/1/1997",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Ultraman vs Kaijuu Gundan",
+        "Ultraman vs. Kaijuu Gundan!!"
+      ],
+      "Sha1": "e650590a209a396fff6f3ebd7cd22ac9a62e42db",
+      "Crc32": "7f90e769",
+      "SetNames": {
+        "No-Intro": [
+          "Ultraman vs Kaijuu Gundan (Japan)"
+        ],
+        "MESS": [
+          "ultravkg"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Bandai"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Un Anno con Winny Puh"
+      ],
+      "Sha1": "f03ed21a23a7777dbcd9d816712542730b6968cf",
+      "Crc32": "b9594101",
+      "SetNames": {
+        "No-Intro": [
+          "Un Anno con Winny Puh (Italy)"
+        ],
+        "MESS": [
+          "poohcorni"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "CloneOf": "poohcorn",
+      "Regions": [
+        "IT"
+      ]
+    },
+    {
+      "Titles": [
+        "Un Ano en la Esquina de Pooh",
+        "Un año en la esquina de Pooh"
+      ],
+      "Sha1": "826800f8edd285cd156ea53989b634a7881d6354",
+      "Crc32": "804448bb",
+      "SetNames": {
+        "No-Intro": [
+          "Un Ano en la Esquina de Pooh (Spain)"
+        ],
+        "MESS": [
+          "poohcorns"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "CloneOf": "poohcorn",
+      "ReleaseDate": "1/1/1994",
+      "Regions": [
+        "ES"
+      ],
+      "Languages": [
+        "es",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Un Dia en la Escuela con los Ositos Berenstain",
+        "Un Día en la Escuela con los Ositos Berenstain"
+      ],
+      "Sha1": "06bb9053e3a9a6eb3e56475964ad4d745f92617f",
+      "Crc32": "0ec21b68",
+      "SetNames": {
+        "No-Intro": [
+          "Un Dia en la Escuela con los Ositos Berenstain (Spain)"
+        ],
+        "MESS": [
+          "berenstbs"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega"
+      ],
+      "CloneOf": "berenstb",
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "ES"
+      ],
+      "Languages": [
+        "es",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Une Annee en Compagnie de Winnie l'Ourson",
+        "Une Année en Compagnie de Winnie l'Ourson"
+      ],
+      "Sha1": "e07a568f90a5db13bae314bfd310488320122439",
+      "Crc32": "4e4c17bc",
+      "SetNames": {
+        "No-Intro": [
+          "Une Annee en Compagnie de Winnie l'Ourson (France)"
+        ],
+        "MESS": [
+          "poohcornf"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "CloneOf": "poohcorn",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Unou Kaihatsu Series 1 - Richard Scarry's Huckle to Lowly",
+        "Richard Scarry's - Huckle to Lowly",
+        "Huckle and Lowly`s Busiest Day Ever",
+        "Unou Kaihatsu Series 1 Richard Scarry's Huckle to Lowly"
+      ],
+      "Sha1": "83f33c26ec829d85b3226f85b2e0da78f7f65ff2",
+      "Crc32": "1b46e52f",
+      "SetNames": {
+        "No-Intro": [
+          "Unou Kaihatsu Series 1 - Richard Scarry's Huckle to Lowly (Japan)"
+        ],
+        "MESS": [
+          "hucklowlj"
+        ],
+        "TGDB": [
+          "63369"
+        ]
+      },
+      "OverviewId": 8,
+      "Size": 1048576,
+      "Publishers": [
+        "Imagineer",
+        "Sega",
+        "Imagineer Co., Ltd."
+      ],
+      "Developers": [
+        "Sega"
+      ],
+      "CloneOf": "hucklowl",
+      "ReleaseDate": "1/1/1995",
+      "ESRB": "E",
+      "Genres": [
+        "Adventure"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Unou Kaihatsu Series 10 - Nontan to Issho - Wai Wai Nippon",
+        "Nontan to Issho Waiwai Nihon"
+      ],
+      "Sha1": "dc13f49af69fc3137fba2e535fdfe09aca495b49",
+      "Crc32": "c41e801f",
+      "SetNames": {
+        "No-Intro": [
+          "Unou Kaihatsu Series 10 - Nontan to Issho - Wai Wai Nippon (Japan)"
+        ],
+        "MESS": [
+          "nontanis"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Imagineer"
+      ],
+      "ReleaseDate": "1/1/1996",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Unou Kaihatsu Series 11 - Heisei Kyouiku Iinkai Jr.",
+        "Heisei Kyouiku Iinkai Jr."
+      ],
+      "Sha1": "9ba109e6eda70e0a5d0885f746e22574c33b81f1",
+      "Crc32": "cb3f7654",
+      "SetNames": {
+        "No-Intro": [
+          "Unou Kaihatsu Series 11 - Heisei Kyouiku Iinkai Jr. (Japan)"
+        ],
+        "MESS": [
+          "hkiinkai"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Imagineer"
+      ],
+      "ReleaseDate": "1/1/1996",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Unou Kaihatsu Series 2 - ECCO Jr.",
+        "Ecco Jr. and the Great Ocean Treasure Hunt!"
+      ],
+      "Sha1": "fa9b1f7602dca7d3ac3d579421b41da4ceb943a7",
+      "Crc32": "8130f126",
+      "SetNames": {
+        "No-Intro": [
+          "Unou Kaihatsu Series 2 - ECCO Jr. (Japan)"
+        ],
+        "MESS": [
+          "eccojrj"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Imagineer"
+      ],
+      "CloneOf": "eccojr",
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Unou Kaihatsu Series 3 - Hello Kitty no Machi e Odekake",
+        "Hello Kitty no Machi he Odekake"
+      ],
+      "Sha1": "28e866688fed6e7c0a82c3f1e91f205600afcf68",
+      "Crc32": "3f336747",
+      "SetNames": {
+        "No-Intro": [
+          "Unou Kaihatsu Series 3 - Hello Kitty no Machi e Odekake (Japan)"
+        ],
+        "MESS": [
+          "hellokmo"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Imagineer"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Unou Kaihatsu Series 4 - Kero Kero Keroppi no Iro Katachi",
+        "Kero Kero Keroppi no Irokatachi"
+      ],
+      "Sha1": "874e8d0466e0585fa7db3b70df871875ddf29cb2",
+      "Crc32": "37dae2f5",
+      "SetNames": {
+        "No-Intro": [
+          "Unou Kaihatsu Series 4 - Kero Kero Keroppi no Iro Katachi (Japan)"
+        ],
+        "MESS": [
+          "keroiro"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Imagineer"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Unou Kaihatsu Series 5 - Hello Kitty no Suteki na Takaramono",
+        "Hello Kitty no Suteki na Takaramono"
+      ],
+      "Sha1": "9a6293f12a47d403b950b96e0fb9d2b9ed769804",
+      "Crc32": "6262f11d",
+      "SetNames": {
+        "No-Intro": [
+          "Unou Kaihatsu Series 5 - Hello Kitty no Suteki na Takaramono (Japan)"
+        ],
+        "MESS": [
+          "hellokst"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Imagineer"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Unou Kaihatsu Series 6 - Ahiru no Pekkle no Kazoete Miyou",
+        "Ahiru no Pekkle no Kazoete Miyou"
+      ],
+      "Sha1": "4b496b47aa0d0ea74c85712515c76d3e99f28fb4",
+      "Crc32": "6ff09f8e",
+      "SetNames": {
+        "No-Intro": [
+          "Unou Kaihatsu Series 6 - Ahiru no Pekkle no Kazoete Miyou (Japan)"
+        ],
+        "MESS": [
+          "ahirupek"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Imagineer"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Unou Kaihatsu Series 7 - Tails and the Music Maker",
+        "Tails and the Music Maker"
+      ],
+      "Sha1": "6b5f6e8775188e93a4ff572163c8d3452fe8fe13",
+      "Crc32": "0a9665e7",
+      "SetNames": {
+        "No-Intro": [
+          "Unou Kaihatsu Series 7 - Tails and the Music Maker (Japan)"
+        ],
+        "MESS": [
+          "tailsmmj"
+        ],
+        "TGDB": [
+          "53856"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Imagineer"
+      ],
+      "CloneOf": "tailsmm",
+      "ReleaseDate": "1/1/1995",
+      "Genres": [
+        "Action"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Unou Kaihatsu Series 8 - Dolucky no o-Ekaki House",
+        "Dolucky no Oekaki House"
+      ],
+      "Sha1": "aa906392c97cb12792a8cd026fdcb12d61490cf8",
+      "Crc32": "4ce7b75d",
+      "SetNames": {
+        "No-Intro": [
+          "Unou Kaihatsu Series 8 - Dolucky no o-Ekaki House (Japan)"
+        ],
+        "MESS": [
+          "dolucky"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Imagineer"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Unou Kaihatsu Series 9 - Nihon Mukashibanashi",
+        "Nihon Mukashi Banashi"
+      ],
+      "Sha1": "5c128fcc3ce49434e1e3c834a9fcec7b28c5480e",
+      "Crc32": "b62514d0",
+      "SetNames": {
+        "No-Intro": [
+          "Unou Kaihatsu Series 9 - Nihon Mukashibanashi (Japan)"
+        ],
+        "MESS": [
+          "mukabana"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Imagineer"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Unten Thomas Deluxe Set"
+      ],
+      "Sha1": "0c4a456b14ec345784517ad8339fb9b9b341cf86",
+      "Crc32": "cf027dda",
+      "SetNames": {
+        "No-Intro": [
+          "Unten Thomas Deluxe Set (Japan)"
+        ],
+        "MESS": [
+          "thomasdx"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Bandai"
+      ],
+      "ReleaseDate": "1/1/2000",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Yasashiku o-Teate Pico Clinic! - Kangofu-san Pico",
+        "Yasashiku Oteate Pico Clinic! Kangofu-san Pico"
+      ],
+      "Sha1": "665dcb0b332d5bd9fcc1f7de3dae4cfd8bdde899",
+      "Crc32": "8eb4bb04",
+      "SetNames": {
+        "No-Intro": [
+          "Yasashiku o-Teate Pico Clinic! - Kangofu-san Pico (Japan)"
+        ],
+        "MESS": [
+          "yasaclin"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Sega Toys"
+      ],
+      "ReleaseDate": "1/1/2001",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Yobeba Kotaeru - Doraemon - Nobita to Himitsu Dougu o Mitsukeyou!",
+        "Yobeba Kotaeru Doraemon - Nobita to Himitsu Dougu wo Mitsukeyou!"
+      ],
+      "Sha1": "df0f45c8b229e648347bc932225f185c0fe2465f",
+      "Crc32": "39f38a22",
+      "SetNames": {
+        "No-Intro": [
+          "Yobeba Kotaeru - Doraemon - Nobita to Himitsu Dougu o Mitsukeyou! (Japan)"
+        ],
+        "MESS": [
+          "yobedora"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Yosool Keure-paseu"
+      ],
+      "Sha1": "97d3d39b006579ceb62ee68ab02f8b44f0c76069",
+      "Crc32": "6521ef2d",
+      "SetNames": {
+        "No-Intro": [
+          "Yosool Keure-paseu (Korea) (Samsung Pico)"
+        ],
+        "MESS": [
+          "yosoolkp"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Samsung?"
+      ],
+      "Regions": [
+        "KR"
+      ]
+    },
+    {
+      "Titles": [
+        "Yuchiwonehseoeui Haru"
+      ],
+      "Sha1": "82a8061ff13198bf125b51205b05303fe86673b3",
+      "Crc32": "482ad64b",
+      "SetNames": {
+        "No-Intro": [
+          "Yuchiwonehseoeui Haru (Korea) (Samsung Pico)"
+        ],
+        "MESS": [
+          "berenstbk"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Samsung"
+      ],
+      "CloneOf": "berenstb",
+      "Regions": [
+        "KR"
+      ]
+    },
+    {
+      "Titles": [
+        "Yukai na Mori no Packet",
+        "Yukai na Mori no Paketto"
+      ],
+      "Sha1": "97c99f623285af22a1f3201b7b1a2665c7bbb649",
+      "Crc32": "d130d765",
+      "SetNames": {
+        "No-Intro": [
+          "Yukai na Mori no Packet (Japan)"
+        ],
+        "MESS": [
+          "yukaimp"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Sega"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Yume no Crayon Oukoku"
+      ],
+      "Sha1": "85f7569c2ea7956998c677e5b6947ca22d3da5eb",
+      "Crc32": "0518d160",
+      "SetNames": {
+        "No-Intro": [
+          "Yume no Crayon Oukoku (Japan)"
+        ],
+        "MESS": [
+          "yumecray"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Bandai"
+      ],
+      "ReleaseDate": "1/1/1998",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Zai Weini Tiandilide Yinian"
+      ],
+      "Sha1": "fadfb37537389fa636ba1c1da0d5cdceaaf35f06",
+      "Crc32": "072a429a",
+      "SetNames": {
+        "No-Intro": [
+          "Zai Weini Tiandilide Yinian (Taiwan)"
+        ],
+        "MESS": [
+          "poohcorntw"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Sega"
+      ],
+      "CloneOf": "poohcorn",
+      "ReleaseDate": "1/1/1994",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Zauberbuntstifte"
+      ],
+      "Sha1": "40f6585ea1a79ce96097388115c639cf8c4ccdc3",
+      "Crc32": "3218ba97",
+      "SetNames": {
+        "No-Intro": [
+          "Zauberbuntstifte (Germany)"
+        ],
+        "MESS": [
+          "magiccrag"
+        ]
+      },
+      "Size": 524288,
+      "CloneOf": "magiccra",
+      "Regions": [
+        "DE"
+      ],
+      "Languages": [
+        "de",
+        "en"
+      ]
+    }
+  ],
+  "Overviews": {
+    "1": {
+      "en": "6000-nin no Sensei-tachi ga Tsukutta Tanoshii Shougakkou Tanken 1 is a Sega Pico educational game. It was followed by 6000-nin no Sensei-tachi ga Tsukutta Tanoshii Shougakkou Tanken 2."
+    },
+    "2": {
+      "en": "6000-nin no Sensei-tachi ga Tsukutta Tanoshii Shougakkou Tanken 2 is a Sega Pico educational game. It is the sequel to 6000-nin no Sensei-tachi ga Tsukutta Tanoshii Shougakkou Tanken 1."
+    },
+    "3": {
+      "en": "A Year at Pooh Corner is a Sega Pico game based on the Winnie the Pooh franchise. In Japan it is known as Pooh-san to Tanoshii Nakama-tachi.\r\n\r\nThis is likely the most common game for the system, having been bundled with Pico console from launch in non-Japanese territories."
+    },
+    "4": {
+      "en": "Aendiwa Billieui Suhaktamheom is a South Korean-exclusive Sega Pico game."
+    },
+    "5": {
+      "en": "Ai to Yume no Kuni Sanrio Puroland Asobinagara Oboeyou! Hiragana Katakana is a Sega Pico game featuring characters created by Sanrio."
+    },
+    "6": {
+      "en": "Mickey's Blast into the Past, is a Sega Pico game involving Mickey Mouse. Released on August 1994 in United States."
+    },
+    "7": {
+      "en": "Soreike! Anpanman no Medalympic World (それいけ！アンパンマンのメダリンピックワールド) is a Sega Pico game based on the Anpanman franchise."
+    },
+    "8": {
+      "en": "Game based on the Richard Scarry series of books"
+    }
+  }
+}

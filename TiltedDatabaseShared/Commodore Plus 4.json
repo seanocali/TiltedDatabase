@@ -1,0 +1,577 @@
+{
+  "PlatformName": "Commodore Plus 4",
+  "LastUpdate": "5/24/2022 3:03:54 AM",
+  "Games": [
+    {
+      "Titles": [
+        "[BIOS] Commodore 1551"
+      ],
+      "Sha1": "fae3c788ad9a6cc2dbdfbcf6c0264b2ca921d55e",
+      "Crc32": "6d16d024",
+      "SetNames": {
+        "No-Intro": [
+          "[BIOS] Commodore 1551 (USA, Europe)"
+        ]
+      },
+      "Size": 16384,
+      "Regions": [
+        "US",
+        "EU"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "BIOS"
+      ]
+    },
+    {
+      "Titles": [
+        "[BIOS] Commodore 232"
+      ],
+      "Sha1": "3c77caf72914c1c0a0875b3a7f6935cd30c54201",
+      "Crc32": "dbdc3319",
+      "SetNames": {
+        "No-Intro": [
+          "[BIOS] Commodore 232 (Japan) (Proto)"
+        ]
+      },
+      "Size": 32768,
+      "Regions": [
+        "JP"
+      ],
+      "Tags": [
+        "BIOS",
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "[BIOS] Commodore 232",
+        "[BIOS] Commodore Plus-4",
+        "[BIOS] Commodore"
+      ],
+      "Sha1": "161c96b4ad20f3a4f2321808e37a5ded26a135dd",
+      "Crc32": "74eaae87",
+      "SetNames": {
+        "No-Intro": [
+          "[BIOS] Commodore 232 (Japan) (Proto)",
+          "[BIOS] Commodore Plus-4 (Europe) (R3)",
+          "[BIOS] Commodore Plus-4 (Europe) (R4)",
+          "[BIOS] Commodore Plus-4 (Europe) (R5)",
+          "[BIOS] Commodore Plus-4 (USA) (R4)",
+          "[BIOS] Commodore Plus-4 (USA) (R5)",
+          "[BIOS] Commodore V364 (USA) (Proto)"
+        ]
+      },
+      "Size": 32768,
+      "Regions": [
+        "JP",
+        "EU",
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "BIOS",
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "[BIOS] Commodore Plus-4",
+        "[BIOS] Commodore"
+      ],
+      "Sha1": "3b69f6e7cb4c18bb08e203fb18b7dabfa853390f",
+      "Crc32": "4fd1d8cb",
+      "SetNames": {
+        "No-Intro": [
+          "[BIOS] Commodore Plus-4 (Europe) (R3)",
+          "[BIOS] Commodore Plus-4 (Europe) (R4)",
+          "[BIOS] Commodore Plus-4 (Europe) (R5)",
+          "[BIOS] Commodore Plus-4 (USA) (R4)",
+          "[BIOS] Commodore Plus-4 (USA) (R5)",
+          "[BIOS] Commodore V364 (USA) (Proto)"
+        ]
+      },
+      "Size": 65536,
+      "Regions": [
+        "EU",
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "BIOS",
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "[BIOS] Commodore Plus-4",
+        "[BIOS] Commodore"
+      ],
+      "Sha1": "0ad7ac2db7da692d972e586ca0dfd747d82c7693",
+      "Crc32": "109de2fc",
+      "SetNames": {
+        "No-Intro": [
+          "[BIOS] Commodore Plus-4 (Europe) (R3)",
+          "[BIOS] Commodore Plus-4 (Europe) (R4)",
+          "[BIOS] Commodore Plus-4 (Europe) (R5)",
+          "[BIOS] Commodore Plus-4 (USA) (R4)",
+          "[BIOS] Commodore Plus-4 (USA) (R5)",
+          "[BIOS] Commodore V364 (USA) (Proto)"
+        ]
+      },
+      "Size": 65536,
+      "Regions": [
+        "EU",
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "BIOS",
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "[BIOS] Commodore Plus-4"
+      ],
+      "Sha1": "97814dab9d757fe5a3a61d357a9a81da588a9783",
+      "Crc32": "77bab934",
+      "SetNames": {
+        "No-Intro": [
+          "[BIOS] Commodore Plus-4 (Europe) (R3)"
+        ]
+      },
+      "Size": 65536,
+      "Regions": [
+        "EU"
+      ],
+      "Tags": [
+        "BIOS"
+      ]
+    },
+    {
+      "Titles": [
+        "[BIOS] Commodore Plus-4"
+      ],
+      "Sha1": "514ad3c29d01a2c0a3b143d9c1d4143b1912b793",
+      "Crc32": "be54ed79",
+      "SetNames": {
+        "No-Intro": [
+          "[BIOS] Commodore Plus-4 (Europe) (R4)"
+        ]
+      },
+      "Size": 65536,
+      "Regions": [
+        "EU"
+      ],
+      "Tags": [
+        "BIOS"
+      ]
+    },
+    {
+      "Titles": [
+        "[BIOS] Commodore Plus-4"
+      ],
+      "Sha1": "7c7e07f016391174a557e790c4ef1cbe33512cdb",
+      "Crc32": "71c07bd4",
+      "SetNames": {
+        "No-Intro": [
+          "[BIOS] Commodore Plus-4 (Europe) (R5)"
+        ]
+      },
+      "Size": 65536,
+      "Regions": [
+        "EU"
+      ],
+      "Tags": [
+        "BIOS"
+      ]
+    },
+    {
+      "Titles": [
+        "[BIOS] Commodore Plus-4"
+      ],
+      "Sha1": "5df52c693387c0e2b5d682613a3b5a65477311cf",
+      "Crc32": "799a633d",
+      "SetNames": {
+        "No-Intro": [
+          "[BIOS] Commodore Plus-4 (USA) (R4)"
+        ]
+      },
+      "Size": 65536,
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "BIOS"
+      ]
+    },
+    {
+      "Titles": [
+        "[BIOS] Commodore Plus-4"
+      ],
+      "Sha1": "a3d9e5be091b98de39a046ab167fb7632d053682",
+      "Crc32": "70295038",
+      "SetNames": {
+        "No-Intro": [
+          "[BIOS] Commodore Plus-4 (USA) (R5)"
+        ]
+      },
+      "Size": 65536,
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "BIOS"
+      ]
+    },
+    {
+      "Titles": [
+        "[BIOS] Commodore"
+      ],
+      "Sha1": "59af401cbb2194f689898271c6e8aafa28a7af11",
+      "Crc32": "5227c2ee",
+      "SetNames": {
+        "No-Intro": [
+          "[BIOS] Commodore V364 (USA) (Proto)"
+        ]
+      },
+      "Size": 81920,
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "BIOS",
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "[BIOS] Commodore"
+      ],
+      "Sha1": "b9a5b5dacd57ca117ef0b3af29e91998bf4d7e5f",
+      "Crc32": "84fd4f7a",
+      "SetNames": {
+        "No-Intro": [
+          "[BIOS] Commodore V364 (USA) (Proto)"
+        ]
+      },
+      "Size": 81920,
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "BIOS",
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "Atomic Mission"
+      ],
+      "Sha1": "e919531d016596ec1a2fd349bbe6691716297f35",
+      "Crc32": "a059fccb",
+      "SetNames": {
+        "No-Intro": [
+          "Atomic Mission (USA, Europe)"
+        ],
+        "MESS": [
+          "atomicmi"
+        ]
+      },
+      "Size": 16384,
+      "Publishers": [
+        "Commodore"
+      ],
+      "ReleaseDate": "1/1/1984",
+      "Regions": [
+        "US",
+        "EU"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Calc Plus"
+      ],
+      "Sha1": "1fb1103636a1ef3bc97e6cbe730eee552b326bd1",
+      "Crc32": "54aa7b9d",
+      "SetNames": {
+        "No-Intro": [
+          "Calc Plus (USA) (Program)"
+        ]
+      },
+      "Size": 32768,
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "APPLICATION"
+      ]
+    },
+    {
+      "Titles": [
+        "Commodore 16 Keyboard Tutorial Cartridge"
+      ],
+      "Sha1": "1664374f6c9515f5e2ac40741775aaaa7c31520d",
+      "Crc32": "2aeead68",
+      "SetNames": {
+        "No-Intro": [
+          "Commodore 16 Keyboard Tutorial Cartridge (USA) (Program)"
+        ]
+      },
+      "Size": 32768,
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "APPLICATION"
+      ]
+    },
+    {
+      "Titles": [
+        "Financial Advisor"
+      ],
+      "Sha1": "0f1b8b20331c8c502fed507eca5d66683667757b",
+      "Crc32": "5b0e82ae",
+      "SetNames": {
+        "No-Intro": [
+          "Financial Advisor (USA) (Program)"
+        ],
+        "MESS": [
+          "finadvis"
+        ]
+      },
+      "Size": 16384,
+      "Publishers": [
+        "Commodore"
+      ],
+      "ReleaseDate": "1/1/1984",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "APPLICATION"
+      ]
+    },
+    {
+      "Titles": [
+        "Jack Attack"
+      ],
+      "Sha1": "ba54810ef1089fdf56b74536f9d679a80ace2dc1",
+      "Crc32": "6b624fec",
+      "SetNames": {
+        "No-Intro": [
+          "Jack Attack (USA, Europe)"
+        ],
+        "MESS": [
+          "jackattk"
+        ]
+      },
+      "Size": 16384,
+      "Publishers": [
+        "Commodore"
+      ],
+      "ReleaseDate": "1/1/1984",
+      "Regions": [
+        "US",
+        "EU"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "LOGO",
+        "LOGO: A Language for Learning"
+      ],
+      "Sha1": "2850fb13b27b400167d80f2d755481835e3033b5",
+      "Crc32": "f4d84692",
+      "SetNames": {
+        "No-Intro": [
+          "LOGO (USA) (Program)"
+        ],
+        "MESS": [
+          "logo"
+        ]
+      },
+      "Size": 207616,
+      "Publishers": [
+        "Commodore"
+      ],
+      "ReleaseDate": "1/1/1984",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "APPLICATION"
+      ]
+    },
+    {
+      "Titles": [
+        "LOGO"
+      ],
+      "Sha1": "c0b474e9c07c85fcdc9778beb8b138caf2813c86",
+      "Crc32": "148541db",
+      "SetNames": {
+        "No-Intro": [
+          "LOGO (USA) (Program)"
+        ]
+      },
+      "Size": 207616,
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "APPLICATION"
+      ]
+    },
+    {
+      "Titles": [
+        "Octasoft BASIC",
+        "Octasoft BASIC 7.0"
+      ],
+      "Sha1": "5f96bdeffa42c18e869d9d045df65d98a4e561eb",
+      "Crc32": "e900a1d5",
+      "SetNames": {
+        "No-Intro": [
+          "Octasoft BASIC v7.0 (Hungary) (Program)"
+        ],
+        "MESS": [
+          "basic7"
+        ]
+      },
+      "Size": 16384,
+      "Publishers": [
+        "Novotrade"
+      ],
+      "ReleaseDate": "1/1/1988",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "APPLICATION"
+      ]
+    },
+    {
+      "Titles": [
+        "Pirate Adventure"
+      ],
+      "Sha1": "410ccb6b304ca30e852fdc6ec33d9dacd7de3493",
+      "Crc32": "a903dc53",
+      "SetNames": {
+        "No-Intro": [
+          "Pirate Adventure (USA, Europe)"
+        ],
+        "MESS": [
+          "piratead"
+        ]
+      },
+      "Size": 16384,
+      "Publishers": [
+        "Commodore"
+      ],
+      "ReleaseDate": "1/1/1984",
+      "Regions": [
+        "US",
+        "EU"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Strange Odyssey"
+      ],
+      "Sha1": "30a0707efe24f58525bffc228085f412d574fa3b",
+      "Crc32": "994c9b98",
+      "SetNames": {
+        "No-Intro": [
+          "Strange Odyssey (USA, Europe)"
+        ],
+        "MESS": [
+          "strngeod"
+        ]
+      },
+      "Size": 16384,
+      "Publishers": [
+        "Commodore"
+      ],
+      "ReleaseDate": "1/1/1984",
+      "Regions": [
+        "US",
+        "EU"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Viduzzles"
+      ],
+      "Sha1": "97c269ab7b57a5ddfe65a06c29986c6ccb3aeb2b",
+      "Crc32": "eaaa44ed",
+      "SetNames": {
+        "No-Intro": [
+          "Viduzzles (USA, Europe)"
+        ],
+        "MESS": [
+          "viduzzle"
+        ]
+      },
+      "Size": 16384,
+      "Publishers": [
+        "Commodore"
+      ],
+      "ReleaseDate": "1/1/1984",
+      "Regions": [
+        "US",
+        "EU"
+      ],
+      "Languages": [
+        "en"
+      ]
+    }
+  ],
+  "Overviews": {}
+}

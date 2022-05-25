@@ -1,0 +1,7368 @@
+{
+  "PlatformName": "TRS-80 Color Computer",
+  "LastUpdate": "5/25/2022 3:06:39 AM",
+  "Games": [
+    {
+      "Titles": [
+        "Cross Chase"
+      ],
+      "Sha1": "d8845e61fe1b952b02111b6f9f812619f0a6d95f",
+      "Crc32": "9ab8b8b5",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Chase (2017-10-11)(Caruso, Fabrizio)"
+        ]
+      },
+      "Size": 19135,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "10/11/2017",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Chase"
+      ],
+      "Sha1": "19975e1c8bcd7f09ebc13a89e1e8b143d6d927ed",
+      "Crc32": "dfabf50b",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Chase (2017-10-30)(Caruso, Fabrizio)[16K][light]"
+        ]
+      },
+      "Size": 14302,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "10/30/2017",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Chase"
+      ],
+      "Sha1": "e1ce49599c4b2654cd624ae07610bc9d25813ed3",
+      "Crc32": "7883dcbe",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Chase (2017-10-30)(Caruso, Fabrizio)[full]"
+        ]
+      },
+      "Size": 19236,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "10/30/2017",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Chase"
+      ],
+      "Sha1": "fee2c798855d3ebcb03894e6b9d85fa199bac7ea",
+      "Crc32": "d087ed57",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Chase (2017-12-10)(Caruso, Fabrizio)[32K]"
+        ]
+      },
+      "Size": 19445,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "12/10/2017",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Chase"
+      ],
+      "Sha1": "fd90f608d0ba178b1cab5b68cb35f840e5f30a2f",
+      "Crc32": "349898f6",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Chase (2017-12-10)(Caruso, Fabrizio)[32K][no sound]"
+        ]
+      },
+      "Size": 19195,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "12/10/2017",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Chase"
+      ],
+      "Sha1": "0d86d1b4b11e0d2534884b3ac5e84fece32c853d",
+      "Crc32": "1e8532a2",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Chase (2018-02-03)(Caruso, Fabrizio)[full]"
+        ]
+      },
+      "Size": 15606,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "2/3/2018",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Chase"
+      ],
+      "Sha1": "f75620a5c11cf2ef7831a058e34c1395a2df1f2c",
+      "Crc32": "db17d223",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Chase (2018-02-03)(Caruso, Fabrizio)[full][WinCMOC][old]",
+          "Cross Chase (2018-04-15)(Caruso, Fabrizio)[full][WinCMOC][old]"
+        ]
+      },
+      "Size": 18179,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "2/3/2018",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Chase"
+      ],
+      "Sha1": "39828a02873a2bac49f13c4cbacc4e44095db649",
+      "Crc32": "eda7271a",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Chase (2018-02-03)(Caruso, Fabrizio)[full][WinCMOC][sound][old]",
+          "Cross Chase (2018-04-15)(Caruso, Fabrizio)[full][WinCMOC][old][sound]"
+        ]
+      },
+      "Size": 18429,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "2/3/2018",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Chase"
+      ],
+      "Sha1": "14085cfc691303c008cc233fb473323da53c9a07",
+      "Crc32": "dae23fd6",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Chase (2018-02-03)(Caruso, Fabrizio)[tiny][WinCMOC]",
+          "Cross Chase (2018-04-15)(Caruso, Fabrizio)[tiny][WinCMOC][new]"
+        ]
+      },
+      "Size": 10049,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "2/3/2018",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Chase"
+      ],
+      "Sha1": "0def9f8fb2cfaddbb97f222bc377c88f886a6ce3",
+      "Crc32": "7deed372",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Chase (2018-04-15)(Caruso, Fabrizio)[full]"
+        ]
+      },
+      "Size": 15604,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "4/15/2018",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Chase"
+      ],
+      "Sha1": "5a2c2f50652e8bb2591606a7f8ec90cabf3efbea",
+      "Crc32": "75bd0cf5",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Chase (2018-05-19)(Caruso, Fabrizio)[full]"
+        ]
+      },
+      "Size": 15465,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "5/19/2018",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Chase"
+      ],
+      "Sha1": "2e961e4fdc4713a72d59d908f8ea62faafe87763",
+      "Crc32": "b8ebbd2c",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Chase (2018-05-19)(Caruso, Fabrizio)[tiny][WinCMOC]"
+        ]
+      },
+      "Size": 10097,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "5/19/2018",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Chase"
+      ],
+      "Sha1": "89b8586fe79535c6e5441ee2db73f911a28d7424",
+      "Crc32": "f5e3de3c",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Chase (2018-07-19)(Caruso, Fabrizio)"
+        ]
+      },
+      "Size": 14542,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "7/19/2018",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Chase"
+      ],
+      "Sha1": "e4f1d5fc00107419b5c27ee79b11fdbc6e24b3d7",
+      "Crc32": "1346f474",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Chase (2018-08-04)(Caruso, Fabrizio)"
+        ]
+      },
+      "Size": 14786,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "8/4/2018",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Chase"
+      ],
+      "Sha1": "d0b943bda78f4a66025481b475d24a01af0d48f6",
+      "Crc32": "01c566f5",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Chase (2018-10-29)(Caruso, Fabrizio)"
+        ]
+      },
+      "Size": 14163,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "10/29/2018",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Chase"
+      ],
+      "Sha1": "79143f334ea837bde8451dfde31918550c6187dd",
+      "Crc32": "269aee86",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Chase (2020-04-02)(Caruso, Fabrizio)"
+        ]
+      },
+      "Size": 12857,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "4/2/2020",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Chase"
+      ],
+      "Sha1": "f03abb5cf7693e0ec5e8f98fa4946a6468d14491",
+      "Crc32": "c6e3e095",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Chase (2021-05-13)(Caruso, Fabrizio)"
+        ]
+      },
+      "Size": 12429,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "5/13/2021",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Bedlam"
+      ],
+      "Sha1": "cf1781fa5259e6aff42c29c7f7d5f803424e4499",
+      "Crc32": "160ddfb9",
+      "SetNames": {
+        "TOSEC": [
+          "Bedlam (1982)(Tandy)[26-3312]"
+        ],
+        "TGDB": [
+          "32408"
+        ]
+      },
+      "OverviewId": 1,
+      "Size": 15648,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "Developers": [
+        "Robert Arnstein"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Genres": [
+        "Adventure"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Bomber"
+      ],
+      "Sha1": "45dea0491993368e23e279e2ae06d388d195f0c0",
+      "Crc32": "644f8e51",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Bomber (2020-08-26)(Caruso, Fabrizio)"
+        ]
+      },
+      "Size": 5999,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "8/26/2020",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Bomber"
+      ],
+      "Sha1": "213a92e5845ee72650aba4ec7394d23fd068fa78",
+      "Crc32": "a1082a8b",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Bomber (2021-05-13)(Caruso, Fabrizio)"
+        ]
+      },
+      "Size": 4889,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "5/13/2021",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Chase"
+      ],
+      "Sha1": "5948460a9419f77528a8b0f4d4c1315b8b9afc1b",
+      "Crc32": "6c221b53",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Chase (2018-04-15)(Caruso, Fabrizio)[full]"
+        ]
+      },
+      "Size": 13981,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "4/15/2018",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Chase"
+      ],
+      "Sha1": "3ccf8b799b5be0e5b73187b85dc3ac0612214945",
+      "Crc32": "4efda2b3",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Chase (2018-04-15)(Caruso, Fabrizio)[tiny]"
+        ]
+      },
+      "Size": 5093,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "4/15/2018",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Chase"
+      ],
+      "Sha1": "9bc08ede95e591e50d7599c8e098cd35944be57f",
+      "Crc32": "c1ec3b01",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Chase (2018-05-19)(Caruso, Fabrizio)[full]"
+        ]
+      },
+      "Size": 14147,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "5/19/2018",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Chase"
+      ],
+      "Sha1": "d8072a6c9aa199ad8dcb3d21df53370802057e97",
+      "Crc32": "400ebbc7",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Chase (2018-05-19)(Caruso, Fabrizio)[tiny]"
+        ]
+      },
+      "Size": 5245,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "5/19/2018",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Chase"
+      ],
+      "Sha1": "b35e682ae9a171e6488dfccd23bd92f51781aabe",
+      "Crc32": "68348f87",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Chase (2018-07-19)(Caruso, Fabrizio)[full]"
+        ]
+      },
+      "Size": 14390,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "7/19/2018",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Chase"
+      ],
+      "Sha1": "2ce8b53bb7e617c572e2f4a2feda3a62b7ae099f",
+      "Crc32": "4c78bc09",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Chase (2018-07-19)(Caruso, Fabrizio)[tiny]"
+        ]
+      },
+      "Size": 5612,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "7/19/2018",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Chase"
+      ],
+      "Sha1": "0e8578f4139d212f60d01540d6b34f56c8e1d784",
+      "Crc32": "a4173494",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Chase (2018-08-04)(Caruso, Fabrizio)[full]"
+        ]
+      },
+      "Size": 14639,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "8/4/2018",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Chase"
+      ],
+      "Sha1": "d9df00d50a91dd92ea81413eb5d2a2a82b819ac9",
+      "Crc32": "7f9b9153",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Chase (2018-08-04)(Caruso, Fabrizio)[tiny]"
+        ]
+      },
+      "Size": 5629,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "8/4/2018",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Chase"
+      ],
+      "Sha1": "284945c3e511fa1dc41796df7981d4f8b05fe1ca",
+      "Crc32": "8702251c",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Chase (2018-10-29)(Caruso, Fabrizio)"
+        ]
+      },
+      "Size": 14222,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "10/29/2018",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Chase"
+      ],
+      "Sha1": "2a932d5c2631105db7074e10af3ab28ebc02d479",
+      "Crc32": "60e4e707",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Chase (2018-10-29)(Caruso, Fabrizio)[full]"
+        ]
+      },
+      "Size": 15681,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "10/29/2018",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Chase"
+      ],
+      "Sha1": "7d7187598f76b7e2e86e2a41bf4e95fdbe16f7c1",
+      "Crc32": "52f83f00",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Chase (2018-10-29)(Caruso, Fabrizio)[full][chars]"
+        ]
+      },
+      "Size": 14539,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "10/29/2018",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Chase"
+      ],
+      "Sha1": "375dceeac54f0b8ac50c51ad0cc141527dd6c2b0",
+      "Crc32": "d8380515",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Chase (2018-10-29)(Caruso, Fabrizio)[tiny]"
+        ]
+      },
+      "Size": 5769,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "10/29/2018",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Chase"
+      ],
+      "Sha1": "21d56fc08ce68b154b4a6ef5a2b26086e0ec7090",
+      "Crc32": "53902fda",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Chase (2020-04-02)(Caruso, Fabrizio)"
+        ]
+      },
+      "Size": 14631,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "4/2/2020",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Chase"
+      ],
+      "Sha1": "2bcd3d5bb4e1b93bcf60705975db7f67d73317f7",
+      "Crc32": "45a80950",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Chase (2020-04-02)(Caruso, Fabrizio)[full]"
+        ]
+      },
+      "Size": 16320,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "4/2/2020",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Chase"
+      ],
+      "Sha1": "a4ff2f50455376aaef417ebca5948d801d6c7090",
+      "Crc32": "53d39534",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Chase (2020-04-02)(Caruso, Fabrizio)[full][chars]"
+        ]
+      },
+      "Size": 14842,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "4/2/2020",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Chase"
+      ],
+      "Sha1": "4ef514fbab51fa91ce81646ae70201d2d4dc215f",
+      "Crc32": "117bca75",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Chase (2020-04-02)(Caruso, Fabrizio)[tiny]"
+        ]
+      },
+      "Size": 6355,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "4/2/2020",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Chase"
+      ],
+      "Sha1": "3846880e872d5f8621a6c74da012458db08d037e",
+      "Crc32": "6c9a6030",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Chase (2021-05-13)(Caruso, Fabrizio)"
+        ]
+      },
+      "Size": 14194,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "5/13/2021",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Horde"
+      ],
+      "Sha1": "2eb149eab6418f331477cf6c7b2afa3ed0ba4f85",
+      "Crc32": "957a2315",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Horde (2021-04-16)(Caruso, Fabrizio)"
+        ]
+      },
+      "Size": 17632,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "4/16/2021",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Horde"
+      ],
+      "Sha1": "2c371d3ba43b41421e65f6883ebbc8cb4941cebf",
+      "Crc32": "da0410d4",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Horde (2021-04-25)(Caruso, Fabrizio)"
+        ]
+      },
+      "Size": 18072,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "4/25/2021",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Horde v1.0"
+      ],
+      "Sha1": "457657c3c61a656a6eab38946b43751216c40b4d",
+      "Crc32": "f6d1e67d",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Horde v1.0 (2021-05-01)(Caruso, Fabrizio)"
+        ]
+      },
+      "Size": 17583,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "5/1/2021",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Snake Preview"
+      ],
+      "Sha1": "130e7002dbf4fb4b4ca8860e303042b1cc632dbe",
+      "Crc32": "ac6f9cb3",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Snake Preview (2020-12-05)(Caruso, Fabrizio)"
+        ]
+      },
+      "Size": 8767,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "12/5/2020",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Snake v1.0"
+      ],
+      "Sha1": "04c4f3913273d4a728246b77613dec15ede6de84",
+      "Crc32": "6e299624",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Snake v1.0 (2020-12-12)(Caruso, Fabrizio)"
+        ]
+      },
+      "Size": 18946,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "12/12/2020",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Snake v2.0"
+      ],
+      "Sha1": "634f9b39d6059f2a394b8a57de27a244d2fb873d",
+      "Crc32": "3a5a4abc",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Snake v2.0 (2020-12-31)(Caruso, Fabrizio)"
+        ]
+      },
+      "Size": 19061,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "12/31/2020",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Donkey King"
+      ],
+      "Sha1": "7172fbf157aed57b9fdc6dab8e7ee5fae0f15b36",
+      "Crc32": "4bcd3eaa",
+      "SetNames": {
+        "TOSEC": [
+          "Donkey King (1982)(Tom Mix Software)"
+        ]
+      },
+      "Size": 20461,
+      "Publishers": [
+        "Tom Mix Software"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Donkey Monkey"
+      ],
+      "Sha1": "86ced3553f746f2351689b154d8718c81e806462",
+      "Crc32": "fe7a5747",
+      "SetNames": {
+        "TOSEC": [
+          "Donkey Monkey (1985)(Engesoft)"
+        ]
+      },
+      "Size": 13967,
+      "Publishers": [
+        "Engesoft"
+      ],
+      "ReleaseDate": "1/1/1985",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Pengon"
+      ],
+      "Sha1": "d8dcc03b9a15cc47f535701739f2636af1e09e8f",
+      "Crc32": "b4d72772",
+      "SetNames": {
+        "TOSEC": [
+          "Pengon (1983)(Spectral Associates)"
+        ]
+      },
+      "Size": 23741,
+      "Publishers": [
+        "Spectral Associates"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Pyramid 2000"
+      ],
+      "Sha1": "64c880fa82a3353e54bb5e4d96a0eab7eb298c3d",
+      "Crc32": "c4267d72",
+      "SetNames": {
+        "TOSEC": [
+          "Pyramid 2000 (1982)(Tandy)[26-3310]"
+        ]
+      },
+      "Size": 15257,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Rommel-3D"
+      ],
+      "Sha1": "b63888b235217ff9bf8ae169894bc7212c349d22",
+      "Crc32": "5250ebd7",
+      "SetNames": {
+        "TOSEC": [
+          "Rommel-3D (1985)(MichTron)"
+        ]
+      },
+      "Size": 25274,
+      "Publishers": [
+        "MichTron"
+      ],
+      "ReleaseDate": "1/1/1985",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Shanghai"
+      ],
+      "Sha1": "1c27d32668f7f78922fbe04063b4716e7d974fb2",
+      "Crc32": "6034e94e",
+      "SetNames": {
+        "TOSEC": [
+          "Shanghai (1987)(Activision)"
+        ]
+      },
+      "Size": 26278,
+      "Publishers": [
+        "Activision"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Zaxxon"
+      ],
+      "Sha1": "94b71f61ed8ae2ff401cf903aeb5ce53b2c65e77",
+      "Crc32": "bf0e414c",
+      "SetNames": {
+        "TOSEC": [
+          "Zaxxon (1983)(Tandy)[26-3062]"
+        ]
+      },
+      "Size": 18761,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Chase"
+      ],
+      "Sha1": "afd2266ea818cfc26aa2e3fe6c5df40e1c9d7bce",
+      "Crc32": "cc58feb7",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Chase (2018-07-19)(Caruso, Fabrizio)[full]"
+        ]
+      },
+      "Size": 14069,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "7/19/2018",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Chase"
+      ],
+      "Sha1": "b65045f31470c498af0c7e8d5ff1be3a71700c3b",
+      "Crc32": "8b34427c",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Chase (2018-08-04)(Caruso, Fabrizio)[full]"
+        ]
+      },
+      "Size": 14317,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "8/4/2018",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Chase"
+      ],
+      "Sha1": "f816a4b5d7df50d7af9df2d753ec0bd44887555e",
+      "Crc32": "e30d6c59",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Chase (2020-04-02)(Caruso, Fabrizio)[full]"
+        ]
+      },
+      "Size": 14524,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "4/2/2020",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Chase"
+      ],
+      "Sha1": "48803d9c2a1b5b5b6c502ac712945aeba0246fdd",
+      "Crc32": "05d3a101",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Chase (2021-05-13)(Caruso, Fabrizio)"
+        ]
+      },
+      "Size": 14701,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "5/13/2021",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Chase"
+      ],
+      "Sha1": "e91ec64a66751143f78d50991ae7bee692a4a9d4",
+      "Crc32": "df6400f7",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Chase (2021-05-13)(Caruso, Fabrizio)[chars]"
+        ]
+      },
+      "Size": 14563,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "5/13/2021",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "3D Brick Away"
+      ],
+      "Sha1": "f086185065861e8a715a5c389b5cecaef11fc965",
+      "Crc32": "c9c2c08a",
+      "SetNames": {
+        "TOSEC": [
+          "3D Brick Away (1982)(Avalon Hill)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Avalon Hill"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "666 The Haunted House"
+      ],
+      "Sha1": "3468c653556622857d6d50b5c65bdbf1f4ec797a",
+      "Crc32": "4ea5e659",
+      "SetNames": {
+        "TOSEC": [
+          "666 The Haunted House (2003)(Hofsetz, Christian)"
+        ]
+      },
+      "Size": 117760,
+      "Publishers": [
+        "Hofsetz, Christian"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "7 Card Stud"
+      ],
+      "Sha1": "47ba5fe006ffa1f29c2332ddc98f191117b4dc2d",
+      "Crc32": "f63fb2d7",
+      "SetNames": {
+        "TOSEC": [
+          "7 Card Stud (198x)(Tandy)[26-3074]"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Tandy"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "8-Ball"
+      ],
+      "Sha1": "cd50a5c5a6fe1962bc14e867aa7f1753429f41b1",
+      "Crc32": "dea2d720",
+      "SetNames": {
+        "TOSEC": [
+          "8-Ball (1983)(Anteco Software)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Anteco Software"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Adventures in Mythology"
+      ],
+      "Sha1": "26b4cccb4938485d532d1b3c109c907dd4f5a277",
+      "Crc32": "ac27a7ea",
+      "SetNames": {
+        "TOSEC": [
+          "Adventures in Mythology (1985)(Saguard Software)[cr Mr X]"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Saguard Software"
+      ],
+      "ReleaseDate": "1/1/1985",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Cracked"
+      ]
+    },
+    {
+      "Titles": [
+        "Airline"
+      ],
+      "Sha1": "36a5b362ace3040d17f381f973a53a50ee1e35b9",
+      "Crc32": "4f5d2e60",
+      "SetNames": {
+        "TOSEC": [
+          "Airline (1983)(Adventure International)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Adventure International"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Andrea Coco, The"
+      ],
+      "Sha1": "ceef8436a404dacd1c5ab49038decdf037704fe0",
+      "Crc32": "22d72900",
+      "SetNames": {
+        "TOSEC": [
+          "Andrea Coco, The (1985)(Saguard Software)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Saguard Software"
+      ],
+      "ReleaseDate": "1/1/1985",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Androne"
+      ],
+      "Sha1": "0aff7271b4ab217b47ee76a11b7111dfaf2218e4",
+      "Crc32": "42f405dd",
+      "SetNames": {
+        "TOSEC": [
+          "Androne (1983)(Tandy)[26-3096]"
+        ],
+        "TGDB": [
+          "32399"
+        ]
+      },
+      "OverviewId": 2,
+      "Size": 161280,
+      "Publishers": [
+        "Tandy",
+        "Radio Shack"
+      ],
+      "Developers": [
+        "Robert Arnstein"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Apples"
+      ],
+      "Sha1": "f4de4b91254e55f0070f24d12dc666d9dc966d93",
+      "Crc32": "1e3e8c2f",
+      "SetNames": {
+        "TOSEC": [
+          "Apples (1982)(Computerware)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Computerware"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Arena of Skill"
+      ],
+      "Sha1": "d9c11f4db06c8a2bd981aa9674b94648629fbece",
+      "Crc32": "12904a57",
+      "SetNames": {
+        "TOSEC": [
+          "Arena of Skill (1988)(Nivison, Chuck)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Nivison, Chuck"
+      ],
+      "ReleaseDate": "1/1/1988",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Arex"
+      ],
+      "Sha1": "99d9c79bfa59408f71b4f78f4682e5a56f53177a",
+      "Crc32": "b2772f3f",
+      "SetNames": {
+        "TOSEC": [
+          "Arex (1983)(Adventure International)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Adventure International"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Arkanoid"
+      ],
+      "Sha1": "f8405c6615a9f09f36fa439eb67c3a0d03b217f1",
+      "Crc32": "e658ad4d",
+      "SetNames": {
+        "TOSEC": [
+          "Arkanoid (1987)(Tandy)[26-3043]"
+        ],
+        "TGDB": [
+          "32400"
+        ]
+      },
+      "OverviewId": 3,
+      "Size": 161280,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "Developers": [
+        "Steve Bjork"
+      ],
+      "ReleaseDate": "1/1/1989",
+      "ESRB": "E",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Armchair Admiral"
+      ],
+      "Sha1": "c4742de7bf9560fc195ea452d17a5c4d45562c28",
+      "Crc32": "ed1804ee",
+      "SetNames": {
+        "TOSEC": [
+          "Armchair Admiral (1987)(Eversoft Games)"
+        ]
+      },
+      "Size": 184320,
+      "Publishers": [
+        "Eversoft Games"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Asimov Awards"
+      ],
+      "Sha1": "aa25f3fd2a3258beeeea9f8c4357f3af46d33e1b",
+      "Crc32": "a3889bb6",
+      "SetNames": {
+        "TOSEC": [
+          "Asimov Awards (2006)(-)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "-"
+      ],
+      "ReleaseDate": "1/1/2006",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Asimov Awards"
+      ],
+      "Sha1": "a7d37476610908ee64350c6dd1bc83372667671e",
+      "Crc32": "ddc76669",
+      "SetNames": {
+        "TOSEC": [
+          "Asimov Awards (2007)(-)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "-"
+      ],
+      "ReleaseDate": "1/1/2007",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Atom"
+      ],
+      "Sha1": "ce73a7c00a21343fb215464c98f4c5adc0f87ca9",
+      "Crc32": "79645a05",
+      "SetNames": {
+        "TOSEC": [
+          "Atom (1983)(Tandy)[26-3149]"
+        ],
+        "TGDB": [
+          "32401"
+        ]
+      },
+      "OverviewId": 4,
+      "Size": 161280,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "ESRB": "E",
+      "Genres": [
+        "Puzzle"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "BagitMan"
+      ],
+      "Sha1": "7476444429b360cca241affca029a728d09ae4e2",
+      "Crc32": "903be5b4",
+      "SetNames": {
+        "TOSEC": [
+          "BagitMan (1983)(Aardvark)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Aardvark"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Barbarian Quest"
+      ],
+      "Sha1": "d16eebee4e436313198955131c40570b6bc80473",
+      "Crc32": "5d96fb0d",
+      "SetNames": {
+        "TOSEC": [
+          "Barbarian Quest (1990)(Sportsware)(Disk 1 of 2)"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 256016,
+      "PartNum": 1,
+      "TotalParts": 2,
+      "Publishers": [
+        "Sportsware"
+      ],
+      "ReleaseDate": "1/1/1990",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Barbarian Quest"
+      ],
+      "Sha1": "5dd02c86e51c0896aee37ae280ad90695eff8c3e",
+      "Crc32": "7fa9f294",
+      "SetNames": {
+        "TOSEC": [
+          "Barbarian Quest (1990)(Sportsware)(Disk 2 of 2)"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 256016,
+      "PartNum": 2,
+      "TotalParts": 2,
+      "Publishers": [
+        "Sportsware"
+      ],
+      "ReleaseDate": "1/1/1990",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Bedlam"
+      ],
+      "Sha1": "dba6b9fb7348f0e9f6df0de49cddcca9b799e019",
+      "Crc32": "effbe281",
+      "SetNames": {
+        "TOSEC": [
+          "Bedlam (1982)(Tandy)[26-3312]"
+        ],
+        "TGDB": [
+          "32408"
+        ]
+      },
+      "OverviewId": 1,
+      "Size": 161280,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "Developers": [
+        "Robert Arnstein"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Genres": [
+        "Adventure"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Bingo Math"
+      ],
+      "Sha1": "6fb826802d70fdedfacb0253a4985e787b7d3f58",
+      "Crc32": "18c07804",
+      "SetNames": {
+        "TOSEC": [
+          "Bingo Math (1983)(Tandy)[26-3150]"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Blackbeard's Island"
+      ],
+      "Sha1": "0f1f59367280db03739ac117e7d4278f041b9e35",
+      "Crc32": "3c4d000c",
+      "SetNames": {
+        "TOSEC": [
+          "Blackbeard's Island (1984)(Tom Mix Software)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Tom Mix Software"
+      ],
+      "ReleaseDate": "1/1/1984",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Blochead"
+      ],
+      "Sha1": "2bbb83eba83de244c5bd8deccb421a2b467a6608",
+      "Crc32": "14fdf302",
+      "SetNames": {
+        "TOSEC": [
+          "Blochead (1983)(Computerware)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Computerware"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Bridge Tutor I"
+      ],
+      "Sha1": "2933a293f7f7813ff59e3c24ae5eabb406d01236",
+      "Crc32": "eabcd689",
+      "SetNames": {
+        "TOSEC": [
+          "Bridge Tutor I (1983)(Tandy)[26-3158]"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Caladuril - Flame of Light"
+      ],
+      "Sha1": "56ecea4350d65c7149d04caf2d787d23d8c83e44",
+      "Crc32": "d5df3395",
+      "SetNames": {
+        "TOSEC": [
+          "Caladuril - Flame of Light (1987)(Diecom Products)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Diecom Products"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Caladuril 2 - Weatherstone's End"
+      ],
+      "Sha1": "c7fd20437d15ead823f7ea85d775994b293d3d51",
+      "Crc32": "72d581d8",
+      "SetNames": {
+        "TOSEC": [
+          "Caladuril 2 - Weatherstone's End (1988)(Diacom Products)(Disk 1 of 2)"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 505616,
+      "PartNum": 1,
+      "TotalParts": 2,
+      "Publishers": [
+        "Diacom Products"
+      ],
+      "ReleaseDate": "1/1/1988",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Caladuril 2 - Weatherstone's End"
+      ],
+      "Sha1": "12a363a7f4e024101b358142ec511c33e2392826",
+      "Crc32": "bdf68bee",
+      "SetNames": {
+        "TOSEC": [
+          "Caladuril 2 - Weatherstone's End (1988)(Diacom Products)(Disk 2 of 2)"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 505616,
+      "PartNum": 2,
+      "TotalParts": 2,
+      "Publishers": [
+        "Diacom Products"
+      ],
+      "ReleaseDate": "1/1/1988",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Canyon Climber"
+      ],
+      "Sha1": "447aa834c4900006a4f1c54bfa665968c3a34a8d",
+      "Crc32": "29af0fdb",
+      "SetNames": {
+        "TOSEC": [
+          "Canyon Climber (1982)(Tandy)[26-3089]"
+        ],
+        "TGDB": [
+          "32403"
+        ]
+      },
+      "OverviewId": 5,
+      "Size": 161280,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "Developers": [
+        "James Garon"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cashman"
+      ],
+      "Sha1": "b41dcb6ac770e67ad51711d97b2b87c52be49dd3",
+      "Crc32": "6445af8c",
+      "SetNames": {
+        "TOSEC": [
+          "Cashman (1983)(Computer Shack)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Computer Shack"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Castle Guard"
+      ],
+      "Sha1": "c6f3653c12026bae9e1fd9d09fe187fee9d4c4f7",
+      "Crc32": "ec2e494a",
+      "SetNames": {
+        "TOSEC": [
+          "Castle Guard (1982)(Tandy)[26-3079]"
+        ],
+        "TGDB": [
+          "32404"
+        ]
+      },
+      "OverviewId": 6,
+      "Size": 161280,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Catalyst"
+      ],
+      "Sha1": "89f81c9da1fbffe84f4b143c6109f5bd0369fd1e",
+      "Crc32": "8fe7d34e",
+      "SetNames": {
+        "TOSEC": [
+          "Catalyst (1983)(Computer Shack)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Computer Shack"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Catch 'Em"
+      ],
+      "Sha1": "c1e44aca758fcefbe12fb9ad24ee8bf528459fb8",
+      "Crc32": "4d12485f",
+      "SetNames": {
+        "TOSEC": [
+          "Catch 'Em (1982)(Aardvark)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Aardvark"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cave Walker"
+      ],
+      "Sha1": "b62d08eb49f1325e0ca03042e9b1c2e0a184cf4d",
+      "Crc32": "3bd9981b",
+      "SetNames": {
+        "TOSEC": [
+          "Cave Walker (1986)(Spectral Associates)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Spectral Associates"
+      ],
+      "ReleaseDate": "1/1/1986",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cave Walker"
+      ],
+      "Sha1": "1f241111efd0fd0b5ef4dfc982a87b71ab9392d4",
+      "Crc32": "c361677b",
+      "SetNames": {
+        "TOSEC": [
+          "Cave Walker (1987)(Tandy)[26-3246]"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Caves of the Unwashed Heathen"
+      ],
+      "Sha1": "4d7e241e06b6be583ae2ac2ccee5c412845172e0",
+      "Crc32": "d1cd4056",
+      "SetNames": {
+        "TOSEC": [
+          "Caves of the Unwashed Heathen (2000)(Schoemaker, Paul)(Disk 1 of 2)"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 141824,
+      "PartNum": 1,
+      "TotalParts": 2,
+      "Publishers": [
+        "Schoemaker, Paul"
+      ],
+      "ReleaseDate": "1/1/2000",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Caves of the Unwashed Heathen"
+      ],
+      "Sha1": "a70b6461b6917a3ff314e70bedc465f9fb29db0b",
+      "Crc32": "064cd725",
+      "SetNames": {
+        "TOSEC": [
+          "Caves of the Unwashed Heathen (2000)(Schoemaker, Paul)(Disk 1 of 3)[coco3]"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 184320,
+      "PartNum": 1,
+      "TotalParts": 3,
+      "Publishers": [
+        "Schoemaker, Paul"
+      ],
+      "ReleaseDate": "1/1/2000",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Caves of the Unwashed Heathen"
+      ],
+      "Sha1": "2def45d222ea596fffe90c7e230811a2801d651d",
+      "Crc32": "e607473e",
+      "SetNames": {
+        "TOSEC": [
+          "Caves of the Unwashed Heathen (2000)(Schoemaker, Paul)(Disk 2 of 2)",
+          "Caves of the Unwashed Heathen (2000)(Schoemaker, Paul)(Disk 3 of 3)[coco3]"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 184320,
+      "PartNum": 2,
+      "TotalParts": 2,
+      "Publishers": [
+        "Schoemaker, Paul"
+      ],
+      "ReleaseDate": "1/1/2000",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Caves of the Unwashed Heathen"
+      ],
+      "Sha1": "c86921ebad249ccfd1b5188ef09c8e5dc8decf6b",
+      "Crc32": "fa830bb2",
+      "SetNames": {
+        "TOSEC": [
+          "Caves of the Unwashed Heathen (2000)(Schoemaker, Paul)(Disk 2 of 3)[coco3]"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 141824,
+      "PartNum": 2,
+      "TotalParts": 3,
+      "Publishers": [
+        "Schoemaker, Paul"
+      ],
+      "ReleaseDate": "1/1/2000",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Chamelion"
+      ],
+      "Sha1": "c4f18fb1fff9ab07e41100582bcedc57a7237366",
+      "Crc32": "43fe16ad",
+      "SetNames": {
+        "TOSEC": [
+          "Chamelion (1982)(Computerware)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Computerware"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Checker King"
+      ],
+      "Sha1": "91ace02e4c859d5f2deffbcdff44c33ac2dc80e8",
+      "Crc32": "b012dbb9",
+      "SetNames": {
+        "TOSEC": [
+          "Checker King (1980)(Tandy)[26-3055]"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1980",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Checkers"
+      ],
+      "Sha1": "9287876f83d29296b3625e2a5d20b9fb43bbf37c",
+      "Crc32": "374eb9d6",
+      "SetNames": {
+        "TOSEC": [
+          "Checkers (1986)(Young, Richard)"
+        ],
+        "TGDB": [
+          "32405"
+        ]
+      },
+      "OverviewId": 7,
+      "Size": 161280,
+      "Publishers": [
+        "Young, Richard"
+      ],
+      "ReleaseDate": "1/1/1986",
+      "Genres": [],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Chess"
+      ],
+      "Sha1": "15739635aa7c533b31670234cdb8fec32397bbad",
+      "Crc32": "f9e326ac",
+      "SetNames": {
+        "TOSEC": [
+          "Chess (1980)(Tandy)[26-3050]"
+        ],
+        "TGDB": [
+          "32406"
+        ]
+      },
+      "OverviewId": 8,
+      "Size": 161280,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1980",
+      "Genres": [
+        "Sports"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Chess"
+      ],
+      "Sha1": "8ea9e06d3000b45f348491e5c51607fbfc8bc588",
+      "Crc32": "14c88e3f",
+      "SetNames": {
+        "TOSEC": [
+          "Chess (1986)(Young, Richard)"
+        ],
+        "TGDB": [
+          "32406"
+        ]
+      },
+      "OverviewId": 8,
+      "Size": 161280,
+      "Publishers": [
+        "Young, Richard"
+      ],
+      "ReleaseDate": "1/1/1986",
+      "Genres": [
+        "Sports"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Chessd"
+      ],
+      "Sha1": "118ab34fb989a1a1d2393afc318bb7eaec4d4166",
+      "Crc32": "77c479a5",
+      "SetNames": {
+        "TOSEC": [
+          "Chessd (1984)(Software Dynamic)",
+          "Chessd (1984)(Software Dynamicc)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Software Dynamic",
+        "Software Dynamicc"
+      ],
+      "ReleaseDate": "1/1/1984",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Chopper Strike"
+      ],
+      "Sha1": "635fb913215d5f725e09623a8650056a543fbc41",
+      "Crc32": "a97139bc",
+      "SetNames": {
+        "TOSEC": [
+          "Chopper Strike (1983)(Computer Shack)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Computer Shack"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Classic Solitaire"
+      ],
+      "Sha1": "9de2836f29d78dc3b06d3947bd3d431442d53e20",
+      "Crc32": "203f9633",
+      "SetNames": {
+        "TOSEC": [
+          "Classic Solitaire (198x)(Eversoft Games)"
+        ]
+      },
+      "Size": 224016,
+      "Publishers": [
+        "Eversoft Games"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Clowns & Balloons"
+      ],
+      "Sha1": "d74d22560c306ab4066a137b0b669f32b03fdfbf",
+      "Crc32": "ed0c764a",
+      "SetNames": {
+        "TOSEC": [
+          "Clowns & Balloons (1982)(Tandy)[26-3087]"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "CoCoPRO! Solitaire"
+      ],
+      "Sha1": "fe25043f3541020d162b5ccd1e080d00780700cc",
+      "Crc32": "0782ff02",
+      "SetNames": {
+        "TOSEC": [
+          "CoCoPRO! Solitaire (1992)(DNM Enterprises)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "DNM Enterprises"
+      ],
+      "ReleaseDate": "1/1/1992",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Color Backgammon"
+      ],
+      "Sha1": "2127f9b79401501543f41247d9b6fefca2685a64",
+      "Crc32": "52f83f0f",
+      "SetNames": {
+        "TOSEC": [
+          "Color Backgammon (1980)(Tandy)[26-3059]"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1980",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Color Computer Clue"
+      ],
+      "Sha1": "87b530c2da2412826f42a55acaedab4134e47b7f",
+      "Crc32": "3da0ec05",
+      "SetNames": {
+        "TOSEC": [
+          "Color Computer Clue (1994)(LDG Free Software)[coco3]"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "LDG Free Software"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Color Cubes"
+      ],
+      "Sha1": "6cdafb20fc16a49ef0847d89a0d0aeb1f5bbb385",
+      "Crc32": "ed4f4047",
+      "SetNames": {
+        "TOSEC": [
+          "Color Cubes (1981)(Tandy)[26-3075]"
+        ],
+        "TGDB": [
+          "32410"
+        ]
+      },
+      "OverviewId": 9,
+      "Size": 161280,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "Developers": [
+        "R.G. Kilgus"
+      ],
+      "ReleaseDate": "1/1/1981",
+      "Genres": [
+        "Puzzle"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Color Invaders"
+      ],
+      "Sha1": "53ed09eab730a08c5b7453cfbfa9dbc6f7afbb38",
+      "Crc32": "193b3360",
+      "SetNames": {
+        "TOSEC": [
+          "Color Invaders (1981)(Computerware)"
+        ]
+      },
+      "Size": 184320,
+      "Publishers": [
+        "Computerware"
+      ],
+      "ReleaseDate": "1/1/1981",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Color Outhouse"
+      ],
+      "Sha1": "7f5fdb2344cf3fc5e38350f0efc729bfe2b0c54a",
+      "Crc32": "c6beac5a",
+      "SetNames": {
+        "TOSEC": [
+          "Color Outhouse (1983)(Computer Shack)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Computer Shack"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Colorbowl Football"
+      ],
+      "Sha1": "89bb118efeddf2ad9303df7db85aa8ff025398b1",
+      "Crc32": "c9cc222c",
+      "SetNames": {
+        "TOSEC": [
+          "Colorbowl Football (1982)(Computerware)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Computerware"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Conquering Armies"
+      ],
+      "Sha1": "5057d4bf6eb58ef595b8c3bbbdf929856b569c45",
+      "Crc32": "1885092b",
+      "SetNames": {
+        "TOSEC": [
+          "Conquering Armies (1988)(Mitchell Software)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Mitchell Software"
+      ],
+      "ReleaseDate": "1/1/1988",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Bomber"
+      ],
+      "Sha1": "3718962ab39fa42c11d0b77040144914d8b3387e",
+      "Crc32": "4b5aa70e",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Bomber (2020-08-26)(Caruso, Fabrizio)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "8/26/2020",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Bomber"
+      ],
+      "Sha1": "4b7b8e19a79442d6b74060b0fd54b50876b8780a",
+      "Crc32": "d95a1a79",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Bomber (2021-05-13)(Caruso, Fabrizio)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "5/13/2021",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Chase"
+      ],
+      "Sha1": "f3d8e87e354762974a394ac3e4b70e0eea6018c5",
+      "Crc32": "df1ab36c",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Chase (2020-04-02)(Caruso, Fabrizio)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "4/2/2020",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Chase"
+      ],
+      "Sha1": "aad169030c1cc97058b9b1b6ec66d323f98ff888",
+      "Crc32": "f1e34e55",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Chase (2021-05-13)(Caruso, Fabrizio)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "5/13/2021",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Horde"
+      ],
+      "Sha1": "9bfe4230be9fb55f32b6d0bff78575801a221390",
+      "Crc32": "419038e0",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Horde (2021-04-16)(Caruso, Fabrizio)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "4/16/2021",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Horde"
+      ],
+      "Sha1": "778ab4ff2ac017740871acda425fd26fe9607c2f",
+      "Crc32": "40647570",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Horde (2021-04-25)(Caruso, Fabrizio)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "4/25/2021",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Horde v1.0"
+      ],
+      "Sha1": "fad091b6bea1148ccba6d0782a3d5215e1f53c4c",
+      "Crc32": "3e66cde6",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Horde v1.0 (2021-05-01)(Caruso, Fabrizio)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "5/1/2021",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Snake Preview"
+      ],
+      "Sha1": "b36ce0edf0624c609411452c51da64a871834fe2",
+      "Crc32": "44a2c85d",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Snake Preview (2020-12-05)(Caruso, Fabrizio)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "12/5/2020",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Snake v1.0"
+      ],
+      "Sha1": "dc2b72526b7313a30de61ada9f18fc326f80fac9",
+      "Crc32": "3183555d",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Snake v1.0 (2020-12-12)(Caruso, Fabrizio)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "12/12/2020",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Snake v2.0"
+      ],
+      "Sha1": "a3845921c07110057c570c17136d05dff0780726",
+      "Crc32": "72c22ae5",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Snake v2.0 (2020-12-31)(Caruso, Fabrizio)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "12/31/2020",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Crowley Manor"
+      ],
+      "Sha1": "1bba7c19f5cbf78e1d615ef6c4a6a8dc74493f9c",
+      "Crc32": "8358bd07",
+      "SetNames": {
+        "TOSEC": [
+          "Crowley Manor (1983)(Adventure International)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Adventure International"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cyrus Chess"
+      ],
+      "Sha1": "7df87f43c1cb107819132f1035790509876596be",
+      "Crc32": "ba7bc68e",
+      "SetNames": {
+        "TOSEC": [
+          "Cyrus Chess (1982)(Tandy)[26-3064]"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Dallas Quest"
+      ],
+      "Sha1": "f98855aba32b77309f951dbc8bb8eef48d0273a1",
+      "Crc32": "519e9f64",
+      "SetNames": {
+        "TOSEC": [
+          "Dallas Quest (1984)(Tandy)[26-3294]"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1984",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Demon Attack"
+      ],
+      "Sha1": "7de81f66822c085556a0c7375c1c8f685f3fb4d2",
+      "Crc32": "cda1b822",
+      "SetNames": {
+        "TOSEC": [
+          "Demon Attack (1984)(Tandy)[26-3099]"
+        ],
+        "TGDB": [
+          "32412"
+        ]
+      },
+      "OverviewId": 10,
+      "Size": 161280,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "Developers": [
+        "Imagic"
+      ],
+      "ReleaseDate": "1/1/1984",
+      "ESRB": "E",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Desert Patrol"
+      ],
+      "Sha1": "42973b5b7249c450bb0f857c97001f1a5924b38c",
+      "Crc32": "97ee91fa",
+      "SetNames": {
+        "TOSEC": [
+          "Desert Patrol (1983)(Arcade Animation)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Arcade Animation"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Desert Rider"
+      ],
+      "Sha1": "42f1acdca096bd0d884a8950a7c9153413f39392",
+      "Crc32": "eb8ce61b",
+      "SetNames": {
+        "TOSEC": [
+          "Desert Rider (1984)(Tandy)[26-3292]"
+        ],
+        "TGDB": [
+          "32413"
+        ]
+      },
+      "OverviewId": 11,
+      "Size": 161280,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "Developers": [
+        "Steve Bjork"
+      ],
+      "ReleaseDate": "1/1/1984",
+      "Genres": [
+        "Racing"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Dino Wars"
+      ],
+      "Sha1": "62d2c44e8ac6c173d768b1d5b1cb90fe5ecb743c",
+      "Crc32": "23c5ec0a",
+      "SetNames": {
+        "TOSEC": [
+          "Dino Wars (1980)(Tandy)[26-3057]"
+        ],
+        "TGDB": [
+          "32414"
+        ]
+      },
+      "OverviewId": 12,
+      "Size": 161280,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "Developers": [
+        "R.G. Kilgus"
+      ],
+      "ReleaseDate": "12/1/1980",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Donut Dilemma"
+      ],
+      "Sha1": "e5d07ff13597de1ae13ede42ef99665551307022",
+      "Crc32": "be905509",
+      "SetNames": {
+        "TOSEC": [
+          "Donut Dilemma (1987)(Marentes, Nikolas)[26-9649]"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Marentes, Nikolas"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Doodle Bug"
+      ],
+      "Sha1": "7a3b1d35f9a083504f2575bcbee1e461800fb219",
+      "Crc32": "b54a5394",
+      "SetNames": {
+        "TOSEC": [
+          "Doodle Bug (1982)(Computerware)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Computerware"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Doubleback"
+      ],
+      "Sha1": "4c3b38085c28ab07fe4164ee1beb860266999d2a",
+      "Crc32": "6104f1cf",
+      "SetNames": {
+        "TOSEC": [
+          "Doubleback (1982)(Tandy)[26-3091]"
+        ],
+        "TGDB": [
+          "32415"
+        ]
+      },
+      "OverviewId": 13,
+      "Size": 161280,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "Developers": [
+        "Dale Lear"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Downland"
+      ],
+      "Sha1": "f70e6f185f2348633637f090dbbddc81cd41aba5",
+      "Crc32": "6b855664",
+      "SetNames": {
+        "TOSEC": [
+          "Downland (1984)(Tandy)[26-3046]"
+        ],
+        "TGDB": [
+          "32416"
+        ]
+      },
+      "OverviewId": 14,
+      "Size": 161280,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "Developers": [
+        "Michael Aichlmayr"
+      ],
+      "ReleaseDate": "1/1/1984",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Dragonfire"
+      ],
+      "Sha1": "facc51eeda3facb4f625a15ff7090cbf2fbd9890",
+      "Crc32": "538035a7",
+      "SetNames": {
+        "TOSEC": [
+          "Dragonfire (1982)(Tandy)[26-3098]"
+        ],
+        "TGDB": [
+          "35771"
+        ]
+      },
+      "OverviewId": 15,
+      "Size": 161280,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation",
+        "Radio Shack"
+      ],
+      "Developers": [
+        "Frank Ellis"
+      ],
+      "ReleaseDate": "1/3/1984",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Earth Quake San Franciso 1906"
+      ],
+      "Sha1": "f37ab87699ae39dc0b9443341e08bca4062a072b",
+      "Crc32": "0540d372",
+      "SetNames": {
+        "TOSEC": [
+          "Earth Quake San Franciso 1906 (1983)(Adventure International)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Adventure International"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "El Diablero"
+      ],
+      "Sha1": "3db5b25e2ebdfbe26031220fd672ee48182fc57a",
+      "Crc32": "040e818c",
+      "SetNames": {
+        "TOSEC": [
+          "El Diablero (1982)(Computerware)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Computerware"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Eliminator"
+      ],
+      "Sha1": "5003a4ec3a25ca42160fa55f097f780d8579ab64",
+      "Crc32": "4af23f0c",
+      "SetNames": {
+        "TOSEC": [
+          "Eliminator (1983)(Adventure International)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Adventure International"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Fire Copter"
+      ],
+      "Sha1": "47f019f4382e549dbfc0d38ad35d4342afd8ef05",
+      "Crc32": "45095bd2",
+      "SetNames": {
+        "TOSEC": [
+          "Fire Copter (1983)(Adventure International)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Adventure International"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Flight Simulator I"
+      ],
+      "Sha1": "621e0d542ddb30067943fa19e2a468d2941740cb",
+      "Crc32": "265748d8",
+      "SetNames": {
+        "TOSEC": [
+          "Flight Simulator I (1984)(Tandy)[26-3108]"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1984",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Flight Simulator II"
+      ],
+      "Sha1": "fae519cef873200b11b88061178efb840a5bb267",
+      "Crc32": "81460cae",
+      "SetNames": {
+        "TOSEC": [
+          "Flight Simulator II (1987)(SubLOGIC)"
+        ],
+        "TGDB": [
+          "88028"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "SubLOGIC"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Genres": [
+        "Vehicle Simulation"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Foodwar"
+      ],
+      "Sha1": "5dbcc30ae837b5fa8335a0763e1c407cc1ac809f",
+      "Crc32": "9ccc7aff",
+      "SetNames": {
+        "TOSEC": [
+          "Foodwar (1983)(Arcade Animation)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Arcade Animation"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Football"
+      ],
+      "Sha1": "962513dc5dc2b9c5e7f47d5fcb74fe26355bd117",
+      "Crc32": "0d02d42c",
+      "SetNames": {
+        "TOSEC": [
+          "Football (1980)(Tandy)[26-3053]"
+        ],
+        "TGDB": [
+          "32417"
+        ]
+      },
+      "OverviewId": 16,
+      "Size": 161280,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "ReleaseDate": "12/1/1980",
+      "Genres": [
+        "Sports"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Force, The"
+      ],
+      "Sha1": "f6382730def9438eed6e6161d1cf37b520047552",
+      "Crc32": "63da17a7",
+      "SetNames": {
+        "TOSEC": [
+          "Force, The (1982)(Anteco Software)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Anteco Software"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Fury"
+      ],
+      "Sha1": "a078d938b223efb059710a1e79c107c3576c5a10",
+      "Crc32": "95be5815",
+      "SetNames": {
+        "TOSEC": [
+          "Fury (1983)(Computer Shack)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Computer Shack"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Ghana Bwana"
+      ],
+      "Sha1": "255fbc96fac09f9b02aa93d737a0f3682280cffa",
+      "Crc32": "ae5deb7a",
+      "SetNames": {
+        "TOSEC": [
+          "Ghana Bwana (1984)(Tandy)[26-3293]"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1984",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Ghana Bwana"
+      ],
+      "Sha1": "31d9247c35b6c64b54d143e3948dec37d02720fa",
+      "Crc32": "2698ee91",
+      "SetNames": {
+        "TOSEC": [
+          "Ghana Bwana (1985)(Tandy)[26-3293]"
+        ]
+      },
+      "Size": 224016,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1985",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Gin Champion"
+      ],
+      "Sha1": "f993b05b7e1ec9f03a11649c1df359feccbf1bfe",
+      "Crc32": "1e65e038",
+      "SetNames": {
+        "TOSEC": [
+          "Gin Champion (1982)(Tandy)[26-3083]"
+        ],
+        "TGDB": [
+          "32419"
+        ]
+      },
+      "OverviewId": 17,
+      "Size": 161280,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "Developers": [
+        "Philidor Software"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Genres": [],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Gomoku-Renju"
+      ],
+      "Sha1": "23c175850c309ef5862748266b61959df60f0745",
+      "Crc32": "3b25a5d9",
+      "SetNames": {
+        "TOSEC": [
+          "Gomoku-Renju (1983)(Tandy)[26-3069]"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Graphic Mars"
+      ],
+      "Sha1": "1ae9fbfa1a45d9336744efd1a45c9b9b23e626de",
+      "Crc32": "2d5983a8",
+      "SetNames": {
+        "TOSEC": [
+          "Graphic Mars (1984)(Aardvark)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Aardvark"
+      ],
+      "ReleaseDate": "1/1/1984",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Graphic Pyramid"
+      ],
+      "Sha1": "14ef3a90360e157320372823f641b21496cc32df",
+      "Crc32": "ae5f5c15",
+      "SetNames": {
+        "TOSEC": [
+          "Graphic Pyramid (1984)(Aardvark)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Aardvark"
+      ],
+      "ReleaseDate": "1/1/1984",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Hibernated 1 Director's Cut r9"
+      ],
+      "Sha1": "43bf1153362161004be673aa586dcbc47c1d1d97",
+      "Crc32": "8303e3cc",
+      "SetNames": {
+        "TOSEC": [
+          "Hibernated 1 Director's Cut r9 (2021-06-27)(Vogt, Stefan)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Vogt, Stefan"
+      ],
+      "ReleaseDate": "6/27/2021",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Ice Master"
+      ],
+      "Sha1": "169c728a8a45322e5d39feaeccea04f50389ab5a",
+      "Crc32": "ab8b9ca1",
+      "SetNames": {
+        "TOSEC": [
+          "Ice Master (1983)(Arcade Animation)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Arcade Animation"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Jungle Queen"
+      ],
+      "Sha1": "192e55a244ce51138c89526b5a5fd9f0d1e65f45",
+      "Crc32": "675a6510",
+      "SetNames": {
+        "TOSEC": [
+          "Jungle Queen (1983)(2050 Software)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "2050 Software"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Klendathu"
+      ],
+      "Sha1": "af75c2aea830f4878aab36d27edff680999e6428",
+      "Crc32": "7793fd41",
+      "SetNames": {
+        "TOSEC": [
+          "Klendathu (198x)(Tandy)[26-2567]"
+        ],
+        "TGDB": [
+          "32421"
+        ]
+      },
+      "OverviewId": 18,
+      "Size": 161280,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "Developers": [
+        "Leo Christopherson"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Koronis Rift"
+      ],
+      "Sha1": "291b14b231966eef2b608c778bfbd2bb0e3c2382",
+      "Crc32": "4215c2fc",
+      "SetNames": {
+        "TOSEC": [
+          "Koronis Rift (1987)(Epyx)[26-3298]"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Epyx"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Labryrinth"
+      ],
+      "Sha1": "5a8f02fe2998d24d3c7f2f28badbcbebb377faba",
+      "Crc32": "a93194b9",
+      "SetNames": {
+        "TOSEC": [
+          "Labryrinth (1982)(Aardvark)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Aardvark"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Madness and the Minotaur"
+      ],
+      "Sha1": "8391862eec250ded66d39bd5b1c71ffab0fca33d",
+      "Crc32": "64700849",
+      "SetNames": {
+        "TOSEC": [
+          "Madness and the Minotaur (1982)(Tandy)[26-3313]"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Marathon"
+      ],
+      "Sha1": "863179d3271c93bf050a09c4e0ae9462b60d57f7",
+      "Crc32": "18e99a9f",
+      "SetNames": {
+        "TOSEC": [
+          "Marathon (1983)(Afabear Software)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Afabear Software"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Microbes"
+      ],
+      "Sha1": "931f9e7d6ed3601a97df0cc5d6c5dd5793c568f9",
+      "Crc32": "1a6a5f29",
+      "SetNames": {
+        "TOSEC": [
+          "Microbes (1981)(Tandy)[26-3085]"
+        ],
+        "TGDB": [
+          "32423"
+        ]
+      },
+      "OverviewId": 19,
+      "Size": 161280,
+      "Publishers": [
+        "Tandy"
+      ],
+      "Developers": [
+        "Spectral Associates"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Midway"
+      ],
+      "Sha1": "7a654235f3a2335cf0ee27c1dbe53d095ad29a63",
+      "Crc32": "2ba0edcc",
+      "SetNames": {
+        "TOSEC": [
+          "Midway (1982)(Avalon Hill)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Avalon Hill"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Mind-Roll"
+      ],
+      "Sha1": "fea9f95d2a57b408f7337c34c75296ea115699f3",
+      "Crc32": "8670344a",
+      "SetNames": {
+        "TOSEC": [
+          "Mind-Roll (1989)(Tandy)[26-3100]"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1989",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Monster Maze"
+      ],
+      "Sha1": "d7b857951c5633625139ff07d8d90e447946a9c7",
+      "Crc32": "95764a01",
+      "SetNames": {
+        "TOSEC": [
+          "Monster Maze (1981)(Tandy)[26-3081]"
+        ],
+        "TGDB": [
+          "32424"
+        ]
+      },
+      "OverviewId": 20,
+      "Size": 161280,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Mt Doom"
+      ],
+      "Sha1": "85ee88a9e95758e5686d77f0bd2b726c132b66d4",
+      "Crc32": "cd63a3e2",
+      "SetNames": {
+        "TOSEC": [
+          "Mt Doom (1983)(Adventure International)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Adventure International"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "One On One"
+      ],
+      "Sha1": "73837cb46c7df9d16f9a7d1577113776bda878b9",
+      "Crc32": "dab79d0b",
+      "SetNames": {
+        "TOSEC": [
+          "One On One (1983)(Tandy)[26-3288]"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "One On One"
+      ],
+      "Sha1": "31374746d16a0698292f7ac8aeec36c0e6f8b185",
+      "Crc32": "7b325537",
+      "SetNames": {
+        "TOSEC": [
+          "One On One (1985)(Tandy)"
+        ]
+      },
+      "Size": 224016,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1985",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Pac Droids"
+      ],
+      "Sha1": "d1e738ec61a58b15f8833cfa5f6489f78d91d441",
+      "Crc32": "f2fa906a",
+      "SetNames": {
+        "TOSEC": [
+          "Pac Droids (1982)(Programmers Guild)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Programmers Guild"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Panic Button"
+      ],
+      "Sha1": "cbe35bc1345c76dffe6ff6233948891a0075afde",
+      "Crc32": "60ab9e24",
+      "SetNames": {
+        "TOSEC": [
+          "Panic Button (1985)(Tandy)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1985",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Pegasus and the Phantom Riders"
+      ],
+      "Sha1": "c137abe07f5054944a4ef9a8b5ab48cd3353bca2",
+      "Crc32": "670a4312",
+      "SetNames": {
+        "TOSEC": [
+          "Pegasus and the Phantom Riders (1985)(Spectral Associates)"
+        ]
+      },
+      "Size": 224016,
+      "Publishers": [
+        "Spectral Associates"
+      ],
+      "ReleaseDate": "1/1/1985",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Pinball"
+      ],
+      "Sha1": "d6deb99dfb55b52d17d6e751fbf2bedc62a0f6d1",
+      "Crc32": "5b31b6a9",
+      "SetNames": {
+        "TOSEC": [
+          "Pinball (1980)(Tandy)[26-3052]"
+        ],
+        "TGDB": [
+          "32425"
+        ]
+      },
+      "OverviewId": 21,
+      "Size": 161280,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "ReleaseDate": "1/1/1980",
+      "Genres": [],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Pitfall II",
+        "Pitfall II: Lost Caverns"
+      ],
+      "Sha1": "9a17cb240737b13d05f84b396c637729aa4e2f7d",
+      "Crc32": "cf499786",
+      "SetNames": {
+        "TOSEC": [
+          "Pitfall II (1985-10)(Tandy)[26-3287]"
+        ],
+        "MESS": [
+          "pitfall2"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "10/1/1985",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Planet Raider"
+      ],
+      "Sha1": "3201d23625435cabc53c80d9f2b8e18b72ab74dd",
+      "Crc32": "edc629d5",
+      "SetNames": {
+        "TOSEC": [
+          "Planet Raider (1982)(Aardvark)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Aardvark"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Polaris"
+      ],
+      "Sha1": "3e19bad938f55f8b53d5cb92b1d52903dc4af3b9",
+      "Crc32": "da0e5491",
+      "SetNames": {
+        "TOSEC": [
+          "Polaris (1981)(Tandy)[26-3065]"
+        ],
+        "TGDB": [
+          "32426"
+        ]
+      },
+      "OverviewId": 22,
+      "Size": 161280,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "ReleaseDate": "1/1/1981",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Poltergeist"
+      ],
+      "Sha1": "b52b44a9547e34995ddcd460428262ccce7414a0",
+      "Crc32": "78610d0d",
+      "SetNames": {
+        "TOSEC": [
+          "Poltergeist (1982)(Tandy)[26-3073]"
+        ],
+        "TGDB": [
+          "32427"
+        ]
+      },
+      "OverviewId": 23,
+      "Size": 161280,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Pooyan",
+        "Konami's Pooyan"
+      ],
+      "Sha1": "b382a4eece0543f27145ce29c5e9919977081643",
+      "Crc32": "b1a68f82",
+      "SetNames": {
+        "TOSEC": [
+          "Pooyan (1983)(Tandy)[26-3048]"
+        ],
+        "TGDB": [
+          "35960"
+        ]
+      },
+      "OverviewId": 24,
+      "Size": 161280,
+      "Publishers": [
+        "Tandy",
+        "Datasoft, Inc."
+      ],
+      "Developers": [
+        "Datasoft, Inc."
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Popcorn"
+      ],
+      "Sha1": "45b5eaec1b63f0c97f0a2f9c9030900c66000026",
+      "Crc32": "7f5ecbe6",
+      "SetNames": {
+        "TOSEC": [
+          "Popcorn (1982)(Tandy)[26-3090]"
+        ],
+        "TGDB": [
+          "32428"
+        ]
+      },
+      "OverviewId": 25,
+      "Size": 161280,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "Developers": [
+        "Steve Bjork"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Predator"
+      ],
+      "Sha1": "83add0d093ad6c61c78fa25635a6853582df8eb0",
+      "Crc32": "7dc04afb",
+      "SetNames": {
+        "TOSEC": [
+          "Predator (1989)(Tandy)[26-3165]"
+        ],
+        "TGDB": [
+          "65878"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Tandy",
+        "Activision",
+        "Superior Software"
+      ],
+      "ReleaseDate": "12/30/1989",
+      "Genres": [
+        "Action",
+        "Platform"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Project Nebula"
+      ],
+      "Sha1": "a576d85eff103e1845e995fa201a0a94581ae1e3",
+      "Crc32": "6248ee3a",
+      "SetNames": {
+        "TOSEC": [
+          "Project Nebula (1981)(Tandy)[26-3063]"
+        ],
+        "TGDB": [
+          "32429"
+        ]
+      },
+      "OverviewId": 26,
+      "Size": 161280,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "Developers": [
+        "Robert Arnstein"
+      ],
+      "ReleaseDate": "1/1/1981",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Pyramid 2000"
+      ],
+      "Sha1": "751648865aecf4c1821b7bc2b9e78966046372c7",
+      "Crc32": "6bba034f",
+      "SetNames": {
+        "TOSEC": [
+          "Pyramid 2000 (1982)(Tandy)[26-3310]"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Pyramix"
+      ],
+      "Sha1": "4b3a421b78de6307e82732b05992b03762fa25b9",
+      "Crc32": "0d917710",
+      "SetNames": {
+        "TOSEC": [
+          "Pyramix (1987)(Colorventure)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Colorventure"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Quasar Commander"
+      ],
+      "Sha1": "cbc5cd6bdc301f458f37795362ea199bfc65710e",
+      "Crc32": "d597d201",
+      "SetNames": {
+        "TOSEC": [
+          "Quasar Commander (1980)(Tandy)[26-3051]"
+        ],
+        "TGDB": [
+          "32430"
+        ]
+      },
+      "OverviewId": 27,
+      "Size": 161280,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "Developers": [
+        "Robert G. Kilgus"
+      ],
+      "ReleaseDate": "1/1/1980",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Quest"
+      ],
+      "Sha1": "e410bbc21703ef186b219610b1e3944a04e518fe",
+      "Crc32": "7fd548ec",
+      "SetNames": {
+        "TOSEC": [
+          "Quest (1982)(Aardvark)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Aardvark"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Quix"
+      ],
+      "Sha1": "d883b93cd33ffed67bdc6497d290562ce07405e2",
+      "Crc32": "c9616e4f",
+      "SetNames": {
+        "TOSEC": [
+          "Quix (1984)(Tom Mix Software)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Tom Mix Software"
+      ],
+      "ReleaseDate": "1/1/1984",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Raaka-Tu"
+      ],
+      "Sha1": "eaf1a09c3ed1dbc422e10a85eace06ff375cd726",
+      "Crc32": "b6b0cfa8",
+      "SetNames": {
+        "TOSEC": [
+          "Raaka-Tu (1982)(Tandy)[26-3311]"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Radio Ball"
+      ],
+      "Sha1": "a38992dbd169d5bb7ebe00281802540dd7d8c284",
+      "Crc32": "3ead3f88",
+      "SetNames": {
+        "TOSEC": [
+          "Radio Ball (198x)(Tandy)[26-3319]"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Tandy"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Reactoid"
+      ],
+      "Sha1": "d2baaa3f460c2e052229d6fa4b9b61d2e4350c57",
+      "Crc32": "74bfc55b",
+      "SetNames": {
+        "TOSEC": [
+          "Reactoid (1983)(Tandy)[26-3092]"
+        ],
+        "TGDB": [
+          "32431"
+        ]
+      },
+      "OverviewId": 28,
+      "Size": 161280,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Roman Checkers"
+      ],
+      "Sha1": "0d65812c24143676508bb6a2c487af052299ee58",
+      "Crc32": "9a4fcd06",
+      "SetNames": {
+        "TOSEC": [
+          "Roman Checkers (1981)(Tandy)[26-3071]"
+        ],
+        "TGDB": [
+          "97670"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1981",
+      "ESRB": "E",
+      "Genres": [],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Rupert Rythm"
+      ],
+      "Sha1": "4a355f226751f5fa4d5c422f739179cff3abe110",
+      "Crc32": "88287e0c",
+      "SetNames": {
+        "TOSEC": [
+          "Rupert Rythm (1988)(Marentes, Nickolas)[26-9644]"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Marentes, Nickolas"
+      ],
+      "ReleaseDate": "1/1/1988",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Saigon"
+      ],
+      "Sha1": "8c8137b6072449266e31b457e8681c5e656aecd4",
+      "Crc32": "c20fa8d1",
+      "SetNames": {
+        "TOSEC": [
+          "Saigon (1983)(Adventure International)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Adventure International"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Sands of Egypt"
+      ],
+      "Sha1": "9d30a819adb708a1217719c3485eee58f9b49498",
+      "Crc32": "85dd36bf",
+      "SetNames": {
+        "TOSEC": [
+          "Sands of Egypt (1982)(Tandy)[26-3290]"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Shamus"
+      ],
+      "Sha1": "6605895a597fa28b1ecd470940f267d49466730d",
+      "Crc32": "c22d52db",
+      "SetNames": {
+        "TOSEC": [
+          "Shamus (1984)(Tandy)[26-3289]"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1984",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Shooting Gallery"
+      ],
+      "Sha1": "401813796865bcfc766d7eb79d47f6ccc56cdf05",
+      "Crc32": "18f73b09",
+      "SetNames": {
+        "TOSEC": [
+          "Shooting Gallery (1982)(Tandy)[26-3088]"
+        ],
+        "TGDB": [
+          "32432"
+        ]
+      },
+      "OverviewId": 29,
+      "Size": 161280,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "Developers": [
+        "James Garon"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Skiing"
+      ],
+      "Sha1": "9b933c5349c4390e2f457460a94d07910e161033",
+      "Crc32": "63c8988f",
+      "SetNames": {
+        "TOSEC": [
+          "Skiing (1980)(Tandy)[26-3058]"
+        ],
+        "TGDB": [
+          "32433"
+        ]
+      },
+      "OverviewId": 30,
+      "Size": 161280,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "Developers": [
+        "Robert G. Kilgus"
+      ],
+      "ReleaseDate": "12/1/1980",
+      "Genres": [
+        "Sports"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Smash!"
+      ],
+      "Sha1": "164cf5fa63636fe6d826716a7061bafadae0f86b",
+      "Crc32": "2c3c018a",
+      "SetNames": {
+        "TOSEC": [
+          "Smash! (1993)(Intelligent Algorithms)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Intelligent Algorithms"
+      ],
+      "ReleaseDate": "1/1/1993",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Soko-Ban"
+      ],
+      "Sha1": "b386304657a4eaadc4ed19fabcb4e0f437ade932",
+      "Crc32": "2d704377",
+      "SetNames": {
+        "TOSEC": [
+          "Soko-Ban (1988)(Tandy)[26-3161]"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1988",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Space Assault"
+      ],
+      "Sha1": "8c0a10d039ead59da1c819ecdf666fe1166bbb79",
+      "Crc32": "afa7ad94",
+      "SetNames": {
+        "TOSEC": [
+          "Space Assault (1981)(Tandy)[26-3060]"
+        ],
+        "TGDB": [
+          "32435"
+        ]
+      },
+      "OverviewId": 31,
+      "Size": 161280,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "ReleaseDate": "1/1/1981",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Space Intruders"
+      ],
+      "Sha1": "cd93407538ee0f06859a370239c99635ec8066eb",
+      "Crc32": "b0d697e4",
+      "SetNames": {
+        "TOSEC": [
+          "Space Intruders (1988)(Marentes, Nickolas)[26-9676]"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Marentes, Nickolas"
+      ],
+      "ReleaseDate": "1/1/1988",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Spidercide"
+      ],
+      "Sha1": "6f72d8ff0c8b9d8372e8c4efda03fedf8fd0fafb",
+      "Crc32": "a43047d6",
+      "SetNames": {
+        "TOSEC": [
+          "Spidercide (1983)(Tandy)[26-3049]"
+        ],
+        "TGDB": [
+          "69018"
+        ]
+      },
+      "OverviewId": 32,
+      "Size": 161280,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "ESRB": "E",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "SR-71"
+      ],
+      "Sha1": "2d6025f320178633c1333c654229e60c1650be84",
+      "Crc32": "68b9db49",
+      "SetNames": {
+        "TOSEC": [
+          "SR-71 (1984)(Tom Mix Software)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Tom Mix Software"
+      ],
+      "ReleaseDate": "1/1/1984",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Star Blaze"
+      ],
+      "Sha1": "aa1d2a57ca61c99ffd59560e4b42f42bd1460506",
+      "Crc32": "71543c12",
+      "SetNames": {
+        "TOSEC": [
+          "Star Blaze (1983)(Tandy)[26-3094]"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Star Fighter"
+      ],
+      "Sha1": "928fcca88b173030557d96b4b3e7dbfd23df492b",
+      "Crc32": "a16a10fd",
+      "SetNames": {
+        "TOSEC": [
+          "Star Fighter (1983)(Aardvark)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Aardvark"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Star Trader"
+      ],
+      "Sha1": "0d698311733b4fb69506b108dc6f92e4e10554da",
+      "Crc32": "948ca6f0",
+      "SetNames": {
+        "TOSEC": [
+          "Star Trader (1984)(Computerware)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Computerware"
+      ],
+      "ReleaseDate": "1/1/1984",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Star Trap"
+      ],
+      "Sha1": "9970e0dfe678b7a8db3334325cc3a2dd235a2b38",
+      "Crc32": "fe886957",
+      "SetNames": {
+        "TOSEC": [
+          "Star Trap (198x)(Tandy)[26-2510]"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Tandy"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Stellar Life Line"
+      ],
+      "Sha1": "db37ea47297fac129f91a1e6043d67bb47c53889",
+      "Crc32": "b4e7a710",
+      "SetNames": {
+        "TOSEC": [
+          "Stellar Life Line (1983)(Tandy)[26-3047]"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Stronghold"
+      ],
+      "Sha1": "e8a0f0282341ffa48b13fe56cf5b1c4757eb5273",
+      "Crc32": "3d6dffbd",
+      "SetNames": {
+        "TOSEC": [
+          "Stronghold (1983)(Computer Shack)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Computer Shack"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Sub Battle Simulator"
+      ],
+      "Sha1": "1a8d48577a7b5c77327e0a969a5a610153bb88f7",
+      "Crc32": "e72aa364",
+      "SetNames": {
+        "TOSEC": [
+          "Sub Battle Simulator (1987)(Epyx)(Disk 1 of 2)"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 161280,
+      "PartNum": 1,
+      "TotalParts": 2,
+      "Publishers": [
+        "Epyx"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Sub Battle Simulator"
+      ],
+      "Sha1": "02ad55e0d11934dea6c5b5d66aea399a6ae882e1",
+      "Crc32": "5dd22b34",
+      "SetNames": {
+        "TOSEC": [
+          "Sub Battle Simulator (1987)(Epyx)(Disk 2 of 2)"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 161280,
+      "PartNum": 2,
+      "TotalParts": 2,
+      "Publishers": [
+        "Epyx"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Sub Polaris"
+      ],
+      "Sha1": "69ece0ab458f5a45069010f72e448929b66446e8",
+      "Crc32": "1ef7495e",
+      "SetNames": {
+        "TOSEC": [
+          "Sub Polaris (1983)(Aardvark)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Aardvark"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Super Bustout"
+      ],
+      "Sha1": "cd501876032981fe5140d76ca7101a846c069743",
+      "Crc32": "7322d407",
+      "SetNames": {
+        "TOSEC": [
+          "Super Bustout (1981)(Tandy)[26-3056]"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1981",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Temple of ROM"
+      ],
+      "Sha1": "d2ad49257f5324cff63ae8c2c17479ad79d97832",
+      "Crc32": "333dac7a",
+      "SetNames": {
+        "TOSEC": [
+          "Temple of ROM (1982)(Tandy)[26-3045]"
+        ],
+        "TGDB": [
+          "32437"
+        ]
+      },
+      "OverviewId": 33,
+      "Size": 161280,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "Developers": [
+        "Rick Adams"
+      ],
+      "ReleaseDate": "1/1/1984",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Tennis"
+      ],
+      "Sha1": "a856b3bfc80096c85267df17c15813d6597e8bf3",
+      "Crc32": "c0d69aac",
+      "SetNames": {
+        "TOSEC": [
+          "Tennis (1982)(Tandy)"
+        ],
+        "TGDB": [
+          "32438"
+        ]
+      },
+      "OverviewId": 34,
+      "Size": 161280,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Genres": [
+        "Sports"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Treasury Pak"
+      ],
+      "Sha1": "65b490ee95149579b2a5eb8b4d4fe771deff58d6",
+      "Crc32": "e77beefa",
+      "SetNames": {
+        "TOSEC": [
+          "Treasury Pak (198x)(Spectral Associates)(Disk 1 of 2)"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 161280,
+      "PartNum": 1,
+      "TotalParts": 2,
+      "Publishers": [
+        "Spectral Associates"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Treasury Pak"
+      ],
+      "Sha1": "be653aaf398b83f5b6146f9b86a45b61235f4f24",
+      "Crc32": "ef4f48b9",
+      "SetNames": {
+        "TOSEC": [
+          "Treasury Pak (198x)(Spectral Associates)(Disk 2 of 2)"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 161280,
+      "PartNum": 2,
+      "TotalParts": 2,
+      "Publishers": [
+        "Spectral Associates"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Trek III"
+      ],
+      "Sha1": "f5c4635016d05743c619c1b6f1b732b26957debe",
+      "Crc32": "62a139a6",
+      "SetNames": {
+        "TOSEC": [
+          "Trek III (1983)(Adventure International)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Adventure International"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Tube-Frenzy"
+      ],
+      "Sha1": "755586cf2086c56f1122a950ffcded1b2a71bb8b",
+      "Crc32": "b1ad919a",
+      "SetNames": {
+        "TOSEC": [
+          "Tube-Frenzy (1982)(Aardvark)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Aardvark"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Tutankam"
+      ],
+      "Sha1": "09a3977ab61d73081c42fa0622e9c86c6bea920e",
+      "Crc32": "672f383a",
+      "SetNames": {
+        "TOSEC": [
+          "Tutankam (1983)(Aardvark)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Aardvark"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Varloc"
+      ],
+      "Sha1": "5bf99f613da9f65c3afbfdd8b069bb3c10e52082",
+      "Crc32": "a58a6f32",
+      "SetNames": {
+        "TOSEC": [
+          "Varloc (1985)(Tandy)[26-3291]"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1985",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Venturer"
+      ],
+      "Sha1": "14325a6fd39fb9d99d5eb409f4a972d3f15c5275",
+      "Crc32": "68329f22",
+      "SetNames": {
+        "TOSEC": [
+          "Venturer (1982)(Aardvark)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Aardvark"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Viet Cong"
+      ],
+      "Sha1": "177399e66eb93765b0bf55f5e60ff524b7240d16",
+      "Crc32": "68894a1b",
+      "SetNames": {
+        "TOSEC": [
+          "Viet Cong (1983)(Avalon Hill)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Avalon Hill"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Voyager"
+      ],
+      "Sha1": "c88fbd7108cb94f3a251416d5145c84bd19f2772",
+      "Crc32": "47b445db",
+      "SetNames": {
+        "TOSEC": [
+          "Voyager (1982)(Avalon Hill)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Avalon Hill"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Wacky Food"
+      ],
+      "Sha1": "3cd31c20f5cc23895904e9959824a113201fd2c4",
+      "Crc32": "825c5165",
+      "SetNames": {
+        "TOSEC": [
+          "Wacky Food (1983)(Arcade Animation)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Arcade Animation"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Warlocks Revenge, A"
+      ],
+      "Sha1": "0b199481b5bf2431a269e273b9e26a05ff4870bb",
+      "Crc32": "fd78bace",
+      "SetNames": {
+        "TOSEC": [
+          "Warlocks Revenge, A (1992)(Snailsoft Software)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Snailsoft Software"
+      ],
+      "ReleaseDate": "1/1/1992",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Where in the World is Carmen Sandiego"
+      ],
+      "Sha1": "adefef72ac332a310d9852c9d377de5545538636",
+      "Crc32": "b6203c8b",
+      "SetNames": {
+        "TOSEC": [
+          "Where in the World is Carmen Sandiego (1986)(Broderbund)"
+        ]
+      },
+      "Size": 224016,
+      "Publishers": [
+        "Broderbund"
+      ],
+      "ReleaseDate": "1/1/1986",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Where in the World is Carmen Sandiego"
+      ],
+      "Sha1": "7b3c21e8cfe508fbc95dc693865c8de5a6178faf",
+      "Crc32": "6b5c83b0",
+      "SetNames": {
+        "TOSEC": [
+          "Where in the World is Carmen Sandiego (1986)(Broderbund)(Disk 1 of 2)"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 161280,
+      "PartNum": 1,
+      "TotalParts": 2,
+      "Publishers": [
+        "Broderbund"
+      ],
+      "ReleaseDate": "1/1/1986",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Where in the World is Carmen Sandiego"
+      ],
+      "Sha1": "b8ae64ae1cf4d28b7ab7267fea76b2c406326d93",
+      "Crc32": "9d7725c3",
+      "SetNames": {
+        "TOSEC": [
+          "Where in the World is Carmen Sandiego (1986)(Broderbund)(Disk 2 of 2)"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 161280,
+      "PartNum": 2,
+      "TotalParts": 2,
+      "Publishers": [
+        "Broderbund"
+      ],
+      "ReleaseDate": "1/1/1986",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Wildcatting"
+      ],
+      "Sha1": "ea1a3d10920325238d09dc110a61ee497f498ad2",
+      "Crc32": "92dfcc6f",
+      "SetNames": {
+        "TOSEC": [
+          "Wildcatting (1981)(Tandy)[26-3067]"
+        ],
+        "TGDB": [
+          "32439"
+        ]
+      },
+      "OverviewId": 35,
+      "Size": 161280,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "Developers": [
+        "The Image Producers"
+      ],
+      "ReleaseDate": "1/1/1981",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Wizard's Castle"
+      ],
+      "Sha1": "6fe07412cfb52e799eac96d1d1c49b9ae5abb35d",
+      "Crc32": "4bccc72b",
+      "SetNames": {
+        "TOSEC": [
+          "Wizard's Castle (198x)(Spectral Associates)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Spectral Associates"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Worlds of Flight"
+      ],
+      "Sha1": "fa39f0c04bdebd679d741c4c1c0420157d3f6c22",
+      "Crc32": "bdf4b6b6",
+      "SetNames": {
+        "TOSEC": [
+          "Worlds of Flight (1984)(Tom Mix Software)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Tom Mix Software"
+      ],
+      "ReleaseDate": "1/1/1984",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Zaxxon"
+      ],
+      "Sha1": "0a02eb977fdc8e23870b86ccb09658c281553c34",
+      "Crc32": "20a55512",
+      "SetNames": {
+        "TOSEC": [
+          "Zaxxon (1983)(Tandy)[26-3062]"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Zeus"
+      ],
+      "Sha1": "27743d933711744932ae8d7c6f7d3f313dc75d17",
+      "Crc32": "43a22a35",
+      "SetNames": {
+        "TOSEC": [
+          "Zeus (1983)(Aardvark)"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Aardvark"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Zone Runner"
+      ],
+      "Sha1": "76fc846dd1032f96182aaed4b0b9f6433bc9c7fc",
+      "Crc32": "62cd23db",
+      "SetNames": {
+        "TOSEC": [
+          "Zone Runner (1987)(Tandy)[26-3286]"
+        ]
+      },
+      "Size": 161280,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "A Mazing World of Malcom Mortar"
+      ],
+      "Sha1": "bdd56931325648d5ecc860ff77c59d27637687de",
+      "Crc32": "93ddfc53",
+      "SetNames": {
+        "TOSEC": [
+          "A Mazing World of Malcom Mortar (1987)(Tandy)[26-3160]"
+        ]
+      },
+      "Size": 16384,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "A Mazing World of Malcom Mortar"
+      ],
+      "Sha1": "d2a70452a120d3164ae52e16062fb2a4539fd377",
+      "Crc32": "d4bbe731",
+      "SetNames": {
+        "TOSEC": [
+          "A Mazing World of Malcom Mortar (1987)(Tandy)[a][26-3160]"
+        ]
+      },
+      "Size": 16384,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Alternate"
+      ]
+    },
+    {
+      "Titles": [
+        "Androne"
+      ],
+      "Sha1": "b19da63ba28a1278c3921a2dc739ad1d0dbd5402",
+      "Crc32": "7d1cac0e",
+      "SetNames": {
+        "TOSEC": [
+          "Androne (1983)(Tandy)[26-3096]"
+        ],
+        "MESS": [
+          "androne"
+        ],
+        "TGDB": [
+          "32399"
+        ]
+      },
+      "OverviewId": 2,
+      "Size": 8192,
+      "Publishers": [
+        "Tandy",
+        "Radio Shack"
+      ],
+      "Developers": [
+        "Robert Arnstein"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Arkanoid"
+      ],
+      "Sha1": "399a67d4e9dcffdbc79ab3e88a19bf5d18cad31e",
+      "Crc32": "2fab4955",
+      "SetNames": {
+        "TOSEC": [
+          "Arkanoid (1987)(Tandy)[26-3043]"
+        ],
+        "MESS": [
+          "arkanoid"
+        ],
+        "TGDB": [
+          "32400"
+        ]
+      },
+      "OverviewId": 3,
+      "Size": 32768,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "Developers": [
+        "Steve Bjork"
+      ],
+      "ReleaseDate": "1/1/1989",
+      "ESRB": "E",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Arkanoid"
+      ],
+      "Sha1": "d50efeb1f6ae3ef0b1b34b0741cfbbb4ce87df34",
+      "Crc32": "e79644a9",
+      "SetNames": {
+        "TOSEC": [
+          "Arkanoid (1987)(Tandy)[u][26-3043]"
+        ],
+        "TGDB": [
+          "32400"
+        ]
+      },
+      "OverviewId": 3,
+      "Size": 16384,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "Developers": [
+        "Steve Bjork"
+      ],
+      "ReleaseDate": "1/1/1989",
+      "ESRB": "E",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Atom"
+      ],
+      "Sha1": "654b989c4ca40d5acc78dca701cd3004293bf334",
+      "Crc32": "04d9cfe4",
+      "SetNames": {
+        "TOSEC": [
+          "Atom (1983)(Tandy)[26-3149]"
+        ],
+        "MESS": [
+          "atom"
+        ],
+        "TGDB": [
+          "32401"
+        ]
+      },
+      "OverviewId": 4,
+      "Size": 16384,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "ESRB": "E",
+      "Genres": [
+        "Puzzle"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Bridge Tutor I"
+      ],
+      "Sha1": "882dbbd3dd79a94b08d4b662e2d2744150156479",
+      "Crc32": "d6b940f1",
+      "SetNames": {
+        "TOSEC": [
+          "Bridge Tutor I (1983)(Tandy)[26-3158]"
+        ],
+        "MESS": [
+          "bridge"
+        ]
+      },
+      "Size": 8192,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Canyon Climber"
+      ],
+      "Sha1": "b064b863b0e621bdfece76a0ac7b11301b5d8528",
+      "Crc32": "23e3869f",
+      "SetNames": {
+        "TOSEC": [
+          "Canyon Climber (1982)(Tandy)[26-3089]"
+        ],
+        "MESS": [
+          "cclimber"
+        ],
+        "TGDB": [
+          "32403"
+        ]
+      },
+      "OverviewId": 5,
+      "Size": 8192,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "Developers": [
+        "James Garon"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Castle Guard"
+      ],
+      "Sha1": "f4aab6a31b8aef3f08c13fd5c5fbd48ed75bb4fa",
+      "Crc32": "8869eddc",
+      "SetNames": {
+        "TOSEC": [
+          "Castle Guard (1982)(Tandy)[26-3079]"
+        ],
+        "MESS": [
+          "castlgrd"
+        ],
+        "TGDB": [
+          "32404"
+        ]
+      },
+      "OverviewId": 6,
+      "Size": 4096,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Castle of Tharoggad"
+      ],
+      "Sha1": "485477577db4751da4c0db3a402bb9b45fa65667",
+      "Crc32": "82929650",
+      "SetNames": {
+        "TOSEC": [
+          "Castle of Tharoggad (1988)(Tandy)[26-3159]"
+        ],
+        "MESS": [
+          "tharogad"
+        ]
+      },
+      "Size": 16384,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1988",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Checker King"
+      ],
+      "Sha1": "32f7c203dc9f5345c75cbfc4f93dfd1e8a626955",
+      "Crc32": "05dc5ef3",
+      "SetNames": {
+        "TOSEC": [
+          "Checker King (1980)(Tandy)[26-3055]"
+        ],
+        "MESS": [
+          "checkerk"
+        ]
+      },
+      "Size": 4096,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1980",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Chess"
+      ],
+      "Sha1": "5b57c69c50a8c10ef4e9c73faf4523982b048a7e",
+      "Crc32": "7abb161b",
+      "SetNames": {
+        "TOSEC": [
+          "Chess (1980)(Tandy)[26-3050]"
+        ],
+        "TGDB": [
+          "32406"
+        ]
+      },
+      "OverviewId": 8,
+      "Size": 8192,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1980",
+      "Genres": [
+        "Sports"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Chess",
+        "Micro Chess v2.0"
+      ],
+      "Sha1": "454138c61f494ac81e2e842d3d58df00d20feae6",
+      "Crc32": "66130daa",
+      "SetNames": {
+        "TOSEC": [
+          "Chess (1980)(Tandy)[a][26-3050]"
+        ],
+        "MESS": [
+          "microchs"
+        ],
+        "TGDB": [
+          "32406"
+        ]
+      },
+      "OverviewId": 8,
+      "Size": 8192,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1980",
+      "Genres": [
+        "Sports"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Alternate"
+      ]
+    },
+    {
+      "Titles": [
+        "Clowns & Balloons"
+      ],
+      "Sha1": "dd597a3c965916c1342428f163ccf19b63a03c57",
+      "Crc32": "fe4c93e4",
+      "SetNames": {
+        "TOSEC": [
+          "Clowns & Balloons (1982)(Tandy)[26-3087]"
+        ],
+        "MESS": [
+          "clowns"
+        ]
+      },
+      "Size": 8192,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Color Backgammon",
+        "Backgammon"
+      ],
+      "Sha1": "0abf66c7e392c67a5735856f907501f26b70a69e",
+      "Crc32": "a3b8ba85",
+      "SetNames": {
+        "TOSEC": [
+          "Color Backgammon (1980)(Tandy)[26-3059]"
+        ],
+        "MESS": [
+          "backgamm"
+        ]
+      },
+      "Size": 4096,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1980",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Color Baseball"
+      ],
+      "Sha1": "a86b8b3feb79f25eefff946b325b9df385fc3fa2",
+      "Crc32": "ad1937c1",
+      "SetNames": {
+        "TOSEC": [
+          "Color Baseball (1980)(Tandy)[26-3095]"
+        ],
+        "MESS": [
+          "baseball"
+        ],
+        "TGDB": [
+          "32409"
+        ]
+      },
+      "OverviewId": 36,
+      "Size": 8192,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "Developers": [
+        "Dale Lear"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Genres": [
+        "Sports"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Color Cubes"
+      ],
+      "Sha1": "9cd165a29dec6bfb29ed420039a46d50c1e15d3a",
+      "Crc32": "f4be90bc",
+      "SetNames": {
+        "TOSEC": [
+          "Color Cubes (1981)(Tandy)[26-3075]"
+        ],
+        "MESS": [
+          "cubes"
+        ],
+        "TGDB": [
+          "32410"
+        ]
+      },
+      "OverviewId": 9,
+      "Size": 4096,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "Developers": [
+        "R.G. Kilgus"
+      ],
+      "ReleaseDate": "1/1/1981",
+      "Genres": [
+        "Puzzle"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cyrus Chess",
+        "Cyrus World Class Chess"
+      ],
+      "Sha1": "bd6ebd24a854fb98fa303b8cac09d8405d08252b",
+      "Crc32": "bfa3585d",
+      "SetNames": {
+        "TOSEC": [
+          "Cyrus Chess (1982)(Tandy)[26-3064]"
+        ],
+        "MESS": [
+          "cyrus1"
+        ],
+        "TGDB": [
+          "62361"
+        ]
+      },
+      "Size": 16384,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "ESRB": "E",
+      "Genres": [
+        "Strategy"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Demolition Derby"
+      ],
+      "Sha1": "36c23e8a66cd1822efe9c667b2e621109a48e17e",
+      "Crc32": "1199d27f",
+      "SetNames": {
+        "TOSEC": [
+          "Demolition Derby (1984)(Tandy)[26-3044]"
+        ],
+        "MESS": [
+          "demodrby"
+        ],
+        "TGDB": [
+          "32411"
+        ]
+      },
+      "OverviewId": 37,
+      "Size": 8192,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "Developers": [
+        "John Gabbard"
+      ],
+      "ReleaseDate": "1/1/1984",
+      "Genres": [
+        "Racing"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Demon Attack"
+      ],
+      "Sha1": "aeb7548474fa049704262f7fb5dcf514e64c70c6",
+      "Crc32": "b7a1aa3e",
+      "SetNames": {
+        "TOSEC": [
+          "Demon Attack (1984)(Tandy)[26-3099]"
+        ],
+        "TGDB": [
+          "32412"
+        ]
+      },
+      "OverviewId": 10,
+      "Size": 16128,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "Developers": [
+        "Imagic"
+      ],
+      "ReleaseDate": "1/1/1984",
+      "ESRB": "E",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Demon Attack"
+      ],
+      "Sha1": "bcefee58ba00c0105813220cca4035b1fccbdffe",
+      "Crc32": "a9d52b01",
+      "SetNames": {
+        "TOSEC": [
+          "Demon Attack (1984)(Tandy)[o][26-3099]"
+        ],
+        "TGDB": [
+          "32412"
+        ]
+      },
+      "OverviewId": 10,
+      "Size": 32512,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "Developers": [
+        "Imagic"
+      ],
+      "ReleaseDate": "1/1/1984",
+      "ESRB": "E",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Dino Wars"
+      ],
+      "Sha1": "f9e91893e577f5c762dd312219a6203794b99b4c",
+      "Crc32": "ba1d9e81",
+      "SetNames": {
+        "TOSEC": [
+          "Dino Wars (1980)(Tandy)[26-3057]"
+        ],
+        "MESS": [
+          "dinowar"
+        ],
+        "TGDB": [
+          "32414"
+        ]
+      },
+      "OverviewId": 12,
+      "Size": 8192,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "Developers": [
+        "R.G. Kilgus"
+      ],
+      "ReleaseDate": "12/1/1980",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Don-pan",
+        "Donpan"
+      ],
+      "Sha1": "649ada27254714b538b743189a974714de6fc390",
+      "Crc32": "819fc9fb",
+      "SetNames": {
+        "TOSEC": [
+          "Don-pan (1984)(Tandy)[26-3097]"
+        ],
+        "MESS": [
+          "donpan"
+        ]
+      },
+      "Size": 8192,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1984",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Doubleback",
+        "Double Back"
+      ],
+      "Sha1": "bebd3f50f84c7e83f61f905f5bb13df0ee4227cc",
+      "Crc32": "4cc44337",
+      "SetNames": {
+        "TOSEC": [
+          "Doubleback (1982)(Tandy)[26-3091]"
+        ],
+        "MESS": [
+          "dblback"
+        ],
+        "TGDB": [
+          "32415"
+        ]
+      },
+      "OverviewId": 13,
+      "Size": 4096,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "Developers": [
+        "Dale Lear"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Downland v1.0",
+        "Down Land v1.0"
+      ],
+      "Sha1": "60c12c0c96f8ee029cc69102c9907938acedf596",
+      "Crc32": "a923f5a2",
+      "SetNames": {
+        "TOSEC": [
+          "Downland v1.0 (1984)(Tandy)[26-3046]"
+        ],
+        "MESS": [
+          "downland1"
+        ]
+      },
+      "Size": 8192,
+      "Publishers": [
+        "Tandy"
+      ],
+      "CloneOf": "downland",
+      "ReleaseDate": "1/1/1984",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Downland v1.1",
+        "Down Land v1.1"
+      ],
+      "Sha1": "a0121376f0952965a68bb9d9779553f1ce373dcf",
+      "Crc32": "0229c319",
+      "SetNames": {
+        "TOSEC": [
+          "Downland v1.1 (1984)(Tandy)[26-3046]"
+        ],
+        "MESS": [
+          "downland"
+        ]
+      },
+      "Size": 8192,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1984",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Dragonfire"
+      ],
+      "Sha1": "70d93265f53d603854327a8fcf85d02fdaaadac1",
+      "Crc32": "1031fa22",
+      "SetNames": {
+        "TOSEC": [
+          "Dragonfire (1982)(Tandy)[26-3098]"
+        ],
+        "TGDB": [
+          "35771"
+        ]
+      },
+      "OverviewId": 15,
+      "Size": 16128,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation",
+        "Radio Shack"
+      ],
+      "Developers": [
+        "Frank Ellis"
+      ],
+      "ReleaseDate": "1/3/1984",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Dungeons of Daggorath"
+      ],
+      "Sha1": "b313259369d93c4badfba9a0126e320438d4a8b9",
+      "Crc32": "d45e59e3",
+      "SetNames": {
+        "TOSEC": [
+          "Dungeons of Daggorath (1983)(Tandy)[26-3093]"
+        ],
+        "MESS": [
+          "dagorath"
+        ],
+        "TGDB": [
+          "32384"
+        ]
+      },
+      "OverviewId": 38,
+      "Size": 8192,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "Developers": [
+        "DynaMicro"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Facemaker"
+      ],
+      "Sha1": "beda70715726b2419f5828ab217411723bb8efbd",
+      "Crc32": "7a1c2f2d",
+      "SetNames": {
+        "TOSEC": [
+          "Facemaker (1984)(Tandy)[26-3166]"
+        ],
+        "MESS": [
+          "facemakr"
+        ]
+      },
+      "Size": 8192,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1984",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Football"
+      ],
+      "Sha1": "154a5eea94a28479c34d72ea63ccfe052b0f315b",
+      "Crc32": "f17b5b38",
+      "SetNames": {
+        "TOSEC": [
+          "Football (1980)(Tandy)[26-3053]"
+        ],
+        "MESS": [
+          "football"
+        ],
+        "TGDB": [
+          "32417"
+        ]
+      },
+      "OverviewId": 16,
+      "Size": 8192,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "ReleaseDate": "12/1/1980",
+      "Genres": [
+        "Sports"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Galatic Attack",
+        "Galactic Attack"
+      ],
+      "Sha1": "61979060256744a65f34089f8537cc72b4e674a7",
+      "Crc32": "984ee0d9",
+      "SetNames": {
+        "TOSEC": [
+          "Galatic Attack (1982)(Tandy)[26-3066]"
+        ],
+        "MESS": [
+          "galactic"
+        ],
+        "TGDB": [
+          "32418"
+        ]
+      },
+      "OverviewId": 39,
+      "Size": 4096,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "Developers": [
+        "Lou Haehn"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "GFL Championship Football II",
+        "GFL Champion Football II"
+      ],
+      "Sha1": "b575b379a7cf41fadfa5c1b525d5f0103544eafa",
+      "Crc32": "899978e7",
+      "SetNames": {
+        "TOSEC": [
+          "GFL Championship Football II (1988)(Tandy)[26-3172]"
+        ],
+        "MESS": [
+          "gfl2"
+        ]
+      },
+      "Size": 32768,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1988",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Gin Champion"
+      ],
+      "Sha1": "ac2946b11cb63a65a9cbd80494f70e4e23200684",
+      "Crc32": "b42423a7",
+      "SetNames": {
+        "TOSEC": [
+          "Gin Champion (198x)(Tandy)[26-3083]"
+        ],
+        "MESS": [
+          "ginchamp"
+        ],
+        "TGDB": [
+          "32419"
+        ]
+      },
+      "OverviewId": 17,
+      "Size": 8192,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "Developers": [
+        "Philidor Software"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Genres": [],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Gomoku-Renju",
+        "Gomoku and Renju"
+      ],
+      "Sha1": "210b5df78ffe4b4cc4ed7845b50c1e17fc79bf0f",
+      "Crc32": "fd84fc5c",
+      "SetNames": {
+        "TOSEC": [
+          "Gomoku-Renju (1983)(Tandy)[26-3069]"
+        ],
+        "MESS": [
+          "gomoku"
+        ],
+        "TGDB": [
+          "32420"
+        ]
+      },
+      "OverviewId": 40,
+      "Size": 8192,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "Developers": [
+        "Intelligent Software"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Mega-Bug"
+      ],
+      "Sha1": "4c956f3594ac9b941bfb936c2cf4b4c68200a112",
+      "Crc32": "4cee1c54",
+      "SetNames": {
+        "TOSEC": [
+          "Mega-Bug (1982)(Tandy)[26-3076]"
+        ],
+        "MESS": [
+          "megabug"
+        ],
+        "TGDB": [
+          "32422"
+        ]
+      },
+      "OverviewId": 41,
+      "Size": 8192,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "Developers": [
+        "Steve Bjork"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Micro Painter",
+        "Bob Bishop's Micro Painter"
+      ],
+      "Sha1": "29f75a77af62eb6cb5a35ca152a4b9f53514364b",
+      "Crc32": "d4320300",
+      "SetNames": {
+        "TOSEC": [
+          "Micro Painter (1981)(Tandy)[26-3077]"
+        ],
+        "MESS": [
+          "micropnt"
+        ]
+      },
+      "Size": 4096,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1981",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Microbes"
+      ],
+      "Sha1": "f812a0989d711a3c2ce82b7ec73561eab1753299",
+      "Crc32": "24772d4f",
+      "SetNames": {
+        "TOSEC": [
+          "Microbes (1981)(Tandy)[26-3085]"
+        ],
+        "MESS": [
+          "microbes"
+        ],
+        "TGDB": [
+          "32423"
+        ]
+      },
+      "OverviewId": 19,
+      "Size": 4096,
+      "Publishers": [
+        "Tandy"
+      ],
+      "Developers": [
+        "Spectral Associates"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Mind-Roll"
+      ],
+      "Sha1": "f7b505383ca5739a98a5130549d534c38cb1bd2f",
+      "Crc32": "83bd6056",
+      "SetNames": {
+        "TOSEC": [
+          "Mind-Roll (1989)(Tandy)[26-3100]"
+        ],
+        "MESS": [
+          "mindroll"
+        ]
+      },
+      "Size": 32768,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1989",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Mind-Roll"
+      ],
+      "Sha1": "c6de5760b75b99d131aa0bd28206be84f9e8ef8c",
+      "Crc32": "9c241cdc",
+      "SetNames": {
+        "TOSEC": [
+          "Mind-Roll (1989)(Tandy)[a][26-3100]"
+        ]
+      },
+      "Size": 32768,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1989",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Alternate"
+      ]
+    },
+    {
+      "Titles": [
+        "Monster Maze"
+      ],
+      "Sha1": "f752d96655f9a1bc0f9454b539a32c8405d4a41a",
+      "Crc32": "f7653118",
+      "SetNames": {
+        "TOSEC": [
+          "Monster Maze (1982)(Tandy)[26-3081]"
+        ],
+        "MESS": [
+          "monstrmz"
+        ],
+        "TGDB": [
+          "32424"
+        ]
+      },
+      "OverviewId": 20,
+      "Size": 4096,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Panic Button"
+      ],
+      "Sha1": "7c85ec411d4a7fc088cf18ae2886ff63c0d5972b",
+      "Crc32": "54094dea",
+      "SetNames": {
+        "TOSEC": [
+          "Panic Button (1985)(Tandy)[26-3147]"
+        ],
+        "MESS": [
+          "panic"
+        ]
+      },
+      "Size": 8192,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1985",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Pinball",
+        "Video Pinball"
+      ],
+      "Sha1": "ee64647d5e0b5a8fd83bdfa7c41d846b570d9170",
+      "Crc32": "d5baf3ad",
+      "SetNames": {
+        "TOSEC": [
+          "Pinball (1980)(Tandy)[26-3052]"
+        ],
+        "MESS": [
+          "pinball"
+        ],
+        "TGDB": [
+          "32425"
+        ]
+      },
+      "OverviewId": 21,
+      "Size": 4096,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "ReleaseDate": "1/1/1980",
+      "Genres": [],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Polaris"
+      ],
+      "Sha1": "e0a80962bd95239c109a450da6fc132f7799345f",
+      "Crc32": "f7dcc3bb",
+      "SetNames": {
+        "TOSEC": [
+          "Polaris (1981)(Tandy)[26-3065]"
+        ],
+        "MESS": [
+          "polaris"
+        ],
+        "TGDB": [
+          "32426"
+        ]
+      },
+      "OverviewId": 22,
+      "Size": 4096,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "ReleaseDate": "1/1/1981",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Poltergeist"
+      ],
+      "Sha1": "6805cda6d138c6b68c173c09c0113470b7407e88",
+      "Crc32": "770e5f3a",
+      "SetNames": {
+        "TOSEC": [
+          "Poltergeist (1982)(Tandy)[26-3073]"
+        ],
+        "MESS": [
+          "poltrgst"
+        ],
+        "TGDB": [
+          "32427"
+        ]
+      },
+      "OverviewId": 23,
+      "Size": 8192,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Popcorn"
+      ],
+      "Sha1": "f2c053489a0c51d33eb2570831ecab2b7ce420dc",
+      "Crc32": "4ef9c448",
+      "SetNames": {
+        "TOSEC": [
+          "Popcorn (1982)(Tandy)[26-3090]"
+        ],
+        "TGDB": [
+          "32428"
+        ]
+      },
+      "OverviewId": 25,
+      "Size": 4096,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "Developers": [
+        "Steve Bjork"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Popcorn"
+      ],
+      "Sha1": "f9cc452f5492d98abbd4c3ba6d99ab7cef81db13",
+      "Crc32": "7f507089",
+      "SetNames": {
+        "TOSEC": [
+          "Popcorn (1982)(Tandy)[u][26-3090]"
+        ],
+        "MESS": [
+          "popcorn"
+        ],
+        "TGDB": [
+          "32428"
+        ]
+      },
+      "OverviewId": 25,
+      "Size": 2048,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "Developers": [
+        "Steve Bjork"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Project Nebula"
+      ],
+      "Sha1": "ca2356a3032344d0065a3885b4ff92c9e3aa25eb",
+      "Crc32": "4123fb50",
+      "SetNames": {
+        "TOSEC": [
+          "Project Nebula (1981)(Tandy)[26-3063]"
+        ],
+        "MESS": [
+          "nebula"
+        ],
+        "TGDB": [
+          "32429"
+        ]
+      },
+      "OverviewId": 26,
+      "Size": 8192,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "Developers": [
+        "Robert Arnstein"
+      ],
+      "ReleaseDate": "1/1/1981",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Quasar Commander"
+      ],
+      "Sha1": "e5afd97e69ae4d0a1ae4a3283b5321a6bef9091f",
+      "Crc32": "3218e0f5",
+      "SetNames": {
+        "TOSEC": [
+          "Quasar Commander (1980)(Tandy)[26-3051]"
+        ],
+        "MESS": [
+          "quasar"
+        ],
+        "TGDB": [
+          "32430"
+        ]
+      },
+      "OverviewId": 27,
+      "Size": 4096,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "Developers": [
+        "Robert G. Kilgus"
+      ],
+      "ReleaseDate": "1/1/1980",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Rad Warrior"
+      ],
+      "Sha1": "5e3d4d57cd19a71ecd668ff7ce0d05d0adf30e93",
+      "Crc32": "c8b64049",
+      "SetNames": {
+        "TOSEC": [
+          "Rad Warrior (1989)(Tandy)[26-3162]"
+        ],
+        "MESS": [
+          "radwar"
+        ],
+        "TGDB": [
+          "35151"
+        ]
+      },
+      "OverviewId": 42,
+      "Size": 32768,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1989",
+      "Genres": [
+        "Action",
+        "Platform"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Rampage",
+        "Rampage!"
+      ],
+      "Sha1": "02c6a560ede8b3b87fb8420ee05ba9ac6704f101",
+      "Crc32": "09c2e97d",
+      "SetNames": {
+        "TOSEC": [
+          "Rampage (1989)(Activision)[26-3174]"
+        ],
+        "MESS": [
+          "rampage"
+        ]
+      },
+      "Size": 32768,
+      "Publishers": [
+        "Activision",
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1989",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Reactoid"
+      ],
+      "Sha1": "288f3d0afc38aeb858f313ea4a67b7c046ae0e91",
+      "Crc32": "fad4c7e3",
+      "SetNames": {
+        "TOSEC": [
+          "Reactoid (1983)(Tandy)[26-3092]"
+        ],
+        "MESS": [
+          "reactoid"
+        ],
+        "TGDB": [
+          "32431"
+        ]
+      },
+      "OverviewId": 28,
+      "Size": 4096,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Robocop",
+        "RoboCop"
+      ],
+      "Sha1": "82ad8a207a446d99455926bd27d4490578de2b41",
+      "Crc32": "dd94dd06",
+      "SetNames": {
+        "TOSEC": [
+          "Robocop (1988)(Tandy)[26-3164]"
+        ],
+        "MESS": [
+          "robocop"
+        ],
+        "TGDB": [
+          "35150"
+        ]
+      },
+      "OverviewId": 43,
+      "Size": 131072,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "2/1/1989",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Roman Checkers"
+      ],
+      "Sha1": "ab471a6ab6e5e5636278dd1a211e539503a998b1",
+      "Crc32": "3bf566bb",
+      "SetNames": {
+        "TOSEC": [
+          "Roman Checkers (1981)(Tandy)[26-3071]"
+        ],
+        "MESS": [
+          "checkers"
+        ],
+        "TGDB": [
+          "97670"
+        ]
+      },
+      "Size": 8192,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1981",
+      "ESRB": "E",
+      "Genres": [],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Shanghai"
+      ],
+      "Sha1": "8b93f09e68d21509871d67391e0cde4864d5ce28",
+      "Crc32": "3dc0ba73",
+      "SetNames": {
+        "TOSEC": [
+          "Shanghai (1987)(Activision)[26-3084]"
+        ]
+      },
+      "Size": 16384,
+      "Publishers": [
+        "Activision"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Shanghai"
+      ],
+      "Sha1": "0c500d34b4fd1170093cdf3209a201d14b86160a",
+      "Crc32": "5a54973c",
+      "SetNames": {
+        "TOSEC": [
+          "Shanghai (1987)(Activision)[a][26-3084]"
+        ],
+        "MESS": [
+          "shanghai"
+        ]
+      },
+      "Size": 16384,
+      "Publishers": [
+        "Activision",
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Alternate"
+      ]
+    },
+    {
+      "Titles": [
+        "Shooting Gallery"
+      ],
+      "Sha1": "472c50185ca129c84729e9cbddd1d5b3d10c1bce",
+      "Crc32": "1f1ba95d",
+      "SetNames": {
+        "TOSEC": [
+          "Shooting Gallery (1982)(Tandy)[26-3088]"
+        ],
+        "MESS": [
+          "shootgal"
+        ],
+        "TGDB": [
+          "32432"
+        ]
+      },
+      "OverviewId": 29,
+      "Size": 8192,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "Developers": [
+        "James Garon"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Silpheed"
+      ],
+      "Sha1": "c49bc7ee1571e3fba5d6e29b8c7672c8df767a9f",
+      "Crc32": "fe17e96d",
+      "SetNames": {
+        "TOSEC": [
+          "Silpheed (1988)(Tandy)[26-3054]"
+        ]
+      },
+      "Size": 32767,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1988",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Silpheed"
+      ],
+      "Sha1": "42f70dacfd1a81ec0e052d7f325e7751855d1113",
+      "Crc32": "bed7dcde",
+      "SetNames": {
+        "TOSEC": [
+          "Silpheed (1988)(Tandy)[26-3054][16k]"
+        ],
+        "MESS": [
+          "silpheed1"
+        ]
+      },
+      "Size": 16384,
+      "Publishers": [
+        "Tandy"
+      ],
+      "CloneOf": "silpheed",
+      "ReleaseDate": "1/1/1988",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Skiing"
+      ],
+      "Sha1": "f60694dc36f2c1b92fc0d407b5cac9ad49ca26a9",
+      "Crc32": "1a05a395",
+      "SetNames": {
+        "TOSEC": [
+          "Skiing (1980)(Tandy)[26-3058]"
+        ],
+        "MESS": [
+          "skiing"
+        ],
+        "TGDB": [
+          "32433"
+        ]
+      },
+      "OverviewId": 30,
+      "Size": 8192,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "Developers": [
+        "Robert G. Kilgus"
+      ],
+      "ReleaseDate": "12/1/1980",
+      "Genres": [
+        "Sports"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Slay the Nereis",
+        "Slay The Nereis"
+      ],
+      "Sha1": "72a781c467c4c8562dfc953c063208b1d17f5758",
+      "Crc32": "b98d5eaf",
+      "SetNames": {
+        "TOSEC": [
+          "Slay the Nereis (1982)(Tandy)[26-3086]"
+        ],
+        "MESS": [
+          "nereis"
+        ],
+        "TGDB": [
+          "32434"
+        ]
+      },
+      "OverviewId": 44,
+      "Size": 8192,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "Developers": [
+        "Spectral Associates"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Soko-Ban"
+      ],
+      "Sha1": "dcc394b84d2c644e0d74c9a439dff24065e580c2",
+      "Crc32": "44390e55",
+      "SetNames": {
+        "TOSEC": [
+          "Soko-Ban (1988)(Tandy)[26-3161]"
+        ],
+        "MESS": [
+          "sokoban"
+        ]
+      },
+      "Size": 16384,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1988",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Space Assault"
+      ],
+      "Sha1": "9ab7f2499d52e77ec64d8c3812d7d0cde8b7f8a5",
+      "Crc32": "f4700120",
+      "SetNames": {
+        "TOSEC": [
+          "Space Assault (1981)(Tandy)[26-3060]"
+        ],
+        "MESS": [
+          "spaceass"
+        ],
+        "TGDB": [
+          "32435"
+        ]
+      },
+      "OverviewId": 31,
+      "Size": 4096,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "ReleaseDate": "1/1/1981",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Spectaculator"
+      ],
+      "Sha1": "8cd0ba6f25c177295df2a42b989ce88d44888e39",
+      "Crc32": "80d7ac8b",
+      "SetNames": {
+        "TOSEC": [
+          "Spectaculator (1981)(Tandy)[26-3104]"
+        ]
+      },
+      "Size": 15872,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1981",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Spidercide"
+      ],
+      "Sha1": "b28d9042e72b249c75ca78d38719a625a6d98dec",
+      "Crc32": "ec9d0199",
+      "SetNames": {
+        "TOSEC": [
+          "Spidercide (1983)(Tandy)[26-3049]"
+        ],
+        "MESS": [
+          "spdrcide"
+        ],
+        "TGDB": [
+          "69018"
+        ]
+      },
+      "OverviewId": 32,
+      "Size": 4096,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "ESRB": "E",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Springster"
+      ],
+      "Sha1": "31b54b74e8c1ee018b905d4f76cd5a6341954301",
+      "Crc32": "f47d3880",
+      "SetNames": {
+        "TOSEC": [
+          "Springster (1987)(Tandy)[26-3078]"
+        ],
+        "MESS": [
+          "spring"
+        ],
+        "TGDB": [
+          "69017"
+        ]
+      },
+      "OverviewId": 45,
+      "Size": 16384,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "ESRB": "E",
+      "Genres": [
+        "Action",
+        "Puzzle"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Star Blaze"
+      ],
+      "Sha1": "27e27b03245e603f03dfb33b1b630bebadb8d8d9",
+      "Crc32": "36f31eb7",
+      "SetNames": {
+        "TOSEC": [
+          "Star Blaze (1983)(Tandy)[26-3094]"
+        ],
+        "MESS": [
+          "starblaz"
+        ]
+      },
+      "Size": 8192,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Stellar Life Line"
+      ],
+      "Sha1": "d2d4fa14e8358aac975ede5a5c2e972daab60a37",
+      "Crc32": "aeb38e39",
+      "SetNames": {
+        "TOSEC": [
+          "Stellar Life Line (1983)(Tandy)[26-3047]"
+        ],
+        "MESS": [
+          "stellar"
+        ]
+      },
+      "Size": 8192,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Super Bustout"
+      ],
+      "Sha1": "a66787404bd8b5d68808969602bb6f595c59665b",
+      "Crc32": "d2e79c66",
+      "SetNames": {
+        "TOSEC": [
+          "Super Bustout (1980)(Tandy)[u][26-3056]"
+        ]
+      },
+      "Size": 2048,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1980",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Super Bustout"
+      ],
+      "Sha1": "b3bc9ae5ff59e8ca1f00c54523e2828f709680fc",
+      "Crc32": "c7ed9d30",
+      "SetNames": {
+        "TOSEC": [
+          "Super Bustout (1981)(Tandy)[26-3056]"
+        ],
+        "MESS": [
+          "sprbust"
+        ]
+      },
+      "Size": 4096,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1981",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Super Pitfall"
+      ],
+      "Sha1": "10f4e78255d61dce2c882f9a136a94cbb7860fc1",
+      "Crc32": "e8e54cbe",
+      "SetNames": {
+        "TOSEC": [
+          "Super Pitfall (1988)(Tandy)[26-3171]"
+        ],
+        "MESS": [
+          "superpit"
+        ],
+        "TGDB": [
+          "82016"
+        ]
+      },
+      "Size": 32768,
+      "Publishers": [
+        "Tandy"
+      ],
+      "Developers": [
+        "Activision"
+      ],
+      "ReleaseDate": "1/1/1988",
+      "Genres": [
+        "Action",
+        "Adventure",
+        "Platform"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Temple of ROM"
+      ],
+      "Sha1": "2f43b65084c90114ee4951792e0eec31bb3c333b",
+      "Crc32": "f4f2b0a0",
+      "SetNames": {
+        "TOSEC": [
+          "Temple of ROM (1982)(Tandy)[26-3045]"
+        ],
+        "MESS": [
+          "temple"
+        ],
+        "TGDB": [
+          "32437"
+        ]
+      },
+      "OverviewId": 33,
+      "Size": 8192,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "Developers": [
+        "Rick Adams"
+      ],
+      "ReleaseDate": "1/1/1984",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Tennis"
+      ],
+      "Sha1": "553fce950a794d3fee3cc98408e0eb1098d61af3",
+      "Crc32": "99de1a03",
+      "SetNames": {
+        "TOSEC": [
+          "Tennis (1982)(Tandy)"
+        ],
+        "MESS": [
+          "tennis"
+        ],
+        "TGDB": [
+          "32438"
+        ]
+      },
+      "OverviewId": 34,
+      "Size": 4096,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Genres": [
+        "Sports"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Tetris"
+      ],
+      "Sha1": "bc8d2f56126a330aa3607d01a232523ed99ee481",
+      "Crc32": "8375f98b",
+      "SetNames": {
+        "TOSEC": [
+          "Tetris (1987)(Tandy)[26-3163]"
+        ],
+        "MESS": [
+          "tetris"
+        ],
+        "TGDB": [
+          "68395"
+        ]
+      },
+      "OverviewId": 46,
+      "Size": 16384,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "ESRB": "E",
+      "Genres": [
+        "Puzzle"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Thexder"
+      ],
+      "Sha1": "36919b37f858ecf71c77ee7a766370fd6d4a6b7e",
+      "Crc32": "0ef0df20",
+      "SetNames": {
+        "TOSEC": [
+          "Thexder (1988)(Tandy)[26-3072]"
+        ],
+        "MESS": [
+          "thexder"
+        ]
+      },
+      "Size": 16384,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1988",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Wildcatting"
+      ],
+      "Sha1": "dd7a884f3d55ce9787285517ea29e993b7aae57a",
+      "Crc32": "ab96914a",
+      "SetNames": {
+        "TOSEC": [
+          "Wildcatting (1981)(Tandy)[26-3067]"
+        ],
+        "MESS": [
+          "wildcat"
+        ],
+        "TGDB": [
+          "32439"
+        ]
+      },
+      "OverviewId": 35,
+      "Size": 4096,
+      "Publishers": [
+        "Tandy",
+        "Tandy Corporation"
+      ],
+      "Developers": [
+        "The Image Producers"
+      ],
+      "ReleaseDate": "1/1/1981",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Zaxxon"
+      ],
+      "Sha1": "162efa9906387bf5e7777eb9417f0802b1e4c8f1",
+      "Crc32": "ef4e6a77",
+      "SetNames": {
+        "TOSEC": [
+          "Zaxxon (1983)(Tandy)[26-3062]"
+        ]
+      },
+      "Size": 17102,
+      "Publishers": [
+        "Tandy"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Chase"
+      ],
+      "Sha1": "e02850bf9dec27417b0b876b04cdd6bb5c8487d8",
+      "Crc32": "75c94959",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Chase (2018-07-19)(Caruso, Fabrizio)[full]"
+        ]
+      },
+      "Size": 9917723,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "7/19/2018",
+      "Languages": [
+        "en"
+      ]
+    }
+  ],
+  "Overviews": {
+    "1": {
+      "en": "Bedlam is another new adventure from Radio Shack. There are no hidden treasures to find, no wealth to amass, no score to beat. There is only one goal-get out, if you can. Your success depends totally upon your resourcefulness, and your ability to think clearly. There is only one way out, but be warned-the exit changes each time you load the game."
+    },
+    "2": {
+      "en": "Your Tandy computer has been invaded by the Data Bugs. These microbite creatures are feeding on your computers's memory cells (little blocks inside the computer that store information). Your computer will lose its entire memory bank if the bugs are not immediately destroyed."
+    },
+    "3": {
+      "en": "Port of Arkanoid"
+    },
+    "4": {
+      "en": "The player takes command of a ship (presumably a graviton) on an x axis plane to collect and shoot electrons at a spinning atom to obtain a new atom. For example, if the player has one electron circling, he or she would shoot another electron in place to make a hydrogen element. If the electron misses the target and hits the nucleus, the atom becomes unstable and blows apart, sending electrons flying around the game screen, and the ship needs to find safety behind barriers located in three of the four corners of the arena."
+    },
+    "5": {
+      "en": "Try to climb to the top of the Grand Canyon, while avoiding various obstacles."
+    },
+    "6": {
+      "en": "Your challenge is to defend your castle from the soaring fireball. Maneuver your pike in a way that will keep the ball from striking your castle-while sending it back to the opponent's. Be warned! Merlin's pikes are spellbound and seem almost to have power of their own!"
+    },
+    "7": {
+      "en": "Checkers"
+    },
+    "8": {
+      "en": "Chess for the Color computer."
+    },
+    "9": {
+      "en": "In the last few years puzzle cubes have been baffling millions of people. Color\r\nCubes is a cube that is made up of twenty-seven smaller cubes (called cubies) of\r\nsix different colors. The goal of Color Cubes is to unscramble the faces of the\r\ncube so that each face is made up of a solid color."
+    },
+    "10": {
+      "en": "Marooned on the ice planet Krybor, the player uses a laser cannon to destroy legions of demons that attack from above. Visually, the demons appear in waves similar to other space-themed shooters, but individually combine from the sides of the screen to the area above the player's cannon."
+    },
+    "11": {
+      "en": "Test Tandy's all-terrain XR-2200 racer by taking it to its limit on a treacherous cross-desert race track. The object is to complete each course as fast as you can, and avoid crashing into the other riders and obstacles that you encounter along the way. After you complete the fourth race, the three race tracks become more difficult and are selected by random."
+    },
+    "12": {
+      "en": "Dino Wars is an exciting adventure game for two players. Each player controls a\r\nrampaging dinosaur. If you aren't quick, you'll find yourself ruthlessly attacked\r\nby your opponent. Gaining territorial rights is everything. Only the strongest\r\ncan take command. It's fast, furious and fun. You may use a 4K system, but\r\nbest results are obtained on a 16K color computer."
+    },
+    "13": {
+      "en": "The player controls a dot on a black background, on which objects begin to appear randomly. If the dot crashes into an object, the player loses a life. Some objects, such as roller skates, move about; magnets even track and follow the player. Others, such as skulls, merely clutter up the screen and serve as obstacles"
+    },
+    "14": {
+      "en": "You found an opening into what looks like an underground cavern!\r\nYou enter the cave, and suddenly a rock slide cuts off your exit.\r\nThere's no turning back. You have no choice but to continue\r\nthrough the cavern, looking for another exit.\r\nAs you explore the cave, you realize that others have been here\r\nbefore. Ropes are hanging from ledges throughout the cave, and\r\ntreasures, such as diamonds and bags of gold, are scattered\r\neverywhere. Suddenly you come upon a key. The key must be\r\nmagical for when you pick it up, a door appears. You must get to\r\nthat door! Surely, it will lead you to safety.\r\nCollect the treasures and keys, and make your way to the door by\r\nclimbing the ropes and jumping onto the ledges. But be careful! It\r\nwill take all your skill to keep from falling or being hit by acid drops\r\nor boulders. Also, beware of the poisonous bat that is waiting to\r\ndestroy you!"
+    },
+    "15": {
+      "en": "Dragonfire is an arcade game by Imagic, a very popular game programming company that originally started with titles for the Atari 2600 console (and, in fact, was founded by ex-programmers from Atari itself). The game played in two stages: in the first stage one had to navigate between two turrets in a castle, jumping and ducking your way past fireballs and pits. Once you got through this stage, you entered the interior of the castle, where you had to collect treasures while dodging fireballs being hurtled at you by a large dragon."
+    },
+    "16": {
+      "en": "Welcome to Football. Football is a simulation game with five men per team. Two people play the game, each using a joystick to control his team. One player's team is red, the other is blue."
+    },
+    "17": {
+      "en": "Have you ever wondered about those people who sit in smoke-filled rooms with rolled-up sleeves and beads of perspiration on their brows, drinking pot after pot of strong, black coffee and playing Gin Into the wee hours of the morning? Now you, too, can become part of this fascinating and compulsive obsession, using the TRS-80 Color Computer Gin Champion."
+    },
+    "18": {
+      "en": "Based on Robert A. Heinlein's Hugo-award winning book, Starship Troopers, this game simulates the brief combat life in M.I. (Mobile Infantry) far in the future. The Terran Federation is locked in a deadly war with \"the Bugs,\" and has announced \"Operation Bughouse,\" an attack directly on the Bugs' home world of Klendathu. Equipped with a state-of-the-art power suit, you drop in from orbit and and torch as many Bug warriors as possible, then bounce back out before your suit runs out of energy or the Bugs overwhelm you. Survive three drops and you can retire, with pay based on how many Bugs of each rank you blasted.\r\n\r\nGame play consists of carefully selecting which block of the drop zone to land in, and then blasting the warrior and queen Bugs as they advance down the screen toward you. For each warrior and queen you might see, however, there are many more harmless worker Bugs, which look exactly like the warriors. They're all swarming toward you; choose your targets carefully and don't waste your ammo. You'll know the warriors because they're the ones shooting at you."
+    },
+    "19": {
+      "en": "Kill the microbes to survive!"
+    },
+    "20": {
+      "en": "Lost in a network of mazes - in bad company! Everywhere you turn are mechanical monsters who stole your gold. The monsters are programmed to kill, so keep a cool head and a steady hand. Prepare for a battle as you struggle to keep the gold and find a way out alive!"
+    },
+    "21": {
+      "en": "Welcome to pinball. Pinball is a realistic simulation of an arcade machine with the added option to design your own customized playfield."
+    },
+    "22": {
+      "en": "Protect your islands by destroying as many enemy missiles as possible! Score points for every enemy missile you destroy, every island you save, and every missile you have left! An exciting one or two player game for the whole family."
+    },
+    "23": {
+      "en": "It's up to you to rescue Carol Anne from the monstrous grasp of the poltergeist."
+    },
+    "24": {
+      "en": "One day, in the middle of a forest, a group of fierce Wolves attacked the House where a Mother Pig (Mama) and her little Piglets (Pooyans) were living together peacefully. To protect her Pooyans, Mama fought back using arrows and bait, but despite all of her efforts, some of the Pooyans were kidnapped. Full of hate for the Wolves, Mama bravely seeks out the Wolves' Lair to rescue her Pooyans. Will she succeed in overcoming the Wolves and bringing her Pooyans back home?"
+    },
+    "25": {
+      "en": "The object of this game is to use your paddles to catch as many of the falling popcorn kernels as possible, before they hit the bottom of the popper. You are awarded points for every kernel you catch. The more  kernels you catch, the faster the remaining kernels will fall!"
+    },
+    "26": {
+      "en": "Lord Scylla, ruler of six galaxies, has declared eminent domain over ours. Zycon, the commandant of Scylla's Imperial Fleet, has already conquered or annihilated all human outposts and colonies, and recommends immediate surrender, tribute, and the submission of some representatives as laboratory specimens."
+    },
+    "27": {
+      "en": "Quasar Commander is an exciting game of skill to play on your TRS-80 color computer. You are at the helm of a Starship. Imagine that your video screen is a window looking into outerspace. Your laser sights are in the center of this \"viewscreen\". Try to destroy as many enemy ships as possible before colliding with them. This game contains variations for countless hours of fun."
+    },
+    "28": {
+      "en": "The latest breakthrough in nuclear power is broken. It's the network, of course. In the dazzling future of the late 1990's, the world's first fusion reactor is online: energy particles are shooting out of emission tubes toward the energy posts... and missing. As each one passes the posts and strikes another tube on the opposite side of the core, the reactor moves one step closer to meltdown. The reflectoid is there; that's the solid energy deflection device which bounces the particles into the posts. It's supposed be remotely controlled by a sophisticated network of computers, but tonight it has to be controlled by you!"
+    },
+    "29": {
+      "en": "Have you ever wondered if you were a sharp enough marksman to win one of those big stuffed animals at the State Fair? All that fun and excitement is yours with the TRS-80 Color Computer Shooting Gallery! You can have endless fun taking aim at ducks, bunnies, and other moving targets as they travel across your screen. With a little practice, you can move up the ranks to the advanced levels and become a \"crackshot.\""
+    },
+    "30": {
+      "en": "Welcome to skiing, a fast-moving, exciting game that can be enjoyed by the ski 'aficionado' as well as the aspiring novice."
+    },
+    "31": {
+      "en": "Save the world from attacking hordes of enemy alien beings by destroying as many invaders as possible! Score points for every enemy ship you destroy! Win bonus points by blasting the parent ships!"
+    },
+    "32": {
+      "en": "Cat. No. 26-3049"
+    },
+    "33": {
+      "en": "Star Blaze is a new adventure in space exploration for your TRS-80 Color Computer. As the commander of a patrol ship, you are responsible for defending the 64 sectors of your galaxy. Aliens are attacking the galaxy, trying to destroy the fuel and repair stations set up in several sectors. You must hunt down the aliens and destroy them before they ruin the galaxy's supply stations. Your patrol ship, superior in speed, maneuverability, and attack power, is your best ally in the fight against the aliens"
+    },
+    "34": {
+      "en": "The excitement of tennis is now as close as your personal computer. Challenge a friend or the computer to a realistic tournament, consisting of games, sets, and matches. Keep up with the ball to win the championship! A color computer, with at least 16K RAM, and joysticks are required."
+    },
+    "35": {
+      "en": "\"One to four wheeler-dealers pick drilling sites. A surveyor's report gives the chances of striking oil. Watch out for dry holes! Hit a gusher and you're in the money - for a while, anyway. Production soon decreases, and taxes and drilling fees start to mount. Earn the highest profits in 10 rounds to win\""
+    },
+    "36": {
+      "en": "The stands are filled to maximum capacity ... the crowd sits anxiously awaiting the magic\r\nthat is America's favorite pastime-Baseball!\r\n\r\nColor Baseball is an action-packed simulation of the sport made popular by Abner Doubleday\r\nat Cooperstown, New York, in 1839. You control the action and strategy. You can even give\r\neach player a name and a batting average to add more excitement to the game. Intricate\r\ncolor graphics enhance the realism from your \"press box view.\""
+    },
+    "37": {
+      "en": "The object of Demolition Derby is to wipe out, demolish, and destroy as many competitors as possible, and thereby, accumulate points and complete as many courses as you can. (When you advance to a new course, the level of difficulty increases slightly.)"
+    },
+    "38": {
+      "en": "Dungeons of Daggorath was one of the first games that attempted to portray three-dimensional space in a real-time environment, using angled lines to give the illusion of depth. The player moves around a dungeon, issuing commands by means of typing — for example, typing \"GET LEFT SHIELD\" or \"USE RIGHT TORCH\" (or abbreviations such as \"G L SH\" and \"U R T\"), gathering strength and ever more powerful weapons as the game progresses. Various creatures appear, and can often be heard when they are nearby, even when not visible. The object of the game is to defeat the second of two wizards, who is on the fifth and last level of the dungeon."
+    },
+    "39": {
+      "en": "You must learn to control the laser beam to destroy the aliens before they\r\nconquer the Earth. Press the red button on your Joystick to begin.\r\nThe alien ships attack from the upper part of the screen in groups of eight.\r\nThe laser is located at the bottom of the screen. To emit a laser beam, press\r\nthe Joystick button.\r\nWhen the alien ships first appear on the screen, they will be in strict\r\nformation, moving from right to left. Don't trust them for one minute\r\nbecause they're sneaky!"
+    },
+    "40": {
+      "en": "Gomoku and Renju are ancient oriental games of strategy for two players. You Gomoku / Renju program for the TRS-80 Color Computer matches you against your choice of the computer or another person in a game of Gomoku or the similar but more complex Renju. If you are a beginner, the program will help you master the various strategies of the games using eight different levels of play. If you are already a master, you will find the computer a challenging opponent, especially at the higher levels."
+    },
+    "41": {
+      "en": "Crawling stealthily through the corridors of the maze, the bugs are after you-their one mission in life is to search you out and make you their dinner, before you find your way completely through the giant maze. Their powers of detection are uncanny ... the only way to outsmart them is by leaving as many conflicting clues as to your whereabouts as possible. You push on, through the twists and turns of the maze, hoping that what lies around the corner is more points, and not a Mega-Bug!"
+    },
+    "42": {
+      "en": "As Tal, your job is to single-handedly clear out the aliens who have invaded a desolate and destroyed post-nuclear earth. To have any chance of this, he must locate a sacred suit of armor. Not only will this protect him from radiation, and allow him to withstand some enemy contact, it also heals him, and enables him to float.\r\n\r\nThis means that the game has two distinct styles, with your character limited to jumping, and with only rocks (located around the screens) to throw. Once he finds the suit he can fly around the ledges, shoot the inbuilt Pulsar beam, and survive within the volcanic hideout the aliens have based themselves. You will need to recharge the suit at times, and also take it off to pass through tight caverns."
+    },
+    "43": {
+      "en": "Patrolman Alex Murphy was killed on the streets of Detroit. The major corporation there, Omni Consumer Products (OCP) saw an opportunity to sell a new kind of law enforcement officer to the troubled city. They took what was left of Murphy, encased it in titanium armor, wiped his memory and created RoboCop. Now it's up to RoboCop to clean the streets of Detroit and eliminate the one responsible for his murder, Clarence Boddicker. But it looks like Clarence might not be the kingpin of this town...\r\n\r\nBased on the 1987 movie of the same name, RoboCop allows the player to control RoboCop. The majority of the game is a side scroller. RoboCop can punch unarmed citizens and shoot armed citizens. He can move left, right and duck but can not jump. Different weapons can be picked up from enemies, and power-ups to restore health and/or energy. Following levels, RoboCop will have to match a criminal's face to the proper mugshot and engage in a first-person shooting bonus round."
+    },
+    "44": {
+      "en": "You are the commander in charge of three mini-subs. During your mission, you soon discover that the area you were sent to scout is a dangerous one, teeming with several innocent-looking creatures-schools of fish, manta rays, starfish, jellyfish, and an occasional \"Nereis,\" a marine creature which excretes a paralyzing poison. In addition to these native aquatic creatures, there is an enemy navy destroyer which fires depth charges with your submarine as its target."
+    },
+    "45": {
+      "en": "Springster offers the finest in high resolution, brilliant color graphics.  Maneuver through 32 different, exciting mazes in search of the Maze Melon.  Battle bad guys, collect treasures and race the clock during your perilous quest.  Three skill levels insures fun for all members of the family.  One or two players allowed.\r\n\r\nRequired Equipment: Color computer 3 with 128K RAM, television or RGB monitor, joysticks"
+    },
+    "46": {
+      "en": "Description\r\nThe CoCo version of Tetris is one of many conversions of the famous block-stacking game. The goal is to place pieces made up of four tiles in a ten-by-twenty well, organizing them into complete rows, which then disappear. As rows are cleared, the pace of the game increases, and the game ends if the stack reaches the top of the well.\r\n\r\nOptions of the CoCo version include the selection of starting level (between 0 and 9) and a handicap setting, allowing to pre-fill the well with blocks in seven different levels. The playing level can be increased at any time and a preview of the next piece to appear can be toggled on and off. Scoring works similarly to the original PC version of the game as written by Vadim Gerasimov: there are more points the higher a piece is dropped, a bonus for not displaying the next piece and a bonus for playing in higher levels/difficulties. No points are given for clearing rows and there is no high score table.\r\n\r\nImplemented as a 'fat binary', the game offers a higher resolution mode on a CoCo 3. Besides displaying more of the Saint Basil's Cathedral-inspired background graphic, the CoCo 3 version allows to optionally display a keyboard command overview, the current level and a pieces statistic."
+    }
+  }
+}

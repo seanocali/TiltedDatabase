@@ -1,0 +1,1627 @@
+{
+  "PlatformName": "Sord M5",
+  "LastUpdate": "5/24/2022 3:04:22 AM",
+  "Games": [
+    {
+      "Titles": [
+        "Adidas Lucky Shoot"
+      ],
+      "Sha1": "80314f4351b9c0ebeb48f7757694717950d5a9b0",
+      "Crc32": "d6ef9cae",
+      "SetNames": {
+        "TOSEC": [
+          "Adidas Lucky Shoot (198x)(-)"
+        ],
+        "MESS": [
+          "adidas"
+        ]
+      },
+      "Size": 8192,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Apploon"
+      ],
+      "Sha1": "743906ecab6439766fe374ccdf64b9c2acecbf97",
+      "Crc32": "558cf858",
+      "SetNames": {
+        "TOSEC": [
+          "Apploon (1983)(Takara)"
+        ],
+        "MESS": [
+          "apploon"
+        ]
+      },
+      "Size": 8192,
+      "Publishers": [
+        "Takara"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Balloon"
+      ],
+      "Sha1": "f31102b5a9de6c7ef65fddfbe215e2560fdb3238",
+      "Crc32": "f44bbdad",
+      "SetNames": {
+        "TOSEC": [
+          "Balloon (19xx)(-)"
+        ]
+      },
+      "Size": 8192,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Baseball"
+      ],
+      "Sha1": "56d11bb9e4e8431ff4f6dfa592b096dd613084c3",
+      "Crc32": "46e94dae",
+      "SetNames": {
+        "TOSEC": [
+          "Baseball (19xx)(-)[b][Req 36k RAM]"
+        ]
+      },
+      "Size": 10904,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Bosconian",
+        "Star Destroyer Bosconian"
+      ],
+      "Sha1": "b26b1289fc96778d3b3f50eee5ca3963a1948dff",
+      "Crc32": "8b299b7f",
+      "SetNames": {
+        "TOSEC": [
+          "Bosconian (1981)(Namco)"
+        ],
+        "MESS": [
+          "bosco"
+        ]
+      },
+      "Size": 8192,
+      "Publishers": [
+        "Namco"
+      ],
+      "ReleaseDate": "1/1/1981",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Dig Dug"
+      ],
+      "Sha1": "971f7bc1b6247d17a488f6e07eabc07580219ed9",
+      "Crc32": "9b207054",
+      "SetNames": {
+        "TOSEC": [
+          "Dig Dug (1982)(Namco)"
+        ],
+        "MESS": [
+          "digdug"
+        ]
+      },
+      "Size": 8192,
+      "Publishers": [
+        "Namco"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Dragon Attack"
+      ],
+      "Sha1": "f2707ad6dd564df01e7f81a21a00842e17cd49a4",
+      "Crc32": "5862d06c",
+      "SetNames": {
+        "TOSEC": [
+          "Dragon Attack (1983)(Takara)(JP)[b]"
+        ],
+        "MESS": [
+          "drgnatck"
+        ]
+      },
+      "Size": 4096,
+      "Publishers": [
+        "Takara"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Regions": [
+        "JP"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Drops"
+      ],
+      "Sha1": "e9a44e12eed9d51cdb40ce4b6f1cb19a1ebed35d",
+      "Crc32": "fa321348",
+      "SetNames": {
+        "TOSEC": [
+          "Drops (1986)(SPC)(JP)[b][Req 36k RAM]"
+        ],
+        "MESS": [
+          "drops"
+        ]
+      },
+      "Size": 6176,
+      "Publishers": [
+        "SPC"
+      ],
+      "ReleaseDate": "1/1/1986",
+      "Regions": [
+        "JP"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Eskimon"
+      ],
+      "Sha1": "115eee645e5213c16ad4a27bbeed5e2f3fa4be22",
+      "Crc32": "96931021",
+      "SetNames": {
+        "TOSEC": [
+          "Eskimon (1984)(Takara)(JP)[b]"
+        ],
+        "MESS": [
+          "eskimon"
+        ]
+      },
+      "Size": 8192,
+      "Publishers": [
+        "Takara"
+      ],
+      "ReleaseDate": "1/1/1984",
+      "Regions": [
+        "JP"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Fruit Search"
+      ],
+      "Sha1": "a838fbf0bc4513d3b6bcc3165f1eac33ca27d6fa",
+      "Crc32": "333ac50f",
+      "SetNames": {
+        "TOSEC": [
+          "Fruit Search (1983)(Takara)(JP)[b]"
+        ],
+        "MESS": [
+          "fruitsrc"
+        ]
+      },
+      "Size": 4096,
+      "Publishers": [
+        "Takara"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Regions": [
+        "JP"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Funny Mouse"
+      ],
+      "Sha1": "43c2a1a5959ab8057c7d149472512a0c7996c798",
+      "Crc32": "94145074",
+      "SetNames": {
+        "TOSEC": [
+          "Funny Mouse (1983)(Takara)(JP)[b]"
+        ],
+        "MESS": [
+          "funnym"
+        ]
+      },
+      "Size": 8192,
+      "Publishers": [
+        "Takara"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Regions": [
+        "JP"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Galax"
+      ],
+      "Sha1": "5f73e90f9b551501e6fd5b9a63cfcfaea7691821",
+      "Crc32": "62c26c8c",
+      "SetNames": {
+        "TOSEC": [
+          "Galax (1981)(Namco)"
+        ],
+        "MESS": [
+          "galax"
+        ]
+      },
+      "Size": 8192,
+      "Publishers": [
+        "Namco"
+      ],
+      "ReleaseDate": "1/1/1981",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Galax"
+      ],
+      "Sha1": "17e35cf45e662e1581b17bd93797736af29a13c4",
+      "Crc32": "9f1da410",
+      "SetNames": {
+        "TOSEC": [
+          "Galax (1981)(Namco)[h]"
+        ]
+      },
+      "Size": 8192,
+      "Publishers": [
+        "Namco"
+      ],
+      "ReleaseDate": "1/1/1981",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Hacked"
+      ]
+    },
+    {
+      "Titles": [
+        "Guttang Gottong"
+      ],
+      "Sha1": "423cee0c178a5765d7348af197a1b91b0998f689",
+      "Crc32": "60ac9deb",
+      "SetNames": {
+        "TOSEC": [
+          "Guttang Gottong (1981)(Konami)(JP)[b2][Req 36k RAM]"
+        ]
+      },
+      "Size": 8192,
+      "Publishers": [
+        "Konami"
+      ],
+      "ReleaseDate": "1/1/1981",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Guttang Gottong"
+      ],
+      "Sha1": "4e4900f42cbc76e4e795ed32ee18b2e27246e90f",
+      "Crc32": "0f70fa69",
+      "SetNames": {
+        "TOSEC": [
+          "Guttang Gottong (1981)(Konami)(JP)[b][Req 36k RAM]"
+        ]
+      },
+      "Size": 8448,
+      "Publishers": [
+        "Konami"
+      ],
+      "ReleaseDate": "1/1/1981",
+      "Regions": [
+        "JP"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Heavy Boxing"
+      ],
+      "Sha1": "388838ed501bcc3a9fd18e32488f13a6ce6a0689",
+      "Crc32": "19540dce",
+      "SetNames": {
+        "TOSEC": [
+          "Heavy Boxing (1983)(Takara)(JP)[b]"
+        ],
+        "MESS": [
+          "heavybox"
+        ]
+      },
+      "Size": 8192,
+      "Publishers": [
+        "Takara"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Regions": [
+        "JP"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Intruder"
+      ],
+      "Sha1": "fd8fc752be6afcbf016f8a33e21ad9e1b7c50c48",
+      "Crc32": "12859c5d",
+      "SetNames": {
+        "TOSEC": [
+          "Intruder (19xx)(-)[b]"
+        ]
+      },
+      "Size": 5376,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Jumping Jack"
+      ],
+      "Sha1": "c8716276fe6c4b0808078086f505efce1137afc9",
+      "Crc32": "49030973",
+      "SetNames": {
+        "TOSEC": [
+          "Jumping Jack (1986)(SPC)[b][Req 36k RAM]"
+        ],
+        "MESS": [
+          "jumpjack"
+        ]
+      },
+      "Size": 5920,
+      "Publishers": [
+        "SPC"
+      ],
+      "ReleaseDate": "1/1/1986",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Life"
+      ],
+      "Sha1": "68a47f54c30a34f15d70927896ef40370e9e1398",
+      "Crc32": "3014dfad",
+      "SetNames": {
+        "TOSEC": [
+          "Life (19xx)(Hedisoft & Conway)(cs)"
+        ]
+      },
+      "Size": 1070,
+      "Publishers": [
+        "Hedisoft & Conway"
+      ],
+      "Languages": [
+        "cs",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Mahjong",
+        "Jong Kyo"
+      ],
+      "Sha1": "0b24213ef49a6ad04bc8ecff616b94ccf0f7a8aa",
+      "Crc32": "b32c9e08",
+      "SetNames": {
+        "TOSEC": [
+          "Mahjong (19xx)(-)"
+        ],
+        "MESS": [
+          "jongkyo"
+        ]
+      },
+      "Size": 16384,
+      "Publishers": [
+        "-",
+        "Hudson Soft"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Mahjong"
+      ],
+      "Sha1": "892debe980d14edd13613155f295d172d1410ea0",
+      "Crc32": "a2edc01d",
+      "SetNames": {
+        "TOSEC": [
+          "Mahjong (19xx)(-)[h2]"
+        ]
+      },
+      "Size": 16384,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Mahjong"
+      ],
+      "Sha1": "2a6973c85996bd436ece2d8fb85502751c7f5ff6",
+      "Crc32": "829cd7e8",
+      "SetNames": {
+        "TOSEC": [
+          "Mahjong (19xx)(-)[h]"
+        ]
+      },
+      "Size": 16384,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Hacked"
+      ]
+    },
+    {
+      "Titles": [
+        "Mappy"
+      ],
+      "Sha1": "c94c4def1a64fade08179b08b1d6f6178ff56a3f",
+      "Crc32": "b83f6d83",
+      "SetNames": {
+        "TOSEC": [
+          "Mappy (1983)(Namco)"
+        ],
+        "MESS": [
+          "mappy"
+        ]
+      },
+      "Size": 8192,
+      "Publishers": [
+        "Namco"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Masterchess"
+      ],
+      "Sha1": "5dd24aae17c3a293ae91ef5086c1c4f3e59263ed",
+      "Crc32": "c10a6e96",
+      "SetNames": {
+        "TOSEC": [
+          "Masterchess (19xx)(-)[b][Req 36k RAM]"
+        ],
+        "MESS": [
+          "mchess"
+        ]
+      },
+      "Size": 12288,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Maze"
+      ],
+      "Sha1": "f07f531eef82fd5b0d914c176d52b38814c36e3b",
+      "Crc32": "b7c9705b",
+      "SetNames": {
+        "TOSEC": [
+          "Maze (19xx)(-)(cs)[b]"
+        ]
+      },
+      "Size": 8448,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "cs",
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Moon Patrol"
+      ],
+      "Sha1": "fa61c047b0051efa23a6607e4c1f7726ff683caf",
+      "Crc32": "1324c6c0",
+      "SetNames": {
+        "TOSEC": [
+          "Moon Patrol (1981)(Ir0em)"
+        ],
+        "MESS": [
+          "mpatrol"
+        ]
+      },
+      "Size": 8192,
+      "Publishers": [
+        "Ir0em",
+        "Irem"
+      ],
+      "ReleaseDate": "1/1/1981",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Pit Chaser"
+      ],
+      "Sha1": "c843f817bb06faf78134b098acbebecc17b7c699",
+      "Crc32": "cf71e13a",
+      "SetNames": {
+        "TOSEC": [
+          "Pit Chaser (1983)(Takara)"
+        ],
+        "MESS": [
+          "pitchase"
+        ]
+      },
+      "Size": 8192,
+      "Publishers": [
+        "Takara"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Poo-Yan",
+        "Pooyan"
+      ],
+      "Sha1": "b659b0f029927c36287720654fb538e53a2fcb76",
+      "Crc32": "91ba5073",
+      "SetNames": {
+        "TOSEC": [
+          "Poo-Yan (1982)(Konami)"
+        ],
+        "MESS": [
+          "pooyan"
+        ]
+      },
+      "Size": 8192,
+      "Publishers": [
+        "Konami"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Poo-Yan",
+        "Pooyan Modified version cooperating with 64kB RAM"
+      ],
+      "Sha1": "4c9e58e52d336b4c01a24e3ca2e62fb7757407fd",
+      "Crc32": "ded8b4f4",
+      "SetNames": {
+        "TOSEC": [
+          "Poo-Yan (1982)(Konami)[b]"
+        ],
+        "MESS": [
+          "pooyana"
+        ]
+      },
+      "Size": 8192,
+      "Publishers": [
+        "Konami"
+      ],
+      "CloneOf": "pooyan",
+      "ReleaseDate": "1/1/1982",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Power Pac"
+      ],
+      "Sha1": "2ee74f02f0249ff7192b4f29c1a061fc4f1eb920",
+      "Crc32": "3ce70f7f",
+      "SetNames": {
+        "TOSEC": [
+          "Power Pac (1982)(Namco)"
+        ],
+        "MESS": [
+          "powerpac"
+        ]
+      },
+      "Size": 8192,
+      "Publishers": [
+        "Namco"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Power Pac"
+      ],
+      "Sha1": "7ecf2660a38a5e7870c6ffdc5aa3fd026d82e7ee",
+      "Crc32": "d2d7eb62",
+      "SetNames": {
+        "TOSEC": [
+          "Power Pac (1982)(Namco)[h]"
+        ]
+      },
+      "Size": 8192,
+      "Publishers": [
+        "Namco"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Hacked"
+      ]
+    },
+    {
+      "Titles": [
+        "Real Tennis"
+      ],
+      "Sha1": "03f3385b360c3573edab1fca53f82b4d6a4f8736",
+      "Crc32": "ed80d6c9",
+      "SetNames": {
+        "TOSEC": [
+          "Real Tennis (1983)(Takara)(JP)[b]"
+        ],
+        "MESS": [
+          "rtennis"
+        ]
+      },
+      "Size": 8192,
+      "Publishers": [
+        "Takara"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Regions": [
+        "JP"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Reversi"
+      ],
+      "Sha1": "a048a1055d175ace09155e50da0387986e150f92",
+      "Crc32": "ca2cd257",
+      "SetNames": {
+        "TOSEC": [
+          "Reversi (19xx)(Games of Skill)[b][Req 36k RAM]"
+        ],
+        "MESS": [
+          "reversi"
+        ]
+      },
+      "Size": 6392,
+      "Publishers": [
+        "Games of Skill"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Step Up"
+      ],
+      "Sha1": "9f61df71b6080c8ef5085b659179a10e2777a957",
+      "Crc32": "942cc7e8",
+      "SetNames": {
+        "TOSEC": [
+          "Step Up (1983)(Takara)(EU)"
+        ],
+        "MESS": [
+          "stepup"
+        ]
+      },
+      "Size": 8192,
+      "Publishers": [
+        "Takara"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Regions": [
+        "EU"
+      ]
+    },
+    {
+      "Titles": [
+        "Step Up"
+      ],
+      "Sha1": "abce8c52bcc73dd6a1b532b04bd7b1110d6ff4e9",
+      "Crc32": "db688ff8",
+      "SetNames": {
+        "TOSEC": [
+          "Step Up (1983)(Takara)(JP)"
+        ],
+        "MESS": [
+          "stepupj"
+        ]
+      },
+      "Size": 8192,
+      "Publishers": [
+        "Takara"
+      ],
+      "CloneOf": "stepup",
+      "ReleaseDate": "1/1/1983",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Super Cobra"
+      ],
+      "Sha1": "d29f1d1d88a0b6738b68cf8d2406fbf1f05ba39b",
+      "Crc32": "55cbd90b",
+      "SetNames": {
+        "TOSEC": [
+          "Super Cobra (1981)(Konami)(JP)[b]"
+        ],
+        "MESS": [
+          "scobra"
+        ]
+      },
+      "Size": 8192,
+      "Publishers": [
+        "Konami"
+      ],
+      "ReleaseDate": "1/1/1981",
+      "Regions": [
+        "JP"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Tank Battlaion",
+        "Tank Battalion"
+      ],
+      "Sha1": "5867090fbe2584654dd2c2aaa215e69243f2f599",
+      "Crc32": "daa0d610",
+      "SetNames": {
+        "TOSEC": [
+          "Tank Battlaion (1980)(Namco)(JP)[b]"
+        ],
+        "MESS": [
+          "tankbtl"
+        ]
+      },
+      "Size": 8192,
+      "Publishers": [
+        "Namco"
+      ],
+      "ReleaseDate": "1/1/1980",
+      "Regions": [
+        "JP"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Up Up Balloon"
+      ],
+      "Sha1": "0c94d2d55a6a6e66531137e124f2e0a3a176b252",
+      "Crc32": "68c85890",
+      "SetNames": {
+        "TOSEC": [
+          "Up Up Balloon (1983)(Takara - Monkey Punch)(JP)[b]"
+        ]
+      },
+      "Size": 8320,
+      "Publishers": [
+        "Takara - Monkey Punch"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Regions": [
+        "JP"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Warp Warp",
+        "Warp & Warp"
+      ],
+      "Sha1": "38c1721eb04188e1201c31dde2fc03963b685d69",
+      "Crc32": "1b9e2e58",
+      "SetNames": {
+        "TOSEC": [
+          "Warp Warp (1981)(Namco)"
+        ],
+        "MESS": [
+          "warpwarp"
+        ]
+      },
+      "Size": 8192,
+      "Publishers": [
+        "Namco"
+      ],
+      "ReleaseDate": "1/1/1981",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Wonder Hole"
+      ],
+      "Sha1": "bcb7442c6d320eb166e224c3ac0f50514906ad4c",
+      "Crc32": "aba2cece",
+      "SetNames": {
+        "TOSEC": [
+          "Wonder Hole (1982)(Irem)(JP)[b][Req 36k RAM]"
+        ]
+      },
+      "Size": 8320,
+      "Publishers": [
+        "Irem"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Regions": [
+        "JP"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Wonder Hole"
+      ],
+      "Sha1": "667f09f256bd8b2fb7f77681d10426970961490f",
+      "Crc32": "5274f575",
+      "SetNames": {
+        "TOSEC": [
+          "Wonder Hole (1982)(Irem)(JP)[Req 36k RAM]"
+        ]
+      },
+      "Size": 8192,
+      "Publishers": [
+        "Irem"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Word Maze"
+      ],
+      "Sha1": "a0fbe727bfca773d3cc193eb7a9c77e7b418b0a2",
+      "Crc32": "fda88e0d",
+      "SetNames": {
+        "TOSEC": [
+          "Word Maze (1983)(Sord)(JP)[b]"
+        ],
+        "MESS": [
+          "wordmaze"
+        ]
+      },
+      "Size": 8192,
+      "Publishers": [
+        "Sord"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Regions": [
+        "JP"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Zac Banic"
+      ],
+      "Sha1": "6c3d5c15817617508de5f994c0a980ff6c6ca303",
+      "Crc32": "fd421eea",
+      "SetNames": {
+        "TOSEC": [
+          "Zac Banic (198x)(-)[b]"
+        ],
+        "MESS": [
+          "zacbanic"
+        ]
+      },
+      "Size": 4400,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Barricade"
+      ],
+      "Sha1": "4bd1fd674ecc1348de82705df65c9968d17f4371",
+      "Crc32": "453b03b7",
+      "SetNames": {
+        "TOSEC": [
+          "Barricade (19xx)(-)[chain]"
+        ],
+        "MESS": [
+          "barricad"
+        ]
+      },
+      "Size": 3840,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Barrier Attack"
+      ],
+      "Sha1": "58007c3f59591717ea15f89c7cf0501a956d0e03",
+      "Crc32": "f84b6cf6",
+      "SetNames": {
+        "TOSEC": [
+          "Barrier Attack (19xx)(-)[chain]"
+        ],
+        "MESS": [
+          "barrier"
+        ]
+      },
+      "Size": 3386,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Baseball"
+      ],
+      "Sha1": "5b15b6f9d1ec625c5fd12dbaa1108c0645a3c543",
+      "Crc32": "91ba7884",
+      "SetNames": {
+        "TOSEC": [
+          "Baseball (19xx)(-)[tape]"
+        ],
+        "MESS": [
+          "baseball"
+        ]
+      },
+      "Size": 11221,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Blackjack"
+      ],
+      "Sha1": "5fb0f2d186a3c1c32738e5162f32bf0831681367",
+      "Crc32": "0ba87b33",
+      "SetNames": {
+        "TOSEC": [
+          "Blackjack (19xx)(-)[chain]"
+        ],
+        "MESS": [
+          "blackjac"
+        ]
+      },
+      "Size": 16980,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cowboy"
+      ],
+      "Sha1": "52bbfa6aed885c6c2d818a331423217971806dfa",
+      "Crc32": "f4cc6900",
+      "SetNames": {
+        "TOSEC": [
+          "Cowboy (19xx)(-)[chain]"
+        ],
+        "MESS": [
+          "cowboy"
+        ]
+      },
+      "Size": 3767,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Jogging"
+      ],
+      "Sha1": "4e7a3a4a436aac78272384a160bd1118421efbd6",
+      "Crc32": "ee87bee5",
+      "SetNames": {
+        "TOSEC": [
+          "Jogging (19xx)(-)[chain]"
+        ],
+        "MESS": [
+          "jogging"
+        ]
+      },
+      "Size": 8537,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Last Day Of The Earth, The",
+        "Last Day of the Earth"
+      ],
+      "Sha1": "7e33a89c3bfcb5f73ef117a992dc67f74a3640d9",
+      "Crc32": "d8b699da",
+      "SetNames": {
+        "TOSEC": [
+          "Last Day Of The Earth, The (19xx)(-)[chain]"
+        ],
+        "MESS": [
+          "lastday"
+        ]
+      },
+      "Size": 19184,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Mini Star Trek"
+      ],
+      "Sha1": "d066e9baf5576e338ba7122ecca497e01e451071",
+      "Crc32": "bbc88a19",
+      "SetNames": {
+        "TOSEC": [
+          "Mini Star Trek (19xx)(-)[chain]"
+        ],
+        "MESS": [
+          "startrek"
+        ]
+      },
+      "Size": 4744,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Number Search"
+      ],
+      "Sha1": "052e3696c2342df39cb35f4cef781cfce8d159c7",
+      "Crc32": "5ac28495",
+      "SetNames": {
+        "TOSEC": [
+          "Number Search (19xx)(-)[chain]"
+        ],
+        "MESS": [
+          "numsrch"
+        ]
+      },
+      "Size": 3244,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Sidewinder"
+      ],
+      "Sha1": "679969f20907cb4bd2fe62340b868316d2c3aaba",
+      "Crc32": "a4405fe0",
+      "SetNames": {
+        "TOSEC": [
+          "Sidewinder (19xx)(-)[chain]"
+        ],
+        "MESS": [
+          "sidewind"
+        ]
+      },
+      "Size": 3628,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Slot Machine"
+      ],
+      "Sha1": "4f11ddac8909af685f67c30c47ae472101f94c1e",
+      "Crc32": "60f5678b",
+      "SetNames": {
+        "TOSEC": [
+          "Slot Machine (19xx)(-)[chain]"
+        ],
+        "MESS": [
+          "slotmach"
+        ]
+      },
+      "Size": 5207,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Snaky"
+      ],
+      "Sha1": "731fb6c43b240eb701ac10ed4c73103f11af0414",
+      "Crc32": "6f66a0b3",
+      "SetNames": {
+        "TOSEC": [
+          "Snaky (19xx)(-)[chain]"
+        ],
+        "MESS": [
+          "snaky"
+        ]
+      },
+      "Size": 3213,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Solitaire"
+      ],
+      "Sha1": "58938d626ee291e79783f9656d1e26701662808d",
+      "Crc32": "c7d4f0af",
+      "SetNames": {
+        "TOSEC": [
+          "Solitaire (19xx)(-)[chain]"
+        ],
+        "MESS": [
+          "solitair"
+        ]
+      },
+      "Size": 3278,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Three Circles"
+      ],
+      "Sha1": "3c03ee9ee6ac3b51d0ca990f72fc83816d747ba1",
+      "Crc32": "c8436fcc",
+      "SetNames": {
+        "TOSEC": [
+          "Three Circles (19xx)(-)[chain]"
+        ],
+        "MESS": [
+          "3circles"
+        ]
+      },
+      "Size": 3568,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Tower of Hanoi"
+      ],
+      "Sha1": "b81e42cabf4b7d0d8389a4e4cae1ea8a49f628f2",
+      "Crc32": "a91c50be",
+      "SetNames": {
+        "TOSEC": [
+          "Tower of Hanoi (19xx)(-)[chain]"
+        ],
+        "MESS": [
+          "hanoi"
+        ]
+      },
+      "Size": 4108,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Zac Banic"
+      ],
+      "Sha1": "463bdea30de9e67db98f7c2a2c5bb7e3799ef96d",
+      "Crc32": "05026a99",
+      "SetNames": {
+        "TOSEC": [
+          "Zac Banic (19xx)(-)[tape]"
+        ],
+        "MESS": [
+          "zacbanic"
+        ]
+      },
+      "Size": 4746,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Chase"
+      ],
+      "Sha1": "54b3dd008d067c6498220409fdddf352be168acd",
+      "Crc32": "f034ea14",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Chase (2018-07-19)(Caruso, Fabrizio)[full]"
+        ]
+      },
+      "Size": 4741110,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "7/19/2018",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Chase"
+      ],
+      "Sha1": "55302a4d9b4c2ffac9f58c54e342cf743431a230",
+      "Crc32": "f2085134",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Chase (2018-07-19)(Caruso, Fabrizio)[tiny]"
+        ]
+      },
+      "Size": 2680647,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "7/19/2018",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Chase"
+      ],
+      "Sha1": "3925c24e6286df77c7034bcfbf18cfaae36d0a83",
+      "Crc32": "c7d5be00",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Chase (2018-08-04)(Caruso, Fabrizio)[full][UDG]"
+        ]
+      },
+      "Size": 4535991,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "8/4/2018",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Chase"
+      ],
+      "Sha1": "76607a6da5079dc73b2da553a4ff71258e50512c",
+      "Crc32": "e771aa3b",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Chase (2018-08-04)(Caruso, Fabrizio)[tiny]"
+        ]
+      },
+      "Size": 2678715,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "8/4/2018",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Chase"
+      ],
+      "Sha1": "7e119c08ca4076a3172ce9c325cb9d2ea4e93763",
+      "Crc32": "730a3af3",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Chase (2018-10-29)(Caruso, Fabrizio)[full][UDG]"
+        ]
+      },
+      "Size": 4484236,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "10/29/2018",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Chase"
+      ],
+      "Sha1": "d5b61f6596775f73c85831ebbc8e98095fde3c3f",
+      "Crc32": "78bc0679",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Chase (2018-10-29)(Caruso, Fabrizio)[tiny]"
+        ]
+      },
+      "Size": 2689915,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "10/29/2018",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Chase"
+      ],
+      "Sha1": "f2136a4d167c7ab60065aab267a7e3504812e710",
+      "Crc32": "f965b9e7",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Chase (2020-04-02)(Caruso, Fabrizio)[UDG]"
+        ]
+      },
+      "Size": 4363240,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "4/2/2020",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Chase"
+      ],
+      "Sha1": "cd76645d767be965f67024fdbdb9e9efbe3cef31",
+      "Crc32": "7a1a63e3",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Chase (2021-05-13)(Caruso, Fabrizio)"
+        ]
+      },
+      "Size": 4045385,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "5/13/2021",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Solar System Forces"
+      ],
+      "Sha1": "c057b7d7b964ee3cef516a1f60692e431dce1616",
+      "Crc32": "07b4e0e1",
+      "SetNames": {
+        "TOSEC": [
+          "Solar System Forces (19xx)(-)[Req BASIC-G]"
+        ],
+        "MESS": [
+          "ssf"
+        ]
+      },
+      "Size": 17882692,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Solar System Forces - Commando Team"
+      ],
+      "Sha1": "cb699eaf40c46a3fb61bdf4cd0faa902e8778abb",
+      "Crc32": "fb402872",
+      "SetNames": {
+        "TOSEC": [
+          "Solar System Forces - Commando Team (19xx)(-)[Req BASIC-G]"
+        ],
+        "MESS": [
+          "ssfcm"
+        ]
+      },
+      "Size": 7273520,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Solar System Forces - Operation Maul"
+      ],
+      "Sha1": "baee461d2fde0941eb0c7a5963c5340c32212d76",
+      "Crc32": "389b82e5",
+      "SetNames": {
+        "TOSEC": [
+          "Solar System Forces - Operation Maul (19xx)(-)[Req BASIC-G]"
+        ],
+        "MESS": [
+          "ssfom"
+        ]
+      },
+      "Size": 7348024,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Solar System Forces - Victory of Mars"
+      ],
+      "Sha1": "2a266117198bf9290d831941dba7e419e745ccce",
+      "Crc32": "c711f2bb",
+      "SetNames": {
+        "TOSEC": [
+          "Solar System Forces - Victory of Mars (19xx)(-)[Req BASIC-G]"
+        ],
+        "MESS": [
+          "ssfvm"
+        ]
+      },
+      "Size": 7731210,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    }
+  ],
+  "Overviews": {}
+}

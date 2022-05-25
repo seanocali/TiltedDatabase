@@ -1,0 +1,1041 @@
+{
+  "PlatformName": "PV-1000",
+  "LastUpdate": "5/25/2022 3:06:12 AM",
+  "Games": [
+    {
+      "Titles": [
+        "Amidar"
+      ],
+      "Sha1": "00322d4025fef19728194442f9e06a4cccd01933",
+      "Crc32": "c82628cc",
+      "SetNames": {
+        "No-Intro": [
+          "Amidar (Japan)"
+        ],
+        "MESS": [
+          "amidar"
+        ],
+        "TGDB": [
+          "81393"
+        ]
+      },
+      "OverviewId": 1,
+      "Size": 8192,
+      "Publishers": [
+        "Casio",
+        "Stern Electronics, Inc."
+      ],
+      "Developers": [
+        "Konami"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Genres": [
+        "Action"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Excite Mahjong"
+      ],
+      "Sha1": "6cc9e5d234bc1b483108ae4dc79d644802a64ef0",
+      "Crc32": "0d2f829c",
+      "SetNames": {
+        "No-Intro": [
+          "Excite Mahjong (Japan)"
+        ],
+        "MESS": [
+          "excitemj"
+        ],
+        "TGDB": [
+          "81394"
+        ]
+      },
+      "OverviewId": 2,
+      "Size": 16384,
+      "Publishers": [
+        "Casio",
+        "Casio Co. Ltd."
+      ],
+      "Developers": [
+        "Casio"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Genres": [
+        "Strategy"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Pachinko-UFO",
+        "Pachinko - UFO"
+      ],
+      "Sha1": "d6ca45430a34ce0090ba882ade5a2268a862d4f4",
+      "Crc32": "9ee981ab",
+      "SetNames": {
+        "No-Intro": [
+          "Pachinko-UFO (Japan)"
+        ],
+        "MESS": [
+          "pachiufo"
+        ],
+        "TGDB": [
+          "62195"
+        ]
+      },
+      "OverviewId": 3,
+      "Size": 16384,
+      "Publishers": [
+        "Casio",
+        "Casio Co. Ltd."
+      ],
+      "Developers": [
+        "Casio"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Genres": [
+        "Action"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Pooyan"
+      ],
+      "Sha1": "606b7d603da23e70012b361d7ffb53ea026f88f5",
+      "Crc32": "bd6edc48",
+      "SetNames": {
+        "No-Intro": [
+          "Pooyan (Japan)"
+        ],
+        "MESS": [
+          "pooyan"
+        ],
+        "TGDB": [
+          "81397"
+        ]
+      },
+      "OverviewId": 4,
+      "Size": 8192,
+      "Publishers": [
+        "Casio",
+        "Casio Co. Ltd."
+      ],
+      "Developers": [
+        "Konami"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Genres": [
+        "Shooter"
+      ],
+      "Regions": [
+        "JP"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Super Cobra"
+      ],
+      "Sha1": "9e748050ccb0fa948b06346d241dfcd11868e8e2",
+      "Crc32": "cdffc2cd",
+      "SetNames": {
+        "No-Intro": [
+          "Super Cobra (Japan)"
+        ],
+        "MESS": [
+          "scobra"
+        ],
+        "TGDB": [
+          "81399"
+        ]
+      },
+      "OverviewId": 5,
+      "Size": 8192,
+      "Publishers": [
+        "Casio",
+        "Casio Co. Ltd."
+      ],
+      "Developers": [
+        "Konami"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Genres": [
+        "Action"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Ahorcado v1.1"
+      ],
+      "Sha1": "6d889ca6e9ed3ac834980cb2ab8354f0b0080a3d",
+      "Crc32": "f0beaa22",
+      "SetNames": {
+        "TOSEC": [
+          "Ahorcado v1.1 (1997)(Calderon, Ricardo)(es)"
+        ]
+      },
+      "Size": 1605,
+      "Publishers": [
+        "Calderon, Ricardo"
+      ],
+      "ReleaseDate": "1/1/1997",
+      "Languages": [
+        "es",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Clear v0.04"
+      ],
+      "Sha1": "226bf4db2ccc8818ef8f55f79ad66853663849f8",
+      "Crc32": "0cc60f72",
+      "SetNames": {
+        "TOSEC": [
+          "Clear v0.04 (2003)(Blue)"
+        ]
+      },
+      "Size": 6556,
+      "Publishers": [
+        "Blue"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Clear v0.04"
+      ],
+      "Sha1": "1af87877a02c84d9cf50e99c89abcc68c693ef43",
+      "Crc32": "6b741ad7",
+      "SetNames": {
+        "TOSEC": [
+          "Clear v0.04 (2003)(Blue)"
+        ]
+      },
+      "Size": 6556,
+      "Publishers": [
+        "Blue"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Clear v0.04"
+      ],
+      "Sha1": "66511a45726affb0bc26fea08ffa3e6fcc674a65",
+      "Crc32": "2bc85ab6",
+      "SetNames": {
+        "TOSEC": [
+          "Clear v0.04 (2003)(Blue)"
+        ]
+      },
+      "Size": 6556,
+      "Publishers": [
+        "Blue"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Hyper Battle Extra Z"
+      ],
+      "Sha1": "cd14f04f1f619ed5384134c56f49ba61cd4754e3",
+      "Crc32": "c59b8c67",
+      "SetNames": {
+        "TOSEC": [
+          "Hyper Battle Extra Z (1992)(Amano, Jun)"
+        ]
+      },
+      "Size": 65522,
+      "Publishers": [
+        "Amano, Jun"
+      ],
+      "ReleaseDate": "1/1/1992",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Hyper Battle Extra Z"
+      ],
+      "Sha1": "e9fe929e606de97d8587dd716531b6f6a9856617",
+      "Crc32": "9d5cfb75",
+      "SetNames": {
+        "TOSEC": [
+          "Hyper Battle Extra Z (1992)(Amano, Jun)"
+        ]
+      },
+      "Size": 65522,
+      "Publishers": [
+        "Amano, Jun"
+      ],
+      "ReleaseDate": "1/1/1992",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Hyper Battle Extra Z"
+      ],
+      "Sha1": "c08919313ee7aea20d70146abfc98356759094b6",
+      "Crc32": "2337c60a",
+      "SetNames": {
+        "TOSEC": [
+          "Hyper Battle Extra Z (1992)(Amano, Jun)"
+        ]
+      },
+      "Size": 65522,
+      "Publishers": [
+        "Amano, Jun"
+      ],
+      "ReleaseDate": "1/1/1992",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Hyper Battle Extra Z",
+        "Kusanagi Sword",
+        "Space Ship 1000C"
+      ],
+      "Sha1": "d9a217320f8874afbe164063f041ac19b1ccca2e",
+      "Crc32": "225029ec",
+      "SetNames": {
+        "TOSEC": [
+          "Hyper Battle Extra Z (1992)(Amano, Jun)",
+          "Kusanagi Sword (1990)(Amano, Jun - Amano, Takemi)",
+          "Space Ship 1000C (1990)(Amano, Jun)"
+        ]
+      },
+      "Size": 65522,
+      "Publishers": [
+        "Amano, Jun",
+        "Amano, Jun - Amano, Takemi"
+      ],
+      "ReleaseDate": "1/1/1992",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Hyper Battle Extra Z"
+      ],
+      "Sha1": "1c08693ee12f72779b1fa999b2d0b0bd722f25d1",
+      "Crc32": "108fbccc",
+      "SetNames": {
+        "TOSEC": [
+          "Hyper Battle Extra Z (1992)(Amano, Jun)"
+        ]
+      },
+      "Size": 65522,
+      "Publishers": [
+        "Amano, Jun"
+      ],
+      "ReleaseDate": "1/1/1992",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Hyper Battle Extra Z"
+      ],
+      "Sha1": "4f63cd9c002dd5adee83184beb9080a67a1b2c38",
+      "Crc32": "5102ebb8",
+      "SetNames": {
+        "TOSEC": [
+          "Hyper Battle Extra Z (1992)(Amano, Jun)"
+        ]
+      },
+      "Size": 65522,
+      "Publishers": [
+        "Amano, Jun"
+      ],
+      "ReleaseDate": "1/1/1992",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Hyper-GX' v2.1"
+      ],
+      "Sha1": "f96f314467a31d61176187b1260327c8ed029b17",
+      "Crc32": "751bea79",
+      "SetNames": {
+        "TOSEC": [
+          "Hyper-GX' v2.1 (2003)(Blue)"
+        ]
+      },
+      "Size": 91456,
+      "Publishers": [
+        "Blue"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Hyper-GX' v2.1"
+      ],
+      "Sha1": "b3084de4177c1c136721001bf001de9e79a27076",
+      "Crc32": "426a4d1a",
+      "SetNames": {
+        "TOSEC": [
+          "Hyper-GX' v2.1 (2003)(Blue)"
+        ]
+      },
+      "Size": 91456,
+      "Publishers": [
+        "Blue"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Hyper-GX' v2.1"
+      ],
+      "Sha1": "9ef5d1099097471a4ed16236b41a4906633b2dee",
+      "Crc32": "d6ae97f4",
+      "SetNames": {
+        "TOSEC": [
+          "Hyper-GX' v2.1 (2003)(Blue)"
+        ]
+      },
+      "Size": 91456,
+      "Publishers": [
+        "Blue"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Hyper-GX' v2.1"
+      ],
+      "Sha1": "b335c77821a8f75ed0ccaf30cc75be9679e7ca73",
+      "Crc32": "e807ee01",
+      "SetNames": {
+        "TOSEC": [
+          "Hyper-GX' v2.1 (2003)(Blue)"
+        ]
+      },
+      "Size": 91456,
+      "Publishers": [
+        "Blue"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Hyper-GX' v2.1"
+      ],
+      "Sha1": "c5da2def9eeaef682dbca08282dbe785128dedd5",
+      "Crc32": "269edd79",
+      "SetNames": {
+        "TOSEC": [
+          "Hyper-GX' v2.1 (2003)(Blue)"
+        ]
+      },
+      "Size": 91456,
+      "Publishers": [
+        "Blue"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Hyper-GX' v2.1"
+      ],
+      "Sha1": "d780311e502a5f23316a17380ed0f6e61d2b9952",
+      "Crc32": "c3a0373d",
+      "SetNames": {
+        "TOSEC": [
+          "Hyper-GX' v2.1 (2003)(Blue)"
+        ]
+      },
+      "Size": 91456,
+      "Publishers": [
+        "Blue"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Hyper-GX' v2.1"
+      ],
+      "Sha1": "906c4da21a2cad39509536fae8365c35ddab66f5",
+      "Crc32": "29f6cf48",
+      "SetNames": {
+        "TOSEC": [
+          "Hyper-GX' v2.1 (2003)(Blue)"
+        ]
+      },
+      "Size": 91456,
+      "Publishers": [
+        "Blue"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Hyper-GX' v2.1"
+      ],
+      "Sha1": "3f00df949fb1f3836873eb9094d90344c94f9d7a",
+      "Crc32": "1f3d221a",
+      "SetNames": {
+        "TOSEC": [
+          "Hyper-GX' v2.1 (2003)(Blue)"
+        ]
+      },
+      "Size": 91456,
+      "Publishers": [
+        "Blue"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Hyper-GX' v2.1"
+      ],
+      "Sha1": "d73799206b2b66bacbdbdb31f016f93e4e56f021",
+      "Crc32": "bfbed623",
+      "SetNames": {
+        "TOSEC": [
+          "Hyper-GX' v2.1 (2003)(Blue)"
+        ]
+      },
+      "Size": 91456,
+      "Publishers": [
+        "Blue"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Hyper-GX' v2.1"
+      ],
+      "Sha1": "4d2ba20cd70f8e6c194c6647308e4c4895b6aab3",
+      "Crc32": "469de29f",
+      "SetNames": {
+        "TOSEC": [
+          "Hyper-GX' v2.1 (2003)(Blue)"
+        ]
+      },
+      "Size": 91456,
+      "Publishers": [
+        "Blue"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Hyper-GX' v2.1"
+      ],
+      "Sha1": "925ce53c54c4585e53d50f93c38a86bde0fced37",
+      "Crc32": "ef830e7d",
+      "SetNames": {
+        "TOSEC": [
+          "Hyper-GX' v2.1 (2003)(Blue)"
+        ]
+      },
+      "Size": 91456,
+      "Publishers": [
+        "Blue"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Hyper-GX' v2.1"
+      ],
+      "Sha1": "8ca51739f1718cab3d2727bcb99d633235fdfb56",
+      "Crc32": "07393b55",
+      "SetNames": {
+        "TOSEC": [
+          "Hyper-GX' v2.1 (2003)(Blue)"
+        ]
+      },
+      "Size": 91456,
+      "Publishers": [
+        "Blue"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Hyper-GX' v2.1"
+      ],
+      "Sha1": "d62f2268f797f83f9b4dfd89f3e95e72a35d8251",
+      "Crc32": "656c244d",
+      "SetNames": {
+        "TOSEC": [
+          "Hyper-GX' v2.1 (2003)(Blue)"
+        ]
+      },
+      "Size": 91456,
+      "Publishers": [
+        "Blue"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Hyper-GX' v2.1"
+      ],
+      "Sha1": "00ab59bb79ec9f6caa087540227b8a05f1915751",
+      "Crc32": "56205c1c",
+      "SetNames": {
+        "TOSEC": [
+          "Hyper-GX' v2.1 (2003)(Blue)"
+        ]
+      },
+      "Size": 91456,
+      "Publishers": [
+        "Blue"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Hyper-GX' v2.1"
+      ],
+      "Sha1": "a444a8dc52abbb8793e8b201b7bd7e7175150401",
+      "Crc32": "4509df41",
+      "SetNames": {
+        "TOSEC": [
+          "Hyper-GX' v2.1 (2003)(Blue)"
+        ]
+      },
+      "Size": 91456,
+      "Publishers": [
+        "Blue"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Hyper-GX' v2.1"
+      ],
+      "Sha1": "a17ff153b0246da206424c63b9d7b9ee2dbede0e",
+      "Crc32": "06a8865f",
+      "SetNames": {
+        "TOSEC": [
+          "Hyper-GX' v2.1 (2003)(Blue)"
+        ]
+      },
+      "Size": 91456,
+      "Publishers": [
+        "Blue"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Hyper-GX' v2.1"
+      ],
+      "Sha1": "4753d52eb825a6b76726b9a9b8e8dacaea6465dc",
+      "Crc32": "b3c50961",
+      "SetNames": {
+        "TOSEC": [
+          "Hyper-GX' v2.1 (2003)(Blue)"
+        ]
+      },
+      "Size": 91456,
+      "Publishers": [
+        "Blue"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Kusanagi Sword"
+      ],
+      "Sha1": "427efed13481b127ebe5f4b54f642e9579ee8c99",
+      "Crc32": "e21c62fa",
+      "SetNames": {
+        "TOSEC": [
+          "Kusanagi Sword (1990)(Amano, Jun - Amano, Takemi)"
+        ]
+      },
+      "Size": 41683,
+      "Publishers": [
+        "Amano, Jun - Amano, Takemi"
+      ],
+      "ReleaseDate": "1/1/1990",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Kusanagi Sword"
+      ],
+      "Sha1": "e4806dc4b12ff8e180bf7afe662accf18cdfa929",
+      "Crc32": "19b1eb15",
+      "SetNames": {
+        "TOSEC": [
+          "Kusanagi Sword (1990)(Amano, Jun - Amano, Takemi)"
+        ]
+      },
+      "Size": 41683,
+      "Publishers": [
+        "Amano, Jun - Amano, Takemi"
+      ],
+      "ReleaseDate": "1/1/1990",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Kusanagi Sword"
+      ],
+      "Sha1": "68abb4c5cf1d63c3d94d0f8174f6df547209bfad",
+      "Crc32": "d7ec5ce4",
+      "SetNames": {
+        "TOSEC": [
+          "Kusanagi Sword (1990)(Amano, Jun - Amano, Takemi)"
+        ]
+      },
+      "Size": 41683,
+      "Publishers": [
+        "Amano, Jun - Amano, Takemi"
+      ],
+      "ReleaseDate": "1/1/1990",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Kusanagi Sword"
+      ],
+      "Sha1": "5f614b37252fbd1cf2f1a0b9f230ec7b09a39cbf",
+      "Crc32": "1d0cb368",
+      "SetNames": {
+        "TOSEC": [
+          "Kusanagi Sword (1990)(Amano, Jun - Amano, Takemi)"
+        ]
+      },
+      "Size": 41683,
+      "Publishers": [
+        "Amano, Jun - Amano, Takemi"
+      ],
+      "ReleaseDate": "1/1/1990",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Space Ship 1000C"
+      ],
+      "Sha1": "fd6cf83636a215704657bcde54f9da471abc77e0",
+      "Crc32": "365a1a0d",
+      "SetNames": {
+        "TOSEC": [
+          "Space Ship 1000C (1990)(Amano, Jun)"
+        ]
+      },
+      "Size": 21497,
+      "Publishers": [
+        "Amano, Jun"
+      ],
+      "ReleaseDate": "1/1/1990",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Space Ship 1000C"
+      ],
+      "Sha1": "7faa3d036cd0fd0916cabef34f8008ffe721f440",
+      "Crc32": "df5bb140",
+      "SetNames": {
+        "TOSEC": [
+          "Space Ship 1000C (1990)(Amano, Jun)"
+        ]
+      },
+      "Size": 21497,
+      "Publishers": [
+        "Amano, Jun"
+      ],
+      "ReleaseDate": "1/1/1990",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Space Ship 1000C"
+      ],
+      "Sha1": "04e18d4b31f3426286fd6ca5aa9c74bd03578f33",
+      "Crc32": "9aca96d5",
+      "SetNames": {
+        "TOSEC": [
+          "Space Ship 1000C (1990)(Amano, Jun)"
+        ]
+      },
+      "Size": 21497,
+      "Publishers": [
+        "Amano, Jun"
+      ],
+      "ReleaseDate": "1/1/1990",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Space Ship 1000C"
+      ],
+      "Sha1": "234ebcdf74bd55edf7bbcab76a2f350b21700ec4",
+      "Crc32": "745e9ad5",
+      "SetNames": {
+        "TOSEC": [
+          "Space Ship 1000C (1990)(Amano, Jun)"
+        ]
+      },
+      "Size": 21497,
+      "Publishers": [
+        "Amano, Jun"
+      ],
+      "ReleaseDate": "1/1/1990",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Space Ship 1000C"
+      ],
+      "Sha1": "e9156df47f0b0f8cd1d2f3db29d89f23f9d5ce3d",
+      "Crc32": "3538ef44",
+      "SetNames": {
+        "TOSEC": [
+          "Space Ship 1000C (1990)(Amano, Jun)"
+        ]
+      },
+      "Size": 21497,
+      "Publishers": [
+        "Amano, Jun"
+      ],
+      "ReleaseDate": "1/1/1990",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Space Ship 1000C"
+      ],
+      "Sha1": "e1db5bd3beec6b7157780b8c7eabb2b21091ee33",
+      "Crc32": "fb70d765",
+      "SetNames": {
+        "TOSEC": [
+          "Space Ship 1000C (1990)(Amano, Jun)"
+        ]
+      },
+      "Size": 21497,
+      "Publishers": [
+        "Amano, Jun"
+      ],
+      "ReleaseDate": "1/1/1990",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Space Ship 1000C"
+      ],
+      "Sha1": "82e246a8c295c3aec07c4d68d3186547b6942350",
+      "Crc32": "dab53c36",
+      "SetNames": {
+        "TOSEC": [
+          "Space Ship 1000C (1990)(Amano, Jun)"
+        ]
+      },
+      "Size": 21497,
+      "Publishers": [
+        "Amano, Jun"
+      ],
+      "ReleaseDate": "1/1/1990",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Space Ship 1000C"
+      ],
+      "Sha1": "45a2ae550e5e60daa360a7f3844d10908a4a85e3",
+      "Crc32": "f8d3779b",
+      "SetNames": {
+        "TOSEC": [
+          "Space Ship 1000C (1990)(Amano, Jun)"
+        ]
+      },
+      "Size": 21497,
+      "Publishers": [
+        "Amano, Jun"
+      ],
+      "ReleaseDate": "1/1/1990",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Space Ship 1000C"
+      ],
+      "Sha1": "1dc988dea6500f5ecfd811e4fa1c3f280a2ee7be",
+      "Crc32": "4880ff8c",
+      "SetNames": {
+        "TOSEC": [
+          "Space Ship 1000C (1990)(Amano, Jun)"
+        ]
+      },
+      "Size": 21497,
+      "Publishers": [
+        "Amano, Jun"
+      ],
+      "ReleaseDate": "1/1/1990",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Space Ship 1000C"
+      ],
+      "Sha1": "c04f8f249cddba60cab53f390b00dcbb5653076e",
+      "Crc32": "3a553cf1",
+      "SetNames": {
+        "TOSEC": [
+          "Space Ship 1000C (1990)(Amano, Jun)"
+        ]
+      },
+      "Size": 21497,
+      "Publishers": [
+        "Amano, Jun"
+      ],
+      "ReleaseDate": "1/1/1990",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Undead Knight"
+      ],
+      "Sha1": "93ea338e0c85bb79c622cff2b776aa5b31169468",
+      "Crc32": "0db578f7",
+      "SetNames": {
+        "TOSEC": [
+          "Undead Knight (1989)(Amano, Jun)"
+        ]
+      },
+      "Size": 31062,
+      "Publishers": [
+        "Amano, Jun"
+      ],
+      "ReleaseDate": "1/1/1989",
+      "Languages": [
+        "en"
+      ]
+    }
+  ],
+  "Overviews": {
+    "1": {
+      "en": "Amidar is an arcade game programmed by Konami and published in 1981 by Stern. Its basic format is similar to that of Pac-Man: the player moves around a fixed rectilinear lattice, attempting to visit each location on the board while avoiding the enemies. When each spot has been visited, the player moves to the next level."
+    },
+    "2": {
+      "en": "Excite Mahjong is a Strategy game from Casio Computer Co., Ltd.."
+    },
+    "3": {
+      "en": "Pachinko UFO is a simulator of the popular Japanese gambling pastime of pachinko with added computerised action elements. The main screen resembles a typical pachinko unit with pins for balls to bounce on, spinners for balls to put in motion, and baskets for them to land in. The baskets open and close, and so does the big feature in the middle of the screen, an airplane or spaceship with an integrated fruit-machine like counter. When a score specified by the counters is reached, the game changes to a shooter sequence, where the pachinko balls must be used to shoot down aliens. After that, the game continues to the next table. The control mechanism is similar to golf games, in that the longer you press the button, the more power is given to the ball ejection mechanism. This makes for an experience unlike a real pachinko machine, where the perfect power of the ejector is reached by setting a dial at the right angle, after which it can be locked at that angle. In Pachinko UFO, you must hit a perfect timing instead."
+    },
+    "4": {
+      "en": "\t\r\nIn Pooyan, you play the role of a pig, protecting its piglets from wolves. The first screen takes place near the pigs' home. Mrs. Pig rides up and down in a cable car, shooting at wolves, who are riding balloons downward, towards the ground. If the wolves land safely on the ground, then they can climb a ladder, near the cable-car, and catch Mrs. Pig. But if she shoots their balloons, they splat on the ground instead. The wolves shoot acorns at the pig. But Mrs. Pig has a food based weapon too. If she gets to the top, she can get meat, to toss at the wolves and make them jump off their balloons in pursuit. Each wolf taken out this way is worth bonus points (on a doubling scheme: 400, 800 1600...) The second scene takes place at the wolves lair. Here the wolves have reinforced balloons--it takes multiple hits to make them fall. Here they float upwards toward a big rock, which they push on top of Mrs. Pig, when seven wolves are present. Additionally, an alpha wolf (wolf leader) appears and summons wolves in packs."
+    },
+    "5": {
+      "en": "Super Cobra is a side-scrolling shooter based on the arcade game. You're a chopper pilot on a surveillance mission in enemy territory; your goal is to make it through the various obstacle courses alive and score as many points as possible. Tall buildings, mountains, narrow tunnels, and various enemies (such as tanks, rockets, mines, and more) can all get in the way and destroy your chopper if you aren't careful. To help defend yourself, the chopper is armed with a machine gun and bombs which can be used to destroy the enemy tanks and rockets. To make the task more difficult, your chopper has a limited amount of fuel. Throughout the landscapes are fuel tanks; if one of these is shot or bombed, you will be awarded extra fuel. As the levels progress, the enemies become more aggressive, fuel becomes more scarce, and the landscape becomes trickier to navigate."
+    }
+  }
+}

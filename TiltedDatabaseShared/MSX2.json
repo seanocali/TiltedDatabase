@@ -1,0 +1,5772 @@
+{
+  "PlatformName": "MSX2",
+  "LastUpdate": "5/25/2022 3:02:09 AM",
+  "Games": [
+    {
+      "Titles": [
+        "[BIOS] Kanji ROM - JIS 1st+2nd Class"
+      ],
+      "Sha1": "f4dba5ba267b5dd1a35eb74a6ec4fd4d5ca9a1b4",
+      "Crc32": "17e58926",
+      "SetNames": {
+        "No-Intro": [
+          "[BIOS] Kanji ROM - JIS 1st+2nd Class (Japan)"
+        ]
+      },
+      "Size": 262144,
+      "Regions": [
+        "JP"
+      ],
+      "Tags": [
+        "BIOS"
+      ]
+    },
+    {
+      "Titles": [
+        "1942",
+        "いちきゅうよんにー"
+      ],
+      "Sha1": "c9135b1e451193bd4c06d8143eaca934cc89fe05",
+      "Crc32": "c99e5601",
+      "SetNames": {
+        "No-Intro": [
+          "1942 (Japan)"
+        ],
+        "TGDB": [
+          "33782"
+        ]
+      },
+      "OverviewId": 1,
+      "Size": 131072,
+      "Publishers": [
+        "ASCII Entertainment Software, Inc."
+      ],
+      "Developers": [
+        "Capcom"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Genres": [
+        "Shooter"
+      ],
+      "Regions": [
+        "JP"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "A Ressha de Ikou MSX",
+        "A Ressha de Ikou - Take the A Train."
+      ],
+      "Sha1": "5fd07ed5b7c0492d42ed91a54a0fe80ce6e4e40d",
+      "Crc32": "c956e1df",
+      "SetNames": {
+        "No-Intro": [
+          "A Ressha de Ikou MSX (Japan)"
+        ],
+        "MESS": [
+          "aressha"
+        ]
+      },
+      "Size": 131072,
+      "Publishers": [
+        "Pony Canyon"
+      ],
+      "ReleaseDate": "1/1/1989",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "AcroJet"
+      ],
+      "Sha1": "1f17e46190635a3214057d33ad4a768939d5a071",
+      "Crc32": "d2ee4051",
+      "SetNames": {
+        "No-Intro": [
+          "AcroJet (Japan)"
+        ],
+        "TGDB": [
+          "33859"
+        ]
+      },
+      "OverviewId": 2,
+      "Size": 131072,
+      "Publishers": [
+        "SystemSoft"
+      ],
+      "Developers": [
+        "MicroProse Software, Inc."
+      ],
+      "ReleaseDate": "1/1/1988",
+      "Genres": [
+        "Flight Simulator"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Aleste",
+        "アレスタ"
+      ],
+      "Sha1": "12f6f31f495bfb384c9ca9067bfbf8f98af6adf9",
+      "Crc32": "c29edd84",
+      "SetNames": {
+        "No-Intro": [
+          "Aleste (Japan)"
+        ],
+        "MESS": [
+          "aleste"
+        ],
+        "TGDB": [
+          "26945"
+        ]
+      },
+      "OverviewId": 3,
+      "Size": 262144,
+      "Publishers": [
+        "Compile"
+      ],
+      "Developers": [
+        "Compile"
+      ],
+      "ReleaseDate": "2/29/1988",
+      "Genres": [
+        "Shooter"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Alges no Yoku"
+      ],
+      "Sha1": "a8059dc1820b461418713acf2af14f3a25734bd3",
+      "Crc32": "225705cc",
+      "SetNames": {
+        "No-Intro": [
+          "Alges no Yoku (Japan)"
+        ]
+      },
+      "Size": 262144,
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "American Soccer",
+        "アメリカンサッカー"
+      ],
+      "Sha1": "1545566bd7decb1612009daa2daa71758fa6e4a1",
+      "Crc32": "bcf03d8b",
+      "SetNames": {
+        "No-Intro": [
+          "American Soccer (Japan)"
+        ],
+        "TGDB": [
+          "36746"
+        ]
+      },
+      "Size": 65536,
+      "Publishers": [
+        "Nidecom Soft"
+      ],
+      "Developers": [
+        "Colpax",
+        "NIPPON COLUMBIA",
+        "Universal"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Genres": [
+        "Sports"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Aoki Ookami to Shiroki Mejika - Genchou Hishi"
+      ],
+      "Sha1": "74d1c7f66242335c736da29413037bd23384efaa",
+      "Crc32": "075ab646",
+      "SetNames": {
+        "No-Intro": [
+          "Aoki Ookami to Shiroki Mejika - Genchou Hishi (Japan)"
+        ]
+      },
+      "Size": 1048576,
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Aoki Ookami to Shiroki Mejika - Genghis Khan"
+      ],
+      "Sha1": "8a4bcf0f38c9f243443a4d4865278f695bd83dc8",
+      "Crc32": "3b5b3fd8",
+      "SetNames": {
+        "No-Intro": [
+          "Aoki Ookami to Shiroki Mejika - Genghis Khan (Japan)"
+        ],
+        "MESS": [
+          "genghis"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Koei"
+      ],
+      "ReleaseDate": "1/1/1988",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Arctic - Active Rail Playing"
+      ],
+      "Sha1": "9c89215dd36eded769691708eb8c82dec1ce5109",
+      "Crc32": "614554c4",
+      "SetNames": {
+        "No-Intro": [
+          "Arctic - Active Rail Playing (Japan) (Alt 1)"
+        ]
+      },
+      "Size": 131072,
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Arctic - Active Rail Playing"
+      ],
+      "Sha1": "e8e416977f5dae3635362c513bba004ea89a0bf4",
+      "Crc32": "ae3167ee",
+      "SetNames": {
+        "No-Intro": [
+          "Arctic - Active Rail Playing (Japan)"
+        ]
+      },
+      "Size": 131072,
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Arkanoid II - Revenge of Doh",
+        "Arkanoid 2",
+        "Arkanoid II: Revenge Of Doh",
+        "Arkanoid II",
+        "Arkanoid Revenge Of Doh"
+      ],
+      "Sha1": "1642891b693df616f27431299352e1d7750ac94b",
+      "Crc32": "00d36af6",
+      "SetNames": {
+        "No-Intro": [
+          "Arkanoid II - Revenge of Doh (Japan)"
+        ],
+        "MESS": [
+          "arknoid2"
+        ],
+        "TGDB": [
+          "33864"
+        ]
+      },
+      "OverviewId": 4,
+      "Size": 131072,
+      "Publishers": [
+        "Nidecom",
+        "Taito Corporation"
+      ],
+      "Developers": [
+        "Nidecom"
+      ],
+      "ReleaseDate": "1/1/1988",
+      "ESRB": "E",
+      "Genres": [
+        "Action",
+        "Puzzle"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "AshGuine - Densetsu no Seisenshi",
+        "Densetsu no Seisenshi Ashguine",
+        "AshGuine: Densetsu no Seisenshi",
+        "伝説の聖戦士アシュギーネ"
+      ],
+      "Sha1": "f57b46154cf0711e3f5218e00f67c375d95d1d5d",
+      "Crc32": "3cb34efb",
+      "SetNames": {
+        "No-Intro": [
+          "AshGuine - Densetsu no Seisenshi (Japan)"
+        ],
+        "MESS": [
+          "ashguine"
+        ],
+        "TGDB": [
+          "33839"
+        ]
+      },
+      "OverviewId": 5,
+      "Size": 131072,
+      "Publishers": [
+        "Bit²",
+        "Panasoft"
+      ],
+      "Developers": [
+        "Atari Games"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "AshGuine Story II - Kokuu no Gajou",
+        "Ashguine 2 - Kokuu no Gajou",
+        "AshGuine Story II: Kokuu no Gajou",
+        "Ashguine Story 2: Citadel in the Void",
+        "アシュギーネ虚空の牙城"
+      ],
+      "Sha1": "efdf63f01293251dc593163a42f31556fd042282",
+      "Crc32": "47a82d74",
+      "SetNames": {
+        "No-Intro": [
+          "AshGuine Story II - Kokuu no Gajou (Japan)"
+        ],
+        "MESS": [
+          "ashguin2"
+        ],
+        "TGDB": [
+          "33838"
+        ]
+      },
+      "OverviewId": 6,
+      "Size": 262144,
+      "Publishers": [
+        "Panasoft",
+        "T&E Soft"
+      ],
+      "Developers": [
+        "T&E Soft"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Genres": [
+        "Action",
+        "Role-Playing"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "AshGuine Story III - Fukushuu no Honoo",
+        "Ashguine - Fukushuu no Honoo",
+        "アシュギーネ復讐の炎"
+      ],
+      "Sha1": "6fd90e7573abdb5a7bd6e4e8dc44db80fc163e30",
+      "Crc32": "353382ce",
+      "SetNames": {
+        "No-Intro": [
+          "AshGuine Story III - Fukushuu no Honoo (Japan)"
+        ],
+        "MESS": [
+          "ashguin3"
+        ],
+        "TGDB": [
+          "33840"
+        ]
+      },
+      "OverviewId": 7,
+      "Size": 262144,
+      "Publishers": [
+        "Panasoft",
+        "Micro Cabin"
+      ],
+      "Developers": [
+        "Micro Cabin Co."
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Genres": [
+        "Action",
+        "Role-Playing"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Bubble Bobble",
+        "バブルボブル"
+      ],
+      "Sha1": "c5edd1c74e72ddaeba1027da1e848e2c4fda94f5",
+      "Crc32": "8b73f133",
+      "SetNames": {
+        "No-Intro": [
+          "Bubble Bobble (Japan) (Alt 1)"
+        ],
+        "TGDB": [
+          "35619"
+        ]
+      },
+      "OverviewId": 8,
+      "Size": 131072,
+      "Publishers": [
+        "Taito Corporation"
+      ],
+      "Developers": [
+        "Taito Corporation"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Genres": [
+        "Platform"
+      ],
+      "Regions": [
+        "JP"
+      ],
+      "Tags": [
+        "Co-op"
+      ]
+    },
+    {
+      "Titles": [
+        "Bubble Bobble",
+        "バブルボブル"
+      ],
+      "Sha1": "e73946f1f26589d77926276ca4f9dbee60c53fde",
+      "Crc32": "6524d9fc",
+      "SetNames": {
+        "No-Intro": [
+          "Bubble Bobble (Japan)"
+        ],
+        "MESS": [
+          "bublbobl"
+        ],
+        "TGDB": [
+          "35619"
+        ]
+      },
+      "OverviewId": 8,
+      "Size": 131072,
+      "Publishers": [
+        "Taito",
+        "Taito Corporation"
+      ],
+      "Developers": [
+        "Taito Corporation"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Genres": [
+        "Platform"
+      ],
+      "Regions": [
+        "JP"
+      ],
+      "Tags": [
+        "Co-op"
+      ]
+    },
+    {
+      "Titles": [
+        "Cheese 2"
+      ],
+      "Sha1": "930b4896c1590ebbb74d330447ec36e3feb5cab6",
+      "Crc32": "2ffb49c3",
+      "SetNames": {
+        "No-Intro": [
+          "Cheese 2 (Japan) (Program)"
+        ]
+      },
+      "Size": 32768,
+      "Regions": [
+        "JP"
+      ],
+      "Tags": [
+        "APPLICATION"
+      ]
+    },
+    {
+      "Titles": [
+        "Cockpit, The",
+        "The Cockpit"
+      ],
+      "Sha1": "e36e16acfdfa76fa72b218da2bebc668db39d21e",
+      "Crc32": "5f354e65",
+      "SetNames": {
+        "No-Intro": [
+          "Cockpit, The (Japan)"
+        ],
+        "MESS": [
+          "cockpit"
+        ],
+        "TGDB": [
+          "34125"
+        ]
+      },
+      "OverviewId": 9,
+      "Size": 131072,
+      "Publishers": [
+        "Nidecom",
+        "Taito Corporation"
+      ],
+      "Developers": [
+        "Nidecom"
+      ],
+      "ReleaseDate": "1/1/1988",
+      "Genres": [
+        "Flight Simulator"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Contra"
+      ],
+      "Sha1": "90003c78975d00b1e5612fd00dffabb70d616ecd",
+      "Crc32": "4e82660d",
+      "SetNames": {
+        "No-Intro": [
+          "Contra (Japan)"
+        ],
+        "TGDB": [
+          "31625"
+        ]
+      },
+      "OverviewId": 10,
+      "Size": 131072,
+      "Publishers": [
+        "Konami"
+      ],
+      "Developers": [
+        "Konami"
+      ],
+      "ReleaseDate": "12/20/1989",
+      "Genres": [
+        "Shooter"
+      ],
+      "Regions": [
+        "JP"
+      ],
+      "Tags": [
+        "Co-op"
+      ]
+    },
+    {
+      "Titles": [
+        "Crimson",
+        "クリムゾン"
+      ],
+      "Sha1": "a21adba681956ec35816af673a9d4f6c7743253a",
+      "Crc32": "8528a795",
+      "SetNames": {
+        "No-Intro": [
+          "Crimson (Japan)"
+        ],
+        "MESS": [
+          "crimson"
+        ],
+        "TGDB": [
+          "36747"
+        ]
+      },
+      "OverviewId": 11,
+      "Size": 262144,
+      "Publishers": [
+        "Xtal Soft",
+        "Scap Trust"
+      ],
+      "Developers": [
+        "Xtalsoft"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Genres": [
+        "Role-Playing"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Daikoukai Jidai",
+        "Uncharted Waters"
+      ],
+      "Sha1": "2a4aef32db28c059c30f5f972f1c09708ef6ce62",
+      "Crc32": "ec7a8012",
+      "SetNames": {
+        "No-Intro": [
+          "Daikoukai Jidai (Japan)"
+        ],
+        "MESS": [
+          "daikokai"
+        ],
+        "TGDB": [
+          "34004"
+        ]
+      },
+      "OverviewId": 12,
+      "Size": 524288,
+      "Publishers": [
+        "Koei",
+        "Koei Co., Ltd."
+      ],
+      "Developers": [
+        "Koei"
+      ],
+      "ReleaseDate": "1/1/1990",
+      "Genres": [
+        "Construction And Management Simulation"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Daisenryaku MSX2"
+      ],
+      "Sha1": "10c38f91d8f5db2438414ea58f26dcac78352088",
+      "Crc32": "a987a0d8",
+      "SetNames": {
+        "No-Intro": [
+          "Daisenryaku MSX2 (Japan)"
+        ],
+        "MESS": [
+          "daisenr"
+        ]
+      },
+      "Size": 131072,
+      "Publishers": [
+        "Micro Cabin"
+      ],
+      "ReleaseDate": "1/1/1986",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Darwin 4078",
+        "ダーウィン４０７８"
+      ],
+      "Sha1": "3f072673752badfbd234d6005ddad60a494a9438",
+      "Crc32": "6fb05f43",
+      "SetNames": {
+        "No-Intro": [
+          "Darwin 4078 (Japan) (Alt 2)"
+        ],
+        "TGDB": [
+          "34034"
+        ]
+      },
+      "OverviewId": 13,
+      "Size": 131072,
+      "Publishers": [
+        "Hudson Entertainment, Inc."
+      ],
+      "Developers": [
+        "Hudson Entertainment, Inc."
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Genres": [
+        "Shooter"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Darwin 4078",
+        "ダーウィン４０７８"
+      ],
+      "Sha1": "d4da7236bd09d735dcb92127c73e43b3ca94dd7f",
+      "Crc32": "7098faf0",
+      "SetNames": {
+        "No-Intro": [
+          "Darwin 4078 (Japan)"
+        ],
+        "MESS": [
+          "drwn4078"
+        ],
+        "TGDB": [
+          "34034"
+        ]
+      },
+      "OverviewId": 13,
+      "Size": 131072,
+      "Publishers": [
+        "Hudson Soft",
+        "Hudson Entertainment, Inc."
+      ],
+      "Developers": [
+        "Hudson Entertainment, Inc."
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Genres": [
+        "Shooter"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Darwin 4078",
+        "ダーウィン４０７８"
+      ],
+      "Sha1": "3bb2f9f4be38b5b08da03ee190c39caec30e2f08",
+      "Crc32": "ce86a52f",
+      "SetNames": {
+        "No-Intro": [
+          "Darwin 4078 (Japan) (Alt 1)"
+        ],
+        "TGDB": [
+          "34034"
+        ]
+      },
+      "OverviewId": 13,
+      "Size": 131072,
+      "Publishers": [
+        "Hudson Entertainment, Inc."
+      ],
+      "Developers": [
+        "Hudson Entertainment, Inc."
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Genres": [
+        "Shooter"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Deep Forest",
+        "ディープフォレスト"
+      ],
+      "Sha1": "35c02d8d590d92053f083b0c0c897277a5375af6",
+      "Crc32": "3615e623",
+      "SetNames": {
+        "No-Intro": [
+          "Deep Forest (Japan) (Alt 1)"
+        ],
+        "TGDB": [
+          "36575"
+        ]
+      },
+      "OverviewId": 14,
+      "Size": 131072,
+      "Publishers": [
+        "Xain"
+      ],
+      "Developers": [
+        "Xain Soft"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Genres": [
+        "Role-Playing"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Deep Forest",
+        "ディープフォレスト"
+      ],
+      "Sha1": "fc9adbd816109f7705f342c01f168bb09ca4b2ff",
+      "Crc32": "f221b845",
+      "SetNames": {
+        "No-Intro": [
+          "Deep Forest (Japan)"
+        ],
+        "TGDB": [
+          "36575"
+        ]
+      },
+      "OverviewId": 14,
+      "Size": 131072,
+      "Publishers": [
+        "Xain"
+      ],
+      "Developers": [
+        "Xain Soft"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Genres": [
+        "Role-Playing"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Dires - Giger Loop",
+        "Dires",
+        "Dires: Giger Loop",
+        "ダイレス"
+      ],
+      "Sha1": "1ba6b699b4e34c23ee60db4e58e1265dc03f0b50",
+      "Crc32": "5acbd591",
+      "SetNames": {
+        "No-Intro": [
+          "Dires - Giger Loop (Japan)"
+        ],
+        "MESS": [
+          "dires"
+        ],
+        "TGDB": [
+          "34129"
+        ]
+      },
+      "OverviewId": 15,
+      "Size": 131072,
+      "Publishers": [
+        "Bothtec"
+      ],
+      "Developers": [
+        "Bothtec"
+      ],
+      "ReleaseDate": "1/1/1988",
+      "Genres": [
+        "Action"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Double Vision",
+        "Bishoujo Shashinkan - The Double Vision"
+      ],
+      "Sha1": "87a7fa43602f74c47151e79f1aaf7f641331ba51",
+      "Crc32": "e1148738",
+      "SetNames": {
+        "No-Intro": [
+          "Double Vision (Japan)"
+        ],
+        "MESS": [
+          "doublvis"
+        ]
+      },
+      "Size": 262144,
+      "Publishers": [
+        "Hard"
+      ],
+      "ReleaseDate": "1/1/1988",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Dragon Buster"
+      ],
+      "Sha1": "ecbf33a376a7a108176f8d1009d042e01519241c",
+      "Crc32": "49252882",
+      "SetNames": {
+        "No-Intro": [
+          "Dragon Buster (Japan)"
+        ],
+        "MESS": [
+          "dbuster"
+        ],
+        "TGDB": [
+          "34128"
+        ]
+      },
+      "OverviewId": 16,
+      "Size": 131072,
+      "Publishers": [
+        "Namco"
+      ],
+      "Developers": [
+        "Namco"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Genres": [
+        "Action",
+        "Platform"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Dragon Quest",
+        "ドラゴンクエスト"
+      ],
+      "Sha1": "5577e483caca553cfbfc0cba26f3ab2444569f81",
+      "Crc32": "7729e7a9",
+      "SetNames": {
+        "No-Intro": [
+          "Dragon Quest (Japan)"
+        ],
+        "MESS": [
+          "dquest"
+        ],
+        "TGDB": [
+          "33052"
+        ]
+      },
+      "OverviewId": 17,
+      "Size": 131072,
+      "Publishers": [
+        "enix",
+        "Enix Corporation"
+      ],
+      "Developers": [
+        "Chunsoft"
+      ],
+      "ReleaseDate": "11/1/1986",
+      "Genres": [
+        "Role-Playing"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Dragon Quest II"
+      ],
+      "Sha1": "77fcce7b7c9c915fb0adff059141d4d4307f5a22",
+      "Crc32": "e012ee7a",
+      "SetNames": {
+        "No-Intro": [
+          "Dragon Quest II (Japan) (Alt 1)"
+        ]
+      },
+      "Size": 262144,
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Dragon Quest II",
+        "Dragon Quest II - Akuryou no Kamigami"
+      ],
+      "Sha1": "05280f0a26ac5c42ab63b80a487bb909683e7461",
+      "Crc32": "0bf0c3f5",
+      "SetNames": {
+        "No-Intro": [
+          "Dragon Quest II (Japan)"
+        ],
+        "MESS": [
+          "dquest2"
+        ]
+      },
+      "Size": 262144,
+      "Publishers": [
+        "Enix"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Dragon Slayer IV - Drasle Family",
+        "Dragon Slayer IV: Drasle Family",
+        "ドラゴンスレイヤーIVドラスレファミリー",
+        "Dragon Slayer 4"
+      ],
+      "Sha1": "6d7a8ea1b283ecc1cc94c359e5f053a6e82ab3f5",
+      "Crc32": "98095852",
+      "SetNames": {
+        "No-Intro": [
+          "Dragon Slayer IV - Drasle Family (Japan)"
+        ],
+        "MESS": [
+          "dslayer4"
+        ],
+        "TGDB": [
+          "33938"
+        ]
+      },
+      "OverviewId": 18,
+      "Size": 262144,
+      "Publishers": [
+        "Nihon Falcom",
+        "Nihon Falcom Corp."
+      ],
+      "Developers": [
+        "Nihon Falcom Corp."
+      ],
+      "ReleaseDate": "7/9/1987",
+      "Genres": [
+        "Action",
+        "Role-Playing"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Dragon Slayer IV - Drasle Family",
+        "Dragon Slayer IV: Drasle Family",
+        "ドラゴンスレイヤーIVドラスレファミリー",
+        "Dragon Slayer 4"
+      ],
+      "Sha1": "3f87c3413c8cc2a25e1f64cfdcd01155a13711f0",
+      "Crc32": "53163cbc",
+      "SetNames": {
+        "No-Intro": [
+          "Dragon Slayer IV - Drasle Family (Japan) (Alt 1)"
+        ],
+        "TGDB": [
+          "33938"
+        ]
+      },
+      "OverviewId": 18,
+      "Size": 262144,
+      "Publishers": [
+        "Nihon Falcom Corp."
+      ],
+      "Developers": [
+        "Nihon Falcom Corp."
+      ],
+      "ReleaseDate": "7/9/1987",
+      "Genres": [
+        "Action",
+        "Role-Playing"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Dragon Slayer Jr. - Romancia",
+        "Romancia"
+      ],
+      "Sha1": "b63fc17c1d004ca4d7f3b1ef8962210a779ca665",
+      "Crc32": "17f9ee7f",
+      "SetNames": {
+        "No-Intro": [
+          "Dragon Slayer Jr. - Romancia (Japan)"
+        ],
+        "MESS": [
+          "romancia"
+        ]
+      },
+      "Size": 131072,
+      "Publishers": [
+        "Nihon Falcom"
+      ],
+      "ReleaseDate": "1/1/1986",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Druid",
+        "ドルイド"
+      ],
+      "Sha1": "b11c0ded529af18c29ec46b9e0a795ed0405e7ec",
+      "Crc32": "94982598",
+      "SetNames": {
+        "No-Intro": [
+          "Druid (Japan)"
+        ],
+        "TGDB": [
+          "36580"
+        ]
+      },
+      "OverviewId": 19,
+      "Size": 131072,
+      "Publishers": [
+        "Nippon Dexter Co., Ltd."
+      ],
+      "Developers": [
+        "Nippon Dexter Co."
+      ],
+      "ReleaseDate": "1/1/1988",
+      "Genres": [
+        "Action"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Druid",
+        "ドルイド"
+      ],
+      "Sha1": "af3524caccd33ccb7a5b42b1ce4314d055e01672",
+      "Crc32": "c3242b0a",
+      "SetNames": {
+        "No-Intro": [
+          "Druid (Japan) (Alt 1)"
+        ],
+        "TGDB": [
+          "36580"
+        ]
+      },
+      "OverviewId": 19,
+      "Size": 131072,
+      "Publishers": [
+        "Nippon Dexter Co., Ltd."
+      ],
+      "Developers": [
+        "Nippon Dexter Co."
+      ],
+      "ReleaseDate": "1/1/1988",
+      "Genres": [
+        "Action"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Dynamite Bowl",
+        "ダイナマイトボウル"
+      ],
+      "Sha1": "bd70b00ccb8fafca883c7160585e9c5920cca58f",
+      "Crc32": "9935e9bd",
+      "SetNames": {
+        "No-Intro": [
+          "Dynamite Bowl (Japan)"
+        ],
+        "MESS": [
+          "dynabowl"
+        ],
+        "TGDB": [
+          "26956"
+        ]
+      },
+      "OverviewId": 20,
+      "Size": 131072,
+      "Publishers": [
+        "Toshiba EMI",
+        "Toshiba-EMI Ltd."
+      ],
+      "Developers": [
+        "Softvision"
+      ],
+      "ReleaseDate": "5/27/1987",
+      "Genres": [
+        "Sports"
+      ],
+      "Regions": [
+        "JP"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Dynamite Bowl",
+        "ダイナマイトボウル"
+      ],
+      "Sha1": "a6d285e515ad1e2c15b4352d9b699ebe060b1dba",
+      "Crc32": "a4996aaa",
+      "SetNames": {
+        "No-Intro": [
+          "Dynamite Bowl (Japan) (Alt 1)"
+        ],
+        "TGDB": [
+          "26956"
+        ]
+      },
+      "OverviewId": 20,
+      "Size": 131072,
+      "Publishers": [
+        "Toshiba-EMI Ltd."
+      ],
+      "Developers": [
+        "Softvision"
+      ],
+      "ReleaseDate": "5/27/1987",
+      "Genres": [
+        "Sports"
+      ],
+      "Regions": [
+        "JP"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Eidolon, The",
+        "The Eidolon",
+        "アイドロン"
+      ],
+      "Sha1": "cd8ee800822ff0cd295621faafafc73be4bacad0",
+      "Crc32": "14913432",
+      "SetNames": {
+        "No-Intro": [
+          "Eidolon, The (Europe)"
+        ],
+        "MESS": [
+          "eidolon"
+        ],
+        "TGDB": [
+          "36748"
+        ]
+      },
+      "OverviewId": 21,
+      "Size": 131072,
+      "Publishers": [
+        "PonyCa",
+        "Epyx, Inc."
+      ],
+      "Developers": [
+        "LucasArts Entertainment Company LLC"
+      ],
+      "ReleaseDate": "1/1/1986",
+      "Genres": [
+        "Adventure",
+        "Role-Playing",
+        "Shooter"
+      ],
+      "Regions": [
+        "EU"
+      ]
+    },
+    {
+      "Titles": [
+        "Elthlead"
+      ],
+      "Sha1": "caeca37113c56e696d7053d90f5f9f3e02de8ad1",
+      "Crc32": "a8e9ac9b",
+      "SetNames": {
+        "No-Intro": [
+          "Elthlead (Japan)"
+        ],
+        "TGDB": [
+          "33999"
+        ]
+      },
+      "OverviewId": 22,
+      "Size": 131072,
+      "Publishers": [
+        "NCS Corporation"
+      ],
+      "Developers": [
+        "NCS Corporation"
+      ],
+      "ReleaseDate": "1/1/1988",
+      "Genres": [
+        "Role-Playing",
+        "Strategy"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Empereur, L'",
+        "L'Empereur",
+        "ランペルール"
+      ],
+      "Sha1": "22f5998b4de47bf2ccc077d5881ac448e6b0484d",
+      "Crc32": "c7521809",
+      "SetNames": {
+        "No-Intro": [
+          "Empereur, L' (Japan)"
+        ],
+        "MESS": [
+          "emperor"
+        ],
+        "TGDB": [
+          "36299"
+        ]
+      },
+      "OverviewId": 23,
+      "Size": 524288,
+      "Publishers": [
+        "Koei",
+        "Koei Co., Ltd."
+      ],
+      "Developers": [
+        "Koei"
+      ],
+      "ReleaseDate": "1/1/1990",
+      "Genres": [
+        "Strategy"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Europe Sensen",
+        "Europa Sensen",
+        "Operation Europe: Path to Victory 1939-45",
+        "ヨーロッパ戦線"
+      ],
+      "Sha1": "475c3af7495922759a5f424d2e22d7e4073d5992",
+      "Crc32": "413d4700",
+      "SetNames": {
+        "No-Intro": [
+          "Europe Sensen (Japan)"
+        ],
+        "MESS": [
+          "eurosens"
+        ],
+        "TGDB": [
+          "36302"
+        ]
+      },
+      "OverviewId": 24,
+      "Size": 1048576,
+      "Publishers": [
+        "Koei",
+        "Koei Co., Ltd."
+      ],
+      "Developers": [
+        "Koei"
+      ],
+      "ReleaseDate": "1/1/1992",
+      "Genres": [
+        "Strategy"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "F-15 Strike Eagle"
+      ],
+      "Sha1": "39bc111c953bdf25683db7ff4c0bad79b5c49958",
+      "Crc32": "53cce88d",
+      "SetNames": {
+        "No-Intro": [
+          "F-15 Strike Eagle (Japan)"
+        ],
+        "MESS": [
+          "f15se"
+        ]
+      },
+      "Size": 131072,
+      "Publishers": [
+        "System Soft"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Famicle Parodic",
+        "ファミクルパロディック"
+      ],
+      "Sha1": "f12ad34dc3b4279da0fc7094f3d50d6b8bb517dc",
+      "Crc32": "0e03847b",
+      "SetNames": {
+        "No-Intro": [
+          "Famicle Parodic (Japan)"
+        ],
+        "MESS": [
+          "famiparo"
+        ],
+        "TGDB": [
+          "33998"
+        ]
+      },
+      "OverviewId": 25,
+      "Size": 262144,
+      "Publishers": [
+        "Bit²"
+      ],
+      "Developers": [
+        "Atari Games"
+      ],
+      "ReleaseDate": "1/1/1988",
+      "Genres": [
+        "Shooter"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Family Billiards"
+      ],
+      "Sha1": "924fcf87b3747dae06e621975903ee73c42016f2",
+      "Crc32": "7c867d98",
+      "SetNames": {
+        "No-Intro": [
+          "Family Billiards (Japan)"
+        ],
+        "MESS": [
+          "famibill"
+        ],
+        "TGDB": [
+          "45117"
+        ]
+      },
+      "Size": 65536,
+      "Publishers": [
+        "Pack-In-Video"
+      ],
+      "Developers": [
+        "Pack-In-Video Co., Ltd"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "ESRB": "E",
+      "Genres": [
+        "Sports"
+      ],
+      "Regions": [
+        "JP"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Family Boxing - MSX Title Match",
+        "Family Boxing",
+        "Family Boxing: MSX Title Match",
+        "Ring King",
+        "ファミリーボクシング"
+      ],
+      "Sha1": "d78d763e72e23418f31dc3ce91deea1e8ee10490",
+      "Crc32": "7030f2ab",
+      "SetNames": {
+        "No-Intro": [
+          "Family Boxing - MSX Title Match (Japan)"
+        ],
+        "MESS": [
+          "famiboxi"
+        ],
+        "TGDB": [
+          "34002"
+        ]
+      },
+      "OverviewId": 26,
+      "Size": 262144,
+      "Publishers": [
+        "Sony"
+      ],
+      "Developers": [
+        "Wood Place Inc."
+      ],
+      "ReleaseDate": "1/1/1988",
+      "Genres": [
+        "Sports"
+      ],
+      "Regions": [
+        "JP"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Fantasy Zone II - The Tears of Opa-Opa"
+      ],
+      "Sha1": "1f39c472f1e02511fa7eaaf8ed9fcce4d45861b9",
+      "Crc32": "3459ce01",
+      "SetNames": {
+        "No-Intro": [
+          "Fantasy Zone II - The Tears of Opa-Opa (Japan) (Alt 1)"
+        ]
+      },
+      "Size": 262144,
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Fantasy Zone II - The Tears of Opa-Opa"
+      ],
+      "Sha1": "a58ca651f4c12bf07cf3840d5e37b534f5fc075e",
+      "Crc32": "1bdfaeeb",
+      "SetNames": {
+        "No-Intro": [
+          "Fantasy Zone II - The Tears of Opa-Opa (Japan)"
+        ],
+        "MESS": [
+          "fantzon2"
+        ]
+      },
+      "Size": 262144,
+      "Publishers": [
+        "Pony Canyon"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Final Mystery Murder Club - Satsujin Club"
+      ],
+      "Sha1": "c1923ab5c5dcaf67af3e23fd1ac42e2d4c61aca7",
+      "Crc32": "fe797d88",
+      "SetNames": {
+        "No-Intro": [
+          "Final Mystery Murder Club - Satsujin Club (Japan)"
+        ],
+        "MESS": [
+          "murdclub"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Micro Cabin"
+      ],
+      "ReleaseDate": "1/1/1988",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Fire Ball"
+      ],
+      "Sha1": "cdeadd6cf7bf5b53aa7d901446b0ce586542c580",
+      "Crc32": "cdcdc6c0",
+      "SetNames": {
+        "No-Intro": [
+          "Fire Ball (Japan)"
+        ],
+        "MESS": [
+          "fireball"
+        ],
+        "TGDB": [
+          "34550"
+        ]
+      },
+      "OverviewId": 27,
+      "Size": 131072,
+      "Publishers": [
+        "HummingBird",
+        "Humming Bird Soft"
+      ],
+      "Developers": [
+        "Humming Bird Soft"
+      ],
+      "ReleaseDate": "1/1/1988",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Fleet Commander II - Koukon no Kaiiki",
+        "Fleet Commander II - Tasogare no Kaiiki"
+      ],
+      "Sha1": "8cbfd94324f297a418e7eec6920dfead7b9bed08",
+      "Crc32": "9f152e9b",
+      "SetNames": {
+        "No-Intro": [
+          "Fleet Commander II - Koukon no Kaiiki (Japan)"
+        ],
+        "MESS": [
+          "fleetco2"
+        ]
+      },
+      "Size": 262144,
+      "Publishers": [
+        "ASCII"
+      ],
+      "ReleaseDate": "1/1/1990",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Gakuen Monogatari - High School Story"
+      ],
+      "Sha1": "32dd4df2b39461c0694f6bb84de0709478a69d31",
+      "Crc32": "fbdafe4e",
+      "SetNames": {
+        "No-Intro": [
+          "Gakuen Monogatari - High School Story (Japan)"
+        ]
+      },
+      "Size": 262144,
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Gambler Jiko Chuushinha 2 - Jishou! Kyougou Janshi Hen",
+        "Gambler Jikochuushinha 2 - Jishou! Kyougou Janshi Hen"
+      ],
+      "Sha1": "1f3f586255dd49b0f912bf41e07e88fe3eb3fb61",
+      "Crc32": "eb67d4d6",
+      "SetNames": {
+        "No-Intro": [
+          "Gambler Jiko Chuushinha 2 - Jishou! Kyougou Janshi Hen (Japan)"
+        ],
+        "MESS": [
+          "gambler2"
+        ]
+      },
+      "Size": 262144,
+      "Publishers": [
+        "Game Arts"
+      ],
+      "ReleaseDate": "1/1/1988",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Ganbare Goemon! - Karakuri Douchuu",
+        "Ganbare Goemon! Karakuri Douchuu",
+        "がんばれゴエモン！からくり道中"
+      ],
+      "Sha1": "fd71df03b0e9f3caf701ecfc6d5232060cab3b13",
+      "Crc32": "40e53ea3",
+      "SetNames": {
+        "No-Intro": [
+          "Ganbare Goemon! - Karakuri Douchuu (Japan)"
+        ],
+        "TGDB": [
+          "33842"
+        ]
+      },
+      "OverviewId": 28,
+      "Size": 131072,
+      "Publishers": [
+        "Konami"
+      ],
+      "Developers": [
+        "Konami"
+      ],
+      "ReleaseDate": "2/25/1987",
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Regions": [
+        "JP"
+      ],
+      "Tags": [
+        "Co-op"
+      ]
+    },
+    {
+      "Titles": [
+        "Garakuta"
+      ],
+      "Sha1": "f4da2be2ee712ba2e7cccf56fcd15483fe0023ed",
+      "Crc32": "33c37313",
+      "SetNames": {
+        "No-Intro": [
+          "Garakuta (Japan)"
+        ],
+        "MESS": [
+          "garakuta"
+        ]
+      },
+      "Size": 65536,
+      "Publishers": [
+        "Wachi Software"
+      ],
+      "ReleaseDate": "1/1/1988",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Garyuu Ou",
+        "Garyuuou",
+        "Garyuoh",
+        "牙龍王"
+      ],
+      "Sha1": "1f26dfa026b116c80c951a995633b4c2f7fa033d",
+      "Crc32": "2fb0ed30",
+      "SetNames": {
+        "No-Intro": [
+          "Garyuu Ou (Japan)"
+        ],
+        "TGDB": [
+          "34084"
+        ]
+      },
+      "OverviewId": 29,
+      "Size": 262144,
+      "Publishers": [
+        "Xain"
+      ],
+      "Developers": [
+        "Xain Soft"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Genres": [
+        "Action"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Garyuu Ou",
+        "Garyuuou",
+        "Garyuoh",
+        "牙龍王"
+      ],
+      "Sha1": "2a1c91bcc9b1b621773232061d74b7098420f1d4",
+      "Crc32": "40d009fe",
+      "SetNames": {
+        "No-Intro": [
+          "Garyuu Ou (Japan) (Alt 1)"
+        ],
+        "TGDB": [
+          "34084"
+        ]
+      },
+      "OverviewId": 29,
+      "Size": 262144,
+      "Publishers": [
+        "Xain"
+      ],
+      "Developers": [
+        "Xain Soft"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Genres": [
+        "Action"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Gekitotsu Pennant Race - Pro Yakyuu, The"
+      ],
+      "Sha1": "d89922ed43ea4fc0b87d7e5baef3f072bb566849",
+      "Crc32": "bc1b1ace",
+      "SetNames": {
+        "No-Intro": [
+          "Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 3)"
+        ]
+      },
+      "Size": 131072,
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Gekitotsu Pennant Race - Pro Yakyuu, The"
+      ],
+      "Sha1": "b8f4ee146c3cdb8f506371d001e6398ecda85251",
+      "Crc32": "b0a7800f",
+      "SetNames": {
+        "No-Intro": [
+          "Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 1)"
+        ]
+      },
+      "Size": 131072,
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Gekitotsu Pennant Race - Pro Yakyuu, The"
+      ],
+      "Sha1": "ad995ede603a28c72dad06c245fc7d4dad85d230",
+      "Crc32": "0ad36e2b",
+      "SetNames": {
+        "No-Intro": [
+          "Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 2)"
+        ]
+      },
+      "Size": 131072,
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Gekitotsu Pennant Race - Pro Yakyuu, The"
+      ],
+      "Sha1": "e22a6317747903475095008d0d5ad9427ddb34af",
+      "Crc32": "c08faf0e",
+      "SetNames": {
+        "No-Intro": [
+          "Gekitotsu Pennant Race - Pro Yakyuu, The (Japan)"
+        ]
+      },
+      "Size": 131072,
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Gekitotsu Pennant Race 2",
+        "Gekitotsu! Pennant Race 2",
+        "激突ペナントレース２",
+        "Pennant Race 2"
+      ],
+      "Sha1": "dbed87a53c604f7140577d6707ca0fc8490463a6",
+      "Crc32": "e92fc432",
+      "SetNames": {
+        "No-Intro": [
+          "Gekitotsu Pennant Race 2 (Japan) (English Menu)"
+        ],
+        "TGDB": [
+          "26957"
+        ]
+      },
+      "OverviewId": 30,
+      "Size": 131072,
+      "Publishers": [
+        "Konami"
+      ],
+      "Developers": [
+        "Konami"
+      ],
+      "ReleaseDate": "8/1/1989",
+      "Genres": [
+        "Sports"
+      ],
+      "Regions": [
+        "JP"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Gekitotsu Pennant Race 2",
+        "Gekitotsu! Pennant Race 2",
+        "激突ペナントレース２",
+        "Pennant Race 2"
+      ],
+      "Sha1": "93b07e3cd5ae2f00b36824a74f83a3ef0d65d0d5",
+      "Crc32": "c44c6330",
+      "SetNames": {
+        "No-Intro": [
+          "Gekitotsu Pennant Race 2 (Japan)"
+        ],
+        "TGDB": [
+          "26957"
+        ]
+      },
+      "OverviewId": 30,
+      "Size": 131072,
+      "Publishers": [
+        "Konami"
+      ],
+      "Developers": [
+        "Konami"
+      ],
+      "ReleaseDate": "8/1/1989",
+      "Genres": [
+        "Sports"
+      ],
+      "Regions": [
+        "JP"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Girly Block",
+        "ガーリーブロック"
+      ],
+      "Sha1": "bb99fe7702733ab0f9e8856e91f5ddcb55d30b5f",
+      "Crc32": "28094960",
+      "SetNames": {
+        "No-Intro": [
+          "Girly Block (Japan)"
+        ],
+        "MESS": [
+          "grlyblok"
+        ],
+        "TGDB": [
+          "33845"
+        ]
+      },
+      "OverviewId": 31,
+      "Size": 131072,
+      "Publishers": [
+        "The Links",
+        "Nippon Telenet"
+      ],
+      "Developers": [
+        "Compile"
+      ],
+      "ReleaseDate": "1/1/1988",
+      "Genres": [
+        "Action"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Hacker",
+        "ハッカー"
+      ],
+      "Sha1": "920f141db0d42952130855ac1dce446c327e7d9c",
+      "Crc32": "8df56d42",
+      "SetNames": {
+        "No-Intro": [
+          "Hacker (Japan)"
+        ],
+        "TGDB": [
+          "36722"
+        ]
+      },
+      "OverviewId": 32,
+      "Size": 131072,
+      "Publishers": [
+        "Pony Canyon, Inc."
+      ],
+      "Developers": [
+        "Activision"
+      ],
+      "ReleaseDate": "1/1/1988",
+      "Genres": [
+        "Life Simulation"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Hai no Majutsushi",
+        "Konami's Mahjong 2",
+        "牌の魔術師"
+      ],
+      "Sha1": "25022c4f5cfc805e93026fd5fda781e9a1807474",
+      "Crc32": "e0e72736",
+      "SetNames": {
+        "No-Intro": [
+          "Hai no Majutsushi (Japan)"
+        ],
+        "TGDB": [
+          "35637"
+        ]
+      },
+      "Size": 131072,
+      "Publishers": [
+        "Konami"
+      ],
+      "Developers": [
+        "Konami"
+      ],
+      "ReleaseDate": "1/1/1989",
+      "Genres": [
+        "Puzzle"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Hal Note",
+        "HalNote"
+      ],
+      "Sha1": "1af617bfd11b10a71936c606174a80019762ea71",
+      "Crc32": "40313fec",
+      "SetNames": {
+        "No-Intro": [
+          "Hal Note (Japan) (Program)"
+        ],
+        "MESS": [
+          "halnote"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "HAL Kenkyuujo"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Regions": [
+        "JP"
+      ],
+      "Tags": [
+        "APPLICATION"
+      ]
+    },
+    {
+      "Titles": [
+        "Han Seimei Senki Andorogynus",
+        "Han Seimei Senki Androgynus",
+        "アンドロギュヌス",
+        "Andorogynus"
+      ],
+      "Sha1": "55183b7b7df66950dbb65ef1065d7d987e0fdf5a",
+      "Crc32": "c6f74489",
+      "SetNames": {
+        "No-Intro": [
+          "Han Seimei Senki Andorogynus (Japan)"
+        ],
+        "MESS": [
+          "androgyn"
+        ],
+        "TGDB": [
+          "26952"
+        ]
+      },
+      "OverviewId": 33,
+      "Size": 262144,
+      "Publishers": [
+        "Nihon Telenet",
+        "Telenet Japan Co., Ltd."
+      ],
+      "Developers": [
+        "Telenet Japan"
+      ],
+      "ReleaseDate": "1/1/1988",
+      "Genres": [
+        "Action",
+        "Shooter"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Han Seimei Senki Andorogynus",
+        "アンドロギュヌス",
+        "Andorogynus"
+      ],
+      "Sha1": "ae3c3c2c022f566d2e790aba193470d5826f36cf",
+      "Crc32": "eaf2bfcd",
+      "SetNames": {
+        "No-Intro": [
+          "Han Seimei Senki Andorogynus (Japan) (Alt 1)"
+        ],
+        "TGDB": [
+          "26952"
+        ]
+      },
+      "OverviewId": 33,
+      "Size": 262144,
+      "Publishers": [
+        "Telenet Japan Co., Ltd."
+      ],
+      "Developers": [
+        "Telenet Japan"
+      ],
+      "ReleaseDate": "4/1/1987",
+      "Genres": [
+        "Action",
+        "Shooter"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Hard Ball",
+        "Hardball"
+      ],
+      "Sha1": "32151ddc4303290c09889bf8107493dd34296043",
+      "Crc32": "1d7040af",
+      "SetNames": {
+        "No-Intro": [
+          "Hard Ball (Japan)"
+        ],
+        "MESS": [
+          "hardball"
+        ]
+      },
+      "Size": 131072,
+      "Publishers": [
+        "Sony"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Heroes of the Lance",
+        "ヒーローオブザランス"
+      ],
+      "Sha1": "6e1d2d5b0688860b0a04d53fe9e5e3939dfba547",
+      "Crc32": "95f2eb6d",
+      "SetNames": {
+        "No-Intro": [
+          "Heroes of the Lance (Japan)"
+        ],
+        "TGDB": [
+          "36597"
+        ]
+      },
+      "OverviewId": 34,
+      "Size": 524288,
+      "Publishers": [
+        "Pony Canyon, Inc."
+      ],
+      "Developers": [
+        "Pony Canyon"
+      ],
+      "ReleaseDate": "1/1/1991",
+      "Genres": [
+        "Role-Playing"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Higemaru Makai Shima - Nanatsu no Shima Daibouken"
+      ],
+      "Sha1": "de0eb1c46c47924879e2a49f9eafba0ab344fe5f",
+      "Crc32": "17baf3ed",
+      "SetNames": {
+        "No-Intro": [
+          "Higemaru Makai Shima - Nanatsu no Shima Daibouken (Japan)"
+        ]
+      },
+      "Size": 131072,
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "High School! Kimengumi"
+      ],
+      "Sha1": "13fbb273a95481330d33c9edc4263e30ccf1774d",
+      "Crc32": "1123545c",
+      "SetNames": {
+        "No-Intro": [
+          "High School! Kimengumi (Japan)"
+        ],
+        "TGDB": [
+          "33860"
+        ]
+      },
+      "OverviewId": 35,
+      "Size": 131072,
+      "Publishers": [
+        "Pony Canyon, Inc."
+      ],
+      "Developers": [
+        "Pony Canyon"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Genres": [
+        "Adventure"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Hinotori - Houou Hen",
+        "Hinotori: Houou Hen",
+        "火の鳥鳳凰編"
+      ],
+      "Sha1": "d723f2eb1c887db5448fd56be5e7c57e60d88e63",
+      "Crc32": "3ab5ae57",
+      "SetNames": {
+        "No-Intro": [
+          "Hinotori - Houou Hen (Japan)"
+        ],
+        "TGDB": [
+          "34085"
+        ]
+      },
+      "OverviewId": 36,
+      "Size": 131072,
+      "Publishers": [
+        "Konami"
+      ],
+      "Developers": [
+        "Konami"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Genres": [
+        "Action",
+        "Shooter"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Hinotori - Houou Hen",
+        "Hinotori: Houou Hen",
+        "火の鳥鳳凰編"
+      ],
+      "Sha1": "612c18616bc800d9eb69b9da3cd29eca31f50c1c",
+      "Crc32": "d95116b0",
+      "SetNames": {
+        "No-Intro": [
+          "Hinotori - Houou Hen (Japan) (Alt 1)"
+        ],
+        "TGDB": [
+          "34085"
+        ]
+      },
+      "OverviewId": 36,
+      "Size": 131072,
+      "Publishers": [
+        "Konami"
+      ],
+      "Developers": [
+        "Konami"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Genres": [
+        "Action",
+        "Shooter"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Hinotori - Houou Hen",
+        "Hinotori: Houou Hen",
+        "火の鳥鳳凰編"
+      ],
+      "Sha1": "300f20adde3941ab10eb158db48250e8e856a911",
+      "Crc32": "5928f406",
+      "SetNames": {
+        "No-Intro": [
+          "Hinotori - Houou Hen (Japan) (Alt 2)"
+        ],
+        "TGDB": [
+          "34085"
+        ]
+      },
+      "OverviewId": 36,
+      "Size": 131072,
+      "Publishers": [
+        "Konami"
+      ],
+      "Developers": [
+        "Konami"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Genres": [
+        "Action",
+        "Shooter"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Hole in One Special",
+        "ホールインワンスペシャル"
+      ],
+      "Sha1": "facb967717c21fed9b375481908aa337b3361c45",
+      "Crc32": "f35df283",
+      "SetNames": {
+        "No-Intro": [
+          "Hole in One Special (Japan)"
+        ],
+        "MESS": [
+          "holein1s"
+        ],
+        "TGDB": [
+          "36532"
+        ]
+      },
+      "OverviewId": 37,
+      "Size": 131072,
+      "Publishers": [
+        "HAL Kenkyuujo",
+        "HAL Laboratory, Inc."
+      ],
+      "Developers": [
+        "HAL Laboratory"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Genres": [
+        "Sports"
+      ],
+      "Regions": [
+        "JP"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Hole in One Special",
+        "ホールインワンスペシャル"
+      ],
+      "Sha1": "3837d3a72498caa070866d947956a2e30fb94fbe",
+      "Crc32": "4708bdd1",
+      "SetNames": {
+        "No-Intro": [
+          "Hole in One Special (Japan) (Alt 1)"
+        ],
+        "TGDB": [
+          "36532"
+        ]
+      },
+      "OverviewId": 37,
+      "Size": 131072,
+      "Publishers": [
+        "HAL Laboratory, Inc."
+      ],
+      "Developers": [
+        "HAL Laboratory"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Genres": [
+        "Sports"
+      ],
+      "Regions": [
+        "JP"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Hydlide 3 - The Space Memories",
+        "Hydlide 3: The Space Memories",
+        "ハイドライド３",
+        "Hydlide 3"
+      ],
+      "Sha1": "f182d4785e3eed00292f7ff4795c9dcc6c990a0a",
+      "Crc32": "00db86c8",
+      "SetNames": {
+        "No-Intro": [
+          "Hydlide 3 - The Space Memories (Japan)"
+        ],
+        "MESS": [
+          "hydlide3"
+        ],
+        "TGDB": [
+          "34730"
+        ]
+      },
+      "OverviewId": 38,
+      "Size": 524288,
+      "Publishers": [
+        "T&E Soft",
+        "T&E Soft, Inc."
+      ],
+      "Developers": [
+        "T&E Soft"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Genres": [
+        "Role-Playing"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Ide Yousuke Meijin no Jissen Mahjong"
+      ],
+      "Sha1": "219e9acc2c023c25a8bbe9fb7d1764ffcff66034",
+      "Crc32": "935f1bde",
+      "SetNames": {
+        "No-Intro": [
+          "Ide Yousuke Meijin no Jissen Mahjong (Japan)"
+        ],
+        "MESS": [
+          "ideyumj"
+        ]
+      },
+      "Size": 131072,
+      "Publishers": [
+        "Pack-In Video"
+      ],
+      "ReleaseDate": "1/1/1988",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Ikari",
+        "Ikari Warriors",
+        "怒"
+      ],
+      "Sha1": "e065238580b9e118b6c9e789d797cdd99e0a1c69",
+      "Crc32": "a9a66075",
+      "SetNames": {
+        "No-Intro": [
+          "Ikari (Japan)"
+        ],
+        "TGDB": [
+          "36598"
+        ]
+      },
+      "OverviewId": 39,
+      "Size": 262144,
+      "Publishers": [
+        "SNK"
+      ],
+      "Developers": [
+        "SNK"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Genres": [
+        "Action"
+      ],
+      "Regions": [
+        "JP"
+      ],
+      "Tags": [
+        "Co-op"
+      ]
+    },
+    {
+      "Titles": [
+        "Ikari",
+        "Ikari Warriors",
+        "怒"
+      ],
+      "Sha1": "fe8aae62fdec28631d8f7b6659dd95135c1bcbb7",
+      "Crc32": "93999a38",
+      "SetNames": {
+        "No-Intro": [
+          "Ikari (Japan) (Alt 1)"
+        ],
+        "TGDB": [
+          "36598"
+        ]
+      },
+      "OverviewId": 39,
+      "Size": 262144,
+      "Publishers": [
+        "SNK"
+      ],
+      "Developers": [
+        "SNK"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Genres": [
+        "Action"
+      ],
+      "Regions": [
+        "JP"
+      ],
+      "Tags": [
+        "Co-op"
+      ]
+    },
+    {
+      "Titles": [
+        "Inemuriryuu Asada Tetsuya no A-kyuu Mahjong",
+        "Inemuri-ryuu Asada Tetsuya no A-kyuu Mahjong"
+      ],
+      "Sha1": "66508bbdc3b133b9a69ea96789bc134eea46796a",
+      "Crc32": "f5174422",
+      "SetNames": {
+        "No-Intro": [
+          "Inemuriryuu Asada Tetsuya no A-kyuu Mahjong (Japan)"
+        ],
+        "MESS": [
+          "aclassmj"
+        ]
+      },
+      "Size": 131072,
+      "Publishers": [
+        "Pony Canyon"
+      ],
+      "ReleaseDate": "1/1/1988",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Inindou - Datou Nobunaga"
+      ],
+      "Sha1": "0cc6c30c6918fcf780e57d40f58a4cf2a82225cd",
+      "Crc32": "881b3849",
+      "SetNames": {
+        "No-Intro": [
+          "Inindou - Datou Nobunaga (Japan)"
+        ],
+        "MESS": [
+          "inindo"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Koei"
+      ],
+      "ReleaseDate": "1/1/1991",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Ishin no Arashi",
+        "維新の嵐",
+        "Storm of the Meiji Restoration"
+      ],
+      "Sha1": "6420d61002da325403fcb6f41afb1d348eeba3b4",
+      "Crc32": "8bc34dca",
+      "SetNames": {
+        "No-Intro": [
+          "Ishin no Arashi (Japan)"
+        ],
+        "MESS": [
+          "ishinara"
+        ],
+        "TGDB": [
+          "36296"
+        ]
+      },
+      "OverviewId": 40,
+      "Size": 524288,
+      "Publishers": [
+        "Koei",
+        "Koei Co., Ltd."
+      ],
+      "Developers": [
+        "Koei"
+      ],
+      "ReleaseDate": "1/1/1989",
+      "Genres": [
+        "Strategy"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Jansei"
+      ],
+      "Sha1": "0eb3a48a8ab90826726f0c06daadf4bf13390758",
+      "Crc32": "00b8e82e",
+      "SetNames": {
+        "No-Intro": [
+          "Jansei (Japan)"
+        ]
+      },
+      "Size": 131072,
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Jansei"
+      ],
+      "Sha1": "d78293133b075f48c9dc5c4cf0c4a985ae964b08",
+      "Crc32": "2c2924ed",
+      "SetNames": {
+        "No-Intro": [
+          "Jansei (Japan) (Alt 1)"
+        ]
+      },
+      "Size": 131072,
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Japanese MSX-Write II"
+      ],
+      "Sha1": "9afdee40e7b243f99cc50dd1ad710ab0928dd820",
+      "Crc32": "459478cb",
+      "SetNames": {
+        "No-Intro": [
+          "Japanese MSX-Write II (Japan) (Program)"
+        ]
+      },
+      "Size": 524288,
+      "Regions": [
+        "JP"
+      ],
+      "Tags": [
+        "APPLICATION"
+      ]
+    },
+    {
+      "Titles": [
+        "Kempelen Chess"
+      ],
+      "Sha1": "a0c486d0f25a3dc586717d5d3e1f5a46d36735fc",
+      "Crc32": "053aa66e",
+      "SetNames": {
+        "No-Intro": [
+          "Kempelen Chess (Japan)"
+        ]
+      },
+      "Size": 131072,
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Kiki Kaikai",
+        "KiKi KaiKai",
+        "kikikaikai",
+        "Kikikai-kai",
+        "奇々怪界"
+      ],
+      "Sha1": "6dd28797f9d1fe7cc041077ebe77d08f2ccc0937",
+      "Crc32": "5c859406",
+      "SetNames": {
+        "No-Intro": [
+          "Kiki Kaikai (Japan)"
+        ],
+        "MESS": [
+          "kikikai"
+        ],
+        "TGDB": [
+          "33812"
+        ]
+      },
+      "OverviewId": 41,
+      "Size": 131072,
+      "Publishers": [
+        "Sony"
+      ],
+      "Developers": [
+        "Taito Corporation"
+      ],
+      "ReleaseDate": "2/10/1987",
+      "Genres": [
+        "Shooter"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "King Kong 2 - Yomigaeru Densetsu",
+        "King Kong 2: Yomigaeru Densetsu",
+        "キングコング2 甦る伝説",
+        "King Kong 2: Revived Legend"
+      ],
+      "Sha1": "fe4bd35e87dd50fddd255172129b9bec38691188",
+      "Crc32": "23b78a2d",
+      "SetNames": {
+        "No-Intro": [
+          "King Kong 2 - Yomigaeru Densetsu (Japan)"
+        ],
+        "TGDB": [
+          "26972"
+        ]
+      },
+      "OverviewId": 42,
+      "Size": 131072,
+      "Publishers": [
+        "Konami"
+      ],
+      "Developers": [
+        "Konami"
+      ],
+      "ReleaseDate": "8/1/1986",
+      "Genres": [
+        "Role-Playing"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Kisei",
+        "棋聖"
+      ],
+      "Sha1": "2e2543ac99193f76b4f35463142294c016f0cf3d",
+      "Crc32": "167a53da",
+      "SetNames": {
+        "No-Intro": [
+          "Kisei (Japan)"
+        ],
+        "MESS": [
+          "kisei"
+        ],
+        "TGDB": [
+          "36599"
+        ]
+      },
+      "OverviewId": 43,
+      "Size": 131072,
+      "Publishers": [
+        "Sony"
+      ],
+      "Developers": [
+        "Sony"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Kitahei",
+        "Honkaku Shougi Kitahei",
+        "棋太平"
+      ],
+      "Sha1": "b74f759ba3837968a04e9b64321b47cf087e76ff",
+      "Crc32": "0767af40",
+      "SetNames": {
+        "No-Intro": [
+          "Kitahei (Japan)"
+        ],
+        "MESS": [
+          "kitahei"
+        ],
+        "TGDB": [
+          "36235"
+        ]
+      },
+      "OverviewId": 44,
+      "Size": 131072,
+      "Publishers": [
+        "Micro Cabin",
+        "Micro Cabin Corp."
+      ],
+      "Developers": [
+        "Micro Cabin Co."
+      ],
+      "ReleaseDate": "1/1/1986",
+      "Genres": [
+        "Puzzle"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Koronis Rift"
+      ],
+      "Sha1": "523330d609ca0e527f3e28a078635b3d28489ec9",
+      "Crc32": "fb348de6",
+      "SetNames": {
+        "No-Intro": [
+          "Koronis Rift (Europe)"
+        ],
+        "TGDB": [
+          "30194"
+        ]
+      },
+      "OverviewId": 45,
+      "Size": 262144,
+      "ReleaseDate": "1/1/1987",
+      "Genres": [
+        "Action",
+        "Strategy"
+      ],
+      "Regions": [
+        "EU"
+      ]
+    },
+    {
+      "Titles": [
+        "Labyrinth",
+        "Labyrinth: Maou no Meikyuu",
+        "ラビリンス魔王の迷宮"
+      ],
+      "Sha1": "e003d57d2102e8fdf5d9eea7bd78a3cf67d75778",
+      "Crc32": "9926f43c",
+      "SetNames": {
+        "No-Intro": [
+          "Labyrinth (Japan)"
+        ],
+        "TGDB": [
+          "33844"
+        ]
+      },
+      "OverviewId": 46,
+      "Size": 262144,
+      "Publishers": [
+        "Pack-In-Video Co., Ltd"
+      ],
+      "Developers": [
+        "LucasArts Entertainment Company LLC"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Labyrinth",
+        "Labyrinth: Maou no Meikyuu",
+        "ラビリンス魔王の迷宮"
+      ],
+      "Sha1": "51e4231e245ffd733590e3205fa3ffea92ad509f",
+      "Crc32": "a295e608",
+      "SetNames": {
+        "No-Intro": [
+          "Labyrinth (Japan) (Alt 1)"
+        ],
+        "TGDB": [
+          "33844"
+        ]
+      },
+      "OverviewId": 46,
+      "Size": 262144,
+      "Publishers": [
+        "Pack-In-Video Co., Ltd"
+      ],
+      "Developers": [
+        "LucasArts Entertainment Company LLC"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Lupin Sansei - Babylon no Ougon Densetsu",
+        "Lupin Sansei: Babylon no Ougon Densetsu",
+        "Lupin III: The Legend of the Gold of Babylon",
+        "Lupin The Third: The Legend of the Gold of Babylon"
+      ],
+      "Sha1": "1aee947b1ad6d478c0def550868a3851c2910809",
+      "Crc32": "5a090675",
+      "SetNames": {
+        "No-Intro": [
+          "Lupin Sansei - Babylon no Ougon Densetsu (Japan) (Alt 1)"
+        ],
+        "TGDB": [
+          "33768"
+        ]
+      },
+      "OverviewId": 47,
+      "Size": 131072,
+      "Publishers": [
+        "Toho Company Ltd."
+      ],
+      "Developers": [
+        "Toho Company Ltd"
+      ],
+      "ReleaseDate": "4/19/1988",
+      "Genres": [
+        "Adventure",
+        "Platform"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Lupin Sansei - Babylon no Ougon Densetsu",
+        "Lupin Sansei: Babylon no Ougon Densetsu",
+        "Lupin III: The Legend of the Gold of Babylon",
+        "Lupin The Third: The Legend of the Gold of Babylon"
+      ],
+      "Sha1": "c4a919f31d20008b5d6540aa5d2be59aa4cef5cf",
+      "Crc32": "bfe150c4",
+      "SetNames": {
+        "No-Intro": [
+          "Lupin Sansei - Babylon no Ougon Densetsu (Japan)"
+        ],
+        "TGDB": [
+          "33768"
+        ]
+      },
+      "OverviewId": 47,
+      "Size": 131072,
+      "Publishers": [
+        "Toho Company Ltd."
+      ],
+      "Developers": [
+        "Toho Company Ltd"
+      ],
+      "ReleaseDate": "4/19/1988",
+      "Genres": [
+        "Adventure",
+        "Platform"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Lupin Sansei - Cagliostro no Shiro",
+        "Lupin Sansei: Cagliostro no Shiro",
+        "Lupin III: The Castle Of Cagliostro"
+      ],
+      "Sha1": "e89fc7437d8f9aed1640689a32ebbf047699b147",
+      "Crc32": "c4096e6b",
+      "SetNames": {
+        "No-Intro": [
+          "Lupin Sansei - Cagliostro no Shiro (Japan)"
+        ],
+        "MESS": [
+          "lupin"
+        ],
+        "TGDB": [
+          "33770"
+        ]
+      },
+      "OverviewId": 48,
+      "Size": 131072,
+      "Publishers": [
+        "Toho",
+        "Toho Company Ltd."
+      ],
+      "Developers": [
+        "Toho Company Ltd"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Genres": [
+        "Adventure",
+        "Platform"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Lupin Sansei - Cagliostro no Shiro",
+        "Lupin Sansei: Cagliostro no Shiro",
+        "Lupin III: The Castle Of Cagliostro"
+      ],
+      "Sha1": "ae8172bcf76adfa3d401467cbc89cbec2db86ee2",
+      "Crc32": "f12bec91",
+      "SetNames": {
+        "No-Intro": [
+          "Lupin Sansei - Cagliostro no Shiro (Japan) (Alt 1)"
+        ],
+        "TGDB": [
+          "33770"
+        ]
+      },
+      "OverviewId": 48,
+      "Size": 131072,
+      "Publishers": [
+        "Toho Company Ltd."
+      ],
+      "Developers": [
+        "Toho Company Ltd"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Genres": [
+        "Adventure",
+        "Platform"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Mad Rider",
+        "マッドライダー"
+      ],
+      "Sha1": "a53feafa4c70d2378998f0dcb837905e5070c541",
+      "Crc32": "dfc2a720",
+      "SetNames": {
+        "No-Intro": [
+          "Mad Rider (Japan) (Alt 1)"
+        ],
+        "TGDB": [
+          "36265"
+        ]
+      },
+      "OverviewId": 49,
+      "Size": 131072,
+      "Publishers": [
+        "Carry Lab"
+      ],
+      "Developers": [
+        "Carry Lab"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Genres": [
+        "Racing"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Mad Rider",
+        "マッドライダー"
+      ],
+      "Sha1": "4c44939a95a20d701f60830499254e5dabedeeaa",
+      "Crc32": "f87bd172",
+      "SetNames": {
+        "No-Intro": [
+          "Mad Rider (Japan)"
+        ],
+        "TGDB": [
+          "36265"
+        ]
+      },
+      "OverviewId": 49,
+      "Size": 131072,
+      "Publishers": [
+        "Carry Lab"
+      ],
+      "Developers": [
+        "Carry Lab"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Genres": [
+        "Racing"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Maison Ikkoku - Kanketsu Hen - Sayonara, Soshite...",
+        "Maison Ikkoku Kanketsu Hen"
+      ],
+      "Sha1": "55fb4e3d3a762b613b635ee9745d92f0f3711272",
+      "Crc32": "94191aae",
+      "SetNames": {
+        "No-Intro": [
+          "Maison Ikkoku - Kanketsu Hen - Sayonara, Soshite... (Japan)"
+        ],
+        "MESS": [
+          "mikkokuk"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Micro Cabin"
+      ],
+      "ReleaseDate": "1/1/1988",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Maison Ikkoku - Omoide no Photograph",
+        "Maison Ikkoku",
+        "めぞん一刻"
+      ],
+      "Sha1": "ee501fde62b25ddd1c82798ee1b233b8813e717b",
+      "Crc32": "f4d127c0",
+      "SetNames": {
+        "No-Intro": [
+          "Maison Ikkoku - Omoide no Photograph (Japan)"
+        ],
+        "MESS": [
+          "mikkoku"
+        ],
+        "TGDB": [
+          "36600"
+        ]
+      },
+      "OverviewId": 50,
+      "Size": 262144,
+      "Publishers": [
+        "Micro Cabin",
+        "Micro Cabin Corp."
+      ],
+      "Developers": [
+        "Micro Cabin Co."
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Genres": [
+        "Adventure"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Malaya no Hibou"
+      ],
+      "Sha1": "e6c01bd90cf0b2793282fc53e9a3150a6d7804c5",
+      "Crc32": "f7a9591d",
+      "SetNames": {
+        "No-Intro": [
+          "Malaya no Hibou (Japan)"
+        ]
+      },
+      "Size": 131072,
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Metal Gear",
+        "メタルギア"
+      ],
+      "Sha1": "a52021f1b257c7c35d626d5d642134091c45e4f4",
+      "Crc32": "fafe1303",
+      "SetNames": {
+        "No-Intro": [
+          "Metal Gear (Japan)"
+        ],
+        "TGDB": [
+          "26942"
+        ]
+      },
+      "OverviewId": 51,
+      "Size": 131072,
+      "Publishers": [
+        "Konami"
+      ],
+      "Developers": [
+        "Konami"
+      ],
+      "ReleaseDate": "7/7/1987",
+      "Genres": [
+        "Action",
+        "Stealth"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Metal Gear",
+        "メタルギア"
+      ],
+      "Sha1": "b656bd19df58fc1ba4628342b87beeec5948e0b3",
+      "Crc32": "e85c5731",
+      "SetNames": {
+        "No-Intro": [
+          "Metal Gear (Europe)"
+        ],
+        "TGDB": [
+          "26942"
+        ]
+      },
+      "OverviewId": 51,
+      "Size": 131072,
+      "Publishers": [
+        "Konami"
+      ],
+      "Developers": [
+        "Konami"
+      ],
+      "ReleaseDate": "7/7/1987",
+      "Genres": [
+        "Action",
+        "Stealth"
+      ],
+      "Regions": [
+        "EU"
+      ]
+    },
+    {
+      "Titles": [
+        "Metal Gear 2 - Solid Snake",
+        "Metal Gear 2: Solid Snake",
+        "メタルギア２ ソリッドスネーク",
+        "Metal Gear 2"
+      ],
+      "Sha1": "21ac0ae7da47abf30986b479489134c79405f95d",
+      "Crc32": "dcee5080",
+      "SetNames": {
+        "No-Intro": [
+          "Metal Gear 2 - Solid Snake (Japan) (Demo)"
+        ],
+        "TGDB": [
+          "26943"
+        ]
+      },
+      "OverviewId": 52,
+      "Size": 131072,
+      "Publishers": [
+        "Konami"
+      ],
+      "Developers": [
+        "Konami"
+      ],
+      "ReleaseDate": "7/19/1990",
+      "Genres": [
+        "Action",
+        "Stealth"
+      ],
+      "Regions": [
+        "JP"
+      ],
+      "Tags": [
+        "demo"
+      ]
+    },
+    {
+      "Titles": [
+        "Metal Gear 2 - Solid Snake",
+        "Metal Gear 2: Solid Snake",
+        "メタルギア２ ソリッドスネーク",
+        "Metal Gear 2"
+      ],
+      "Sha1": "af567ea6e27912d6d5bf1c8e9bc18e9b393fd1ab",
+      "Crc32": "18b1f34b",
+      "SetNames": {
+        "No-Intro": [
+          "Metal Gear 2 - Solid Snake (Japan)"
+        ],
+        "TGDB": [
+          "26943"
+        ]
+      },
+      "OverviewId": 52,
+      "Size": 524288,
+      "Publishers": [
+        "Konami"
+      ],
+      "Developers": [
+        "Konami"
+      ],
+      "ReleaseDate": "7/19/1990",
+      "Genres": [
+        "Action",
+        "Stealth"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Mirai",
+        "未来"
+      ],
+      "Sha1": "1c17e58f1a602e07f185bce1aa8589fae76e8b44",
+      "Crc32": "70aa93cf",
+      "SetNames": {
+        "No-Intro": [
+          "Mirai (Japan)"
+        ],
+        "TGDB": [
+          "36602"
+        ]
+      },
+      "OverviewId": 53,
+      "Size": 131072,
+      "Publishers": [
+        "Xain"
+      ],
+      "Developers": [
+        "Xain Soft"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Genres": [
+        "Role-Playing"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Mississippi Satsujinjiken",
+        "Mississippi Satsujin Jiken"
+      ],
+      "Sha1": "d53a8efefe3714269538a91e5256c2938fe13239",
+      "Crc32": "3f69a464",
+      "SetNames": {
+        "No-Intro": [
+          "Mississippi Satsujinjiken (Japan)"
+        ],
+        "MESS": [
+          "mississp"
+        ]
+      },
+      "Size": 131072,
+      "Publishers": [
+        "Jaleco"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Moero!! Nettou Yakyuu '88",
+        "Moero! Nettou Yakyuu '88"
+      ],
+      "Sha1": "1cbd5c7849f97dea1e3375a842f784ff9283310c",
+      "Crc32": "68745c64",
+      "SetNames": {
+        "No-Intro": [
+          "Moero!! Nettou Yakyuu '88 (Japan)"
+        ],
+        "MESS": [
+          "moeronet"
+        ]
+      },
+      "Size": 262144,
+      "Publishers": [
+        "Jaleco"
+      ],
+      "ReleaseDate": "1/1/1988",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Monmon Kaibutsu",
+        "Mon Mon Monster"
+      ],
+      "Sha1": "ab087d04eb5c2c8894758c7cee32ccafd80989a7",
+      "Crc32": "ebccb796",
+      "SetNames": {
+        "No-Intro": [
+          "Monmon Kaibutsu (Japan)"
+        ],
+        "MESS": [
+          "monmonmo"
+        ]
+      },
+      "Size": 131072,
+      "Publishers": [
+        "Hot-B"
+      ],
+      "ReleaseDate": "1/1/1989",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Nekketsu Juudou",
+        "Nekketsu Judo",
+        "Burning Judo",
+        "熱血柔道"
+      ],
+      "Sha1": "1d97922a5ab63e73611d0edbe952f041af3385b3",
+      "Crc32": "fda1977a",
+      "SetNames": {
+        "No-Intro": [
+          "Nekketsu Juudou (Japan) (Alt 1)"
+        ],
+        "TGDB": [
+          "33551"
+        ]
+      },
+      "OverviewId": 54,
+      "Size": 262144,
+      "Publishers": [
+        "Pony Canyon, Inc."
+      ],
+      "Developers": [
+        "Opera House"
+      ],
+      "ReleaseDate": "1/1/1989",
+      "Genres": [
+        "Fighting",
+        "Sports"
+      ],
+      "Regions": [
+        "JP"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Nekketsu Juudou",
+        "Nekketsu Judo",
+        "Burning Judo",
+        "熱血柔道"
+      ],
+      "Sha1": "721a2ded692d34d864d0440ac347c60880942d19",
+      "Crc32": "758c6087",
+      "SetNames": {
+        "No-Intro": [
+          "Nekketsu Juudou (Japan)"
+        ],
+        "TGDB": [
+          "33551"
+        ]
+      },
+      "OverviewId": 54,
+      "Size": 262144,
+      "Publishers": [
+        "Pony Canyon, Inc."
+      ],
+      "Developers": [
+        "Opera House"
+      ],
+      "ReleaseDate": "1/1/1989",
+      "Genres": [
+        "Fighting",
+        "Sports"
+      ],
+      "Regions": [
+        "JP"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Ninja-kun - Asura no Shou",
+        "Ninja-kun - Ashura no Shou",
+        "Ninja-kun: Ashura no Shou",
+        "Mr. Ninja - Ashura's Chapter",
+        "忍者くん阿修羅の章",
+        "Rad Action"
+      ],
+      "Sha1": "5c278deb1390eb45c79b7667b1ea1c54183123ac",
+      "Crc32": "f56a00e6",
+      "SetNames": {
+        "No-Intro": [
+          "Ninja-kun - Asura no Shou (Japan)"
+        ],
+        "MESS": [
+          "ninjakun"
+        ],
+        "TGDB": [
+          "33855"
+        ]
+      },
+      "OverviewId": 55,
+      "Size": 131072,
+      "Publishers": [
+        "HAL Kenkyuujo",
+        "HAL Laboratory, Inc."
+      ],
+      "Developers": [
+        "UPL Co., Ltd"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Genres": [
+        "Platform"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Nobunaga no Yabou - Bushou Fuuun Roku",
+        "Nobunaga no Yabou - Bushou Fuuunroku",
+        "Nobunaga no Yabou: Bushou Fuuunroku",
+        "信長の野望武将風雲緑",
+        "Nobunaga's Ambition: Lord of Darkness",
+        "Nobunaga's Ambition 3: Rising Sun"
+      ],
+      "Sha1": "cb6bd26961387def757c7faeec7563d77d404d01",
+      "Crc32": "0ff8e2c7",
+      "SetNames": {
+        "No-Intro": [
+          "Nobunaga no Yabou - Bushou Fuuun Roku (Japan)"
+        ],
+        "MESS": [
+          "nobubufu"
+        ],
+        "TGDB": [
+          "36287"
+        ]
+      },
+      "OverviewId": 56,
+      "Size": 1048576,
+      "Publishers": [
+        "Koei",
+        "Koei Co., Ltd."
+      ],
+      "Developers": [
+        "Koei"
+      ],
+      "ReleaseDate": "1/1/1991",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Nobunaga no Yabou - Sengoku Gunyuuden"
+      ],
+      "Sha1": "89943ae938fb308f4b5149ebc0cbea597b9b0223",
+      "Crc32": "69c11d81",
+      "SetNames": {
+        "No-Intro": [
+          "Nobunaga no Yabou - Sengoku Gunyuuden (Japan)"
+        ],
+        "MESS": [
+          "nobuseng"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Koei"
+      ],
+      "ReleaseDate": "1/1/1989",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Nobunaga no Yabou - Zenkoku Ban",
+        "Nobunaga no Yabou - Zenkokuban"
+      ],
+      "Sha1": "fbfdd89ec183ceae63d3d66b0ab45faa951b525a",
+      "Crc32": "653f1c73",
+      "SetNames": {
+        "No-Intro": [
+          "Nobunaga no Yabou - Zenkoku Ban (Japan)"
+        ],
+        "MESS": [
+          "nobuzenk"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Koei"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Ogre",
+        "オーガ"
+      ],
+      "Sha1": "c9c272ffa69d3e0af5be42e7636b02dc2af6ea8c",
+      "Crc32": "f2544e2e",
+      "SetNames": {
+        "No-Intro": [
+          "Ogre (Japan)"
+        ],
+        "MESS": [
+          "ogre"
+        ],
+        "TGDB": [
+          "36749"
+        ]
+      },
+      "OverviewId": 57,
+      "Size": 131072,
+      "Publishers": [
+        "System Soft",
+        "SystemSoft"
+      ],
+      "Developers": [
+        "Origin Systems"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Genres": [
+        "Strategy"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Ogre",
+        "オーガ"
+      ],
+      "Sha1": "82397096d5ef436b99b943c2a52d6eff87694183",
+      "Crc32": "b19e88aa",
+      "SetNames": {
+        "No-Intro": [
+          "Ogre (Japan) (Alt 1)"
+        ],
+        "TGDB": [
+          "36749"
+        ]
+      },
+      "OverviewId": 57,
+      "Size": 524288,
+      "Publishers": [
+        "SystemSoft"
+      ],
+      "Developers": [
+        "Origin Systems"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Genres": [
+        "Strategy"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Ouke no Tani - El Giza no Fuuin"
+      ],
+      "Sha1": "5ec8811254dc762c6852289a08acf22954404f0d",
+      "Crc32": "b1cb1052",
+      "SetNames": {
+        "No-Intro": [
+          "Ouke no Tani - El Giza no Fuuin (Japan)"
+        ]
+      },
+      "Size": 131072,
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Ouke no Tani - El Giza no Fuuin - Edit Contest Yuushuu Sakuhinshuu"
+      ],
+      "Sha1": "2e0436303648097e8e936c5467574aff5e3f1517",
+      "Crc32": "774c70fc",
+      "SetNames": {
+        "No-Intro": [
+          "Ouke no Tani - El Giza no Fuuin - Edit Contest Yuushuu Sakuhinshuu (Japan)"
+        ]
+      },
+      "Size": 131072,
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Out Run"
+      ],
+      "Sha1": "0f10d77d1536993b8455b3b47278ca5782ef9275",
+      "Crc32": "0a9f8d6c",
+      "SetNames": {
+        "No-Intro": [
+          "Out Run (Japan)"
+        ]
+      },
+      "Size": 262144,
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Pac-Mania",
+        "パックマニア"
+      ],
+      "Sha1": "d5902afbd8dfb1ea96fc8cf4d62cf6e4fa40d4f7",
+      "Crc32": "7df16fc8",
+      "SetNames": {
+        "No-Intro": [
+          "Pac-Mania (Japan)"
+        ],
+        "TGDB": [
+          "36266"
+        ]
+      },
+      "OverviewId": 58,
+      "Size": 262144,
+      "Publishers": [
+        "Namco"
+      ],
+      "Developers": [
+        "Namco"
+      ],
+      "ReleaseDate": "1/1/1989",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Pachi Pro Densetsu"
+      ],
+      "Sha1": "78507f3f8b8601d99bbedb6517bec6cddf0bd5b4",
+      "Crc32": "252798f6",
+      "SetNames": {
+        "No-Intro": [
+          "Pachi Pro Densetsu (Japan)"
+        ]
+      },
+      "Size": 131072,
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Penguin-kun Wars 2",
+        "Penguin-Kun Wars 2",
+        "ぺんぎんくんウォーズ２"
+      ],
+      "Sha1": "b7104477c8801fe54d1ba91f3a77ac6e4f399f52",
+      "Crc32": "b1b24da1",
+      "SetNames": {
+        "No-Intro": [
+          "Penguin-kun Wars 2 (Japan)"
+        ],
+        "TGDB": [
+          "27007"
+        ]
+      },
+      "OverviewId": 59,
+      "Size": 262144,
+      "Publishers": [
+        "ASCII Corporation"
+      ],
+      "Developers": [
+        "ASCII"
+      ],
+      "ReleaseDate": "8/3/1988",
+      "Genres": [
+        "Sports"
+      ],
+      "Regions": [
+        "JP"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Penguin-kun Wars 2",
+        "Penguin-Kun Wars 2",
+        "ぺんぎんくんウォーズ２"
+      ],
+      "Sha1": "788c53657d9ea180d04f29ccaf1f1c29a9b75519",
+      "Crc32": "70dc14a6",
+      "SetNames": {
+        "No-Intro": [
+          "Penguin-kun Wars 2 (Japan) (Alt 1)"
+        ],
+        "TGDB": [
+          "27007"
+        ]
+      },
+      "OverviewId": 59,
+      "Size": 262144,
+      "Publishers": [
+        "ASCII Corporation"
+      ],
+      "Developers": [
+        "ASCII"
+      ],
+      "ReleaseDate": "8/3/1988",
+      "Genres": [
+        "Sports"
+      ],
+      "Regions": [
+        "JP"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Predator"
+      ],
+      "Sha1": "ae6ad52d5ebcad7722ea070109a286fe13b06cb7",
+      "Crc32": "e85a4a6b",
+      "SetNames": {
+        "No-Intro": [
+          "Predator (Japan)"
+        ]
+      },
+      "Size": 131072,
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Pro Yakyuu Family Stadium - Pennant Race"
+      ],
+      "Sha1": "970e26f3c2c085e39267115991add6ccc6e9ff80",
+      "Crc32": "356b7d2a",
+      "SetNames": {
+        "No-Intro": [
+          "Pro Yakyuu Family Stadium - Pennant Race (Japan)"
+        ],
+        "MESS": [
+          "famista"
+        ]
+      },
+      "Size": 262144,
+      "Publishers": [
+        "Namco"
+      ],
+      "ReleaseDate": "1/1/1989",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Pro Yakyuu Fan - Telenet Stadium",
+        "Pro Yakyuu Fan"
+      ],
+      "Sha1": "f52690157a51c662ffdf4ae3592ada93d7be4032",
+      "Crc32": "c065bc29",
+      "SetNames": {
+        "No-Intro": [
+          "Pro Yakyuu Fan - Telenet Stadium (Japan)"
+        ],
+        "MESS": [
+          "proyakfn"
+        ]
+      },
+      "Size": 262144,
+      "Publishers": [
+        "Nihon Telenet"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Professional Mahjong Gokuu"
+      ],
+      "Sha1": "81143d2a8ef7cc593a604f3cc890312b42bdff01",
+      "Crc32": "2abb1ec4",
+      "SetNames": {
+        "No-Intro": [
+          "Professional Mahjong Gokuu (Japan)"
+        ],
+        "MESS": [
+          "profmjg"
+        ]
+      },
+      "Size": 131072,
+      "Publishers": [
+        "ASCII"
+      ],
+      "ReleaseDate": "1/1/1988",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Project A2 - Shijousaidai no Hyouteki",
+        "Project A2 - Shijou Saidai no Hyouteki"
+      ],
+      "Sha1": "418f6248221c79039fe6c44fc5a9514842e3ec71",
+      "Crc32": "1b285fe3",
+      "SetNames": {
+        "No-Intro": [
+          "Project A2 - Shijousaidai no Hyouteki (Japan)"
+        ],
+        "MESS": [
+          "projcta2"
+        ]
+      },
+      "Size": 131072,
+      "Publishers": [
+        "Pony"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Quarth",
+        "クォース"
+      ],
+      "Sha1": "2312bff70c83e60d1ca0fb9ca78a50637d02771c",
+      "Crc32": "6681d322",
+      "SetNames": {
+        "No-Intro": [
+          "Quarth (Korea)"
+        ],
+        "TGDB": [
+          "35691"
+        ]
+      },
+      "OverviewId": 60,
+      "Size": 131072,
+      "Publishers": [
+        "Konami"
+      ],
+      "Developers": [
+        "Konami"
+      ],
+      "ReleaseDate": "1/1/1990",
+      "Genres": [
+        "Puzzle",
+        "Shooter"
+      ],
+      "Regions": [
+        "KR"
+      ],
+      "Tags": [
+        "Co-op"
+      ]
+    },
+    {
+      "Titles": [
+        "Quarth",
+        "クォース"
+      ],
+      "Sha1": "1ccac7caeaaa1c5a89503221b0a5eec2f34b1c91",
+      "Crc32": "c4ccb75f",
+      "SetNames": {
+        "No-Intro": [
+          "Quarth (Japan) (Demo)"
+        ],
+        "TGDB": [
+          "35691"
+        ]
+      },
+      "OverviewId": 60,
+      "Size": 131072,
+      "Publishers": [
+        "Konami"
+      ],
+      "Developers": [
+        "Konami"
+      ],
+      "ReleaseDate": "1/1/1990",
+      "Genres": [
+        "Puzzle",
+        "Shooter"
+      ],
+      "Regions": [
+        "JP"
+      ],
+      "Tags": [
+        "demo",
+        "Co-op"
+      ]
+    },
+    {
+      "Titles": [
+        "Quarth",
+        "クォース"
+      ],
+      "Sha1": "0c62591033aa4e5e6b9eeb21eb2e5e60dcd8ee8e",
+      "Crc32": "a0014e7f",
+      "SetNames": {
+        "No-Intro": [
+          "Quarth (Japan)"
+        ],
+        "TGDB": [
+          "35691"
+        ]
+      },
+      "OverviewId": 60,
+      "Size": 131072,
+      "Publishers": [
+        "Konami"
+      ],
+      "Developers": [
+        "Konami"
+      ],
+      "ReleaseDate": "1/1/1990",
+      "Genres": [
+        "Puzzle",
+        "Shooter"
+      ],
+      "Regions": [
+        "JP"
+      ],
+      "Tags": [
+        "Co-op"
+      ]
+    },
+    {
+      "Titles": [
+        "Quinpl"
+      ],
+      "Sha1": "c82c6e054313f4c8864e64897baea8b63776020d",
+      "Crc32": "8d94af7d",
+      "SetNames": {
+        "No-Intro": [
+          "Quinpl (Japan)"
+        ],
+        "TGDB": [
+          "50952"
+        ]
+      },
+      "Size": 262144,
+      "ReleaseDate": "1/1/1988",
+      "Genres": [
+        "Action"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Rastan Saga"
+      ],
+      "Sha1": "f787271597abbcb1297e4e8a4a9561959a195649",
+      "Crc32": "84461e73",
+      "SetNames": {
+        "No-Intro": [
+          "Rastan Saga (Japan)"
+        ],
+        "MESS": [
+          "rastan"
+        ],
+        "TGDB": [
+          "85005"
+        ]
+      },
+      "OverviewId": 61,
+      "Size": 262144,
+      "Publishers": [
+        "Taito",
+        "Taito Corporation"
+      ],
+      "Developers": [
+        "Taito Corporation"
+      ],
+      "ReleaseDate": "1/1/1988",
+      "Genres": [
+        "Action"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Relics",
+        "レリクス"
+      ],
+      "Sha1": "02c3ec94190c6fce6fa4984d92be48b2697e7706",
+      "Crc32": "babc68f2",
+      "SetNames": {
+        "No-Intro": [
+          "Relics (Japan)"
+        ],
+        "MESS": [
+          "relics"
+        ],
+        "TGDB": [
+          "36751"
+        ]
+      },
+      "OverviewId": 62,
+      "Size": 262144,
+      "Publishers": [
+        "Bothtec",
+        "Eaglesoft"
+      ],
+      "Developers": [
+        "Bothtec"
+      ],
+      "ReleaseDate": "1/1/1986",
+      "Genres": [
+        "Action",
+        "Role-Playing"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Replicart"
+      ],
+      "Sha1": "afb693fd0a138cfc59a2bf81eabd7ca2abd4e162",
+      "Crc32": "6eee12c4",
+      "SetNames": {
+        "No-Intro": [
+          "Replicart (Japan)"
+        ],
+        "MESS": [
+          "replicrt"
+        ],
+        "TGDB": [
+          "38000"
+        ]
+      },
+      "OverviewId": 63,
+      "Size": 131072,
+      "Publishers": [
+        "Sony",
+        "Dual"
+      ],
+      "Developers": [
+        "Sony"
+      ],
+      "ReleaseDate": "7/1/1987",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Return of Ishtar, The",
+        "The Return of Ishtar",
+        "The Return Of Ishtar"
+      ],
+      "Sha1": "d17acc97bf2f853a5fff58da733e4cd53cdaa3ed",
+      "Crc32": "8ee8212c",
+      "SetNames": {
+        "No-Intro": [
+          "Return of Ishtar, The (Japan)"
+        ],
+        "MESS": [
+          "rtishtar"
+        ],
+        "TGDB": [
+          "37995"
+        ]
+      },
+      "OverviewId": 64,
+      "Size": 262144,
+      "Publishers": [
+        "Namco"
+      ],
+      "Developers": [
+        "Namco"
+      ],
+      "ReleaseDate": "9/22/1988",
+      "Genres": [
+        "Role-Playing"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Return of Jelda"
+      ],
+      "Sha1": "59f679c5ebf75de98b5e909da9182dbd80413364",
+      "Crc32": "5ccc09ab",
+      "SetNames": {
+        "No-Intro": [
+          "Return of Jelda (Japan)"
+        ],
+        "MESS": [
+          "retjelda"
+        ],
+        "TGDB": [
+          "49313"
+        ]
+      },
+      "OverviewId": 65,
+      "Size": 131072,
+      "Publishers": [
+        "Carry Lab"
+      ],
+      "Developers": [
+        "Softmen"
+      ],
+      "ReleaseDate": "9/1/1987",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Rick to Mick no Daibouken"
+      ],
+      "Sha1": "a57f8ec4f89ab84936f46821969de6bca9f46d8e",
+      "Crc32": "e79aa962",
+      "SetNames": {
+        "No-Intro": [
+          "Rick to Mick no Daibouken (Japan)"
+        ]
+      },
+      "Size": 131072,
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Royal Blood",
+        "Gemfire",
+        "ロイヤルブラッド"
+      ],
+      "Sha1": "522a53034cf40448d441683f3308fcb4b65e6d7c",
+      "Crc32": "fb9e42e1",
+      "SetNames": {
+        "No-Intro": [
+          "Royal Blood (Japan)"
+        ],
+        "MESS": [
+          "royalbld"
+        ],
+        "TGDB": [
+          "36301"
+        ]
+      },
+      "OverviewId": 66,
+      "Size": 1048576,
+      "Publishers": [
+        "Koei",
+        "Koei Co., Ltd."
+      ],
+      "Developers": [
+        "Koei"
+      ],
+      "ReleaseDate": "1/1/1991",
+      "Genres": [
+        "Strategy"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Sangokushi",
+        "三國志",
+        "Romance of the Three Kingdoms"
+      ],
+      "Sha1": "dab5a9f93a35fcb92c01e4250b01928fe8bd294b",
+      "Crc32": "b83aa6f5",
+      "SetNames": {
+        "No-Intro": [
+          "Sangokushi (Japan)"
+        ],
+        "TGDB": [
+          "36294"
+        ]
+      },
+      "OverviewId": 67,
+      "Size": 524288,
+      "Publishers": [
+        "Koei Co., Ltd."
+      ],
+      "Developers": [
+        "Koei"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Genres": [
+        "Strategy"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Sangokushi II",
+        "Romance of the Three Kingdoms II",
+        "三国志２",
+        "三国志II",
+        "Romance of the Three Kingdoms 2"
+      ],
+      "Sha1": "25ffc7e8ca90274566c31e10b5998cca6522673a",
+      "Crc32": "c89b93b5",
+      "SetNames": {
+        "No-Intro": [
+          "Sangokushi II (Japan)"
+        ],
+        "MESS": [
+          "sangoku2"
+        ],
+        "TGDB": [
+          "36295"
+        ]
+      },
+      "OverviewId": 68,
+      "Size": 1048576,
+      "Publishers": [
+        "Koei",
+        "Koei Co., Ltd."
+      ],
+      "Developers": [
+        "Koei"
+      ],
+      "ReleaseDate": "1/1/1991",
+      "Genres": [
+        "Strategy"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Scramble Formation"
+      ],
+      "Sha1": "24384e63bfe450bce6abd327eae3e27969025379",
+      "Crc32": "226795e0",
+      "SetNames": {
+        "No-Intro": [
+          "Scramble Formation (Japan)"
+        ],
+        "MESS": [
+          "scramble"
+        ],
+        "TGDB": [
+          "49260"
+        ]
+      },
+      "OverviewId": 69,
+      "Size": 262144,
+      "Publishers": [
+        "Taito",
+        "Taito Corporation"
+      ],
+      "Developers": [
+        "Taito Corporation"
+      ],
+      "ReleaseDate": "8/28/1987",
+      "Genres": [
+        "Action"
+      ],
+      "Regions": [
+        "JP"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Seikima II Special - Akuma no Gyakushuu"
+      ],
+      "Sha1": "c74a5a6164536750d6b3ea90e19798ab6fad79d7",
+      "Crc32": "e37b681e",
+      "SetNames": {
+        "No-Intro": [
+          "Seikima II Special - Akuma no Gyakushuu (Japan)"
+        ],
+        "MESS": [
+          "seikima2"
+        ]
+      },
+      "Size": 131072,
+      "Publishers": [
+        "Sony"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Seikima II Special - Akuma no Gyakushuu"
+      ],
+      "Sha1": "510f6d854f813269f67ee15a4cc2ed77d96d2903",
+      "Crc32": "816aceb5",
+      "SetNames": {
+        "No-Intro": [
+          "Seikima II Special - Akuma no Gyakushuu (Japan) (Alt 1)"
+        ]
+      },
+      "Size": 131072,
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Shanghai"
+      ],
+      "Sha1": "77d95640c80bc4868d04a913f9dbf4b5f6d877d2",
+      "Crc32": "3b815dc6",
+      "SetNames": {
+        "No-Intro": [
+          "Shanghai (Japan)"
+        ]
+      },
+      "Size": 131072,
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Shiryou Sensen - War of the Dead",
+        "Shiryou Sensen: War of The Dead",
+        "War of the dead",
+        "死霊戦線"
+      ],
+      "Sha1": "3194153a9c93aa24b37804a764f112bdef091bf8",
+      "Crc32": "39e1c37a",
+      "SetNames": {
+        "No-Intro": [
+          "Shiryou Sensen - War of the Dead (Japan)"
+        ],
+        "MESS": [
+          "shiryo"
+        ],
+        "TGDB": [
+          "33862"
+        ]
+      },
+      "OverviewId": 70,
+      "Size": 262144,
+      "Publishers": [
+        "Victor Music Industry",
+        "Victor Interactive Software, Inc."
+      ],
+      "Developers": [
+        "Victor Interactive Software, Inc."
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Genres": [
+        "Action",
+        "Adventure",
+        "Role-Playing"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Space Manbow",
+        "スペースマンボウ"
+      ],
+      "Sha1": "f6199f48ff994fc9a8e33a8581bb3bb16dd301ab",
+      "Crc32": "27405eed",
+      "SetNames": {
+        "No-Intro": [
+          "Space Manbow (Japan)"
+        ],
+        "TGDB": [
+          "27101"
+        ]
+      },
+      "OverviewId": 71,
+      "Size": 262144,
+      "Publishers": [
+        "Konami"
+      ],
+      "Developers": [
+        "Konami"
+      ],
+      "ReleaseDate": "12/21/1989",
+      "Genres": [
+        "Shooter"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Star Virgin"
+      ],
+      "Sha1": "2bfa08db95502ee9bde61c5fe7b6557c0e4aef5a",
+      "Crc32": "441fc425",
+      "SetNames": {
+        "No-Intro": [
+          "Star Virgin (Japan) (Alt 1)"
+        ],
+        "TGDB": [
+          "33917"
+        ]
+      },
+      "OverviewId": 72,
+      "Size": 131072,
+      "Publishers": [
+        "Pony Canyon, Inc."
+      ],
+      "Developers": [
+        "Marionette"
+      ],
+      "ReleaseDate": "1/1/1988",
+      "Genres": [
+        "Action"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Star Virgin"
+      ],
+      "Sha1": "2fc050dbc44ba9dfb72299129d48e5e5e1c892c3",
+      "Crc32": "cbdfcc35",
+      "SetNames": {
+        "No-Intro": [
+          "Star Virgin (Japan)"
+        ],
+        "TGDB": [
+          "33917"
+        ]
+      },
+      "OverviewId": 72,
+      "Size": 131072,
+      "Publishers": [
+        "Pony Canyon, Inc."
+      ],
+      "Developers": [
+        "Marionette"
+      ],
+      "ReleaseDate": "1/1/1988",
+      "Genres": [
+        "Action"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Strategic Mars"
+      ],
+      "Sha1": "dc56cff1211bacd94f59e188e44a58d6f40a0c26",
+      "Crc32": "4a3abb65",
+      "SetNames": {
+        "No-Intro": [
+          "Strategic Mars (Japan)"
+        ],
+        "MESS": [
+          "stramars"
+        ]
+      },
+      "Size": 131072,
+      "Publishers": [
+        "db-Soft"
+      ],
+      "ReleaseDate": "1/1/1989",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Suikoden - Tenmei no Chikai",
+        "Bandit Kings of Ancient China",
+        "水滸伝天命の誓い",
+        "Suikoden: Tenmei no Chikai"
+      ],
+      "Sha1": "de251a0af1df3be18469578dc00d414e572ee33e",
+      "Crc32": "187d3a21",
+      "SetNames": {
+        "No-Intro": [
+          "Suikoden - Tenmei no Chikai (Japan)"
+        ],
+        "MESS": [
+          "suikoden"
+        ],
+        "TGDB": [
+          "36297"
+        ]
+      },
+      "OverviewId": 73,
+      "Size": 524288,
+      "Publishers": [
+        "Koei",
+        "Koei Co., Ltd."
+      ],
+      "Developers": [
+        "Koei"
+      ],
+      "ReleaseDate": "1/1/1989",
+      "Genres": [
+        "Strategy"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Super Daisenryaku",
+        "スーパー大戦略",
+        "Super Risk",
+        "Super大戦略"
+      ],
+      "Sha1": "d1cc2a77fb17608d542c50e2a1404cf5b4231521",
+      "Crc32": "8df9945a",
+      "SetNames": {
+        "No-Intro": [
+          "Super Daisenryaku (Japan)"
+        ],
+        "MESS": [
+          "supdaisn"
+        ],
+        "TGDB": [
+          "36573"
+        ]
+      },
+      "OverviewId": 74,
+      "Size": 262144,
+      "Publishers": [
+        "Micro Cabin",
+        "Micro Cabin Corp."
+      ],
+      "Developers": [
+        "SystemSoft Alpha"
+      ],
+      "ReleaseDate": "1/1/1988",
+      "Genres": [
+        "Strategy"
+      ],
+      "Regions": [
+        "JP"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Super Load Runner"
+      ],
+      "Sha1": "4164dcdfe0613d0f4c53b6f3581548bbbad5eb43",
+      "Crc32": "80ecac11",
+      "SetNames": {
+        "No-Intro": [
+          "Super Load Runner (Japan)"
+        ]
+      },
+      "Size": 131072,
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Super Rambo Special",
+        "ランボー",
+        "Rambo"
+      ],
+      "Sha1": "2a3c7ad70e34989fa5170028bad760e65ebe9d57",
+      "Crc32": "b2392ef3",
+      "SetNames": {
+        "No-Intro": [
+          "Super Rambo Special (Japan)"
+        ],
+        "TGDB": [
+          "36551"
+        ]
+      },
+      "OverviewId": 75,
+      "Size": 131072,
+      "Publishers": [
+        "Pack-In-Video Co., Ltd"
+      ],
+      "Developers": [
+        "Pack-In-Video Co., Ltd"
+      ],
+      "ReleaseDate": "1/1/1986",
+      "Genres": [
+        "Action",
+        "Shooter",
+        "Stealth"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Super Runner",
+        "すーぱーらんなー"
+      ],
+      "Sha1": "3202af113265e67e130a0b948dc167a9f9e9cc79",
+      "Crc32": "5a5be701",
+      "SetNames": {
+        "No-Intro": [
+          "Super Runner (Japan)"
+        ],
+        "MESS": [
+          "srunner"
+        ],
+        "TGDB": [
+          "36270"
+        ]
+      },
+      "OverviewId": 76,
+      "Size": 131072,
+      "Publishers": [
+        "Pony Canyon",
+        "Pony Canyon, Inc."
+      ],
+      "Developers": [
+        "Pony Canyon"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Genres": [
+        "Fighting"
+      ],
+      "Regions": [
+        "JP"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Super Tritorn",
+        "Super Triton",
+        "スーパートリトーン"
+      ],
+      "Sha1": "795d47c6aae378d0d5bedc9f104a597bcc1ee16b",
+      "Crc32": "cbb00ef1",
+      "SetNames": {
+        "No-Intro": [
+          "Super Tritorn (Japan)"
+        ],
+        "MESS": [
+          "striton"
+        ],
+        "TGDB": [
+          "36271"
+        ]
+      },
+      "OverviewId": 77,
+      "Size": 131072,
+      "Publishers": [
+        "Xain Soft",
+        "Sein Soft Inc."
+      ],
+      "Developers": [
+        "Sein-Soft"
+      ],
+      "ReleaseDate": "1/1/1986",
+      "Genres": [
+        "Role-Playing"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Synthe Saurus"
+      ],
+      "Sha1": "cf088b4eefe7f426e438dd2fe7a3433140abba52",
+      "Crc32": "7122e8e3",
+      "SetNames": {
+        "No-Intro": [
+          "Synthe Saurus (Japan) (Program)"
+        ]
+      },
+      "Size": 65536,
+      "Regions": [
+        "JP"
+      ],
+      "Tags": [
+        "APPLICATION"
+      ]
+    },
+    {
+      "Titles": [
+        "Taiyou no Shinden - Asteka II"
+      ],
+      "Sha1": "414fd2a22076f45502c2329b45bda9f8730dcaae",
+      "Crc32": "ae82a874",
+      "SetNames": {
+        "No-Intro": [
+          "Taiyou no Shinden - Asteka II (Japan)"
+        ],
+        "MESS": [
+          "asteka2"
+        ]
+      },
+      "Size": 262144,
+      "Publishers": [
+        "Nihon Falcom"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Tanikawa Hiroshi no Shougi Shinan 2"
+      ],
+      "Sha1": "39d500fbf22168be2a12ac89ff5a50131bb1c30b",
+      "Crc32": "f640670c",
+      "SetNames": {
+        "No-Intro": [
+          "Tanikawa Hiroshi no Shougi Shinan 2 (Japan)"
+        ]
+      },
+      "Size": 131072,
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Teitoku no Ketsudan"
+      ],
+      "Sha1": "b2ce0bc86f82f727db956dfbbe2a3fd0cb72f5fc",
+      "Crc32": "c31f459c",
+      "SetNames": {
+        "No-Intro": [
+          "Teitoku no Ketsudan (Japan)"
+        ],
+        "MESS": [
+          "teiketsu"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Koei"
+      ],
+      "ReleaseDate": "1/1/1991",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Tengoku Yoitoko"
+      ],
+      "Sha1": "00c70cf37c71cb8f99567ae407ff6dd52c4774c2",
+      "Crc32": "7e637801",
+      "SetNames": {
+        "No-Intro": [
+          "Tengoku Yoitoko (Japan)"
+        ],
+        "MESS": [
+          "tengoku"
+        ]
+      },
+      "Size": 131072,
+      "Publishers": [
+        "Taito"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Tetris"
+      ],
+      "Sha1": "af310ee21b5534f32ea92c0ae34a44d828d157a7",
+      "Crc32": "aa598dfd",
+      "SetNames": {
+        "No-Intro": [
+          "Tetris (Japan)"
+        ],
+        "MESS": [
+          "tetris"
+        ]
+      },
+      "Size": 131072,
+      "Publishers": [
+        "BPS"
+      ],
+      "ReleaseDate": "1/1/1988",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Topple Zip",
+        "トップルジップ"
+      ],
+      "Sha1": "e3036a7bc6ed3ece1c85d5e37fb2ff39ba98ba47",
+      "Crc32": "96b33497",
+      "SetNames": {
+        "No-Intro": [
+          "Topple Zip (Japan)"
+        ],
+        "MESS": [
+          "topzip"
+        ],
+        "TGDB": [
+          "36280"
+        ]
+      },
+      "OverviewId": 78,
+      "Size": 131072,
+      "Publishers": [
+        "Bothtec"
+      ],
+      "Developers": [
+        "Bothtec"
+      ],
+      "ReleaseDate": "1/1/1988",
+      "Genres": [
+        "Action"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Treasure of Usas, The"
+      ],
+      "Sha1": "632cb0834441626d20cc113cfad2e3a7ec0e0dc7",
+      "Crc32": "1f1f1f26",
+      "SetNames": {
+        "No-Intro": [
+          "Treasure of Usas, The (Japan, Europe) (Alt 1)"
+        ]
+      },
+      "Size": 131072,
+      "Regions": [
+        "JP",
+        "EU"
+      ]
+    },
+    {
+      "Titles": [
+        "Treasure of Usas, The"
+      ],
+      "Sha1": "4ff2aad8371e382e203c7f29b665612a8c9d937c",
+      "Crc32": "30396650",
+      "SetNames": {
+        "No-Intro": [
+          "Treasure of Usas, The (Japan, Europe)"
+        ]
+      },
+      "Size": 131072,
+      "Regions": [
+        "JP",
+        "EU"
+      ]
+    },
+    {
+      "Titles": [
+        "Tsurikichi Sanpei - Blue Marine Hen"
+      ],
+      "Sha1": "338460029d65ebce0d9119d811187a35c866a958",
+      "Crc32": "ff7395a3",
+      "SetNames": {
+        "No-Intro": [
+          "Tsurikichi Sanpei - Blue Marine Hen (Japan)"
+        ]
+      },
+      "Size": 131072,
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Tsurikichi Sanpei - Tsuri Sennin Hen"
+      ],
+      "Sha1": "108e9164ef6cf1ffe6e3c5303bfbbc3bd807b6df",
+      "Crc32": "24238b21",
+      "SetNames": {
+        "No-Intro": [
+          "Tsurikichi Sanpei - Tsuri Sennin Hen (Japan)"
+        ]
+      },
+      "Size": 262144,
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Ultima Exodus"
+      ],
+      "Sha1": "18be429f8b5c7bc4775c99292110aa09341cd644",
+      "Crc32": "37b9e10f",
+      "SetNames": {
+        "No-Intro": [
+          "Ultima Exodus (Japan)"
+        ],
+        "MESS": [
+          "ultima3"
+        ]
+      },
+      "Size": 262144,
+      "Publishers": [
+        "Pony Canyon"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Urusei Yatsura - Koi no Survival Birthday",
+        "Urusei Yatsura"
+      ],
+      "Sha1": "92bada2d019fcd6eee6d332a8068a9ddfa30d518",
+      "Crc32": "e564a25f",
+      "SetNames": {
+        "No-Intro": [
+          "Urusei Yatsura - Koi no Survival Birthday (Japan)"
+        ],
+        "MESS": [
+          "uruseiya"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Micro Cabin"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Vampire Killer",
+        "悪魔城ドラキュラ",
+        "Castlevania",
+        "Devil's Castle Dracula"
+      ],
+      "Sha1": "e78511a2b8cca37a96aa396c938863c92a20c797",
+      "Crc32": "217935d0",
+      "SetNames": {
+        "No-Intro": [
+          "Vampire Killer (Japan, Europe) (Alt 3)"
+        ],
+        "TGDB": [
+          "27106"
+        ]
+      },
+      "OverviewId": 79,
+      "Size": 131072,
+      "Publishers": [
+        "Konami"
+      ],
+      "Developers": [
+        "Konami"
+      ],
+      "ReleaseDate": "10/30/1986",
+      "Genres": [
+        "Action",
+        "Adventure",
+        "Platform"
+      ],
+      "Regions": [
+        "JP",
+        "EU"
+      ]
+    },
+    {
+      "Titles": [
+        "Vampire Killer",
+        "悪魔城ドラキュラ",
+        "Castlevania",
+        "Devil's Castle Dracula"
+      ],
+      "Sha1": "5460a88c25386b1b950b57fc1325fd75587cc825",
+      "Crc32": "0aedea40",
+      "SetNames": {
+        "No-Intro": [
+          "Vampire Killer (Japan, Europe) (Alt 1)"
+        ],
+        "TGDB": [
+          "27106"
+        ]
+      },
+      "OverviewId": 79,
+      "Size": 131072,
+      "Publishers": [
+        "Konami"
+      ],
+      "Developers": [
+        "Konami"
+      ],
+      "ReleaseDate": "10/30/1986",
+      "Genres": [
+        "Action",
+        "Adventure",
+        "Platform"
+      ],
+      "Regions": [
+        "JP",
+        "EU"
+      ]
+    },
+    {
+      "Titles": [
+        "Vampire Killer",
+        "悪魔城ドラキュラ",
+        "Castlevania",
+        "Devil's Castle Dracula"
+      ],
+      "Sha1": "b58e77f819dfbde72845801cff4b4e0a2f20ef5f",
+      "Crc32": "038c250d",
+      "SetNames": {
+        "No-Intro": [
+          "Vampire Killer (Japan, Europe) (Alt 2)"
+        ],
+        "TGDB": [
+          "27106"
+        ]
+      },
+      "OverviewId": 79,
+      "Size": 131072,
+      "Publishers": [
+        "Konami"
+      ],
+      "Developers": [
+        "Konami"
+      ],
+      "ReleaseDate": "10/30/1986",
+      "Genres": [
+        "Action",
+        "Adventure",
+        "Platform"
+      ],
+      "Regions": [
+        "JP",
+        "EU"
+      ]
+    },
+    {
+      "Titles": [
+        "Vampire Killer",
+        "悪魔城ドラキュラ",
+        "Castlevania",
+        "Devil's Castle Dracula"
+      ],
+      "Sha1": "5ef7d03b138a2023f6def241b671c666f97ed83b",
+      "Crc32": "5953d084",
+      "SetNames": {
+        "No-Intro": [
+          "Vampire Killer (Japan, Europe)"
+        ],
+        "TGDB": [
+          "27106"
+        ]
+      },
+      "OverviewId": 79,
+      "Size": 131072,
+      "Publishers": [
+        "Konami"
+      ],
+      "Developers": [
+        "Konami"
+      ],
+      "ReleaseDate": "10/30/1986",
+      "Genres": [
+        "Action",
+        "Adventure",
+        "Platform"
+      ],
+      "Regions": [
+        "JP",
+        "EU"
+      ]
+    },
+    {
+      "Titles": [
+        "Victorious Nine II - Koukou Yakyuu Hen"
+      ],
+      "Sha1": "7ed1308179c41ae62cfb46124ab0ce22d8b0513b",
+      "Crc32": "94ebc319",
+      "SetNames": {
+        "No-Intro": [
+          "Victorious Nine II - Koukou Yakyuu Hen (Japan)"
+        ],
+        "MESS": [
+          "victnin2"
+        ]
+      },
+      "Size": 131072,
+      "Publishers": [
+        "Nidecom"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Wizardry"
+      ],
+      "Sha1": "34635bf3518c7b33164f3d96da769c7a01102d28",
+      "Crc32": "08a5ca60",
+      "SetNames": {
+        "No-Intro": [
+          "Wizardry (Japan)"
+        ]
+      },
+      "Size": 524288,
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Woody Poco"
+      ],
+      "Sha1": "f2361230358bd945690ca1c2a9dcc1cbce83941b",
+      "Crc32": "d1621bae",
+      "SetNames": {
+        "No-Intro": [
+          "Woody Poco (Japan) (Alt 1)"
+        ]
+      },
+      "Size": 131072,
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Woody Poco"
+      ],
+      "Sha1": "ebe20c85c5314957fafc223c26bf393847e3bb03",
+      "Crc32": "aea8d064",
+      "SetNames": {
+        "No-Intro": [
+          "Woody Poco (Japan)"
+        ],
+        "MESS": [
+          "woodypoc"
+        ]
+      },
+      "Size": 131072,
+      "Publishers": [
+        "dB-Soft"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Xevious - Fardraut Saga"
+      ],
+      "Sha1": "f84d7fc089b31440cac1f4fbee3d45b2f6c90e37",
+      "Crc32": "97591725",
+      "SetNames": {
+        "No-Intro": [
+          "Xevious - Fardraut Saga (Japan)"
+        ],
+        "MESS": [
+          "xevious"
+        ]
+      },
+      "Size": 262144,
+      "Publishers": [
+        "Namco"
+      ],
+      "ReleaseDate": "1/1/1989",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Xevious - Fardraut Saga"
+      ],
+      "Sha1": "ab3f375b6890b2a9bb1b6124f0fa690950c749f2",
+      "Crc32": "21489e1d",
+      "SetNames": {
+        "No-Intro": [
+          "Xevious - Fardraut Saga (Japan) (Alt 1)"
+        ]
+      },
+      "Size": 262144,
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Yaksa"
+      ],
+      "Sha1": "3e57fad130be79223068ab29f1e77ecb7f2ad237",
+      "Crc32": "ff974ee3",
+      "SetNames": {
+        "No-Intro": [
+          "Yaksa (Japan)"
+        ],
+        "MESS": [
+          "yaksa"
+        ]
+      },
+      "Size": 262144,
+      "Publishers": [
+        "Wolf Team"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Yamamura Misa Suspense - Kyoto Ryuu no Tera Satsujinjiken",
+        "Yamamura Misa Suspense - Kyouto Ryuu no Tera Satsujin Jiken"
+      ],
+      "Sha1": "f9486dd810d6321bad4bc9d7703a67d630167f98",
+      "Crc32": "dcb1a61e",
+      "SetNames": {
+        "No-Intro": [
+          "Yamamura Misa Suspense - Kyoto Ryuu no Tera Satsujinjiken (Japan)"
+        ],
+        "MESS": [
+          "yamaskrt"
+        ]
+      },
+      "Size": 262144,
+      "Publishers": [
+        "Taito"
+      ],
+      "ReleaseDate": "1/1/1988",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Yuurei-kun",
+        "Yuureikun",
+        "幽霊君",
+        "Mr. Ghost"
+      ],
+      "Sha1": "efed48854beb2803d9f2b5644edff2aacf7c6af9",
+      "Crc32": "712ae3c6",
+      "SetNames": {
+        "No-Intro": [
+          "Yuurei-kun (Japan)"
+        ],
+        "MESS": [
+          "yuurei"
+        ],
+        "TGDB": [
+          "35657"
+        ]
+      },
+      "OverviewId": 80,
+      "Size": 262144,
+      "Publishers": [
+        "System Sacom"
+      ],
+      "Developers": [
+        "System Sacom"
+      ],
+      "ReleaseDate": "1/1/1989",
+      "Genres": [
+        "Action",
+        "Platform"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Zanac Ex"
+      ],
+      "Sha1": "23e702084e3031158a50a0560746767bbc1b7bee",
+      "Crc32": "d153b2f2",
+      "SetNames": {
+        "No-Intro": [
+          "Zanac Ex (Japan)"
+        ],
+        "MESS": [
+          "zanacex"
+        ]
+      },
+      "Size": 131072,
+      "Publishers": [
+        "Pony"
+      ],
+      "ReleaseDate": "1/1/1986",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Zanac Ex"
+      ],
+      "Sha1": "9200fd6f1e92f78e3d9c6d082837f719ad0500d4",
+      "Crc32": "089c8164",
+      "SetNames": {
+        "No-Intro": [
+          "Zanac Ex (Japan) (Alt 1)"
+        ]
+      },
+      "Size": 131072,
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Zoids - Chuuou Tairiku no Tatakai"
+      ],
+      "Sha1": "d526249c1a35cf1174300df75bc28662f579290a",
+      "Crc32": "2605031e",
+      "SetNames": {
+        "No-Intro": [
+          "Zoids - Chuuou Tairiku no Tatakai (Japan)"
+        ],
+        "MESS": [
+          "zoids"
+        ]
+      },
+      "Size": 131072,
+      "Publishers": [
+        "Toshiba EMI"
+      ],
+      "ReleaseDate": "1/1/1988",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Zombie Hunter"
+      ],
+      "Sha1": "a322d4e572467be5e1b452214143f88db526b49f",
+      "Crc32": "a29e6ab4",
+      "SetNames": {
+        "No-Intro": [
+          "Zombie Hunter (Japan)"
+        ],
+        "TGDB": [
+          "49311"
+        ]
+      },
+      "OverviewId": 81,
+      "Size": 131072,
+      "Publishers": [
+        "Victor Entertainment"
+      ],
+      "Developers": [
+        "Hi-Score"
+      ],
+      "ReleaseDate": "9/2/1988",
+      "Genres": [
+        "Adventure"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Zukkoke Yajikita Onmitsu Douchuu"
+      ],
+      "Sha1": "094d11ebf8a20b6bfc07902c7f136bdd18b1e7ca",
+      "Crc32": "d0ececc6",
+      "SetNames": {
+        "No-Intro": [
+          "Zukkoke Yajikita Onmitsu Douchuu (Japan)"
+        ],
+        "MESS": [
+          "zukkoke"
+        ]
+      },
+      "Size": 131072,
+      "Publishers": [
+        "HAL Kenkyuujo"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Zukkoke Yajikita Onmitsu Douchuu"
+      ],
+      "Sha1": "06c527db4fbe929b4da005e7463078c05944f477",
+      "Crc32": "4968e84e",
+      "SetNames": {
+        "No-Intro": [
+          "Zukkoke Yajikita Onmitsu Douchuu (Japan) (Alt 1)"
+        ]
+      },
+      "Size": 131072,
+      "Regions": [
+        "JP"
+      ]
+    }
+  ],
+  "Overviews": {
+    "1": {
+      "en": "1942 is a vertically scrolling shooter for one or two players. The year is 1942, and you are a daring fighter pilot \"Super Ace\". You begin and end each of the numerous levels on an aircraft carrier and then fly your plane into battle against the enemy over both sea and land. After destroying certain plane formations you can collect several different power ups to increase your fire power and chances of survival."
+    },
+    "2": {
+      "en": "The player flies a BD5J, a small agile jet. The player has to complete a series of eight stunt courses and routines with the jet. For example, in one set, the player has to fly the plane around a series of pylons. In another, the player must fly a figure eight. Stunts get harder as play progresses. Some game parameters, such as weather, are configurable.\r\nThere are ten acrobatic events which can be played by up to four players at four levels of difficulty. In all ten events the player must fly over a series of obstacles."
+    },
+    "3": {
+      "en": "Your planet has been overrun by the meanest mutant vegetation ever created in a genetics laboratory. It's taken over buildings, labs, fighter craft... even people! And it's getting bigger... and meaner... with each passing second. But it hasn't taken over you. Now, you're going in on a mission to deliver a POWER STRIKE! You have a special attack ship with the ability to use weapons you free from the ground. The action is hot and heavy. The enemy is coming faster than you could ever believe! So fight hard and fast. If you don't turn the mutated vegetation into a giant tossed salad, they'll turn you into toast!"
+    },
+    "4": {
+      "en": "Eons have passed... yet despite apparent annihilation in the original ARKANOID game, Dimension-controlling force DOH has come back to life, and occupying the huge spacecraft ZARG, has entered our universe. ARKANOID-type spacefighter MIXTEC runs through long forgotten computer data until it finds the answer to this threat... VAUS 2 is launched and speeds towards the threatening alien presence, before it can extract its revenge... \"The Revenge of Doh\"!"
+    },
+    "5": {
+      "en": "The evil Banutracus had destroyed the great civilization of the planet Nepenthus and brought it down to a primitive state. War broke out between the planet's humble Eletrian people and Banutracus's barbarous Cooligan invaders. After a long struggle, the Eletrians got united under the powerful leadership of one they called the father and managed to obtain a momentary peace. Howerver, when Banutracus returned to his planet he killed the father and re-established his hold. One Cooligan Gea saw the evil nature of Banutracus and escaped with the father's only daughter Neshah to one of the great ruined Eletrian cities. There, they had a son. When the boy grew to be a strong young man, one of the Cooligan soldiers discovered their hideout and killed his escaped parents. From that day, the boy swore vengeance on Banutracus and to eventually restore peace to the planet.”"
+    },
+    "6": {
+      "en": "The time had come to put an end to the long and unproductive battle. This was brought about by the Azumural, the third race that came from the heavens.  While both countries were fighting, the Azumural steadily developed their scientific capabilities and in the end even acquired aviation technology. They got to know about the world beyond the Ring. Because of their brutal nature they made a temporary alliance with the Ghouls and invaded Eletria. The balance of fight largely deteriorated and the Eletrians barricaded themselves in the last remaining fortress Nesha Castle"
+    },
+    "7": {
+      "en": "Japanese top-down RPG"
+    },
+    "8": {
+      "en": "In the game, each player controls one of the two Bubble Dragons, Bub and Bob. The player can move along platforms, as well as jump to those above and to the side, similar to most platform games.\r\n\r\nThe player can also blow bubbles. These can trap enemies, who are defeated if the bubble is then burst by the player's spiny back. The bubbles also float for a time before bursting, and can be jumped on, allowing access to otherwise inaccessible areas. Players progress to the next level once all enemies on the current level are defeated."
+    },
+    "9": {
+      "en": "The Cockpit is a Simulation game, developed and published by Taito Corporation, which was released in Japan in 1988."
+    },
+    "10": {
+      "en": "The universe teeters on the brink of total annihilation at the hands of the vile alien warmonger, Red Falcon. Earth's only hope rests with you, a courageous member of the Special Forces elite commando squad. Your mission: Battle deep into the deadly Amazon jungle, where the Red Falcon and his galactic henchmen have transformed ancient Mayan temples into awesome monuments dedicated to mass destruction. A multitude of weapons, from rapid-fire machine guns to high-tech lasers are at your disposal as you sweat blood, fighting past 3-D mazes, underground security systems, and tropical forests surrounded by giant waterfalls and alien cannons. This is the ultimate test for the ultimate guerilla warrior. And if you survive, Earth survives!"
+    },
+    "11": {
+      "en": "Japanese RPG"
+    },
+    "12": {
+      "en": "he Franco family used to be one of the influential houses of Portugal. That is until the head of the family sailed out of a disastrous voyage to find the kingdom of Prester John. The disarray that followed brought about an end to the nobility of the Franco name. 100 years have passed and Portugal has prospered through it's sailing and trading empires. Young Leon Fanco wishes to restore his family's good name and make a name for himself as a sailor. At the heart of his ambition is the fair lady, Christiana, who is desired by the likely heir to the kingdom. Towards that end, Leon has been working hard to secure finances for his first ship. With the first step of his dream complete, Franco sails out with his father's good friend as first mate, you're off to find fame, adventure and fortunes out on the sea and in uncharted waters.\r\n\r\nUncharted Waters is a sailing and trading simulation. Your goal is initially to sail between ports and trade goods between them to make a profit. Along the way, you may be called upon by merchants and royalty to do specific tasks. Several different nations as well as pirates roam the sea and not all have good relations with one another. You can take as long as you want and explore as much of the world as possible to complete your ultimate task of marrying Christiana, which will require your fame rating to be quite high anyway. Available at most ports is a trader for cargo, a supply station for your crew's food and water as well as repairs, a shipbuilder, an item store and finally a pub for gaining information, crew and gambling.\r\n\r\nAll of the game progresses on an overhead-view, by sea you navigate your fleet by direction and can issue additional orders including landing on any piece of land to search for supplies. A variety of hazards live at sea including storms, other ships, seaweed and simply bad winds and currents."
+    },
+    "13": {
+      "en": "The game takes place within a gigantic spaceship which has virtually infinite capacity because of its ability to manipulate time and space. The player must deal with enigmatic creatures called EVOL, which consist only of pure energy and need to keep themselves in capsules in order to maintain their existence in the world.\r\nAll of the characters in the game are designed to resemble microscopic organisms, both in their appearance and their quick, tricky movements. The player's ship undergoes over 10 types of transformations throughout the game, each with offensive and defensive maneuvers specific to their design. The sound effects used are minimal, but different types of sounds are used according to the type of shots or their speed. A sound resembling a long scream results when the player's ship is hit and returns to its weakest evolutionary state. The game's designer, graphic designer, and music composer, Tomo Furukawa, would go on to become the vocalist of the band Guniw Tools.The game controls like a regular shoot-'em-up: A and C shoot bullets, B drops bombs; there is rapidfire. However, unlike regular shoot-'em-ups where weapons are upgraded through powerups, your ship \"evolves\" to survive situations and get past obstacles. Evolution occurs with the Evol (small faces with an E on them) and B-Evol (darker Evols). Each pickup adds a new evolution state to the list. After a particular amount of time, one evolution wears off and the next evolution is chosen. The DNA powerup does provide a more permanent weapon upgrade, but will merely just make the existing weapons stronger. You can hold up to nine DNA powerups."
+    },
+    "14": {
+      "en": "Deep Forest is a Role-Playing game, developed and published by XAIN, which was released in Japan in 1987."
+    },
+    "15": {
+      "en": "DIRES giger . loop is an Action game, developed and published by Bothtec, which was released in Japan in 1987."
+    },
+    "16": {
+      "en": "Originating in the arcades, Dragon Buster is an action platform game composed out of several large levels, each one containing various stages: a cave, a tower, a castle, etc. The player's goal in every level is to reach the final stage where the protagonist faces the level boss. There are often several ways to reach the final stages, and not all stages are necessary to visit. Equipped with a sword, the player character moves through platform stages, clearing them of diverse monsters, collecting power-ups and trying to stay in good health until the level boss, since it is impossible to heal between the stages. The hero's life meter (called \"vitality\" in the game) is the first introduction of such a feature to action games."
+    },
+    "17": {
+      "en": "All is darkness. The Dragon-lord has captured the Princess and stolen Erdrick's powerful ball of light. You are Erdrick's heir. To you has fallen the most dangerous task - to rescue the King's daughter and recover the mystic ball of light. Search out the Dragon-lord's lair and face your destiny. In this role-playing adventure you are the Dragon Warrior!"
+    },
+    "18": {
+      "en": "Long, long ago, an evil dragon terrorized the forest until it was imprisoned by a powerful wizard. Now, years later, the dragon has revived and it's up to you to use the power of the wizard's descendants, the Draslefamily, to defeat the dragon once again.\r\n\r\nThe whole family takes part in this action adventure as the parents, children and even the family pet search huge dungeons for gold, keys, magic, hidden crowns and finally the magical sword that can destroy the dragon."
+    },
+    "19": {
+      "en": "Inspired by the arcade game Gauntlet,[3] Druid is a fantasy-themed action-adventure game, where the player plays the part of Hasrinaxx, a druid who is trying to rid the world of the dark mage Acamantor and his army of demons. To do this, Hasrinaxx must travel through several levels.\r\n\r\nThe first level is a normal landscape, and the ones after that are underground, each one deeper than the previous. Each level is infested with various enemies such as ghosts, giant insects, witches, and the four demon princes. Hasrinaxx can shoot these enemies with three different weapons: water, fire, and electricity, but they all come in a finite supply and are not equally effective on all enemies. Hasrinaxx can also summon a golem to help him, or turn invisible for a brief period."
+    },
+    "20": {
+      "en": "The general concept is that up to five players can play on any of the 30 bowling lanes available; simulating the concept of being in a bowling league. Players can change their lane positioning, determine how strong the throw is, and even make the ball go through various curves (or even through a straight ball into the pins). Each player character can be either male or female with options for bowling ball weights ranging from 7 pounds or 3.2 kilograms to 15 pounds or 6.8 kilograms."
+    },
+    "21": {
+      "en": "Discover the secrets of The Eidolon, a mysterious 19th century machine crafted of wood and brass, powered by the forces of magic. If you can control the engines of this ancient apparatus, an unseen world is yours to explore. The inventor of this strange device disappeared without a trace over 100 years ago but his sketches and notes describe an underground world populated by curious magical creatures and ferocious Guardian Dragons. Create and capture fireballs of magical energies which can transform them one into another. The powerful forces that propelled The Eidolon and its inventor into another dimension still pulse through its quaint frame, awaiting another daring adventurer to climb into the pilot's chair, touch the controls, and activate its power..."
+    },
+    "22": {
+      "en": "Elthlead is also notable for being the first fantasy SLG game ever developed. While most SLG fans look back to Master of Monsters or Fire Emblem as the origin of the genre, these games were released in 1988 and 1990 respectively.\r\nThe world of Elthlead also introduced the universe that would provide the framework for NCS' later Langrisser series."
+    },
+    "23": {
+      "en": "L'Empereur is a military strategy game. The game takes place during the violent aftermath of the French Revolution and follows the rise and fall of Napoleon Bonaparte who became one of the most popular and charismatic leaders of France.\r\n\r\nThe MSX version was never released out of Japan."
+    },
+    "24": {
+      "en": "The game is an historical simulation of the European and North African theaters of World War II. The game allows up to two players to role-play as Army commanders for either the Axis or Allied forces. This game emphasizes the military aspects of the war and leaves diplomacy to the politicians.\r\n\r\nThe MSX version was never released out of Japan."
+    },
+    "25": {
+      "en": "Shoot and bomb your way around in this Xevious-style shooter for the MSX2."
+    },
+    "26": {
+      "en": "Ring King is a boxing game in which the action in the ring is viewed in a 3D top-down view and a full range of moves is provided, with the standard jabs complimented by body punches and the ability to dodge, duck or raise your guard.\r\n\r\nEach punch weakens your opponent's strength which can slightly recover during a round break. A rain of well placed blows can produce a quick knockout, but normally you must hit your opponent many times before he goes down.\r\n\r\nThe game has three play modes. There is training mode to train your player before you enter a tournament. A ranking mode where you can select one of the three championships, Rookie, Japan and World. Each championship can be played at five difficulty levels. The third mode is the tournament mode. To reach the number one spot in the ranking or tournament mode you must train your boxer well.\r\n\r\nBefore you start you must create your character and set his initial abilities, strength, speed and stamina. Each won bout increases these abilities slightly. The abilities of your opponent and you are visible in the status bar at the top of the screen during the game. Strength is represented with a boxing glove, speed with a shoe and stamina with a dumb bell.\r\n\r\nThis game can be played by one player against the computer or by two players against each other. A password is given after each won bout and it enables you to continue with the next match in a tournament at a later time."
+    },
+    "27": {
+      "en": "Generic Pinball Game"
+    },
+    "28": {
+      "en": "The peasants and commonfolk of Japan are suffering from corrupt officials and insane taxes! With no releif in sight, Ishikawa Goemon takes justice in his own hands, and starts a spree of robberies to steal back the wrongly taken money. Despite earning the title of \"The Great Thief of Edo\", Goemon's efforts on the street are not enought to stop the suffering. Suspecting something fishy at the Feudal Lord's castle, Goemon decides to go confront the the Lord himself and put an end to the corruption."
+    },
+    "29": {
+      "en": "Garyuuou is an Action game, developed and published by XAIN, which was released in Japan in 1987."
+    },
+    "30": {
+      "en": "The excitement of baseball returns to the MSX with Gekitotsu! Pennant Race 2! More teams, more stadiums, more excitement, more action!"
+    },
+    "31": {
+      "en": "A supercomputer called \"Omega\" has kidnapped a valious asset. At your hands the most powerful unit to stand a chance to rescue her."
+    },
+    "32": {
+      "en": "The player must attempt to hack into the Magma, Ltd. computer system at the beginning of the game by guessing the logon password. Access can be gained if the player knows the password, which really only ever becomes apparent to the player after gaining access, through another means of entry, to the later stage of the game. Typing help or h in the command line would give a clue as to what the valid password is. Since initial attempts at entry would consist of guessing (and likely failing) access would eventually be granted to the player due a malfunction in the security system, thus allowing the player entry. Once admittance has been made, the player is then asked to identify various parts of a robot unit, by pointing the cursor at the relevant parts and pressing the fire button. Most parts of the unit have exotic and technical names, such as \"asynchronous data compactor\" or \"phlamson joint\" -- this again, allows for more room of error by initially trying to guessing which part each name belongs to. Failure to identify each part correctly and without any error, forces the player to take a retest until a 100 percent identification is made, at which point, the player is then allowed to continue.\r\nThe player guides this robot, as seen on the Apple II version of the game, through the extensive network of underground tunnels.\r\n\r\nThe player gains control of the robot which can travel around the globe via secret tunnels, deep within the earth. The game's text says the robot is powered in some manner by magma.\r\n\r\nBefore getting far, the player is informed that shredded portions of a secret document containing Magma, Ltd.'s plans for world domination have been stolen. The player is instructed to retrieve the document by bargaining with the spies who stole it, who are located at various locations throughout the globe. The player is warned it must be retrieved in order to prevent the US government from thwarting their plans. At this point, the player's objective is clear: retrieve the strips of the stolen document, but then deliver them to Washington DC.\r\n\r\nThe robot's tunnel system is extensive, but unmarked, so getting around is initially an exercise in trial and error. Throughout the globe, there are several cities where the robot can surface and interact with people, primarily the spies who want to bargain for their piece of the evidence."
+    },
+    "33": {
+      "en": "In our universe matter and anti-matter co-exist with each other. However, prevalence of anti-matter may create chaos and eventually disrupt the normal flow of things. In a corner of a universe, a concentration of anti-matter led to the creation of an entire star, breeding forms of life threatening to destroy the world. Human beings, in an effort to save the universe, created the powerful Andorogynus - a life form capable of being male and female at once - and sent it on a mission to destroy the creation of anti-matter.\r\n\r\nAndorogynus (sic) is a top-down shoot-em-up. The player controls the titular hero(ine), shooting at constantly attacking enemies. Unlike in most games of the type, the screen scrolls down rather than up. The protagonist is equipped with a default single shot and has protective orbs revolving around that damage nearby enemies. The weapon can be enhanced (rapid fire, three-way fire, etc.) by collecting randomly descending power-ups. The player controls the male incarnation of the protagonist initially, but later switches to the female one."
+    },
+    "34": {
+      "en": "Based on the later parts of the Dragonlance book Dragons of Autumn Twilight, the heroes descend into a ruined city in search of the disks of Mishakal.\r\n\r\nThe gameplay consists of horizontal fighting with a maze like map using doors to change the view. The party consists of the 8 Heroes of the Lance, using one at a time and the player can switch between them at any time. Each character has different types of attacks and spells making them more suited to fighting different enemies as well as acting as lives.\r\n\r\nOne of the AD&D games that takes a break from the usual RPG style."
+    },
+    "35": {
+      "en": "Adventure game based on the manga by Motoei Shinzawa with the same name."
+    },
+    "36": {
+      "en": "In the Nara period in Japan (720-752 AD), there lived a sculptor named Gaou, descended from the mad scientist Dr. Saruta. At a young age, he lost an arm and eye, and was soon ridiculed by his peers for it. Eventually, it proved to be too much, and Gaou became a thief. In spite of his corrupt lifestyle, however, he was able to settle down with a wife - for a while, at least. It all came crashing to a halt over one little disagreement, as Gaou cussed her out... and then killed her!\r\n\r\nFilled with remorse, Gaou chose to repent his wicked deeds, and turned to a Buddhist monk for help. The monk's teachings eventually led him to pursue his passion for sculpting, which led to a series of powerful works renowned for the raw emotions pent up inside him that were expressed therein. But it wasn't enough - Gaou needed to be completely reborn! Hearing about the mystical phoenix, who grants those who drink its blood eternal life, from a fellow sculptor named Akanemaru, Gaou set out on a journey to find the great bird of fire... and hopefully to be reincarnated...\r\n\r\nBased on the \"Hō-ō\" (or \"Karma\" volume) of Osamu Tezuka's famous manga Hinotori (or \"Phoenix\"), \"Hinotori\" is a vertically-scrolling shooting game where Gaou's goal is to locate the mystical phoenix across 6 stages of labyrinths, enemies and various other obstacles. As the game progresses, Gaou can power up by obtaining phoenix plumes to activate special weapons and other items to help him gain abilities such as invulnerability and special shots. In order to reach the final boss and pay a visit to the phoenix, Gaou must obtain a series of keys scattered across the stages - and must even backtrack to find others. The game is over when all three lives are gone - or when Gaou has reached the phoenix's lair."
+    },
+    "37": {
+      "en": "Sequel to \"Hole in One\", and \"Hole in One Professional\". This one is for the MSX2 and makes good use of its graphics capabilities."
+    },
+    "38": {
+      "en": "The third entry in the Hydlide series, continuing its action RPG legacy. Character creation allows the player to choose one of the four character classes: Warrior, Thief, Priest, and Monk. In combat, the protagonist uses melee or long-ranged weapons or casts magic spells. Unlike the previous games in the series, the player is required to press the attack button during melee combat, instead of simply \"bumping\" into the enemies. There is an internal clock in the game, which makes it necessary for the protagonist to sleep periodically and regain his strength. The main character also has to eat from time to time, otherwise his hit points will gradually decrease. The morality system from the previous game returns: killing friendly creatures will reduce the player's morality level, which will eventually have an effect on one of the game's most decisive battles."
+    },
+    "39": {
+      "en": "The player takes the role of commando-like warriors named Ralf and Clark, who must try to reach the village of Ikari. Enemy units attempting to kill the player include tanks, enemy soldiers and helicopters. A number of power-ups along the way help the player to achieve victory."
+    },
+    "40": {
+      "en": "Turn based strategy game set during the Bakumatsu period (around 1850 until the Meiji Restoration of 1867). The MSX version was never released out of Japan."
+    },
+    "41": {
+      "en": "The game follows the adventures of \"Sayo-chan\", a young Shinto shrine maiden living in Feudal Japan. One night, while Sayo-chan is fanning a ceremonial fire, she is visited by the Seven Lucky Gods, who warn her of a great, impending danger. Suddenly, a band of mischievous goblins appear and kidnap the gods, quickly retreating to a faraway mountain range. Sayo-chan, determined to help the gods, sets off on a journey across the countryside, where she confronts a number of strange creatures from Japanese mythology, including yokai, obake, and yurei-like monsters. After defeating several powerful goblin leaders, Sayo must battle their leader, the ancient serpent Orochi."
+    },
+    "42": {
+      "en": "A giant ape King Kong, which was shot and fell off the World Trade Center tower, appears to be alive, but is in coma for 10 years and desperately needs a blood transfusion in order to have an artificial heart implanted. Suddenly, in the rainforest, another gigantic ape is found - this time a female. She is brought to the USA, and the heart is successfully implanted. But then King Kong, having sensed the female ape, breaks loose."
+    },
+    "43": {
+      "en": "The ancient Japanese game sh?gi."
+    },
+    "44": {
+      "en": "Japanese board game of Sh?gi"
+    },
+    "45": {
+      "en": "Koronis Rift is a December 1985 computer game from Lucasfilm Games. It was produced and designed by Noah Falstein.[1]\r\n\r\nThe game was supplied on a flippy disk. One side had the Atari version, the other side had the Commodore 64 version. A cassette version was also released for the Commodore 64.[2] The Atari version required computers with the GTIA chip installed in order to display properly.\r\n\r\nKoronis Rift was one of two games in Lucasfilm Games' second wave (December 1985). The other was The Eidolon. Both took advantage of the fractal technology developed for Rescue on Fractalus!, further enhancing it. In Koronis Rift, the Atari 800's additional colors (over those of the Commodore 64) allowed the programmers to gradually fade in the background rather than it suddenly popping in as in Rescue."
+    },
+    "46": {
+      "en": "The player starts this game off controlling the actions of an ordinary citizen on their way to a movie theater. In the south cinema, the player chats with two teenagers about the actual movie at which point a hush descends upon the room and the in-game film begins...where the player learns that they have been chosen to be the thrall of Jareth the Goblin King, who must be overcome to finish the game. A clock ticks down 13 meager hours to complete this task, lest the player's character end up lost in the labyrinth forever."
+    },
+    "47": {
+      "en": "A Lupin III adventure game inspired by the same title anime movie"
+    },
+    "48": {
+      "en": "A video game adaption of Hayao Miyazaki's Lupin III anime film of the same name."
+    },
+    "49": {
+      "en": "Racing game against the clock. At the beginning you can select between six courses (Megacity, Plateau, Alps, Island, Egyptian and Canyon). Your driving a red sports car, and need to avoid other drivers and obstacles. You don't race other drivers.. If you hit objects you tend to explode, apart from water, oil and Motor Cyclists!? where you spin out and can regain control. The gameplay is laggy and the graphics for an MSX2 game are very poor."
+    },
+    "50": {
+      "en": "Japanese romantic adventure game, based on the \"Maison Ikkoku\" manga series."
+    },
+    "51": {
+      "en": "Metal Gear follows Solid Snake, a rookie member of the FOXHOUND special operations unit. He is sent by his superior Big Boss to the fictional South African fortress Outer Heaven, with the goal of finding the missing squad member Gray Fox and investigating a misterious weapon known as Metal Gear."
+    },
+    "52": {
+      "en": "Solid Snake, now retired from Fox-Hound, returns in this sequel to Metal Gear. Dr. Kio Marv, the inventor of OILIX, was taken hostage. The new commander of Fox-Hound, Colonel Roy Campbell, calls Snake back to active duty to infiltrate Zanzibar and rescue Dr. Marv."
+    },
+    "53": {
+      "en": "Japanese RPG\r\n\r\nTwo versions exist, one for the MSX1 and one for the MSX2 with better graphics."
+    },
+    "54": {
+      "en": "Sport competition of judo"
+    },
+    "55": {
+      "en": "The game tells another story in Ninja-kun series. This time it’s a platform game with some twists. There are two tasks alternating through levels: you are required either to kill every enemy in the level (as in the previous games) or simply to reach the exit. Running into enemies usually won’t kill you, however if you are hit by a single projectile, you’ll have to start from a checkpoint. Enemies vary from plain ninjas to giant skeletons or killer fish. Each level has a time limit, and when this limit is close to an end a fire wheel of death will appear on the screen, chasing Ninja-kun.\r\n\r\nNinja-kun has some techniques for successful progression though the levels: many enemies can be temporarily stunned by jumping on them or hitting them from below; and ninja can obtain some power-ups including boomerang, bombs, a devastating fire attack or invincibility. Ninja-kun is capable of wall climbing and wall jumping, the latter requiring some practice from the player.\r\n\r\nThe levels (called “scenes” in-game) are scattered through mountains, caves, beaches and underwater locations. You can choose which set of levels you’ll start in by playing a mini-game at the beginning."
+    },
+    "56": {
+      "en": "Nobunaga no Yabou: Bushou Fuuunroku (信長の野望 武将風雲録) is a simulation game by Koei as part of a series of games based on the life of Nobunaga which itself is part of their Historical Simulation Series. It was first released in 1990 on the NEC PC-88 and then was ported to several other platforms released in Japan, including a port to the MSX in 1991 which was not released outside Japan."
+    },
+    "57": {
+      "en": "Ogre is a 2D turn-based strategy game, and a direct computer conversion of Steve Jackson's board game of supertanks going against conventional infantry with howitzers. It plays exactly like the board game - on a hex-based board one player controls ordinary military units (soldiers, tanks etc.), and defends against the second player, who controls a supertank named \"Ogre\" - Ogre is very powerful, and can easily destroy normal weaponry and ground forces."
+    },
+    "58": {
+      "en": "Pac-Mania is a variation on the game Pac-Man. You need to guide Pac-Man around a maze and eat all of the dots on the board in order to proceed on to the next round. Numerous, multi-colored ghosts also roam the maze trying to stop you. If you eat one of the power pellets in the maze, the ghosts will temporarily turn blue and run from you. Pac-man can earn bonus points by eating the ghosts when they are in this state. The maze is now in 3-D and is larger than screen which will scroll to follow the action. To help get out of tight spots, Pac-Man now has the ability to jump. But be careful, because some of the ghosts have learned this trick as well and you could end up in a mid air collision!"
+    },
+    "59": {
+      "en": "Penguin-Kun and his friend Penpi-chan are playing a game, when suddenly Penpi-chani is kidnapped. Penguin-kun must challenge the world's finest in order to save her, but a greater evil lurks in the unknown."
+    },
+    "60": {
+      "en": "Quarth is a combination of Tetris-style gameplay and a fixed shooter in the Space Invaders tradition."
+    },
+    "61": {
+      "en": "Rastan Saga (ラスタンサーガ), lanzado como Rastan fuera de Japón, es un juego de acción de desplazamiento lateral de temática de fantasía lanzado originalmente para arcades en 1987 por Taito y luego portado a varias plataformas. El jugador controla a un guerrero bárbaro que se ha embarcado en una misión para matar a un dragón. Mientras se dirige a la guarida del dragón, Rastan debe luchar contra las hordas de monstruos enemigos basados ​​en criaturas míticas como las quimeras y las harpías."
+    },
+    "62": {
+      "en": "Relics is an action game, developed by Bothtec and published by Eaglesoft, which was released in Europe in 1986."
+    },
+    "63": {
+      "en": "It is the 22nd century. Earth is invaded by a aliens, led by a gigantic robotic snake. To repel the attack, Earth's scientists construct the Replicart machine, a deadly robot snake. The player takes the role of the pilot of the Replicart.\r\n\r\nReplicart is a single-player only Snake game variant. In each of the 300 stages you have to collect a certain amount of a substance called 'Biteslime'. Once you fulfill your quota you can enter the next stage through an exit that opens on the left side of the screen. Collecting biteslime increases the length of your snake. If the head of your snake hits a wall, an enemy or part of its body you lose a life. Replicart enhances the basic Snake game formula by adding power ups like a Time Stop, which freezes enemies, speed increase/decrease or level warps."
+    },
+    "64": {
+      "en": "The Return of Ishtar is an adventure game that requires two players; it was also the first game from Namco to have a password feature to give players the opportunity to continue from where they left off (and their first to not feature a scoring system). Player 1 controls Princess Ki who fights with magic, while Player 2 controls the sword-wielding Prince Gilgamesh - and this sequel game starts off directly after Gilgamesh has saved Ki from Druaga, and focuses on their escape from the tower (and its inhabitants) who are after Gilgamesh and Ki to avenge their former master. There are a total of 128 rooms in the sixty-floor tower, and the screen will only scroll according to Ki's location, so the second player will have to stay close to his partner if he wishes to look around the rooms; Ki attacks by casting spells at the enemies, while Gilgamesh automatically draws his sword whenever an enemy gets close enough to him. However, each time Gil kills an enemy, the numerator of the fraction in the bottom-right corner of the screen (the denominator starts at 15) decreases by a preset amount depending on what enemy type it was - and if it goes down to 0, he will disappear, and the game will be over for both players (which will also happen if Ki is touched by any enemy at all). There are also several different items that can be found in the rooms and collected to aid Gilgamesh and Ki in their quest; the game's designer, Masanobu End?, also appears unconscious at his desk in the \"Dead End\" room, but if Ki uses the \"Blue Crystal Rod\" spell on him, he will wake up, then proceed to warp her and Gilgamesh to the \"Calvary Prison\" room."
+    },
+    "65": {
+      "en": "Sistema: MSX2\r\nAño: 1987\r\nPaís: Japon\r\nProducido: Softmen\r\nDistribuidora: Carry Lab\r\nCódigo: GA-431, GA-441\r\nGénero: Combate\r\nFormato: Cartucho/Disk\r\nUnidades: 1 MegaRom/1 2DD\r\nMemoria: 128Kb\r\nSonido: PSG"
+    },
+    "66": {
+      "en": "Koei made an incursion into the fantasy worlds of magic with this game.\r\n\r\nSix magicians, each trapped inside a magical gem, are liberated from the crown Gemfire by Princess Robyn, daughter of the tyrannical ruler of Ishmeria, King Eselred. Fleeing across the length and breadth of the island nation, they each choose a leader from the greatest noble houses as their champion to topple Eselred and bring peace to Ishmeria. \r\n\r\nPlayers select one of these noblemen and seek to unite all the provinces under their banner through a combination of warfare and diplomacy."
+    },
+    "67": {
+      "en": "Turn based strategy game based on events of the Three Kingdoms era in China (3rd century). The MSX version was never released out of Japan."
+    },
+    "68": {
+      "en": "Turn based strategy game, sequel to \"Sangokushi\". The MSX version was never released out of Japan."
+    },
+    "69": {
+      "en": "Scramble Formation is a vertical scrolling shooter game released by Taito.\r\nThe player controls a red propeller-driven airplane, flying over the city of Tokyo. He's able to shoot and capture other red, smaller planes, which then will follow the player in formation. The player can choose between 3 formations: the first is able to shoot both air-to-air and air-to-ground projectiles, the second only air-to-air (but on a larger area), the third only air-to-ground (but on a larger area as well). During gameplay, the player should react accordingly to the threats and quickly decide which one of the 3 formation types is more adequate at one given moment.\r\n\r\nThe game is divided in areas, depicting key places in Tokyo, such as Shinjuku, Akasaka, and Ginza. There are no clearly defined \"levels\", but at some points the player is faced by a giant mothership, which can be shot down by hitting its engines."
+    },
+    "70": {
+      "en": "Set in the small town of Chaney's Hill, the game stars Lila, a member of the US Army's team of paranormal investigators: S-SWAT (Supernatural and Special Weapon Attack Team). She's sent to the area after all communications are cut off and an entire company of Marines disappears without a trace.\r\nThe game is indeed a lot like Zelda II, with its overworld map and side-on battles. Except there are no dungeons as such, only a few interior locations such as a school and hospital to explore. The basic premise is that protagonist Lila has to wander the town, rounding up surviving townsfolk and marines, and leading them back to a church."
+    },
+    "71": {
+      "en": "In the year 189 of the stellar calendar, humanity happened upon the ruins of an ancient (and, if the st. 7 decor is anything to go by, rather decadent and malicious) civilization, and sent an archaeological crew to explore them. However, the crew managed to activate the ruins' defense system.\r\n\r\nThe system operated by identifying the Sol system as the intruders' origin, then launched the Sun-Fish (\"Manbou\" being Japanese for \"Sunfish\"), an ultimate weapon bio-mechanical starship capable of destroying an entire solar system and protected by an impregnable force-field bubble. The surviving members of the crew, however, find a chance to stop the Sun-Fish. By using an unearthed Manbou-J (i.e. Junior Sun-Fish) fighter and activating a teleportation system in the deepest part of the ruins, one pilot, Cleaver Mule, can actually get inside the force bubble and destroy the Sun-Fish from there."
+    },
+    "72": {
+      "en": "Star Virgins about as obscure as it comes, its a promotional hour long straight to video film from Japan. That was made to promote a little seen videogame of the same name distributed by Activision that only ever appeared on the long forgotten msx system.\r\n\r\nPlays out pretty much like a bonkers live action anime movie. Its a camp science fiction fantasy comedy about a girl whose secretly the lone fighter of justice Star Virgin, its her pursuit to stop the planet being attacked from robotic & puppet monsters, giant spiders and whatever else would warrant as being an end of level boss in an 80s video game... at least I think thats the overall idea, because its obviously never been translated into English its hard to totally fathom out what the hells going on, but hey thats the beauty of the Japanese movies right.\r\n\r\nStar Virgin herself is every Japanorama fanboys wetdream, shes a cute pink power ranger with her own spacecraft & powerbike and she kicks ass with a bazooka. The whole thing would have made an awesome music video for The Flaming Lips - Yoshimi Battles the Pink Robots (what I'm oddly playing while writing this). Sure its none essential throwaway stuff, but its a fun hour even without knowing what they're saying.\r\n\r\n[Personal Reasons For Remembering]\r\nReally loved the spacecraft scenes complete with their robotic butler drivers and its not every day I get to see a movie featuring a robotic Statue of Liberty and an evil genius who lives on a floating volcanic island."
+    },
+    "73": {
+      "en": "Turn based strategy game, taking place during the 12th century. The MSX version was never released out of Japan."
+    },
+    "74": {
+      "en": "Japanese strategy game"
+    },
+    "75": {
+      "en": "Super Rambo Special is a stealth-action-RPG based on the movie Rambo: First Blood Part 2. It was released for the MSX in 1986 and featured some early stealth elements anticipating Metal Gear."
+    },
+    "76": {
+      "en": "Sports type running game with a twist. This game can be played with two players or against the computer. You need to pick up an object that resembles an American Football and be the first to cross the finish line. The other player needs to try to take the ball from you. For this you can hit and kick each other.\r\n\r\nOn the first level it is just a straight run, there are no objects or enemies to stop you. But on subsequent levels you will need to avoid varies enemies and use your hitting and kicking to break blocks that are in your way. The blocks can fall on your head which stuns you for a few seconds, likewise if you get hit by an enemy. Get hit too often and you die."
+    },
+    "77": {
+      "en": "Real-Time Role Playing Adventure game.\r\n\r\nThe game is a big maze where you need to find objects, primary amongst them seem to be bottles of different colours. The game is laggy, in particular when wielding your weapon. Enemies in the first couple of screens don't seem to do you any real harm. You can kill them typically with a single hit, and you can even walk over them. Killing enemies gives you experience (EXP), and when your experience bar is full your life bar increases (H.P). After a few screens though the enemies suddenly get a lot tougher and can kill you almost immediately."
+    },
+    "78": {
+      "en": "This game exists in both an MSX1 and MSX2 version.\r\n\r\nTopple Zip is a vertically scrolling shooter that is marketed as a racing game. The basic premise is that you control an aircraft and fly in competition against several other, computer controlled crafts. In addition to shooting at your opponents, you may ram into them, and they into you. Doing so may dislodge a pill shaped power-up from them which you can then shoot and collect. \r\n\r\nPower-ups exist in various types, including defensive and offensive such as giving you better weapons. There are eight different levels, each of which contain a number of warps which link to other levels. How the levels connect is random each time you play the game. \r\n\r\nThe goal of the game is to locate a key which is necessary to access the warp which leads to the eight and final level. Collect it from whichever level it is hidden inside of, and access the eighth level before any of your competitors."
+    },
+    "79": {
+      "en": "The Devil lives again - reborn as Dracula! Thrills and suspense in a great adventure. You'll never get to sleep tonight! Dracula is back again. The setting is an ancient castle in the tiny European kingdom of Dransylvania. Devils and demons are on the rampage. Young Simon Belmont stands alone against the forces of darkness threatening the once peaceful kingdom of Dransylvania. Armed with only the mysterious whip bequeathed to him by father, he heads for the Satanic Castle!"
+    },
+    "80": {
+      "en": "Yuureikun is an Action game, developed and published by System Sacom, which was released in Japan in 1989."
+    },
+    "81": {
+      "en": "Sistema: MSX2\r\nAño: 1988\r\nPaís: Japon\r\nProducido: Hi-Score\r\nDistribuidora: Victor\r\nCódigo: M-2013\r\nGénero: Aventura\r\nFormato: Cartucho\r\nUnidades: 1 MegaRom\r\nMemoria: 128Kb\r\nSonido: PSG"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiltedDatabase", "TiltedDatabase\TiltedDatabase.csproj", "{256A9042-B69C-46DB-AE6E-C464E94904AD}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "TiltedDatabaseShared", "TiltedDatabaseShared\TiltedDatabaseShared.shproj", "{AC0B6828-0618-4949-9895-DEA41B27B1EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{256A9042-B69C-46DB-AE6E-C464E94904AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{256A9042-B69C-46DB-AE6E-C464E94904AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{256A9042-B69C-46DB-AE6E-C464E94904AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{256A9042-B69C-46DB-AE6E-C464E94904AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A69B22F2-732D-47CC-A1D7-B184925DE43E}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		TiltedDatabaseShared\TiltedDatabaseShared.projitems*{256a9042-b69c-46db-ae6e-c464e94904ad}*SharedItemsImports = 5
+		TiltedDatabaseShared\TiltedDatabaseShared.projitems*{ac0b6828-0618-4949-9895-dea41b27b1ec}*SharedItemsImports = 13
+	EndGlobalSection
+EndGlobal

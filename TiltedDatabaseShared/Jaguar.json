@@ -1,0 +1,8157 @@
+{
+  "PlatformName": "Jaguar",
+  "LastUpdate": "5/25/2022 3:01:40 AM",
+  "Games": [
+    {
+      "Titles": [
+        "[BIOS] Atari Jaguar"
+      ],
+      "Sha1": "f8991b0c385f4e5002fa2a7e2f5e61e8c5213356",
+      "Crc32": "fb731aaa",
+      "SetNames": {
+        "No-Intro": [
+          "[BIOS] Atari Jaguar (World)"
+        ]
+      },
+      "Size": 131072,
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "BIOS"
+      ]
+    },
+    {
+      "Titles": [
+        "[BIOS] Atari Jaguar CD"
+      ],
+      "Sha1": "73883e7a6e9b132452436f7ab1aeaeb0776428e5",
+      "Crc32": "687068d5",
+      "SetNames": {
+        "No-Intro": [
+          "[BIOS] Atari Jaguar CD (World)"
+        ]
+      },
+      "Size": 262144,
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "BIOS"
+      ]
+    },
+    {
+      "Titles": [
+        "[BIOS] Atari Jaguar Developer CD"
+      ],
+      "Sha1": "d61b7b5912118f114ef00cf44966a5ef62e455a5",
+      "Crc32": "55a0669c",
+      "SetNames": {
+        "No-Intro": [
+          "[BIOS] Atari Jaguar Developer CD (World)"
+        ]
+      },
+      "Size": 262144,
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "BIOS"
+      ]
+    },
+    {
+      "Titles": [
+        "[BIOS] Atari Jaguar Stubulator '93"
+      ],
+      "Sha1": "8377ff6c6527721e2e7f8458314d782925ce4590",
+      "Crc32": "e60277bb",
+      "SetNames": {
+        "No-Intro": [
+          "[BIOS] Atari Jaguar Stubulator '93 (World)"
+        ]
+      },
+      "Size": 131072,
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "BIOS"
+      ]
+    },
+    {
+      "Titles": [
+        "[BIOS] Atari Jaguar Stubulator '94"
+      ],
+      "Sha1": "4f87982b6e16072e58a5653a3f763c8b4b3bffcc",
+      "Crc32": "8d15dbc6",
+      "SetNames": {
+        "No-Intro": [
+          "[BIOS] Atari Jaguar Stubulator '94 (World)"
+        ]
+      },
+      "Size": 131072,
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "BIOS"
+      ]
+    },
+    {
+      "Titles": [
+        "Aircars",
+        "Air Cars",
+        "AirCars"
+      ],
+      "Sha1": "533c497761cc802624708108bc9ef6e7c4f40296",
+      "Crc32": "40e1a1d0",
+      "SetNames": {
+        "No-Intro": [
+          "Aircars (USA)"
+        ],
+        "TOSEC": [
+          "Air Cars (1997)(ICD)"
+        ],
+        "MESS": [
+          "aircars"
+        ],
+        "TGDB": [
+          "22351"
+        ]
+      },
+      "OverviewId": 1,
+      "Size": 2097152,
+      "Publishers": [
+        "ICD",
+        "Midnight Software, Inc."
+      ],
+      "Developers": [
+        "MidNite Software"
+      ],
+      "ReleaseDate": "5/27/1997",
+      "ESRB": "E",
+      "Genres": [
+        "Shooter"
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Aircars",
+        "Air Cars",
+        "AirCars"
+      ],
+      "Sha1": "4e55a5991725a4b557f4daf75a0fa38ec667217a",
+      "Crc32": "53e35744",
+      "SetNames": {
+        "No-Intro": [
+          "Aircars (USA) (Beta) (1994-11-14)"
+        ],
+        "TOSEC": [
+          "Air Cars (1994-11-14)(Midnite Entertainment Group)(US)(beta)"
+        ],
+        "TGDB": [
+          "22351"
+        ]
+      },
+      "OverviewId": 1,
+      "Size": 2097152,
+      "Publishers": [
+        "Midnite Entertainment Group",
+        "Midnight Software, Inc."
+      ],
+      "Developers": [
+        "MidNite Software"
+      ],
+      "ReleaseDate": "5/27/1997",
+      "ESRB": "E",
+      "Genres": [
+        "Shooter"
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "beta"
+      ]
+    },
+    {
+      "Titles": [
+        "Alien vs Predator"
+      ],
+      "Sha1": "fd8c89250ebc1e403838b2e589d1f69e3fe2fe02",
+      "Crc32": "dc187f82",
+      "SetNames": {
+        "No-Intro": [
+          "Alien vs Predator (World)"
+        ],
+        "TOSEC": [
+          "Alien vs Predator (1994)(Atari)"
+        ],
+        "MESS": [
+          "avsp"
+        ]
+      },
+      "Size": 4194304,
+      "Publishers": [
+        "Atari"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Alien vs Predator"
+      ],
+      "Sha1": "80ed1ee5b8acaddfb64a5c0bbda2bfc14bdb5da5",
+      "Crc32": "3153d470",
+      "SetNames": {
+        "No-Intro": [
+          "Alien vs Predator (World) (Beta) (1993-08-18)"
+        ],
+        "TOSEC": [
+          "Alien vs Predator (1993-08-18)(Atari)(beta)"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Atari"
+      ],
+      "ReleaseDate": "8/18/1993",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "beta"
+      ]
+    },
+    {
+      "Titles": [
+        "Alien vs Predator"
+      ],
+      "Sha1": "261667e4aab6239ecf3a416f5c2443bf092735cc",
+      "Crc32": "b4e7bc59",
+      "SetNames": {
+        "No-Intro": [
+          "Alien vs Predator (World) (Beta) (1993-10-13)"
+        ],
+        "TOSEC": [
+          "Alien vs Predator (1993-10-13)(Atari)(beta)"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Atari"
+      ],
+      "ReleaseDate": "10/13/1993",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "beta"
+      ]
+    },
+    {
+      "Titles": [
+        "Alien vs Predator"
+      ],
+      "Sha1": "1189aa22a427d81ea0bd68bf58258c8b1089614b",
+      "Crc32": "e65da590",
+      "SetNames": {
+        "No-Intro": [
+          "Alien vs Predator (World) (Beta) (1994-04-08)"
+        ],
+        "TOSEC": [
+          "Alien vs Predator (1994-04-08)(Atari)(beta)"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Atari"
+      ],
+      "ReleaseDate": "4/8/1994",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "beta"
+      ]
+    },
+    {
+      "Titles": [
+        "Arena Football '95"
+      ],
+      "Sha1": "542063a5b27659781a85821f61e85cd89ea59ab3",
+      "Crc32": "199b9d83",
+      "SetNames": {
+        "No-Intro": [
+          "Arena Football '95 (World)"
+        ],
+        "TOSEC": [
+          "Arena Football '95 (2006)(B&C Computervision)[J9003E 800108-006]"
+        ],
+        "MESS": [
+          "fball95"
+        ]
+      },
+      "Size": 4194304,
+      "Publishers": [
+        "B&C Computervision"
+      ],
+      "ReleaseDate": "1/1/2006",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Atari Karts"
+      ],
+      "Sha1": "9c96e6c2195ce56aa930e677a041b35bd9b8bc7e",
+      "Crc32": "e28756de",
+      "SetNames": {
+        "No-Intro": [
+          "Atari Karts (World)"
+        ],
+        "TOSEC": [
+          "Atari Karts (1995)(Atari)"
+        ],
+        "MESS": [
+          "atarikrt"
+        ],
+        "TGDB": [
+          "3963"
+        ]
+      },
+      "OverviewId": 2,
+      "Size": 4194304,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Miracle Designs"
+      ],
+      "ReleaseDate": "12/20/1995",
+      "ESRB": "E",
+      "Genres": [
+        "Racing"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Atari Karts"
+      ],
+      "Sha1": "1bdaaa42b38f4c93a4aba34930e3ca406ac976c9",
+      "Crc32": "52c996e0",
+      "SetNames": {
+        "No-Intro": [
+          "Atari Karts (World) (Beta)"
+        ],
+        "TOSEC": [
+          "Atari Karts (1995)(Atari)(proto)"
+        ],
+        "TGDB": [
+          "3963"
+        ]
+      },
+      "OverviewId": 2,
+      "Size": 4194304,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Miracle Designs"
+      ],
+      "ReleaseDate": "12/20/1995",
+      "ESRB": "E",
+      "Genres": [
+        "Racing"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "beta",
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "Attack of the Mutant Penguins"
+      ],
+      "Sha1": "01dc37e7a9d03246a93bcb8c6a3116cb6391ed31",
+      "Crc32": "cd5bf827",
+      "SetNames": {
+        "No-Intro": [
+          "Attack of the Mutant Penguins (World)"
+        ],
+        "TOSEC": [
+          "Attack of the Mutant Penguins (1996)(Atari)"
+        ],
+        "MESS": [
+          "mutntpng"
+        ],
+        "TGDB": [
+          "9849"
+        ]
+      },
+      "OverviewId": 3,
+      "Size": 2097152,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Sunrise Games"
+      ],
+      "ReleaseDate": "3/1/1996",
+      "Genres": [
+        "Action",
+        "Puzzle"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Barkley Shut Up and Jam",
+        "Barkley Shut Up and Jam!"
+      ],
+      "Sha1": "18535f5985c840aefce0fa639131cb83a8a647f9",
+      "Crc32": "aea9d831",
+      "SetNames": {
+        "No-Intro": [
+          "Barkley Shut Up and Jam (World)"
+        ],
+        "TOSEC": [
+          "Barkley Shut Up and Jam! (2002)(B&C Computervision)[J9018E 705018-001]"
+        ],
+        "MESS": [
+          "barkley"
+        ]
+      },
+      "Size": 4194304,
+      "Publishers": [
+        "B&C Computervision"
+      ],
+      "ReleaseDate": "1/1/2002",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Barkley Shut Up and Jam",
+        "Barkley Shut Up and Jam!"
+      ],
+      "Sha1": "988897fd517ebd86742971205f3b29f9d70b5686",
+      "Crc32": "3a3b1fd2",
+      "SetNames": {
+        "No-Intro": [
+          "Barkley Shut Up and Jam (World) (Beta)"
+        ],
+        "TOSEC": [
+          "Barkley Shut Up and Jam! (1994)(Accolade)(proto)[b]"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Accolade"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "beta",
+        "Bad Dump",
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "Battle Sphere"
+      ],
+      "Sha1": "8f4c964d2411a52c64eec1d1a3061f77117bb7a6",
+      "Crc32": "5f2c2774",
+      "SetNames": {
+        "No-Intro": [
+          "Battle Sphere (World)"
+        ],
+        "TOSEC": [
+          "Battle Sphere (2000)(ScatoLOGIC)[J9807E]"
+        ],
+        "MESS": [
+          "battlesp"
+        ]
+      },
+      "Size": 4194304,
+      "Publishers": [
+        "ScatoLOGIC"
+      ],
+      "ReleaseDate": "1/1/2000",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Battle Sphere Gold"
+      ],
+      "Sha1": "49716a6a3a4c6abeea36040f26c4e8cf2a545df7",
+      "Crc32": "67f9ab3a",
+      "SetNames": {
+        "No-Intro": [
+          "Battle Sphere Gold (World)"
+        ],
+        "TOSEC": [
+          "Battle Sphere Gold (2002)(ScatoLOGIC)[J0201G]"
+        ],
+        "MESS": [
+          "battlesg"
+        ]
+      },
+      "Size": 4194304,
+      "Publishers": [
+        "ScatoLOGIC"
+      ],
+      "ReleaseDate": "1/1/2002",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Breakout 2000"
+      ],
+      "Sha1": "fe4c35c24be8df92f867b4fb42eb75a3fcc875e8",
+      "Crc32": "b5604d40",
+      "SetNames": {
+        "No-Intro": [
+          "Breakout 2000 (USA, Europe)"
+        ],
+        "TOSEC": [
+          "Breakout 2000 (1996)(Telegames)[J9093E]"
+        ],
+        "MESS": [
+          "breakout"
+        ],
+        "TGDB": [
+          "13358"
+        ]
+      },
+      "OverviewId": 4,
+      "Size": 2097152,
+      "Publishers": [
+        "Telegames",
+        "Telegames, Inc."
+      ],
+      "Developers": [
+        "L4 Software"
+      ],
+      "ReleaseDate": "12/1/1996",
+      "ESRB": "E",
+      "Genres": [
+        "Puzzle"
+      ],
+      "Regions": [
+        "US",
+        "EU"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Breakout 2000"
+      ],
+      "Sha1": "c8f29d04dacce1a83a1c93ab351737795d0f55db",
+      "Crc32": "20dbff9f",
+      "SetNames": {
+        "No-Intro": [
+          "Breakout 2000 (USA, Europe) (Beta)"
+        ],
+        "TOSEC": [
+          "Breakout 2000 (1996)(Telegames)(proto)[xx0327]"
+        ],
+        "TGDB": [
+          "13358"
+        ]
+      },
+      "OverviewId": 4,
+      "Size": 2097152,
+      "Publishers": [
+        "Telegames",
+        "Telegames, Inc."
+      ],
+      "Developers": [
+        "L4 Software"
+      ],
+      "ReleaseDate": "12/1/1996",
+      "ESRB": "E",
+      "Genres": [
+        "Puzzle"
+      ],
+      "Regions": [
+        "US",
+        "EU"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "beta",
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "Brett Hull Hockey",
+        "Brett Hull NHL Hockey"
+      ],
+      "Sha1": "7f21c6de18c46629c0d54e68143d619093b4b8d6",
+      "Crc32": "91095dd3",
+      "SetNames": {
+        "No-Intro": [
+          "Brett Hull Hockey (World)"
+        ],
+        "TOSEC": [
+          "Brett Hull NHL Hockey (2004)(B&C Computervision)[J9021E 705021-002]"
+        ],
+        "MESS": [
+          "bretth"
+        ],
+        "TGDB": [
+          "78831"
+        ]
+      },
+      "OverviewId": 5,
+      "Size": 4194304,
+      "Publishers": [
+        "B&C Computervision",
+        "Accolade, Inc."
+      ],
+      "Developers": [
+        "Ringler Studios"
+      ],
+      "ReleaseDate": "1/9/2004",
+      "Genres": [
+        "Sports"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Brutal Sports Football"
+      ],
+      "Sha1": "cdfefdf28dd9127f7a9425088a1ee3ea88dfb618",
+      "Crc32": "bcb1a4bf",
+      "SetNames": {
+        "No-Intro": [
+          "Brutal Sports Football (World)"
+        ],
+        "TOSEC": [
+          "Brutal Sports Football (1994)(Telegames)[JA100]"
+        ],
+        "MESS": [
+          "brutalsp"
+        ],
+        "TGDB": [
+          "14801"
+        ]
+      },
+      "OverviewId": 6,
+      "Size": 2097152,
+      "Publishers": [
+        "Telegames",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Millennium Interactive Ltd"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Genres": [
+        "Fighting",
+        "Sports"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Bubsy in Fractured Furry Tales"
+      ],
+      "Sha1": "752d6e1ed185f9db49230f42319a573a44e32397",
+      "Crc32": "2e17d5da",
+      "SetNames": {
+        "No-Intro": [
+          "Bubsy in Fractured Furry Tales (World)"
+        ],
+        "TOSEC": [
+          "Bubsy in Fractured Furry Tales (1994)(Atari)"
+        ],
+        "MESS": [
+          "bubsy"
+        ],
+        "TGDB": [
+          "3964"
+        ]
+      },
+      "OverviewId": 7,
+      "Size": 2097152,
+      "Publishers": [
+        "Atari",
+        "Accolade, Inc."
+      ],
+      "Developers": [
+        "Imagitec Design Inc."
+      ],
+      "ReleaseDate": "1/1/1994",
+      "ESRB": "E",
+      "Genres": [
+        "Platform"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cannon Fodder"
+      ],
+      "Sha1": "0c195676be099f4594ce1d5a38303f6cce899dc5",
+      "Crc32": "bda405c6",
+      "SetNames": {
+        "No-Intro": [
+          "Cannon Fodder (World)"
+        ],
+        "TOSEC": [
+          "Cannon Fodder (1995)(Virgin Interactive)"
+        ],
+        "MESS": [
+          "cfodder"
+        ],
+        "TGDB": [
+          "3965"
+        ]
+      },
+      "OverviewId": 8,
+      "Size": 2097152,
+      "Publishers": [
+        "Virgin Interactive",
+        "Virgin Interactive Entertainment, Inc."
+      ],
+      "Developers": [
+        "Sensible Software"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "ESRB": "E",
+      "Genres": [
+        "Action",
+        "Strategy"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Checkered Flag"
+      ],
+      "Sha1": "4d0cc8d248a8bd0fc4b8169c5d5772e59c073c59",
+      "Crc32": "fa7775ae",
+      "SetNames": {
+        "No-Intro": [
+          "Checkered Flag (World)"
+        ],
+        "TOSEC": [
+          "Checkered Flag (1994)(Atari)"
+        ],
+        "MESS": [
+          "chekflag"
+        ],
+        "TGDB": [
+          "14797"
+        ]
+      },
+      "OverviewId": 9,
+      "Size": 2097152,
+      "Publishers": [
+        "Atari",
+        "Atari Games"
+      ],
+      "Developers": [
+        "Rebellion"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "ESRB": "E",
+      "Genres": [
+        "Racing",
+        "Sports"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Checkered Flag"
+      ],
+      "Sha1": "bf00ec1fca2a97beaf28d52140df2006b1120c67",
+      "Crc32": "ce94c0d5",
+      "SetNames": {
+        "No-Intro": [
+          "Checkered Flag (World) (Beta) (CES 1993)"
+        ],
+        "TOSEC": [
+          "Checkered Flag (1993-08)(Atari)(proto)[CES 1993]"
+        ],
+        "TGDB": [
+          "14797"
+        ]
+      },
+      "OverviewId": 9,
+      "Size": 1048576,
+      "Publishers": [
+        "Atari",
+        "Atari Games"
+      ],
+      "Developers": [
+        "Rebellion"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "ESRB": "E",
+      "Genres": [
+        "Racing",
+        "Sports"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "beta",
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "Club Drive"
+      ],
+      "Sha1": "6588f7d677463d0ef10cf905d44a2581fd9dd055",
+      "Crc32": "eee8d61d",
+      "SetNames": {
+        "No-Intro": [
+          "Club Drive (World)"
+        ],
+        "TOSEC": [
+          "Club Drive (1994)(Atari)"
+        ],
+        "MESS": [
+          "clubdriv"
+        ],
+        "TGDB": [
+          "2517"
+        ]
+      },
+      "OverviewId": 10,
+      "Size": 2097152,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Atari"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Genres": [
+        "Racing"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Club Drive"
+      ],
+      "Sha1": "93a29d894f5472eb755d13e721414a6bd9686c02",
+      "Crc32": "0e320385",
+      "SetNames": {
+        "No-Intro": [
+          "Club Drive (World) (Beta)"
+        ],
+        "TOSEC": [
+          "Club Drive (1994)(Atari)(beta)"
+        ],
+        "TGDB": [
+          "2517"
+        ]
+      },
+      "OverviewId": 10,
+      "Size": 524288,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Atari"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Genres": [
+        "Racing"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "beta"
+      ]
+    },
+    {
+      "Titles": [
+        "Cybermorph"
+      ],
+      "Sha1": "e00ab55f555fd1fe63b4fce66a9b8ffe3485963e",
+      "Crc32": "bde67498",
+      "SetNames": {
+        "No-Intro": [
+          "Cybermorph (World) (Rev A)"
+        ],
+        "TOSEC": [
+          "Cybermorph Rev A (1993)(Atari)"
+        ],
+        "MESS": [
+          "cybermor1"
+        ],
+        "TGDB": [
+          "2518"
+        ]
+      },
+      "OverviewId": 11,
+      "Size": 2097152,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Attention to Detail Limited"
+      ],
+      "CloneOf": "cybermor",
+      "ReleaseDate": "1/1/1993",
+      "ESRB": "E",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cybermorph"
+      ],
+      "Sha1": "c9aa59769df207d85d9212d619c266c793c9063b",
+      "Crc32": "ecf854e7",
+      "SetNames": {
+        "No-Intro": [
+          "Cybermorph (World) (Rev B)"
+        ],
+        "TOSEC": [
+          "Cybermorph Rev B (1994)(Atari)[J9000E 700700-3]"
+        ],
+        "MESS": [
+          "cybermor"
+        ],
+        "TGDB": [
+          "2518"
+        ]
+      },
+      "OverviewId": 11,
+      "Size": 1048576,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Attention to Detail Limited"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "ESRB": "E",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cybermorph"
+      ],
+      "Sha1": "589efbc772360fa51eddc096a162c8d9fe7838d3",
+      "Crc32": "9eb389f9",
+      "SetNames": {
+        "No-Intro": [
+          "Cybermorph (World) (Beta) (1993-08-23)"
+        ],
+        "TOSEC": [
+          "Cybermorph (1993-08-23)(Atari)(proto)"
+        ],
+        "TGDB": [
+          "2518"
+        ]
+      },
+      "OverviewId": 11,
+      "Size": 1048576,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Attention to Detail Limited"
+      ],
+      "ReleaseDate": "8/23/1993",
+      "ESRB": "E",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "beta",
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "Defender 2000"
+      ],
+      "Sha1": "13a4084bd5be1cca21d83d4c26b5b8e5cf1a3e30",
+      "Crc32": "27594c6a",
+      "SetNames": {
+        "No-Intro": [
+          "Defender 2000 (World)"
+        ],
+        "TOSEC": [
+          "Defender 2000 (1996)(Atari)"
+        ],
+        "MESS": [
+          "defender"
+        ],
+        "TGDB": [
+          "13357"
+        ]
+      },
+      "OverviewId": 12,
+      "Size": 4194304,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc.",
+        "Williams Electronic Games, Inc."
+      ],
+      "Developers": [
+        "Atari"
+      ],
+      "ReleaseDate": "1/1/1996",
+      "ESRB": "E",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Defender 2000"
+      ],
+      "Sha1": "ae497f4839bde6c12c87c651a80633a23d6d0713",
+      "Crc32": "952d07f0",
+      "SetNames": {
+        "No-Intro": [
+          "Defender 2000 (World) (Beta)"
+        ],
+        "TOSEC": [
+          "Defender 2000 (1996)(Atari)(proto)"
+        ],
+        "TGDB": [
+          "13357"
+        ]
+      },
+      "OverviewId": 12,
+      "Size": 4194304,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc.",
+        "Williams Electronic Games, Inc."
+      ],
+      "Developers": [
+        "Atari"
+      ],
+      "ReleaseDate": "1/1/1996",
+      "ESRB": "E",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "beta",
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "Doom"
+      ],
+      "Sha1": "20ddf412e42a50d526cbbb6411bf0ec4516db283",
+      "Crc32": "5e2cdbc0",
+      "SetNames": {
+        "No-Intro": [
+          "Doom (World)"
+        ],
+        "TOSEC": [
+          "Doom (1994)(Atari)"
+        ],
+        "MESS": [
+          "doom"
+        ],
+        "TGDB": [
+          "2878"
+        ]
+      },
+      "OverviewId": 13,
+      "Size": 4194304,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "id Software"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "ESRB": "M",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Double Dragon",
+        "Double Dragon V",
+        "Double Dragon V - The Shadow Falls",
+        "Double Dragon V: The Shadow Falls"
+      ],
+      "Sha1": "d66b4e5f9ac27d53f0d781c741e420698630b9fc",
+      "Crc32": "348e6449",
+      "SetNames": {
+        "No-Intro": [
+          "Double Dragon V - The Shadow Falls (World)"
+        ],
+        "TOSEC": [
+          "Double Dragon V (1995)(Tradewest)"
+        ],
+        "MESS": [
+          "ddragon5"
+        ],
+        "TGDB": [
+          "3966"
+        ]
+      },
+      "OverviewId": 14,
+      "Size": 2097152,
+      "Publishers": [
+        "Tradewest",
+        "Tradewest, Inc."
+      ],
+      "Developers": [
+        "Leland Interactive Media"
+      ],
+      "ReleaseDate": "4/1/1995",
+      "ESRB": "T",
+      "Genres": [
+        "Fighting"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Dragon - The Bruce Lee Story",
+        "Dragon: The Bruce Lee Story"
+      ],
+      "Sha1": "da7f5dac4317ab0258f54da436abb8d89e530f27",
+      "Crc32": "8fea5ab0",
+      "SetNames": {
+        "No-Intro": [
+          "Dragon - The Bruce Lee Story (World)"
+        ],
+        "TOSEC": [
+          "Dragon - The Bruce Lee Story (1994)(Virgin Interactive)"
+        ],
+        "MESS": [
+          "dragon"
+        ],
+        "TGDB": [
+          "3967"
+        ]
+      },
+      "OverviewId": 15,
+      "Size": 2097152,
+      "Publishers": [
+        "Virgin Interactive",
+        "Virgin Interactibe",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Virgin Interactive Entertainment"
+      ],
+      "ReleaseDate": "11/1/1994",
+      "ESRB": "T",
+      "Genres": [
+        "Fighting"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Dragon - The Bruce Lee Story",
+        "Dragon: The Bruce Lee Story"
+      ],
+      "Sha1": "298148131af2a86ba5d5430b1b8982710ce68874",
+      "Crc32": "a14f94ab",
+      "SetNames": {
+        "No-Intro": [
+          "Dragon - The Bruce Lee Story (World) (Beta) (1994-09-26)"
+        ],
+        "TOSEC": [
+          "Dragon - The Bruce Lee Story (1994-09-26)(Virgin Interactive)(beta)"
+        ],
+        "TGDB": [
+          "3967"
+        ]
+      },
+      "OverviewId": 15,
+      "Size": 2097152,
+      "Publishers": [
+        "Virgin Interactive",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Virgin Interactive Entertainment"
+      ],
+      "ReleaseDate": "11/1/1994",
+      "ESRB": "T",
+      "Genres": [
+        "Fighting"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "beta"
+      ]
+    },
+    {
+      "Titles": [
+        "Dragon - The Bruce Lee Story",
+        "Dragon: The Bruce Lee Story"
+      ],
+      "Sha1": "8f556976f42c393858127d99112264e6a5a9ae19",
+      "Crc32": "83c6acc0",
+      "SetNames": {
+        "No-Intro": [
+          "Dragon - The Bruce Lee Story (World) (Beta) (1994-10-06)"
+        ],
+        "TOSEC": [
+          "Dragon - The Bruce Lee Story (1994-10-06)(Virgin Interactive)(beta)"
+        ],
+        "TGDB": [
+          "3967"
+        ]
+      },
+      "OverviewId": 15,
+      "Size": 2097152,
+      "Publishers": [
+        "Virgin Interactive",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Virgin Interactive Entertainment"
+      ],
+      "ReleaseDate": "11/1/1994",
+      "ESRB": "T",
+      "Genres": [
+        "Fighting"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "beta"
+      ]
+    },
+    {
+      "Titles": [
+        "Evolution - Dino Dudes",
+        "Evolution: Dino Dudes"
+      ],
+      "Sha1": "179b511464abcda5a5de9f971bd5cb5775d8c313",
+      "Crc32": "0ec5369d",
+      "SetNames": {
+        "No-Intro": [
+          "Evolution - Dino Dudes (World)"
+        ],
+        "TOSEC": [
+          "Evolution - Dino Dudes (1994)(Atari)"
+        ],
+        "MESS": [
+          "dinodude"
+        ],
+        "TGDB": [
+          "3968"
+        ]
+      },
+      "OverviewId": 16,
+      "Size": 2097152,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Imagitec Design Inc."
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Fever Pitch Soccer"
+      ],
+      "Sha1": "5be3da69a64b779d064d139968fadbe1c475c715",
+      "Crc32": "3615af6a",
+      "SetNames": {
+        "No-Intro": [
+          "Fever Pitch Soccer (World) (En,Fr,De,Es,It)"
+        ],
+        "TOSEC": [
+          "Fever Pitch Soccer (1995)(Atari)(M5)"
+        ],
+        "MESS": [
+          "feverpit"
+        ],
+        "TGDB": [
+          "3992"
+        ]
+      },
+      "OverviewId": 17,
+      "Size": 2097152,
+      "Publishers": [
+        "Atari",
+        "U.S. Gold Ltd."
+      ],
+      "Developers": [
+        "U.S. Gold Ltd."
+      ],
+      "ReleaseDate": "12/1/1995",
+      "ESRB": "E",
+      "Genres": [
+        "Sports"
+      ],
+      "Languages": [
+        "en",
+        "fr",
+        "de",
+        "es",
+        "it"
+      ]
+    },
+    {
+      "Titles": [
+        "Fight for Life"
+      ],
+      "Sha1": "9f5b8844d58bb1c174da4824eabbfd8616ba28d2",
+      "Crc32": "b14c4753",
+      "SetNames": {
+        "No-Intro": [
+          "Fight for Life (USA, Europe)"
+        ],
+        "TOSEC": [
+          "Fight for Life (1996)(Atari)"
+        ],
+        "MESS": [
+          "fforlife"
+        ],
+        "TGDB": [
+          "3969"
+        ]
+      },
+      "OverviewId": 18,
+      "Size": 4194304,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Atari"
+      ],
+      "ReleaseDate": "1/1/1996",
+      "ESRB": "T",
+      "Genres": [
+        "Fighting"
+      ],
+      "Regions": [
+        "US",
+        "EU"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Fight for Life"
+      ],
+      "Sha1": "37fe344383d7991d19bf2c862d29a20eaf1da8ef",
+      "Crc32": "59458199",
+      "SetNames": {
+        "No-Intro": [
+          "Fight for Life (USA, Europe) (Beta) (1995-03-22)"
+        ],
+        "TOSEC": [
+          "Fight for Life (1995-03-22)(Atari)(proto)[xx0322]"
+        ],
+        "TGDB": [
+          "3969"
+        ]
+      },
+      "OverviewId": 18,
+      "Size": 4194304,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Atari"
+      ],
+      "ReleaseDate": "1/1/1996",
+      "ESRB": "T",
+      "Genres": [
+        "Fighting"
+      ],
+      "Regions": [
+        "US",
+        "EU"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "beta",
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "Fight for Life"
+      ],
+      "Sha1": "c92f1ff8ec83ebbe0f77f5a665169408df53b528",
+      "Crc32": "036a25e6",
+      "SetNames": {
+        "No-Intro": [
+          "Fight for Life (USA, Europe) (Beta) (1995-09-07)"
+        ],
+        "TOSEC": [
+          "Fight for Life (1995-09-07)(Atari)(proto)[xx0907]"
+        ],
+        "TGDB": [
+          "3969"
+        ]
+      },
+      "OverviewId": 18,
+      "Size": 4194304,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Atari"
+      ],
+      "ReleaseDate": "1/1/1996",
+      "ESRB": "T",
+      "Genres": [
+        "Fighting"
+      ],
+      "Regions": [
+        "US",
+        "EU"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "beta",
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "Flashback - The Quest for Identity",
+        "Flashback: The Quest for Identity"
+      ],
+      "Sha1": "824613451be0b99020fc02e5dba15c45e76fc8c2",
+      "Crc32": "de55dcc7",
+      "SetNames": {
+        "No-Intro": [
+          "Flashback - The Quest for Identity (World) (En,Fr)"
+        ],
+        "TOSEC": [
+          "Flashback - The Quest for Identity (1995)(U.S. Gold)(en-fr)"
+        ],
+        "MESS": [
+          "flashb"
+        ],
+        "TGDB": [
+          "2846"
+        ]
+      },
+      "OverviewId": 19,
+      "Size": 2097152,
+      "Publishers": [
+        "U.S. Gold",
+        "U.S. Gold Ltd."
+      ],
+      "Developers": [
+        "Delphine Software International"
+      ],
+      "ReleaseDate": "7/1/1995",
+      "ESRB": "E",
+      "Genres": [
+        "Adventure"
+      ],
+      "Languages": [
+        "en",
+        "fr"
+      ]
+    },
+    {
+      "Titles": [
+        "Flip Out!"
+      ],
+      "Sha1": "886cbbaa434d6e1e7fc4401bb6d176c2788c4d19",
+      "Crc32": "892bc67c",
+      "SetNames": {
+        "No-Intro": [
+          "Flip Out! (World)"
+        ],
+        "TOSEC": [
+          "Flip Out! (1995)(Atari)"
+        ],
+        "MESS": [
+          "flipout"
+        ],
+        "TGDB": [
+          "3974"
+        ]
+      },
+      "OverviewId": 20,
+      "Size": 2097152,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Gorilla Systems Corporation"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Genres": [
+        "Puzzle"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Frog Feast"
+      ],
+      "Sha1": "5b2295907f6fdadf5f44b1e392dcd6f5471fd095",
+      "Crc32": "6038e95f",
+      "SetNames": {
+        "No-Intro": [
+          "Frog Feast (World)"
+        ],
+        "TOSEC": [
+          "Frog Feast (2007)(RasterSoft)"
+        ],
+        "TGDB": [
+          "100084"
+        ]
+      },
+      "OverviewId": 21,
+      "Size": 1048576,
+      "Publishers": [
+        "RasterSoft",
+        "OlderGames"
+      ],
+      "Developers": [
+        "Charles Doty",
+        "RasterSoft"
+      ],
+      "ReleaseDate": "8/20/2007",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "High Voltage C Maze"
+      ],
+      "Sha1": "e99ff0add256bd45394c9ed8728e38b458cfe5e6",
+      "Crc32": "25f79b1f",
+      "SetNames": {
+        "No-Intro": [
+          "High Voltage C Maze (USA) (Demo)"
+        ],
+        "TOSEC": [
+          "High Voltage C Maze (demo) (19xx)(High Voltage Software)(US)"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "High Voltage Software"
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "demo"
+      ]
+    },
+    {
+      "Titles": [
+        "Hover Strike"
+      ],
+      "Sha1": "94e615e7a57f7c08645322870121bb32310298f5",
+      "Crc32": "4899628f",
+      "SetNames": {
+        "No-Intro": [
+          "Hover Strike (World)"
+        ],
+        "TOSEC": [
+          "Hover Strike (1995)(Atari)"
+        ],
+        "MESS": [
+          "hstrike"
+        ],
+        "TGDB": [
+          "20271"
+        ]
+      },
+      "OverviewId": 22,
+      "Size": 2097152,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Atari"
+      ],
+      "ReleaseDate": "4/1/1995",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Hyper Force",
+        "Hyperforce"
+      ],
+      "Sha1": "037396347d65d1a8b56e7db361d737ab2070118f",
+      "Crc32": "f0360db3",
+      "SetNames": {
+        "No-Intro": [
+          "Hyper Force (World)"
+        ],
+        "TOSEC": [
+          "Hyper Force (2000)(Songbird Productions)[CF3003]"
+        ],
+        "MESS": [
+          "hyperfrc"
+        ],
+        "TGDB": [
+          "20272"
+        ]
+      },
+      "OverviewId": 23,
+      "Size": 2097152,
+      "Publishers": [
+        "Songbird Productions",
+        "Songboard Productions"
+      ],
+      "Developers": [
+        "Visual Impact"
+      ],
+      "ReleaseDate": "8/4/2000",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "I-War",
+        "I War",
+        "IWar"
+      ],
+      "Sha1": "3db485aaa28a817f468739a85e3f25741c3855ad",
+      "Crc32": "97eb4651",
+      "SetNames": {
+        "No-Intro": [
+          "I-War (USA, Europe)"
+        ],
+        "TOSEC": [
+          "I-War (1995)(Atari)"
+        ],
+        "MESS": [
+          "iwar"
+        ],
+        "TGDB": [
+          "3993"
+        ]
+      },
+      "OverviewId": 24,
+      "Size": 2097152,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Imagitec Design Inc."
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Genres": [
+        "Action"
+      ],
+      "Regions": [
+        "US",
+        "EU"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "International Sensible Soccer",
+        "Sensible Soccer - International Edition",
+        "Sensible Soccer - Internationsal Edition"
+      ],
+      "Sha1": "f0914be41331e3045bbc04225044dc3c73fd9de1",
+      "Crc32": "5a101212",
+      "SetNames": {
+        "No-Intro": [
+          "International Sensible Soccer (World)"
+        ],
+        "TOSEC": [
+          "International Sensible Soccer (1995)(Telegames)"
+        ],
+        "MESS": [
+          "sensible"
+        ],
+        "TGDB": [
+          "20275"
+        ]
+      },
+      "OverviewId": 25,
+      "Size": 2097152,
+      "Publishers": [
+        "Telegames",
+        "Telegames, Inc."
+      ],
+      "Developers": [
+        "Sensible Software"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "ESRB": "E",
+      "Genres": [
+        "Sports"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Iron Soldier",
+        "Iron Soldier v1.04"
+      ],
+      "Sha1": "8bdefc60dd1734315e1c145e29abf41800f908cb",
+      "Crc32": "08f15576",
+      "SetNames": {
+        "No-Intro": [
+          "Iron Soldier (World)"
+        ],
+        "TOSEC": [
+          "Iron Soldier v1.04 (1994)(Atari)"
+        ],
+        "MESS": [
+          "ironsold"
+        ],
+        "TGDB": [
+          "3975"
+        ]
+      },
+      "OverviewId": 26,
+      "Size": 2097152,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Eclipse Software"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "ESRB": "E",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Iron Soldier 2"
+      ],
+      "Sha1": "47b9580eb9eea121cf080cdbdc4afe7fb7a19ab5",
+      "Crc32": "d6c19e34",
+      "SetNames": {
+        "No-Intro": [
+          "Iron Soldier 2 (USA, Europe)"
+        ],
+        "TOSEC": [
+          "Iron Soldier 2 (1997)(Telegames)[JA810]"
+        ],
+        "MESS": [
+          "ironsol2"
+        ],
+        "TGDB": [
+          "22392"
+        ]
+      },
+      "OverviewId": 27,
+      "Size": 2097152,
+      "Publishers": [
+        "Telegames",
+        "Telegames, Inc."
+      ],
+      "Developers": [
+        "Eclipse Software"
+      ],
+      "ReleaseDate": "5/27/1997",
+      "ESRB": "T",
+      "Genres": [
+        "Action"
+      ],
+      "Regions": [
+        "US",
+        "EU"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Jack Nicklaus Cyber Golf"
+      ],
+      "Sha1": "271e9411eb9e6c74240d254bdd7bab9a039bc6d9",
+      "Crc32": "7733f701",
+      "SetNames": {
+        "No-Intro": [
+          "Jack Nicklaus Cyber Golf (USA) (Proto) (1994-07-04)"
+        ],
+        "TOSEC": [
+          "Jack Nicklaus Cyber Golf (1994-07-04)(Atari)(proto)[v001]"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Atari"
+      ],
+      "ReleaseDate": "7/4/1994",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "Jack Nicklaus Cyber Golf"
+      ],
+      "Sha1": "89306ada943c87da740e6166f1f53837566513e2",
+      "Crc32": "e20f0eef",
+      "SetNames": {
+        "No-Intro": [
+          "Jack Nicklaus Cyber Golf (USA) (Demo) (1995-01-13)"
+        ],
+        "TOSEC": [
+          "Jack Nicklaus Cyber Golf (1995-01-13)(Atari)(proto)[v003]"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Atari"
+      ],
+      "ReleaseDate": "1/13/1995",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "demo",
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "Jack Nicklaus Cyber Golf"
+      ],
+      "Sha1": "cecec725301d7540f9392618f4fc948def88d398",
+      "Crc32": "be5e9ef1",
+      "SetNames": {
+        "No-Intro": [
+          "Jack Nicklaus Cyber Golf (USA) (Demo) (1995-01-16)"
+        ],
+        "TOSEC": [
+          "Jack Nicklaus Cyber Golf (1995-01-16)(Atari)(proto)[v004]"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Atari"
+      ],
+      "ReleaseDate": "1/16/1995",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "demo",
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "Kasumi Ninja"
+      ],
+      "Sha1": "2327112b9c6f9b0e49c55def0adb8119ee39ce29",
+      "Crc32": "0957a072",
+      "SetNames": {
+        "No-Intro": [
+          "Kasumi Ninja (World)"
+        ],
+        "TOSEC": [
+          "Kasumi Ninja (1994)(Atari)"
+        ],
+        "MESS": [
+          "kasumi"
+        ],
+        "TGDB": [
+          "3976"
+        ]
+      },
+      "OverviewId": 28,
+      "Size": 4194304,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Hand Made Software"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "ESRB": "M",
+      "Genres": [
+        "Fighting"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Kasumi Ninja",
+        "Kasumi Ninja - TestBed v0.01"
+      ],
+      "Sha1": "3650143bd057dd39b96e0ad0207778353f17abe7",
+      "Crc32": "ee9529ee",
+      "SetNames": {
+        "No-Intro": [
+          "Kasumi Ninja (World) (Demo)"
+        ],
+        "TOSEC": [
+          "Kasumi Ninja - TestBed v0.01 (199x)(Atari)(proto)"
+        ],
+        "TGDB": [
+          "3976"
+        ]
+      },
+      "OverviewId": 28,
+      "Size": 524288,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Hand Made Software"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "ESRB": "M",
+      "Genres": [
+        "Fighting"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "demo",
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "Missile Command 3D"
+      ],
+      "Sha1": "3ea9053a63a3b0165ccec91e85f0e699a998dc0a",
+      "Crc32": "da9c4162",
+      "SetNames": {
+        "No-Intro": [
+          "Missile Command 3D (World)"
+        ],
+        "TOSEC": [
+          "Missile Command 3D (1995)(Atari)"
+        ],
+        "MESS": [
+          "missil3d"
+        ],
+        "TGDB": [
+          "20273"
+        ]
+      },
+      "OverviewId": 29,
+      "Size": 2097152,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Virtuality Entertainment Ltd."
+      ],
+      "ReleaseDate": "12/12/1995",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Missile Command VR"
+      ],
+      "Sha1": "0e95613020d1b3a0ac76d994423c6f15ddfe9703",
+      "Crc32": "5810cadb",
+      "SetNames": {
+        "No-Intro": [
+          "Missile Command VR (World) (Beta) (1995-07-05)"
+        ],
+        "TOSEC": [
+          "Missile Command VR (1995-07-05)(Atari)[VR headset]"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Atari"
+      ],
+      "ReleaseDate": "7/5/1995",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "beta"
+      ]
+    },
+    {
+      "Titles": [
+        "Native",
+        "Native - Level 1 Demo"
+      ],
+      "Sha1": "3d3e6c7e552cba5f99b6ebc15b951ce4bd956766",
+      "Crc32": "d8d60dd5",
+      "SetNames": {
+        "No-Intro": [
+          "Native (USA) (Proto)"
+        ],
+        "TOSEC": [
+          "Native - Level 1 Demo (1997)(Duranik)"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Duranik"
+      ],
+      "ReleaseDate": "1/1/1997",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "NBA Jam - Tournament Edition",
+        "NBA Jam T.E. - Tournament Edition",
+        "NBA Jam Tournament Edition"
+      ],
+      "Sha1": "b9c8ff2d26fe1e91ecd6d59b9f3f76c5b5650f26",
+      "Crc32": "0ac83d77",
+      "SetNames": {
+        "No-Intro": [
+          "NBA Jam - Tournament Edition (USA, Europe)"
+        ],
+        "TOSEC": [
+          "NBA Jam T.E. - Tournament Edition (1996)(Atari)"
+        ],
+        "MESS": [
+          "nbajamte"
+        ],
+        "TGDB": [
+          "3977"
+        ]
+      },
+      "OverviewId": 30,
+      "Size": 4194304,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "High Voltage Software, Inc."
+      ],
+      "ReleaseDate": "1/1/1996",
+      "ESRB": "E",
+      "Genres": [
+        "Sports"
+      ],
+      "Regions": [
+        "US",
+        "EU"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Phase Zero"
+      ],
+      "Sha1": "3ec9524921d07647f527e0a82a831f794a7d6d9b",
+      "Crc32": "7168b143",
+      "SetNames": {
+        "No-Intro": [
+          "Phase Zero (World)"
+        ],
+        "TOSEC": [
+          "Phase Zero (2002)(Songbird Productions)"
+        ],
+        "MESS": [
+          "phase0"
+        ],
+        "TGDB": [
+          "80328"
+        ]
+      },
+      "OverviewId": 31,
+      "Size": 2097152,
+      "Publishers": [
+        "Songbird Productions"
+      ],
+      "ReleaseDate": "6/1/2002",
+      "Genres": [
+        "Action",
+        "Flight Simulator",
+        "Vehicle Simulation"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Pinball Fantasies"
+      ],
+      "Sha1": "4733cf2ede2713467f2a80b052ab94edf6dfe534",
+      "Crc32": "5cff14ab",
+      "SetNames": {
+        "No-Intro": [
+          "Pinball Fantasies (World)"
+        ],
+        "TOSEC": [
+          "Pinball Fantasies (1995)(21st Century Entertainment)"
+        ],
+        "MESS": [
+          "pbfant"
+        ],
+        "TGDB": [
+          "3978"
+        ]
+      },
+      "OverviewId": 32,
+      "Size": 2097152,
+      "Publishers": [
+        "21st Century Entertainment",
+        "21st Century Entertainment Ltd."
+      ],
+      "ReleaseDate": "6/1/1995",
+      "ESRB": "E",
+      "Genres": [
+        "Strategy"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Pitfall - The Mayan Adventure",
+        "Pitfall: The Mayan Adventure"
+      ],
+      "Sha1": "25611b1cff1384db72cc5422dbe70555e5bbd32c",
+      "Crc32": "817a2273",
+      "SetNames": {
+        "No-Intro": [
+          "Pitfall - The Mayan Adventure (USA, Europe)"
+        ],
+        "TOSEC": [
+          "Pitfall - The Mayan Adventure (1995)(Atari)"
+        ],
+        "MESS": [
+          "pitfall"
+        ],
+        "TGDB": [
+          "3979"
+        ]
+      },
+      "OverviewId": 33,
+      "Size": 4194304,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Activision"
+      ],
+      "ReleaseDate": "10/1/1995",
+      "ESRB": "T",
+      "Genres": [
+        "Action"
+      ],
+      "Regions": [
+        "US",
+        "EU"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Plucky Duck in Hollywood Hijinks"
+      ],
+      "Sha1": "032aa31cef116bfba8632c14bc2fce5bc44ff137",
+      "Crc32": "4e77a83c",
+      "SetNames": {
+        "No-Intro": [
+          "Plucky Duck in Hollywood Hijinks (USA) (Proto) (1994-10-28)"
+        ],
+        "TOSEC": [
+          "Plucky Duck in Hollywood Hijinks (1994-10-28)(Atari)(proto)[unreleased tech demo]"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Atari"
+      ],
+      "ReleaseDate": "10/28/1994",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "Power Drive Rally"
+      ],
+      "Sha1": "75ee0ab0daba31284a1dff27f3c247885f5a427a",
+      "Crc32": "1660f070",
+      "SetNames": {
+        "No-Intro": [
+          "Power Drive Rally (World)"
+        ],
+        "TOSEC": [
+          "Power Drive Rally (1995)(Time Warner Interactive)"
+        ],
+        "MESS": [
+          "pdrive"
+        ],
+        "TGDB": [
+          "14798"
+        ]
+      },
+      "OverviewId": 34,
+      "Size": 2097152,
+      "Publishers": [
+        "Time Warner Interactive",
+        "Time Warner Interactive, Inc."
+      ],
+      "Developers": [
+        "Rage Software"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Genres": [
+        "Racing"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Protector"
+      ],
+      "Sha1": "8043e3b521ea00e806d3ab79c6c548a140944db1",
+      "Crc32": "1a20c5c4",
+      "SetNames": {
+        "No-Intro": [
+          "Protector (World)"
+        ],
+        "TOSEC": [
+          "Protector (1999)(Songbird Productions)[CF3004]"
+        ],
+        "MESS": [
+          "protect"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Songbird Productions"
+      ],
+      "ReleaseDate": "1/1/1999",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Protector - Special Edition"
+      ],
+      "Sha1": "ddea86820dcaa1a67bd82cf8023f9b3c494357b0",
+      "Crc32": "a56d0798",
+      "SetNames": {
+        "No-Intro": [
+          "Protector - Special Edition (World)"
+        ],
+        "TOSEC": [
+          "Protector - Special Edition (2002)(Songbird Productions)[CF3004]"
+        ],
+        "MESS": [
+          "protctse"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Songbird Productions"
+      ],
+      "ReleaseDate": "1/1/2002",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Raiden"
+      ],
+      "Sha1": "9d2f894da3f25944c2f33e3a109ae8d0d951d329",
+      "Crc32": "0509c85e",
+      "SetNames": {
+        "No-Intro": [
+          "Raiden (World)"
+        ],
+        "TOSEC": [
+          "Raiden (1994)(Atari)"
+        ],
+        "MESS": [
+          "raiden1"
+        ],
+        "TGDB": [
+          "3980"
+        ]
+      },
+      "OverviewId": 35,
+      "Size": 2097152,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Imagitec Design Inc."
+      ],
+      "CloneOf": "raiden",
+      "ReleaseDate": "1/1/1994",
+      "Genres": [
+        "Action",
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Raiden"
+      ],
+      "Sha1": "50ccf7043a702531a0e9ef86d629d5ede5255c13",
+      "Crc32": "31812799",
+      "SetNames": {
+        "No-Intro": [
+          "Raiden (World) (Rev A)"
+        ],
+        "TOSEC": [
+          "Raiden Rev A (1994)(Atari)[J9005E 700705-2]"
+        ],
+        "MESS": [
+          "raiden"
+        ],
+        "TGDB": [
+          "3980"
+        ]
+      },
+      "OverviewId": 35,
+      "Size": 2097152,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Imagitec Design Inc."
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Genres": [
+        "Action",
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Rayman"
+      ],
+      "Sha1": "d22912992fd966365a1221886e0fc5303ef04a59",
+      "Crc32": "a9f8a00e",
+      "SetNames": {
+        "No-Intro": [
+          "Rayman (World)"
+        ],
+        "TOSEC": [
+          "Rayman (1995)(Ubisoft)"
+        ],
+        "MESS": [
+          "rayman"
+        ],
+        "TGDB": [
+          "3982"
+        ]
+      },
+      "OverviewId": 36,
+      "Size": 4194304,
+      "Publishers": [
+        "Ubisoft",
+        "Ubisoft Entertainment"
+      ],
+      "Developers": [
+        "Ubisoft Entertainment"
+      ],
+      "ReleaseDate": "9/8/1995",
+      "ESRB": "E",
+      "Genres": [
+        "Platform"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Rayman"
+      ],
+      "Sha1": "ba34de71a8d278ba76bad19964d2d886ddb94a2e",
+      "Crc32": "254dd949",
+      "SetNames": {
+        "No-Intro": [
+          "Rayman (World) (Beta 2)"
+        ],
+        "TOSEC": [
+          "Rayman (1995)(Ubisoft)(proto)"
+        ],
+        "TGDB": [
+          "3982"
+        ]
+      },
+      "OverviewId": 36,
+      "Size": 2097152,
+      "Publishers": [
+        "Ubisoft",
+        "Ubisoft Entertainment"
+      ],
+      "Developers": [
+        "Ubisoft Entertainment"
+      ],
+      "ReleaseDate": "9/8/1995",
+      "ESRB": "E",
+      "Genres": [
+        "Platform"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "Rayman"
+      ],
+      "Sha1": "dd6f15cda5a84e0f93bb04d24f61727a8276ae58",
+      "Crc32": "92743c49",
+      "SetNames": {
+        "No-Intro": [
+          "Rayman (World) (Beta 1)"
+        ],
+        "TOSEC": [
+          "Rayman (1994)(Ubisoft)(proto)[earlier prototype]"
+        ],
+        "TGDB": [
+          "3982"
+        ]
+      },
+      "OverviewId": 36,
+      "Size": 2097152,
+      "Publishers": [
+        "Ubisoft",
+        "Ubisoft Entertainment"
+      ],
+      "Developers": [
+        "Ubisoft Entertainment"
+      ],
+      "ReleaseDate": "9/8/1995",
+      "ESRB": "E",
+      "Genres": [
+        "Platform"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "Ruiner Pinball"
+      ],
+      "Sha1": "e0db2fdea7f95743c1ef452b7d289f5fe8158e33",
+      "Crc32": "5b6bb205",
+      "SetNames": {
+        "No-Intro": [
+          "Ruiner Pinball (USA, Europe)"
+        ],
+        "TOSEC": [
+          "Ruiner Pinball (1995)(Atari)"
+        ],
+        "MESS": [
+          "ruinerp"
+        ],
+        "TGDB": [
+          "3983"
+        ]
+      },
+      "OverviewId": 37,
+      "Size": 2097152,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "High Voltage Software, Inc."
+      ],
+      "ReleaseDate": "1/1/1995",
+      "ESRB": "E",
+      "Genres": [
+        "Strategy"
+      ],
+      "Regions": [
+        "US",
+        "EU"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Skyhammer"
+      ],
+      "Sha1": "34a9941459e3b66c836f25b3ef55303734b9583e",
+      "Crc32": "3c044941",
+      "SetNames": {
+        "No-Intro": [
+          "Skyhammer (World)"
+        ],
+        "TOSEC": [
+          "Skyhammer (2000)(Songbird Productions)[CF3001]"
+        ],
+        "MESS": [
+          "skyhamm"
+        ],
+        "TGDB": [
+          "20277"
+        ]
+      },
+      "OverviewId": 38,
+      "Size": 4194304,
+      "Publishers": [
+        "Songbird Productions"
+      ],
+      "Developers": [
+        "Rebellion"
+      ],
+      "ReleaseDate": "5/22/2000",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Slam Racer"
+      ],
+      "Sha1": "fe66ffdc9323cfcfc64da06e16f2d5a4a4e1a236",
+      "Crc32": "e25fec7c",
+      "SetNames": {
+        "No-Intro": [
+          "Slam Racer (USA) (Proto)"
+        ],
+        "TOSEC": [
+          "Slam Racer (1996)(Sinister Developments)(proto)"
+        ]
+      },
+      "Size": 4194304,
+      "Publishers": [
+        "Sinister Developments"
+      ],
+      "ReleaseDate": "1/1/1996",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "Soccer Kid"
+      ],
+      "Sha1": "a738a2df47f09c3bfdeddfc01b35f3e8b5c5d99c",
+      "Crc32": "42a13ec5",
+      "SetNames": {
+        "No-Intro": [
+          "Soccer Kid (World) (Beta)"
+        ],
+        "TOSEC": [
+          "Soccer Kid (1996)(ReadySoft)(beta)"
+        ],
+        "MESS": [
+          "soccerkd"
+        ],
+        "TGDB": [
+          "20278"
+        ]
+      },
+      "OverviewId": 39,
+      "Size": 2097152,
+      "Publishers": [
+        "ReadySoft",
+        "Songbird Productions"
+      ],
+      "Developers": [
+        "ReadySoft Incorporated"
+      ],
+      "ReleaseDate": "2/7/2000",
+      "Genres": [
+        "Platform"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "beta"
+      ]
+    },
+    {
+      "Titles": [
+        "Soccer Kid"
+      ],
+      "Sha1": "b615fe0f229eee89abe4a6fce8e4ce63d2f92c6f",
+      "Crc32": "732ffab6",
+      "SetNames": {
+        "No-Intro": [
+          "Soccer Kid (World)"
+        ],
+        "TOSEC": [
+          "Soccer Kid (2000)(Songbird Productions)[re-release][CF3002]"
+        ],
+        "MESS": [
+          "soccerkd1"
+        ],
+        "TGDB": [
+          "20278"
+        ]
+      },
+      "OverviewId": 39,
+      "Size": 2097152,
+      "Publishers": [
+        "Songbird Productions"
+      ],
+      "Developers": [
+        "ReadySoft Incorporated"
+      ],
+      "CloneOf": "soccerkd",
+      "ReleaseDate": "2/7/2000",
+      "Genres": [
+        "Platform"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Space War 2000"
+      ],
+      "Sha1": "6b010477155f30f1ecec7eab2c9a7544242bbd19",
+      "Crc32": "d821f5eb",
+      "SetNames": {
+        "No-Intro": [
+          "Space War 2000 (World)"
+        ],
+        "TOSEC": [
+          "Space War 2000 (2001)(B&C Computervisions)"
+        ],
+        "MESS": [
+          "spacewar"
+        ],
+        "TGDB": [
+          "20279"
+        ]
+      },
+      "OverviewId": 40,
+      "Size": 2097152,
+      "Publishers": [
+        "B&C Computervisions",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Atari"
+      ],
+      "ReleaseDate": "10/1/2001",
+      "Genres": [
+        "Adventure"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Super Burnout"
+      ],
+      "Sha1": "9a58bc0c8843fd00a2871c01b91fec206408bf80",
+      "Crc32": "6f8b2547",
+      "SetNames": {
+        "No-Intro": [
+          "Super Burnout (World)"
+        ],
+        "TOSEC": [
+          "Super Burnout (1995)(Atari)"
+        ],
+        "MESS": [
+          "sburnout"
+        ],
+        "TGDB": [
+          "3984"
+        ]
+      },
+      "OverviewId": 41,
+      "Size": 2097152,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Shen"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "ESRB": "E",
+      "Genres": [
+        "Racing"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Super Burnout",
+        "Burn Out"
+      ],
+      "Sha1": "ee5fea3b99177d9e88aeedcad8f01173f1062b87",
+      "Crc32": "0f698fb3",
+      "SetNames": {
+        "No-Intro": [
+          "Super Burnout (World) (Demo) (WCES 1995)"
+        ],
+        "TOSEC": [
+          "Burn Out (1995-01-07)(Atari)(proto)[Super Burnout][WCES 1995]"
+        ],
+        "TGDB": [
+          "3984"
+        ]
+      },
+      "OverviewId": 41,
+      "Size": 2097152,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Shen"
+      ],
+      "ReleaseDate": "1/7/1995",
+      "ESRB": "E",
+      "Genres": [
+        "Racing"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "demo",
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "Supercross 3D",
+        "SuperCross 3D"
+      ],
+      "Sha1": "c71e0bc9eeed8670c6e7ccc7a0fe3b815d7bac83",
+      "Crc32": "ec22f572",
+      "SetNames": {
+        "No-Intro": [
+          "Supercross 3D (USA, Europe)"
+        ],
+        "TOSEC": [
+          "SuperCross 3D (1995)(Atari)"
+        ],
+        "MESS": [
+          "superx3d"
+        ],
+        "TGDB": [
+          "3985"
+        ]
+      },
+      "OverviewId": 42,
+      "Size": 2097152,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Tiertex Design Studios"
+      ],
+      "ReleaseDate": "12/1/1995",
+      "ESRB": "E",
+      "Genres": [
+        "Racing",
+        "Sports"
+      ],
+      "Regions": [
+        "US",
+        "EU"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Syndicate"
+      ],
+      "Sha1": "a226086571c857f3796fd664bbc2c8fe99c78224",
+      "Crc32": "58272540",
+      "SetNames": {
+        "No-Intro": [
+          "Syndicate (World)"
+        ],
+        "TOSEC": [
+          "Syndicate (1995)(Ocean)"
+        ],
+        "MESS": [
+          "syndicat"
+        ],
+        "TGDB": [
+          "3986"
+        ]
+      },
+      "OverviewId": 43,
+      "Size": 2097152,
+      "Publishers": [
+        "Ocean",
+        "Ocean Software Ltd."
+      ],
+      "Developers": [
+        "Bullfrog Productions"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "ESRB": "T",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Tempest 2000"
+      ],
+      "Sha1": "3828d2f953224d06b5fe7ab3644d6a75fdfe79e3",
+      "Crc32": "6b2b95ad",
+      "SetNames": {
+        "No-Intro": [
+          "Tempest 2000 (World)"
+        ],
+        "TOSEC": [
+          "Tempest 2000 (1994)(Atari)"
+        ],
+        "MESS": [
+          "tempst2k"
+        ],
+        "TGDB": [
+          "3987"
+        ]
+      },
+      "OverviewId": 44,
+      "Size": 2097152,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Llamasoft Ltd."
+      ],
+      "ReleaseDate": "4/1/1994",
+      "Genres": [
+        "Action",
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Thea Realm Fighters"
+      ],
+      "Sha1": "9ad03858597aa1e1fff26250996b07d1a70d1296",
+      "Crc32": "bb06d3c6",
+      "SetNames": {
+        "No-Intro": [
+          "Thea Realm Fighters (USA) (Proto 1)"
+        ],
+        "TOSEC": [
+          "Thea Realm Fighters (19xx)(High Voltage Software)(alpha)[early demo]"
+        ]
+      },
+      "Size": 4194304,
+      "Publishers": [
+        "High Voltage Software"
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "alpha"
+      ]
+    },
+    {
+      "Titles": [
+        "Thea Realm Fighters"
+      ],
+      "Sha1": "07c76d3f4ae05b75ea7ad62147172fd146f4f876",
+      "Crc32": "85be7e07",
+      "SetNames": {
+        "No-Intro": [
+          "Thea Realm Fighters (USA) (Proto 2)"
+        ],
+        "TOSEC": [
+          "Thea Realm Fighters (19xx)(High Voltage Software)(alpha)"
+        ]
+      },
+      "Size": 4194304,
+      "Publishers": [
+        "High Voltage Software"
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "alpha"
+      ]
+    },
+    {
+      "Titles": [
+        "Theme Park"
+      ],
+      "Sha1": "24da4fe776ae9daa86cf643c703ec0f399c77521",
+      "Crc32": "47ebc158",
+      "SetNames": {
+        "No-Intro": [
+          "Theme Park (World)"
+        ],
+        "TOSEC": [
+          "Theme Park (1995)(Ocean)"
+        ],
+        "MESS": [
+          "themeprk"
+        ],
+        "TGDB": [
+          "14796"
+        ]
+      },
+      "OverviewId": 45,
+      "Size": 2097152,
+      "Publishers": [
+        "Ocean",
+        "Ocean Software Ltd."
+      ],
+      "Developers": [
+        "Ocean Software Ltd.",
+        "Ocean",
+        "Enigma Variations Ltd"
+      ],
+      "ReleaseDate": "3/1/1995",
+      "Genres": [
+        "Strategy",
+        "Life Simulation"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Tiny Toon Adventures",
+        "Tiny Toon Adventures v1"
+      ],
+      "Sha1": "841ce8ae1b71955d9b8df3b80da11fd40308ef5f",
+      "Crc32": "f4acbb04",
+      "SetNames": {
+        "No-Intro": [
+          "Tiny Toon Adventures (USA) (Proto)"
+        ],
+        "TOSEC": [
+          "Tiny Toon Adventures v1 (2010)(Team Jaguar)[J6004E 110403-110]"
+        ],
+        "MESS": [
+          "ttoonadv"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Team Jaguar"
+      ],
+      "ReleaseDate": "1/1/2010",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "Total Carnage"
+      ],
+      "Sha1": "4566b33799a7c65b3e9643383d0282172ff619a5",
+      "Crc32": "c654681b",
+      "SetNames": {
+        "No-Intro": [
+          "Total Carnage (World)"
+        ],
+        "TOSEC": [
+          "Total Carnage (2005)(Songbird Productions)[CF3006]"
+        ],
+        "MESS": [
+          "totalcar"
+        ],
+        "TGDB": [
+          "20280"
+        ]
+      },
+      "OverviewId": 46,
+      "Size": 4194304,
+      "Publishers": [
+        "Songbird Productions"
+      ],
+      "Developers": [
+        "Hand Made Software"
+      ],
+      "ReleaseDate": "1/1/2005",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Total Carnage"
+      ],
+      "Sha1": "1ef1b86abf725f32267bfa140dc049ce9ba92aea",
+      "Crc32": "8f80edcf",
+      "SetNames": {
+        "No-Intro": [
+          "Total Carnage (World) (Beta)"
+        ],
+        "TOSEC": [
+          "Total Carnage (1995)(Midway)(proto)[Evaluation copy for Computer West]"
+        ],
+        "TGDB": [
+          "20280"
+        ]
+      },
+      "OverviewId": 46,
+      "Size": 4194304,
+      "Publishers": [
+        "Midway",
+        "Songbird Productions"
+      ],
+      "Developers": [
+        "Hand Made Software"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "beta",
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "Towers II - Plight of the Stargazer"
+      ],
+      "Sha1": "bbe7ffb97fc07cebe53099c8acce01366d7f7e15",
+      "Crc32": "83a3fb5d",
+      "SetNames": {
+        "No-Intro": [
+          "Towers II - Plight of the Stargazer (USA, Europe)"
+        ],
+        "TOSEC": [
+          "Towers II - Plight of the Stargazer (1996)(Telegames)[JA256]"
+        ],
+        "MESS": [
+          "towers2"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Telegames"
+      ],
+      "ReleaseDate": "1/1/1996",
+      "Regions": [
+        "US",
+        "EU"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Trevor McFur in the Crescent Galaxy"
+      ],
+      "Sha1": "88e86085932af10dfb8c94032f73a5992a30b55c",
+      "Crc32": "1e451446",
+      "SetNames": {
+        "No-Intro": [
+          "Trevor McFur in the Crescent Galaxy (World) (Rev A)"
+        ],
+        "TOSEC": [
+          "Trevor McFur in the Crescent Galaxy Rev A (1993)(Atari)"
+        ],
+        "MESS": [
+          "trevmcfr"
+        ],
+        "TGDB": [
+          "20281"
+        ]
+      },
+      "OverviewId": 47,
+      "Size": 2097152,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Atari"
+      ],
+      "ReleaseDate": "11/23/1993",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Trevor McFur in the Crescent Galaxy"
+      ],
+      "Sha1": "2f0e950517d26c83408e5cf210098c0897725537",
+      "Crc32": "0a055ee0",
+      "SetNames": {
+        "No-Intro": [
+          "Trevor McFur in the Crescent Galaxy (World) (Beta)"
+        ],
+        "TOSEC": [
+          "Trevor McFur in the Crescent Galaxy (1993)(Atari)(beta)"
+        ],
+        "TGDB": [
+          "20281"
+        ]
+      },
+      "OverviewId": 47,
+      "Size": 4194304,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Atari"
+      ],
+      "ReleaseDate": "11/23/1993",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "beta"
+      ]
+    },
+    {
+      "Titles": [
+        "Trevor McFur in the Crescent Galaxy"
+      ],
+      "Sha1": "489b0fe9f070ad27f63a17aa8f0d2afaa4dabdb3",
+      "Crc32": "95143668",
+      "SetNames": {
+        "No-Intro": [
+          "Trevor McFur in the Crescent Galaxy (World)"
+        ],
+        "TOSEC": [
+          "Trevor McFur in the Crescent Galaxy (1993)(Atari)"
+        ],
+        "MESS": [
+          "trevmcfr1"
+        ],
+        "TGDB": [
+          "20281"
+        ]
+      },
+      "OverviewId": 47,
+      "Size": 2097152,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Atari"
+      ],
+      "CloneOf": "trevmcfr",
+      "ReleaseDate": "11/23/1993",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Troy Aikman NFL Football"
+      ],
+      "Sha1": "4c6a6432ea0bc198f900f4ebdb8a3a7a34475d84",
+      "Crc32": "38a130ed",
+      "SetNames": {
+        "No-Intro": [
+          "Troy Aikman NFL Football (World)"
+        ],
+        "TOSEC": [
+          "Troy Aikman NFL Football (1995)(Atari)"
+        ],
+        "MESS": [
+          "troyaik"
+        ],
+        "TGDB": [
+          "20282"
+        ]
+      },
+      "OverviewId": 48,
+      "Size": 2097152,
+      "Publishers": [
+        "Atari",
+        "Williams Entertainment",
+        "Williams Electronic Games, Inc."
+      ],
+      "Developers": [
+        "Telegames, Inc."
+      ],
+      "ReleaseDate": "2/1/1995",
+      "Genres": [
+        "Sports"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Ultra Vortek"
+      ],
+      "Sha1": "311e41ebba1b78f514bf16789ddb7e7e8dfb47ff",
+      "Crc32": "0f6a1c2c",
+      "SetNames": {
+        "No-Intro": [
+          "Ultra Vortek (World)"
+        ],
+        "TOSEC": [
+          "Ultra Vortek (1995)(Atari)"
+        ],
+        "MESS": [
+          "ultravor"
+        ],
+        "TGDB": [
+          "3988"
+        ]
+      },
+      "OverviewId": 49,
+      "Size": 4194304,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Beyond Software, Inc."
+      ],
+      "ReleaseDate": "1/1/1995",
+      "ESRB": "M",
+      "Genres": [
+        "Fighting"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Ultra Vortex",
+        "Ultra Vortex v0.94",
+        "Ultra Vortek"
+      ],
+      "Sha1": "e3bd433bc4a573f3b05652239a6614c3878a04d1",
+      "Crc32": "a27823d8",
+      "SetNames": {
+        "No-Intro": [
+          "Ultra Vortex (World) (Beta) (1995-03-20)"
+        ],
+        "TOSEC": [
+          "Ultra Vortex v0.94 (1995-03-20)(Atari)(proto)"
+        ],
+        "MESS": [
+          "ultravor1"
+        ],
+        "TGDB": [
+          "3988"
+        ]
+      },
+      "OverviewId": 49,
+      "Size": 4194304,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Beyond Software, Inc."
+      ],
+      "CloneOf": "ultravor",
+      "ReleaseDate": "3/20/1995",
+      "ESRB": "M",
+      "Genres": [
+        "Fighting"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "beta",
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "Val d'Isere Skiing and Snowboarding",
+        "Val D'Isère Skiing & Snowboarding",
+        "Val d'Isère Skiing and Snowboarding"
+      ],
+      "Sha1": "02253d93eef375c8334f1f77a2d8b72fff7a94c6",
+      "Crc32": "c9608717",
+      "SetNames": {
+        "No-Intro": [
+          "Val d'Isere Skiing and Snowboarding (World)"
+        ],
+        "TOSEC": [
+          "Val D'Isère Skiing & Snowboarding (1994)(Atari)"
+        ],
+        "MESS": [
+          "valdiser"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Atari"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Virtual VCS"
+      ],
+      "Sha1": "2ab78090e8afd985ca4fe54da8daef7e125550fa",
+      "Crc32": "59a8863f",
+      "SetNames": {
+        "No-Intro": [
+          "Virtual VCS (USA) (Proto)"
+        ],
+        "TOSEC": [
+          "Virtual VCS (1995)(TSD)(proto)"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "TSD"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "White Men Can't Jump"
+      ],
+      "Sha1": "4d16596ac2d991435599e1fe03292adfb25c346d",
+      "Crc32": "14915f20",
+      "SetNames": {
+        "No-Intro": [
+          "White Men Can't Jump (USA, Europe)"
+        ],
+        "TOSEC": [
+          "White Men Can't Jump (1995)(Atari)"
+        ],
+        "MESS": [
+          "whitemen"
+        ],
+        "TGDB": [
+          "3989"
+        ]
+      },
+      "OverviewId": 50,
+      "Size": 4194304,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "High Voltage Software, Inc."
+      ],
+      "ReleaseDate": "6/1/1995",
+      "ESRB": "E",
+      "Genres": [
+        "Sports"
+      ],
+      "Regions": [
+        "US",
+        "EU"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Wolfenstein 3D"
+      ],
+      "Sha1": "ee553176f0a32683b517b84b12c6fae13c15c3d0",
+      "Crc32": "e91bd644",
+      "SetNames": {
+        "No-Intro": [
+          "Wolfenstein 3D (World)"
+        ],
+        "TOSEC": [
+          "Wolfenstein 3D (1994)(Atari)"
+        ],
+        "MESS": [
+          "wolfn3d"
+        ],
+        "TGDB": [
+          "3990"
+        ]
+      },
+      "OverviewId": 51,
+      "Size": 2097152,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "id Software"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "ESRB": "M",
+      "Genres": [
+        "Action",
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Worms"
+      ],
+      "Sha1": "641b07f93e8df03ab8b9bf1e8dc56e2889f247f8",
+      "Crc32": "6eb774eb",
+      "SetNames": {
+        "No-Intro": [
+          "Worms (USA, Europe)"
+        ],
+        "TOSEC": [
+          "Worms (1998)(Telegames)[JA103]"
+        ],
+        "MESS": [
+          "worms"
+        ],
+        "TGDB": [
+          "20276"
+        ]
+      },
+      "OverviewId": 52,
+      "Size": 2097152,
+      "Publishers": [
+        "Telegames",
+        "Telegames, Inc."
+      ],
+      "Developers": [
+        "Team17 Software Limited"
+      ],
+      "ReleaseDate": "10/1/1998",
+      "Genres": [
+        "Action",
+        "Strategy"
+      ],
+      "Regions": [
+        "US",
+        "EU"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Zero 5",
+        "Zero V"
+      ],
+      "Sha1": "b68de2cd49cb70e92f2415837edfa7ab46770a78",
+      "Crc32": "61c7eec0",
+      "SetNames": {
+        "No-Intro": [
+          "Zero 5 (USA, Europe)"
+        ],
+        "TOSEC": [
+          "Zero 5 (1997)(Telegames)[J4011]"
+        ],
+        "MESS": [
+          "zero5"
+        ],
+        "TGDB": [
+          "13356"
+        ]
+      },
+      "OverviewId": 53,
+      "Size": 2097152,
+      "Publishers": [
+        "Telegames",
+        "Telegames, Inc."
+      ],
+      "Developers": [
+        "Telegames, Inc."
+      ],
+      "ReleaseDate": "9/1/1997",
+      "ESRB": "E",
+      "Genres": [
+        "Shooter"
+      ],
+      "Regions": [
+        "US",
+        "EU"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Zero 5",
+        "Zero V"
+      ],
+      "Sha1": "fb03cdb0b9c8171831c0e385c27bec2d71c39400",
+      "Crc32": "e8334b93",
+      "SetNames": {
+        "No-Intro": [
+          "Zero 5 (USA, Europe) (Beta)"
+        ],
+        "TOSEC": [
+          "Zero 5 (1996)(Caspian Software)(proto)"
+        ],
+        "TGDB": [
+          "13356"
+        ]
+      },
+      "OverviewId": 53,
+      "Size": 4194304,
+      "Publishers": [
+        "Caspian Software",
+        "Telegames, Inc."
+      ],
+      "Developers": [
+        "Telegames, Inc."
+      ],
+      "ReleaseDate": "9/1/1997",
+      "ESRB": "E",
+      "Genres": [
+        "Shooter"
+      ],
+      "Regions": [
+        "US",
+        "EU"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "beta",
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "Zool 2"
+      ],
+      "Sha1": "32ff3811f8f6df8a2bb56165c62227a3a480e55c",
+      "Crc32": "8975f48b",
+      "SetNames": {
+        "No-Intro": [
+          "Zool 2 (World)"
+        ],
+        "TOSEC": [
+          "Zool 2 (1994)(Atari)"
+        ],
+        "MESS": [
+          "zool2"
+        ],
+        "TGDB": [
+          "2581"
+        ]
+      },
+      "OverviewId": 54,
+      "Size": 2097152,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Gremlin Interactive Ltd."
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Genres": [
+        "Action",
+        "Platform"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Zoop",
+        "Zoop!"
+      ],
+      "Sha1": "52ec786f7536ab043dc24725af94068cad2b0ec3",
+      "Crc32": "c5562581",
+      "SetNames": {
+        "No-Intro": [
+          "Zoop (USA, Europe)"
+        ],
+        "TOSEC": [
+          "Zoop! (1996)(Atari)"
+        ],
+        "MESS": [
+          "zoop"
+        ],
+        "TGDB": [
+          "3991"
+        ]
+      },
+      "OverviewId": 55,
+      "Size": 1048576,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc.",
+        "Viacom New Media"
+      ],
+      "Developers": [
+        "Hookstone Ltd."
+      ],
+      "ReleaseDate": "1/1/1996",
+      "ESRB": "E",
+      "Genres": [
+        "Puzzle"
+      ],
+      "Regions": [
+        "US",
+        "EU"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Zzyorxx II"
+      ],
+      "Sha1": "7e4356fecbeadd741c2bf9868a37b2956bd27d5e",
+      "Crc32": "27a31f72",
+      "SetNames": {
+        "No-Intro": [
+          "Zzyorxx II (USA) (Demo)"
+        ],
+        "TOSEC": [
+          "Zzyorxx II (199x)(Virtual Xperience)(proto)"
+        ]
+      },
+      "Size": 1048576,
+      "Publishers": [
+        "Virtual Xperience"
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "demo",
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "Pong"
+      ],
+      "Sha1": "2889f2f12c1fce7b1fc0348d1221cafdcf4f2d3a",
+      "Crc32": "e90a9122",
+      "SetNames": {
+        "TOSEC": [
+          "Pong (19xx)(Storm Works Interactive)(PD)"
+        ]
+      },
+      "Size": 4416,
+      "Publishers": [
+        "Storm Works Interactive"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Alien vs Predator"
+      ],
+      "Sha1": "343e04689d75abfe9e6d24b126b65fea80ef15a7",
+      "Crc32": "4242dfa7",
+      "SetNames": {
+        "TOSEC": [
+          "Alien vs Predator (1994)(Atari)(alpha)"
+        ]
+      },
+      "Size": 1635476,
+      "Publishers": [
+        "Atari"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "alpha"
+      ]
+    },
+    {
+      "Titles": [
+        "Arkanoid 2"
+      ],
+      "Sha1": "0a1c9c9ed162715035e68242881f8b50da85794c",
+      "Crc32": "ffa3f856",
+      "SetNames": {
+        "TOSEC": [
+          "Arkanoid 2 (19xx)(-)(PD)"
+        ]
+      },
+      "Size": 429980,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Atomic"
+      ],
+      "Sha1": "ffd4805dabfa9509cd9e064ef876d9ae70adc2b6",
+      "Crc32": "6c75d45f",
+      "SetNames": {
+        "TOSEC": [
+          "Atomic (2006)(Removers)(PD)"
+        ]
+      },
+      "Size": 541728,
+      "Publishers": [
+        "Removers"
+      ],
+      "ReleaseDate": "1/1/2006",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "BlackJag"
+      ],
+      "Sha1": "ed38d9ad44f2b4c0148a45bfa26523d3f1f4defb",
+      "Crc32": "d2589139",
+      "SetNames": {
+        "TOSEC": [
+          "BlackJag Rev 20050223 (2005)(FORCE Design)(PD)"
+        ]
+      },
+      "Size": 282368,
+      "Publishers": [
+        "FORCE Design"
+      ],
+      "ReleaseDate": "1/1/2005",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "BlackJag v1.1"
+      ],
+      "Sha1": "6ad757d2c898f6b82ca2dc13a729d2c56a04e88c",
+      "Crc32": "c1a4151f",
+      "SetNames": {
+        "TOSEC": [
+          "BlackJag v1.1 (2005)(FORCE Design)(PD)"
+        ]
+      },
+      "Size": 280720,
+      "Publishers": [
+        "FORCE Design"
+      ],
+      "ReleaseDate": "1/1/2005",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Drumpad"
+      ],
+      "Sha1": "00fed66f800f8bb38f7881d862252886967699a7",
+      "Crc32": "48537047",
+      "SetNames": {
+        "TOSEC": [
+          "Drumpad (2002)(Robert Jurziga)(PD)"
+        ]
+      },
+      "Size": 125536,
+      "Publishers": [
+        "Robert Jurziga"
+      ],
+      "ReleaseDate": "1/1/2002",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Drumpad 2"
+      ],
+      "Sha1": "5588a33f48b2af736b86675a836acba3352341e9",
+      "Crc32": "baf04511",
+      "SetNames": {
+        "TOSEC": [
+          "Drumpad 2 (2000)(Robert Jurziga)(PD)"
+        ]
+      },
+      "Size": 196944,
+      "Publishers": [
+        "Robert Jurziga"
+      ],
+      "ReleaseDate": "1/1/2000",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Frog Feast"
+      ],
+      "Sha1": "2fc46d3cf25f445f4c694587de7be0c21ab613c4",
+      "Crc32": "ee84bc2c",
+      "SetNames": {
+        "TOSEC": [
+          "Frog Feast (2005)(Rastersoft)(PD)(beta)"
+        ],
+        "TGDB": [
+          "100084"
+        ]
+      },
+      "OverviewId": 21,
+      "Size": 308214,
+      "Publishers": [
+        "Rastersoft",
+        "OlderGames"
+      ],
+      "Developers": [
+        "Charles Doty",
+        "RasterSoft"
+      ],
+      "ReleaseDate": "8/20/2007",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "beta"
+      ]
+    },
+    {
+      "Titles": [
+        "Hubble Fade"
+      ],
+      "Sha1": "acd8d516317cf9d5d55a6e06d67a860319f034e0",
+      "Crc32": "2708d9fe",
+      "SetNames": {
+        "TOSEC": [
+          "Hubble Fade (199x)(Robert Jurziga)(PD)"
+        ]
+      },
+      "Size": 865280,
+      "Publishers": [
+        "Robert Jurziga"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Hubble Nebula"
+      ],
+      "Sha1": "082b2590dd90df9c7906fb63b6e7e9db0617fb67",
+      "Crc32": "72dd1cb8",
+      "SetNames": {
+        "TOSEC": [
+          "Hubble Nebula (199x)(Robert Jurziga)(PD)"
+        ]
+      },
+      "Size": 348992,
+      "Publishers": [
+        "Robert Jurziga"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Viewgif"
+      ],
+      "Sha1": "6ffe93fd783f1e9fc2b14566e46e8cf8fb9c9085",
+      "Crc32": "3bd93ea0",
+      "SetNames": {
+        "TOSEC": [
+          "Viewgif (19xx)(-)(PD)"
+        ]
+      },
+      "Size": 48576,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Viewgif 2"
+      ],
+      "Sha1": "b1cb2379916ad43708ca8268e921563f68a2a303",
+      "Crc32": "49d03407",
+      "SetNames": {
+        "TOSEC": [
+          "Viewgif 2 (19xx)(-)(PD)"
+        ]
+      },
+      "Size": 48608,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Brett Hull NHL Hockey"
+      ],
+      "Sha1": "77a9277a9b064c2f83c14c101368967ca50a50e4",
+      "Crc32": "a4b819e4",
+      "SetNames": {
+        "TOSEC": [
+          "Brett Hull NHL Hockey (1995)(Atari)(proto)[b]"
+        ],
+        "TGDB": [
+          "78831"
+        ]
+      },
+      "OverviewId": 5,
+      "Size": 4194304,
+      "Publishers": [
+        "Atari",
+        "Accolade, Inc."
+      ],
+      "Developers": [
+        "Ringler Studios"
+      ],
+      "ReleaseDate": "1/9/2004",
+      "Genres": [
+        "Sports"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump",
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "Brutal Sports Football"
+      ],
+      "Sha1": "11570d1795158c83d2e9326c232167c5eef7e2f3",
+      "Crc32": "0fdceb66",
+      "SetNames": {
+        "TOSEC": [
+          "Brutal Sports Football (1994)(Telegames)[o][JA100]"
+        ],
+        "TGDB": [
+          "14801"
+        ]
+      },
+      "OverviewId": 6,
+      "Size": 2097664,
+      "Publishers": [
+        "Telegames",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Millennium Interactive Ltd"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Genres": [
+        "Fighting",
+        "Sports"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Fight for Life"
+      ],
+      "Sha1": "61214ae7df3e7e806ed86c359f3db37575a273cd",
+      "Crc32": "2abadb3d",
+      "SetNames": {
+        "TOSEC": [
+          "Fight for Life (1996)(Atari)[a2]"
+        ],
+        "TGDB": [
+          "3969"
+        ]
+      },
+      "OverviewId": 18,
+      "Size": 2097152,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Atari"
+      ],
+      "ReleaseDate": "1/1/1996",
+      "ESRB": "T",
+      "Genres": [
+        "Fighting"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Fight for Life"
+      ],
+      "Sha1": "686176f5a7bdaef690d853523a338beb8a93d244",
+      "Crc32": "c6c7ba62",
+      "SetNames": {
+        "TOSEC": [
+          "Fight for Life (1996)(Atari)[a]"
+        ],
+        "MESS": [
+          "fforlife1"
+        ],
+        "TGDB": [
+          "3969"
+        ]
+      },
+      "OverviewId": 18,
+      "Size": 4194304,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Atari"
+      ],
+      "CloneOf": "fforlife",
+      "ReleaseDate": "1/1/1996",
+      "ESRB": "T",
+      "Genres": [
+        "Fighting"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Alternate"
+      ]
+    },
+    {
+      "Titles": [
+        "Gorf 2000"
+      ],
+      "Sha1": "cfc87be2e43032ce3902b5073e63e3c6ff0e6018",
+      "Crc32": "74bdcb91",
+      "SetNames": {
+        "TOSEC": [
+          "Gorf 2000 (demo) (2008)(-)"
+        ]
+      },
+      "Size": 131072,
+      "Publishers": [
+        "-"
+      ],
+      "ReleaseDate": "1/1/2008",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "demo"
+      ]
+    },
+    {
+      "Titles": [
+        "Iron Soldier"
+      ],
+      "Sha1": "bf2a5a3742330f6d463beb239bedb77c805caa3d",
+      "Crc32": "f7f3462b",
+      "SetNames": {
+        "TOSEC": [
+          "Iron Soldier (1994)(Atari)"
+        ],
+        "TGDB": [
+          "3975"
+        ]
+      },
+      "OverviewId": 26,
+      "Size": 2097152,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Eclipse Software"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "ESRB": "E",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Kasumi Ninja"
+      ],
+      "Sha1": "3f8ccc95918c79c2df590710f72734247b111774",
+      "Crc32": "ce5f0c11",
+      "SetNames": {
+        "TOSEC": [
+          "Kasumi Ninja (1994)(Atari)[a]"
+        ],
+        "TGDB": [
+          "3976"
+        ]
+      },
+      "OverviewId": 28,
+      "Size": 4194304,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Hand Made Software"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "ESRB": "M",
+      "Genres": [
+        "Fighting"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Alternate"
+      ]
+    },
+    {
+      "Titles": [
+        "Memory Track"
+      ],
+      "Sha1": "815d6e8beccc6720ffb8d349587a382409f30042",
+      "Crc32": "fdf37f47",
+      "SetNames": {
+        "TOSEC": [
+          "Memory Track (1995)(Atari)[JagCD cart][J8911 700140]"
+        ],
+        "MESS": [
+          "memtrack"
+        ]
+      },
+      "Size": 131072,
+      "Publishers": [
+        "Atari"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Phase Zero"
+      ],
+      "Sha1": "57882eef55ea903c5eb8a2fcccdd3313474d7a59",
+      "Crc32": "ea9b3fa7",
+      "SetNames": {
+        "TOSEC": [
+          "Phase Zero (2000)(-)(PD)"
+        ],
+        "TGDB": [
+          "80328"
+        ]
+      },
+      "OverviewId": 31,
+      "Size": 2097152,
+      "Publishers": [
+        "-",
+        "Songbird Productions"
+      ],
+      "ReleaseDate": "6/1/2002",
+      "Genres": [
+        "Action",
+        "Flight Simulator",
+        "Vehicle Simulation"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Phase Zero"
+      ],
+      "Sha1": "87821a625222331827ce0ac10b464a25f844912d",
+      "Crc32": "4203e23d",
+      "SetNames": {
+        "TOSEC": [
+          "Phase Zero (2000)(-)(PD)[a]"
+        ],
+        "TGDB": [
+          "80328"
+        ]
+      },
+      "OverviewId": 31,
+      "Size": 2097152,
+      "Publishers": [
+        "-",
+        "Songbird Productions"
+      ],
+      "ReleaseDate": "6/1/2002",
+      "Genres": [
+        "Action",
+        "Flight Simulator",
+        "Vehicle Simulation"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Alternate"
+      ]
+    },
+    {
+      "Titles": [
+        "Rayman"
+      ],
+      "Sha1": "41c7d50bde8e1267afd043394f9bc6a463095fa2",
+      "Crc32": "e6bd422c",
+      "SetNames": {
+        "TOSEC": [
+          "Rayman (demo) (1995)(Ubisoft)"
+        ],
+        "TGDB": [
+          "3982"
+        ]
+      },
+      "OverviewId": 36,
+      "Size": 2097152,
+      "Publishers": [
+        "Ubisoft",
+        "Ubisoft Entertainment"
+      ],
+      "Developers": [
+        "Ubisoft Entertainment"
+      ],
+      "ReleaseDate": "9/8/1995",
+      "ESRB": "E",
+      "Genres": [
+        "Platform"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "demo"
+      ]
+    },
+    {
+      "Titles": [
+        "[BIOS] Soccer Kid",
+        "Soccer Kid"
+      ],
+      "Sha1": "59887e23f23b720a0676ef63a0ec0cf53df7e5dc",
+      "Crc32": "41a551b0",
+      "SetNames": {
+        "TOSEC": [
+          "Soccer Kid (2000)(Songbird Productions)[BIOS blaster][re-release][CF3002]"
+        ],
+        "MESS": [
+          "soccerkd1"
+        ],
+        "TGDB": [
+          "20278"
+        ]
+      },
+      "OverviewId": 39,
+      "Size": 131072,
+      "Publishers": [
+        "Songbird Productions"
+      ],
+      "Developers": [
+        "ReadySoft Incorporated"
+      ],
+      "CloneOf": "soccerkd",
+      "ReleaseDate": "2/7/2000",
+      "Genres": [
+        "Platform"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "BIOS"
+      ]
+    },
+    {
+      "Titles": [
+        "Soccer Kid"
+      ],
+      "Sha1": "9524fa2870865b8433bdba7684861b1ef9092c00",
+      "Crc32": "9e265a6e",
+      "SetNames": {
+        "TOSEC": [
+          "Soccer Kid (2000)(Songbird Productions)[h universal header][CF3002]"
+        ],
+        "MESS": [
+          "soccerkd1h"
+        ],
+        "TGDB": [
+          "20278"
+        ]
+      },
+      "OverviewId": 39,
+      "Size": 2097152,
+      "Publishers": [
+        "Songbird Productions"
+      ],
+      "Developers": [
+        "ReadySoft Incorporated"
+      ],
+      "CloneOf": "soccerkd",
+      "ReleaseDate": "2/7/2000",
+      "Genres": [
+        "Platform"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Hacked"
+      ]
+    },
+    {
+      "Titles": [
+        "Space War 2000"
+      ],
+      "Sha1": "0e7aacd65ecd6210d914e1c00a98dce5d00569af",
+      "Crc32": "45aa46ba",
+      "SetNames": {
+        "TOSEC": [
+          "Space War 2000 (19xx)(Atari)(proto)"
+        ],
+        "MESS": [
+          "spacewarp"
+        ],
+        "TGDB": [
+          "20279"
+        ]
+      },
+      "OverviewId": 40,
+      "Size": 2097152,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Atari"
+      ],
+      "CloneOf": "spacewar",
+      "ReleaseDate": "10/1/2001",
+      "Genres": [
+        "Adventure"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "SuperCross 3D"
+      ],
+      "Sha1": "c888594306f15797b9ce3caa88c06c72104f8b74",
+      "Crc32": "4a08a2bd",
+      "SetNames": {
+        "TOSEC": [
+          "SuperCross 3D (1995)(Atari)[a]"
+        ],
+        "TGDB": [
+          "3985"
+        ]
+      },
+      "OverviewId": 42,
+      "Size": 2097152,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Tiertex Design Studios"
+      ],
+      "ReleaseDate": "12/1/1995",
+      "ESRB": "E",
+      "Genres": [
+        "Racing",
+        "Sports"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Alternate"
+      ]
+    },
+    {
+      "Titles": [
+        "Ultimate Brain Games"
+      ],
+      "Sha1": "b0026e73787c7a901f0b7e71418acdaf54981d17",
+      "Crc32": "9aaf8efd",
+      "SetNames": {
+        "TOSEC": [
+          "Ultimate Brain Games (199x)(Crazy Ace)[unreleased]"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Crazy Ace"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Arkanna"
+      ],
+      "Sha1": "8967081069be98b9ee2395c8f8008c6d1dbe4698",
+      "Crc32": "bc3c8272",
+      "SetNames": {
+        "TOSEC": [
+          "Arkanna (199x)(-)(PD)"
+        ]
+      },
+      "Size": 104924,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Asteroid"
+      ],
+      "Sha1": "331ea0431c27ddd96fa344666186924804a3c7ad",
+      "Crc32": "82629a5b",
+      "SetNames": {
+        "TOSEC": [
+          "Asteroid (2000)(-)(PD)"
+        ]
+      },
+      "Size": 296862,
+      "Publishers": [
+        "-"
+      ],
+      "ReleaseDate": "1/1/2000",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Gorf 2000"
+      ],
+      "Sha1": "40cce38388c0b02cdeacc02a1476a4c70858adcb",
+      "Crc32": "b4c74036",
+      "SetNames": {
+        "TOSEC": [
+          "Gorf 2000 (19xx)(-)(PD)"
+        ]
+      },
+      "Size": 69296,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Jagfest"
+      ],
+      "Sha1": "4c6fecd63cf1cfff41e77ef11d0b56952a8ff994",
+      "Crc32": "7dae6472",
+      "SetNames": {
+        "TOSEC": [
+          "Jagfest (2001)(-)(PD)"
+        ]
+      },
+      "Size": 479952,
+      "Publishers": [
+        "-"
+      ],
+      "ReleaseDate": "1/1/2001",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Jagmarble"
+      ],
+      "Sha1": "930d9061067cc46a7df20e60ff25b8808c9ec16c",
+      "Crc32": "c1d3612c",
+      "SetNames": {
+        "TOSEC": [
+          "Jagmarble (1997)(Matthias Domin)(PD)"
+        ]
+      },
+      "Size": 64786,
+      "Publishers": [
+        "Matthias Domin"
+      ],
+      "ReleaseDate": "1/1/1997",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Jagmarble"
+      ],
+      "Sha1": "37f4e86efc9baf466b62ffe04814fbbbb0f51617",
+      "Crc32": "ebafd0de",
+      "SetNames": {
+        "TOSEC": [
+          "Jagmarble (1999)(Matthias Domin)(PD)"
+        ]
+      },
+      "Size": 64850,
+      "Publishers": [
+        "Matthias Domin"
+      ],
+      "ReleaseDate": "1/1/1999",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Jagmarble"
+      ],
+      "Sha1": "f60b001242d2dfb55c41412720bb01c59f7b04b5",
+      "Crc32": "1b57a623",
+      "SetNames": {
+        "TOSEC": [
+          "Jagmarble (2000)(Matthias Domin)(PD)"
+        ]
+      },
+      "Size": 64804,
+      "Publishers": [
+        "Matthias Domin"
+      ],
+      "ReleaseDate": "1/1/2000",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Jaguar Tetris"
+      ],
+      "Sha1": "4b4ad37d6b057ae8d59e45c23aad3164bdcbaaf1",
+      "Crc32": "c539ef03",
+      "SetNames": {
+        "TOSEC": [
+          "Jaguar Tetris (1995)(Bastian Schick)(PD)"
+        ]
+      },
+      "Size": 131042,
+      "Publishers": [
+        "Bastian Schick"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Air Cars"
+      ],
+      "Sha1": "4f9c914b43208eb100fb25b8be87dec370fd205d",
+      "Crc32": "bbd4c4bd",
+      "SetNames": {
+        "TOSEC": [
+          "Air Cars (1994)(Midnite Entertainment Group)(US)"
+        ],
+        "MESS": [
+          "aircars94"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Midnite Entertainment Group"
+      ],
+      "CloneOf": "aircars",
+      "ReleaseDate": "1/1/1994",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Air Cars"
+      ],
+      "Sha1": "d7aa26e084b68023076ac025eff819f0e568e2a0",
+      "Crc32": "d9958c79",
+      "SetNames": {
+        "TOSEC": [
+          "Air Cars (1994)(Midnite Entertainment Group)(US)"
+        ],
+        "MESS": [
+          "aircars94"
+        ]
+      },
+      "Size": 2097152,
+      "Publishers": [
+        "Midnite Entertainment Group"
+      ],
+      "CloneOf": "aircars",
+      "ReleaseDate": "1/1/1994",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Air Cars"
+      ],
+      "Sha1": "f5992688c85833fee82e04be274143cf0366f428",
+      "Crc32": "cfdb57c6",
+      "SetNames": {
+        "TOSEC": [
+          "Air Cars (1994-11-14)(Midnite Entertainment Group)(US)(beta)"
+        ]
+      },
+      "Size": 2088960,
+      "Publishers": [
+        "Midnite Entertainment Group"
+      ],
+      "ReleaseDate": "11/14/1994",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "beta"
+      ]
+    },
+    {
+      "Titles": [
+        "Air Cars"
+      ],
+      "Sha1": "d38590bb9c57032a1cef08bb9e0d86282d7d0c35",
+      "Crc32": "9938a06c",
+      "SetNames": {
+        "TOSEC": [
+          "Air Cars (1997)(ICD)"
+        ]
+      },
+      "Size": 2088960,
+      "Publishers": [
+        "ICD"
+      ],
+      "ReleaseDate": "1/1/1997",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Alien vs Predator"
+      ],
+      "Sha1": "5f7eea52f9204749fba508ee70349c3f42cd0928",
+      "Crc32": "c9e144cc",
+      "SetNames": {
+        "TOSEC": [
+          "Alien vs Predator (1993-08-18)(Atari)(beta)"
+        ]
+      },
+      "Size": 2088960,
+      "Publishers": [
+        "Atari"
+      ],
+      "ReleaseDate": "8/18/1993",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "beta"
+      ]
+    },
+    {
+      "Titles": [
+        "Alien vs Predator"
+      ],
+      "Sha1": "a7356d2dc9d235b2a87508b41aedbd5eacc7399d",
+      "Crc32": "dfc07abd",
+      "SetNames": {
+        "TOSEC": [
+          "Alien vs Predator (1993-10-13)(Atari)(beta)"
+        ]
+      },
+      "Size": 1040384,
+      "Publishers": [
+        "Atari"
+      ],
+      "ReleaseDate": "10/13/1993",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "beta"
+      ]
+    },
+    {
+      "Titles": [
+        "Alien vs Predator"
+      ],
+      "Sha1": "86fd0c17c4f115cf19b96f9986446b9fc0e7da60",
+      "Crc32": "3eaecb25",
+      "SetNames": {
+        "TOSEC": [
+          "Alien vs Predator (1994)(Atari)"
+        ]
+      },
+      "Size": 4186112,
+      "Publishers": [
+        "Atari"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Alien vs Predator"
+      ],
+      "Sha1": "c029a536d6e47e11d107a7213f175382e2acebd8",
+      "Crc32": "1eef352c",
+      "SetNames": {
+        "TOSEC": [
+          "Alien vs Predator (1994-04-08)(Atari)(beta)"
+        ]
+      },
+      "Size": 2088960,
+      "Publishers": [
+        "Atari"
+      ],
+      "ReleaseDate": "4/8/1994",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "beta"
+      ]
+    },
+    {
+      "Titles": [
+        "Arena Football '95"
+      ],
+      "Sha1": "49fce6385856239e133a66962ea7c8f60ecdd7d6",
+      "Crc32": "61ee6b62",
+      "SetNames": {
+        "TOSEC": [
+          "Arena Football '95 (2006)(B&C Computervision)[J9003E 800108-006]"
+        ]
+      },
+      "Size": 4186112,
+      "Publishers": [
+        "B&C Computervision"
+      ],
+      "ReleaseDate": "1/1/2006",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Atari Karts"
+      ],
+      "Sha1": "5168453c88617a58bc33cf7c18631108d6376a81",
+      "Crc32": "f816c3e6",
+      "SetNames": {
+        "TOSEC": [
+          "Atari Karts (1995)(Atari)"
+        ],
+        "TGDB": [
+          "3963"
+        ]
+      },
+      "OverviewId": 2,
+      "Size": 4186112,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Miracle Designs"
+      ],
+      "ReleaseDate": "12/20/1995",
+      "ESRB": "E",
+      "Genres": [
+        "Racing"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Atari Karts"
+      ],
+      "Sha1": "5b61f7cfaf6736ddbd8f6e873d850d96951d34e4",
+      "Crc32": "2abc6001",
+      "SetNames": {
+        "TOSEC": [
+          "Atari Karts (1995)(Atari)(proto)"
+        ],
+        "TGDB": [
+          "3963"
+        ]
+      },
+      "OverviewId": 2,
+      "Size": 4186112,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Miracle Designs"
+      ],
+      "ReleaseDate": "12/20/1995",
+      "ESRB": "E",
+      "Genres": [
+        "Racing"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "Attack of the Mutant Penguins"
+      ],
+      "Sha1": "53f21a5d8b382a9934cb0907a65b28a519de2c55",
+      "Crc32": "66a1567c",
+      "SetNames": {
+        "TOSEC": [
+          "Attack of the Mutant Penguins (1996)(Atari)"
+        ],
+        "TGDB": [
+          "9849"
+        ]
+      },
+      "OverviewId": 3,
+      "Size": 2088960,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Sunrise Games"
+      ],
+      "ReleaseDate": "3/1/1996",
+      "Genres": [
+        "Action",
+        "Puzzle"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Barkley Shut Up and Jam!"
+      ],
+      "Sha1": "57b0340dd805b240abcc761e4186aac1d04c5f6c",
+      "Crc32": "c2898f6e",
+      "SetNames": {
+        "TOSEC": [
+          "Barkley Shut Up and Jam! (1994)(Accolade)(proto)[b]"
+        ]
+      },
+      "Size": 2088960,
+      "Publishers": [
+        "Accolade"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump",
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "Barkley Shut Up and Jam!"
+      ],
+      "Sha1": "a1667e30fc28e93d63d50050b989db51d7528e3f",
+      "Crc32": "93ecef15",
+      "SetNames": {
+        "TOSEC": [
+          "Barkley Shut Up and Jam! (2002)(B&C Computervision)[J9018E 705018-001]"
+        ]
+      },
+      "Size": 4186112,
+      "Publishers": [
+        "B&C Computervision"
+      ],
+      "ReleaseDate": "1/1/2002",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Battle Sphere"
+      ],
+      "Sha1": "51a8269226015a4428f863ec9067d7e69762bff3",
+      "Crc32": "ad6fe9b5",
+      "SetNames": {
+        "TOSEC": [
+          "Battle Sphere (2000)(ScatoLOGIC)[J9807E]"
+        ]
+      },
+      "Size": 4186112,
+      "Publishers": [
+        "ScatoLOGIC"
+      ],
+      "ReleaseDate": "1/1/2000",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Battle Sphere Gold"
+      ],
+      "Sha1": "1724b3163a68eb88d8a80564d58d12bc04ab6cc2",
+      "Crc32": "d5727f02",
+      "SetNames": {
+        "TOSEC": [
+          "Battle Sphere Gold (2002)(ScatoLOGIC)[J0201G]"
+        ]
+      },
+      "Size": 4186112,
+      "Publishers": [
+        "ScatoLOGIC"
+      ],
+      "ReleaseDate": "1/1/2002",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Breakout 2000"
+      ],
+      "Sha1": "dd0505579035fd4b402be64d975b41496fcfb4ee",
+      "Crc32": "d8696f23",
+      "SetNames": {
+        "TOSEC": [
+          "Breakout 2000 (1996)(Telegames)(proto)[xx0327]"
+        ],
+        "TGDB": [
+          "13358"
+        ]
+      },
+      "OverviewId": 4,
+      "Size": 2088960,
+      "Publishers": [
+        "Telegames",
+        "Telegames, Inc."
+      ],
+      "Developers": [
+        "L4 Software"
+      ],
+      "ReleaseDate": "12/1/1996",
+      "ESRB": "E",
+      "Genres": [
+        "Puzzle"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "Breakout 2000"
+      ],
+      "Sha1": "512ee251e8fa7764105f4b0d4b636a6e6e2c3c1f",
+      "Crc32": "4dd5c5de",
+      "SetNames": {
+        "TOSEC": [
+          "Breakout 2000 (1996)(Telegames)[J9093E]"
+        ],
+        "TGDB": [
+          "13358"
+        ]
+      },
+      "OverviewId": 4,
+      "Size": 2088960,
+      "Publishers": [
+        "Telegames",
+        "Telegames, Inc."
+      ],
+      "Developers": [
+        "L4 Software"
+      ],
+      "ReleaseDate": "12/1/1996",
+      "ESRB": "E",
+      "Genres": [
+        "Puzzle"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Brett Hull NHL Hockey"
+      ],
+      "Sha1": "181dc9c9cfc3e4afc59d04ea13e5464a4a82f24f",
+      "Crc32": "dccdef05",
+      "SetNames": {
+        "TOSEC": [
+          "Brett Hull NHL Hockey (2004)(B&C Computervision)[J9021E 705021-002]"
+        ],
+        "TGDB": [
+          "78831"
+        ]
+      },
+      "OverviewId": 5,
+      "Size": 4186112,
+      "Publishers": [
+        "B&C Computervision",
+        "Accolade, Inc."
+      ],
+      "Developers": [
+        "Ringler Studios"
+      ],
+      "ReleaseDate": "1/9/2004",
+      "Genres": [
+        "Sports"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Brutal Sports Football"
+      ],
+      "Sha1": "5129491a19588b8c7cb513e7f567585de42f1549",
+      "Crc32": "9c655c37",
+      "SetNames": {
+        "TOSEC": [
+          "Brutal Sports Football (1994)(Telegames)[JA100]"
+        ],
+        "TGDB": [
+          "14801"
+        ]
+      },
+      "OverviewId": 6,
+      "Size": 2088960,
+      "Publishers": [
+        "Telegames",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Millennium Interactive Ltd"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Genres": [
+        "Fighting",
+        "Sports"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Bubsy in Fractured Furry Tales"
+      ],
+      "Sha1": "0624c22e8df7a70392d7b29993cf101a86484d17",
+      "Crc32": "278c40be",
+      "SetNames": {
+        "TOSEC": [
+          "Bubsy in Fractured Furry Tales (1994)(Atari)"
+        ],
+        "TGDB": [
+          "3964"
+        ]
+      },
+      "OverviewId": 7,
+      "Size": 2088960,
+      "Publishers": [
+        "Atari",
+        "Accolade, Inc."
+      ],
+      "Developers": [
+        "Imagitec Design Inc."
+      ],
+      "ReleaseDate": "1/1/1994",
+      "ESRB": "E",
+      "Genres": [
+        "Platform"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Burn Out"
+      ],
+      "Sha1": "937845cc00fb6a14b6ae42748ad02c82e04a86ed",
+      "Crc32": "359a602e",
+      "SetNames": {
+        "TOSEC": [
+          "Burn Out (1995-01-07)(Atari)(proto)[Super Burnout][WCES 1995]"
+        ]
+      },
+      "Size": 2088960,
+      "Publishers": [
+        "Atari"
+      ],
+      "ReleaseDate": "1/7/1995",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "Cannon Fodder"
+      ],
+      "Sha1": "add3ccd479aadb3a9b0596462801339c71088e6d",
+      "Crc32": "31ebf18b",
+      "SetNames": {
+        "TOSEC": [
+          "Cannon Fodder (1995)(Virgin Interactive)"
+        ],
+        "TGDB": [
+          "3965"
+        ]
+      },
+      "OverviewId": 8,
+      "Size": 2088960,
+      "Publishers": [
+        "Virgin Interactive",
+        "Virgin Interactive Entertainment, Inc."
+      ],
+      "Developers": [
+        "Sensible Software"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "ESRB": "E",
+      "Genres": [
+        "Action",
+        "Strategy"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Checkered Flag"
+      ],
+      "Sha1": "172e4f17d071ded4bb74afd5489ba6145e29e7b4",
+      "Crc32": "a5b30631",
+      "SetNames": {
+        "TOSEC": [
+          "Checkered Flag (1993-08)(Atari)(proto)[CES 1993]"
+        ],
+        "TGDB": [
+          "14797"
+        ]
+      },
+      "OverviewId": 9,
+      "Size": 1040384,
+      "Publishers": [
+        "Atari",
+        "Atari Games"
+      ],
+      "Developers": [
+        "Rebellion"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "ESRB": "E",
+      "Genres": [
+        "Racing",
+        "Sports"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "Checkered Flag"
+      ],
+      "Sha1": "ed24557fbaa536273c6e3894ab1399a729fd5f22",
+      "Crc32": "6bf22dd1",
+      "SetNames": {
+        "TOSEC": [
+          "Checkered Flag (1994)(Atari)"
+        ],
+        "TGDB": [
+          "14797"
+        ]
+      },
+      "OverviewId": 9,
+      "Size": 2088960,
+      "Publishers": [
+        "Atari",
+        "Atari Games"
+      ],
+      "Developers": [
+        "Rebellion"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "ESRB": "E",
+      "Genres": [
+        "Racing",
+        "Sports"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Club Drive"
+      ],
+      "Sha1": "d1b365f8534e042e0586b505ae03874a662f12df",
+      "Crc32": "8fbdf685",
+      "SetNames": {
+        "TOSEC": [
+          "Club Drive (1994)(Atari)"
+        ],
+        "TGDB": [
+          "2517"
+        ]
+      },
+      "OverviewId": 10,
+      "Size": 2088960,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Atari"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Genres": [
+        "Racing"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Club Drive"
+      ],
+      "Sha1": "ee1fee0be68340a5ac15afa8ed873e0690b99ad9",
+      "Crc32": "6cb78512",
+      "SetNames": {
+        "TOSEC": [
+          "Club Drive (1994)(Atari)(beta)"
+        ],
+        "TGDB": [
+          "2517"
+        ]
+      },
+      "OverviewId": 10,
+      "Size": 516096,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Atari"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Genres": [
+        "Racing"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "beta"
+      ]
+    },
+    {
+      "Titles": [
+        "Cybermorph"
+      ],
+      "Sha1": "93e991ed275b1d8bbc92765422e072d60ea0db6c",
+      "Crc32": "f5944f1d",
+      "SetNames": {
+        "TOSEC": [
+          "Cybermorph (1993-08-23)(Atari)(proto)"
+        ],
+        "TGDB": [
+          "2518"
+        ]
+      },
+      "OverviewId": 11,
+      "Size": 1040384,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Attention to Detail Limited"
+      ],
+      "ReleaseDate": "8/23/1993",
+      "ESRB": "E",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "Cybermorph"
+      ],
+      "Sha1": "e3426cbd33fe31b77395270b71676ddda43d68e6",
+      "Crc32": "2e31aca5",
+      "SetNames": {
+        "TOSEC": [
+          "Cybermorph Rev A (1993)(Atari)"
+        ],
+        "TGDB": [
+          "2518"
+        ]
+      },
+      "OverviewId": 11,
+      "Size": 2088960,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Attention to Detail Limited"
+      ],
+      "ReleaseDate": "1/1/1993",
+      "ESRB": "E",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cybermorph"
+      ],
+      "Sha1": "d4a0ce12f5d5c1c668cd919aaac1187cc00cadd1",
+      "Crc32": "c7c21726",
+      "SetNames": {
+        "TOSEC": [
+          "Cybermorph Rev B (1994)(Atari)[J9000E 700700-3]"
+        ],
+        "TGDB": [
+          "2518"
+        ]
+      },
+      "OverviewId": 11,
+      "Size": 1040384,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Attention to Detail Limited"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "ESRB": "E",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Defender 2000"
+      ],
+      "Sha1": "982c2965cecf3a358d03cfe1ca6ae5a90f1c6f7b",
+      "Crc32": "9cd0650d",
+      "SetNames": {
+        "TOSEC": [
+          "Defender 2000 (1996)(Atari)"
+        ],
+        "TGDB": [
+          "13357"
+        ]
+      },
+      "OverviewId": 12,
+      "Size": 4186112,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc.",
+        "Williams Electronic Games, Inc."
+      ],
+      "Developers": [
+        "Atari"
+      ],
+      "ReleaseDate": "1/1/1996",
+      "ESRB": "E",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Defender 2000"
+      ],
+      "Sha1": "2693943111b317a0c56d14752f8b8e801edab167",
+      "Crc32": "ed58f111",
+      "SetNames": {
+        "TOSEC": [
+          "Defender 2000 (1996)(Atari)(proto)"
+        ],
+        "TGDB": [
+          "13357"
+        ]
+      },
+      "OverviewId": 12,
+      "Size": 4186112,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc.",
+        "Williams Electronic Games, Inc."
+      ],
+      "Developers": [
+        "Atari"
+      ],
+      "ReleaseDate": "1/1/1996",
+      "ESRB": "E",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "Doom"
+      ],
+      "Sha1": "42e3db28e5477e0d18b1d390338e8ddb1d667498",
+      "Crc32": "4ca68830",
+      "SetNames": {
+        "TOSEC": [
+          "Doom (1994)(Atari)"
+        ],
+        "TGDB": [
+          "2878"
+        ]
+      },
+      "OverviewId": 13,
+      "Size": 4186112,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "id Software"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "ESRB": "M",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Double Dragon V - The Shadow Falls",
+        "Double Dragon V: The Shadow Falls"
+      ],
+      "Sha1": "fd1c8b692ddd24113ad42ef520ae3cd33a5b0680",
+      "Crc32": "a3ab2f69",
+      "SetNames": {
+        "TOSEC": [
+          "Double Dragon V - The Shadow Falls (1995)(Tradewest)"
+        ],
+        "TGDB": [
+          "3966"
+        ]
+      },
+      "OverviewId": 14,
+      "Size": 2088960,
+      "Publishers": [
+        "Tradewest",
+        "Tradewest, Inc."
+      ],
+      "Developers": [
+        "Leland Interactive Media"
+      ],
+      "ReleaseDate": "4/1/1995",
+      "ESRB": "T",
+      "Genres": [
+        "Fighting"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Dragon - The Bruce Lee Story",
+        "Dragon: The Bruce Lee Story"
+      ],
+      "Sha1": "760b26f7ee7f9695806688af0a3fe2486ac65e15",
+      "Crc32": "86ddd8e2",
+      "SetNames": {
+        "TOSEC": [
+          "Dragon - The Bruce Lee Story (1994)(Virgin Interactive)"
+        ],
+        "TGDB": [
+          "3967"
+        ]
+      },
+      "OverviewId": 15,
+      "Size": 2088960,
+      "Publishers": [
+        "Virgin Interactive",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Virgin Interactive Entertainment"
+      ],
+      "ReleaseDate": "11/1/1994",
+      "ESRB": "T",
+      "Genres": [
+        "Fighting"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Dragon - The Bruce Lee Story",
+        "Dragon: The Bruce Lee Story"
+      ],
+      "Sha1": "e1a65034d71cfa2f48d909e751b1f5536cf19b31",
+      "Crc32": "59fd0417",
+      "SetNames": {
+        "TOSEC": [
+          "Dragon - The Bruce Lee Story (1994-09-26)(Virgin Interactive)(beta)"
+        ],
+        "TGDB": [
+          "3967"
+        ]
+      },
+      "OverviewId": 15,
+      "Size": 2088960,
+      "Publishers": [
+        "Virgin Interactive",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Virgin Interactive Entertainment"
+      ],
+      "ReleaseDate": "11/1/1994",
+      "ESRB": "T",
+      "Genres": [
+        "Fighting"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "beta"
+      ]
+    },
+    {
+      "Titles": [
+        "Dragon - The Bruce Lee Story",
+        "Dragon: The Bruce Lee Story"
+      ],
+      "Sha1": "fb7ed8d7766fb097860951b3975d7e30e7ff4b0f",
+      "Crc32": "7b743c7c",
+      "SetNames": {
+        "TOSEC": [
+          "Dragon - The Bruce Lee Story (1994-10-06)(Virgin Interactive)(beta)"
+        ],
+        "TGDB": [
+          "3967"
+        ]
+      },
+      "OverviewId": 15,
+      "Size": 2088960,
+      "Publishers": [
+        "Virgin Interactive",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Virgin Interactive Entertainment"
+      ],
+      "ReleaseDate": "11/1/1994",
+      "ESRB": "T",
+      "Genres": [
+        "Fighting"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "beta"
+      ]
+    },
+    {
+      "Titles": [
+        "Evolution - Dino Dudes",
+        "Evolution: Dino Dudes"
+      ],
+      "Sha1": "dcaca75fc27d31bfd774bec24474a66d1debc436",
+      "Crc32": "a86c3324",
+      "SetNames": {
+        "TOSEC": [
+          "Evolution - Dino Dudes (1994)(Atari)"
+        ],
+        "TGDB": [
+          "3968"
+        ]
+      },
+      "OverviewId": 16,
+      "Size": 2088960,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Imagitec Design Inc."
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Fever Pitch Soccer"
+      ],
+      "Sha1": "1ebf9930892a6da2196a2acebf6a34fe7af2e61a",
+      "Crc32": "2ded9193",
+      "SetNames": {
+        "TOSEC": [
+          "Fever Pitch Soccer (1995)(Atari)(M5)"
+        ],
+        "TGDB": [
+          "3992"
+        ]
+      },
+      "OverviewId": 17,
+      "Size": 2088960,
+      "Publishers": [
+        "Atari",
+        "U.S. Gold Ltd."
+      ],
+      "Developers": [
+        "U.S. Gold Ltd."
+      ],
+      "ReleaseDate": "12/1/1995",
+      "ESRB": "E",
+      "Genres": [
+        "Sports"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Fight for Life"
+      ],
+      "Sha1": "c4bd76e54a15544c709faf2edd4743afff93988b",
+      "Crc32": "21307778",
+      "SetNames": {
+        "TOSEC": [
+          "Fight for Life (1995-03-22)(Atari)(proto)[xx0322]"
+        ],
+        "TGDB": [
+          "3969"
+        ]
+      },
+      "OverviewId": 18,
+      "Size": 4186112,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Atari"
+      ],
+      "ReleaseDate": "1/1/1996",
+      "ESRB": "T",
+      "Genres": [
+        "Fighting"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "Fight for Life"
+      ],
+      "Sha1": "c5dfce9e0ea8d6faa0b9ac21f4d82896bde9d9b3",
+      "Crc32": "7b1fd307",
+      "SetNames": {
+        "TOSEC": [
+          "Fight for Life (1995-09-07)(Atari)(proto)[xx0907]"
+        ],
+        "TGDB": [
+          "3969"
+        ]
+      },
+      "OverviewId": 18,
+      "Size": 4186112,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Atari"
+      ],
+      "ReleaseDate": "1/1/1996",
+      "ESRB": "T",
+      "Genres": [
+        "Fighting"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "Fight for Life"
+      ],
+      "Sha1": "9ed55e62dc4d5e1f7763136ea22a10b3e7762ae7",
+      "Crc32": "521c17ef",
+      "SetNames": {
+        "TOSEC": [
+          "Fight for Life (1996)(Atari)"
+        ],
+        "TGDB": [
+          "3969"
+        ]
+      },
+      "OverviewId": 18,
+      "Size": 4186112,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Atari"
+      ],
+      "ReleaseDate": "1/1/1996",
+      "ESRB": "T",
+      "Genres": [
+        "Fighting"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Flashback - The Quest for Identity",
+        "Flashback: The Quest for Identity"
+      ],
+      "Sha1": "60068adadee3871072795104721fdacf8c129f6f",
+      "Crc32": "62c2f43b",
+      "SetNames": {
+        "TOSEC": [
+          "Flashback - The Quest for Identity (1995)(U.S. Gold)(en-fr)"
+        ],
+        "TGDB": [
+          "2846"
+        ]
+      },
+      "OverviewId": 19,
+      "Size": 2088960,
+      "Publishers": [
+        "U.S. Gold",
+        "U.S. Gold Ltd."
+      ],
+      "Developers": [
+        "Delphine Software International"
+      ],
+      "ReleaseDate": "7/1/1995",
+      "ESRB": "E",
+      "Genres": [
+        "Adventure"
+      ],
+      "Languages": [
+        "en",
+        "fr"
+      ]
+    },
+    {
+      "Titles": [
+        "Flip Out!"
+      ],
+      "Sha1": "157be203c301d2bbebe60ea3399835be81537420",
+      "Crc32": "76bb7d03",
+      "SetNames": {
+        "TOSEC": [
+          "Flip Out! (1995)(Atari)"
+        ],
+        "TGDB": [
+          "3974"
+        ]
+      },
+      "OverviewId": 20,
+      "Size": 2088960,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Gorilla Systems Corporation"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Genres": [
+        "Puzzle"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Frog Feast"
+      ],
+      "Sha1": "d4de0a45c3c981ca6582564c930fc2c14533a649",
+      "Crc32": "0b1f2fbb",
+      "SetNames": {
+        "TOSEC": [
+          "Frog Feast (2007)(RasterSoft)"
+        ],
+        "TGDB": [
+          "100084"
+        ]
+      },
+      "OverviewId": 21,
+      "Size": 1040384,
+      "Publishers": [
+        "RasterSoft",
+        "OlderGames"
+      ],
+      "Developers": [
+        "Charles Doty",
+        "RasterSoft"
+      ],
+      "ReleaseDate": "8/20/2007",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "High Voltage C Maze"
+      ],
+      "Sha1": "ecddf5dc2254017742f6ac96e8c2b36bd8108147",
+      "Crc32": "6987009c",
+      "SetNames": {
+        "TOSEC": [
+          "High Voltage C Maze (demo) (19xx)(High Voltage Software)(US)"
+        ]
+      },
+      "Size": 2088960,
+      "Publishers": [
+        "High Voltage Software"
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "demo"
+      ]
+    },
+    {
+      "Titles": [
+        "Hover Strike"
+      ],
+      "Sha1": "76a94fea444d68cb52833bcde2eaff60fe9c4056",
+      "Crc32": "097f874a",
+      "SetNames": {
+        "TOSEC": [
+          "Hover Strike (1995)(Atari)"
+        ],
+        "TGDB": [
+          "20271"
+        ]
+      },
+      "OverviewId": 22,
+      "Size": 2088960,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Atari"
+      ],
+      "ReleaseDate": "4/1/1995",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Hyper Force",
+        "Hyperforce"
+      ],
+      "Sha1": "2fd81b23da884c016d66b2d776eca95164481024",
+      "Crc32": "08849d0f",
+      "SetNames": {
+        "TOSEC": [
+          "Hyper Force (2000)(Songbird Productions)[CF3003]"
+        ],
+        "TGDB": [
+          "20272"
+        ]
+      },
+      "OverviewId": 23,
+      "Size": 2088960,
+      "Publishers": [
+        "Songbird Productions"
+      ],
+      "Developers": [
+        "Visual Impact"
+      ],
+      "ReleaseDate": "8/4/2000",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "I-War",
+        "I War",
+        "IWar"
+      ],
+      "Sha1": "6fa40243a9f7de26f10971a51d229a532cda5756",
+      "Crc32": "705fa772",
+      "SetNames": {
+        "TOSEC": [
+          "I-War (1995)(Atari)"
+        ],
+        "TGDB": [
+          "3993"
+        ]
+      },
+      "OverviewId": 24,
+      "Size": 2088960,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Imagitec Design Inc."
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "International Sensible Soccer",
+        "Sensible Soccer - Internationsal Edition"
+      ],
+      "Sha1": "872416e82a2d2a8eae76643bdce48dcb7be3f53a",
+      "Crc32": "886ddcbf",
+      "SetNames": {
+        "TOSEC": [
+          "International Sensible Soccer (1995)(Telegames)"
+        ],
+        "TGDB": [
+          "20275"
+        ]
+      },
+      "OverviewId": 25,
+      "Size": 2088960,
+      "Publishers": [
+        "Telegames",
+        "Telegames, Inc."
+      ],
+      "Developers": [
+        "Sensible Software"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "ESRB": "E",
+      "Genres": [
+        "Sports"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Iron Soldier"
+      ],
+      "Sha1": "6506eb05a92079282e2d4056ce960fcb61f98717",
+      "Crc32": "35e538a0",
+      "SetNames": {
+        "TOSEC": [
+          "Iron Soldier (1994)(Atari)"
+        ],
+        "TGDB": [
+          "3975"
+        ]
+      },
+      "OverviewId": 26,
+      "Size": 2088960,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Eclipse Software"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "ESRB": "E",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Iron Soldier 2"
+      ],
+      "Sha1": "67755438598cd3ca91e357f2ba961e5d4fcfc436",
+      "Crc32": "1e874721",
+      "SetNames": {
+        "TOSEC": [
+          "Iron Soldier 2 (1997)(Telegames)[JA810]"
+        ],
+        "TGDB": [
+          "22392"
+        ]
+      },
+      "OverviewId": 27,
+      "Size": 2088960,
+      "Publishers": [
+        "Telegames",
+        "Telegames, Inc."
+      ],
+      "Developers": [
+        "Eclipse Software"
+      ],
+      "ReleaseDate": "5/27/1997",
+      "ESRB": "T",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Jack Nicklaus Cyber Golf"
+      ],
+      "Sha1": "26230767abe53452a39f2403dea80c356316c140",
+      "Crc32": "8f8167bd",
+      "SetNames": {
+        "TOSEC": [
+          "Jack Nicklaus Cyber Golf (1994-07-04)(Atari)(proto)[v001]"
+        ]
+      },
+      "Size": 2088960,
+      "Publishers": [
+        "Atari"
+      ],
+      "ReleaseDate": "7/4/1994",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "Jack Nicklaus Cyber Golf"
+      ],
+      "Sha1": "9b47ab30f167093818b406bca140f034829ffee1",
+      "Crc32": "8928c80b",
+      "SetNames": {
+        "TOSEC": [
+          "Jack Nicklaus Cyber Golf (1995-01-13)(Atari)(proto)[v003]"
+        ]
+      },
+      "Size": 1040384,
+      "Publishers": [
+        "Atari"
+      ],
+      "ReleaseDate": "1/13/1995",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "Jack Nicklaus Cyber Golf"
+      ],
+      "Sha1": "d0123ccf06f2a5a3e6188b7339c0eafa7faf14db",
+      "Crc32": "d5795815",
+      "SetNames": {
+        "TOSEC": [
+          "Jack Nicklaus Cyber Golf (1995-01-16)(Atari)(proto)[v004]"
+        ]
+      },
+      "Size": 1040384,
+      "Publishers": [
+        "Atari"
+      ],
+      "ReleaseDate": "1/16/1995",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "Kasumi Ninja"
+      ],
+      "Sha1": "989d6170cd4e7f7d2cbf097e0f531063c6d511a6",
+      "Crc32": "38cc27d8",
+      "SetNames": {
+        "TOSEC": [
+          "Kasumi Ninja (1994)(Atari)"
+        ],
+        "TGDB": [
+          "3976"
+        ]
+      },
+      "OverviewId": 28,
+      "Size": 4186112,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Hand Made Software"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "ESRB": "M",
+      "Genres": [
+        "Fighting"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Kasumi Ninja - TestBed v0.01"
+      ],
+      "Sha1": "7e297b8cd357003270bb38aba1d7dc4761c347f2",
+      "Crc32": "098cb9af",
+      "SetNames": {
+        "TOSEC": [
+          "Kasumi Ninja - TestBed v0.01 (199x)(Atari)(proto)"
+        ]
+      },
+      "Size": 516096,
+      "Publishers": [
+        "Atari"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "Missile Command 3D"
+      ],
+      "Sha1": "43df682f83c675d68ae247c414a9a202082f9ad2",
+      "Crc32": "51152b71",
+      "SetNames": {
+        "TOSEC": [
+          "Missile Command 3D (1995)(Atari)"
+        ],
+        "TGDB": [
+          "20273"
+        ]
+      },
+      "OverviewId": 29,
+      "Size": 2088960,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Virtuality Entertainment Ltd."
+      ],
+      "ReleaseDate": "12/12/1995",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Missile Command VR"
+      ],
+      "Sha1": "3222548db6f084086a8bbf2016fd82de90d9844f",
+      "Crc32": "a0a25a67",
+      "SetNames": {
+        "TOSEC": [
+          "Missile Command VR (1995-07-05)(Atari)[VR headset]"
+        ]
+      },
+      "Size": 2088960,
+      "Publishers": [
+        "Atari"
+      ],
+      "ReleaseDate": "7/5/1995",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Native - Level 1 Demo"
+      ],
+      "Sha1": "2375020435534061e6fa8d0c6b0fa6131526c85d",
+      "Crc32": "20649d69",
+      "SetNames": {
+        "TOSEC": [
+          "Native - Level 1 Demo (1997)(Duranik)"
+        ]
+      },
+      "Size": 2088960,
+      "Publishers": [
+        "Duranik"
+      ],
+      "ReleaseDate": "1/1/1997",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "NBA Jam T.E. - Tournament Edition"
+      ],
+      "Sha1": "115ff2be7dc5b8c853d7dab842e45585f5e09105",
+      "Crc32": "154827b0",
+      "SetNames": {
+        "TOSEC": [
+          "NBA Jam T.E. - Tournament Edition (1996)(Atari)"
+        ]
+      },
+      "Size": 4186112,
+      "Publishers": [
+        "Atari"
+      ],
+      "ReleaseDate": "1/1/1996",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Phase Zero"
+      ],
+      "Sha1": "e30f50ff7d14dcbfe9e0ab633737ff1324a36d32",
+      "Crc32": "89da21ff",
+      "SetNames": {
+        "TOSEC": [
+          "Phase Zero (2002)(Songbird Productions)"
+        ],
+        "TGDB": [
+          "80328"
+        ]
+      },
+      "OverviewId": 31,
+      "Size": 2088960,
+      "Publishers": [
+        "Songbird Productions"
+      ],
+      "ReleaseDate": "6/1/2002",
+      "Genres": [
+        "Action",
+        "Flight Simulator",
+        "Vehicle Simulation"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Pinball Fantasies"
+      ],
+      "Sha1": "c73995d4189e212180480621afcb1a073aa0cb1b",
+      "Crc32": "4a9fb36b",
+      "SetNames": {
+        "TOSEC": [
+          "Pinball Fantasies (1995)(21st Century Entertainment)"
+        ],
+        "TGDB": [
+          "3978"
+        ]
+      },
+      "OverviewId": 32,
+      "Size": 2088960,
+      "Publishers": [
+        "21st Century Entertainment",
+        "21st Century Entertainment Ltd."
+      ],
+      "ReleaseDate": "6/1/1995",
+      "ESRB": "E",
+      "Genres": [
+        "Strategy"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Pitfall - The Mayan Adventure",
+        "Pitfall: The Mayan Adventure"
+      ],
+      "Sha1": "4ee44f39fc3ba6dfe6e61c95efa5bc020583fd87",
+      "Crc32": "4d23f07c",
+      "SetNames": {
+        "TOSEC": [
+          "Pitfall - The Mayan Adventure (1995)(Atari)"
+        ],
+        "TGDB": [
+          "3979"
+        ]
+      },
+      "OverviewId": 33,
+      "Size": 4186112,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Activision"
+      ],
+      "ReleaseDate": "10/1/1995",
+      "ESRB": "T",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Plucky Duck in Hollywood Hijinks"
+      ],
+      "Sha1": "e612304aa26916b53f255c54bfd5b57ded9553ee",
+      "Crc32": "b6c53880",
+      "SetNames": {
+        "TOSEC": [
+          "Plucky Duck in Hollywood Hijinks (1994-10-28)(Atari)(proto)[unreleased tech demo]"
+        ]
+      },
+      "Size": 2088960,
+      "Publishers": [
+        "Atari"
+      ],
+      "ReleaseDate": "10/28/1994",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "Power Drive Rally"
+      ],
+      "Sha1": "407205b1ba670b4ec58f5b80162ffbb4cc823c87",
+      "Crc32": "c544eb43",
+      "SetNames": {
+        "TOSEC": [
+          "Power Drive Rally (1995)(Time Warner Interactive)"
+        ],
+        "TGDB": [
+          "14798"
+        ]
+      },
+      "OverviewId": 34,
+      "Size": 2088960,
+      "Publishers": [
+        "Time Warner Interactive",
+        "Time Warner Interactive, Inc."
+      ],
+      "Developers": [
+        "Rage Software"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Genres": [
+        "Racing"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Protector"
+      ],
+      "Sha1": "0efe60c7c1230d93f0a2672bb7a1beead20d75e9",
+      "Crc32": "0fd06cd1",
+      "SetNames": {
+        "TOSEC": [
+          "Protector (1999)(Songbird Productions)[CF3004]"
+        ]
+      },
+      "Size": 2088960,
+      "Publishers": [
+        "Songbird Productions"
+      ],
+      "ReleaseDate": "1/1/1999",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Protector - Special Edition"
+      ],
+      "Sha1": "ce9c6ba0fd251b91feca8952afb8e5861927838b",
+      "Crc32": "5ddf9724",
+      "SetNames": {
+        "TOSEC": [
+          "Protector - Special Edition (2002)(Songbird Productions)[CF3004]"
+        ]
+      },
+      "Size": 2088960,
+      "Publishers": [
+        "Songbird Productions"
+      ],
+      "ReleaseDate": "1/1/2002",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Raiden"
+      ],
+      "Sha1": "ca3919eac9377c0692f1a718920cf767ce424dff",
+      "Crc32": "62049d39",
+      "SetNames": {
+        "TOSEC": [
+          "Raiden (1994)(Atari)"
+        ],
+        "TGDB": [
+          "3980"
+        ]
+      },
+      "OverviewId": 35,
+      "Size": 2088960,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Imagitec Design Inc."
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Genres": [
+        "Action",
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Raiden"
+      ],
+      "Sha1": "0cfbdf73a145e7f38526569a1b27fcde3c42a829",
+      "Crc32": "2667f38d",
+      "SetNames": {
+        "TOSEC": [
+          "Raiden Rev A (1994)(Atari)[J9005E 700705-2]"
+        ],
+        "TGDB": [
+          "3980"
+        ]
+      },
+      "OverviewId": 35,
+      "Size": 2088960,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Imagitec Design Inc."
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Genres": [
+        "Action",
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Rayman"
+      ],
+      "Sha1": "e9e181ca7d8e6aaa8183944fc8294edbcd36c614",
+      "Crc32": "6ac6acf5",
+      "SetNames": {
+        "TOSEC": [
+          "Rayman (1994)(Ubisoft)(proto)[earlier prototype]"
+        ],
+        "TGDB": [
+          "3982"
+        ]
+      },
+      "OverviewId": 36,
+      "Size": 2088960,
+      "Publishers": [
+        "Ubisoft",
+        "Ubisoft Entertainment"
+      ],
+      "Developers": [
+        "Ubisoft Entertainment"
+      ],
+      "ReleaseDate": "9/8/1995",
+      "ESRB": "E",
+      "Genres": [
+        "Platform"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "Rayman"
+      ],
+      "Sha1": "f08d137651648cd96dd9b5272eb085d0a796437a",
+      "Crc32": "bd551765",
+      "SetNames": {
+        "TOSEC": [
+          "Rayman (1995)(Ubisoft)"
+        ],
+        "TGDB": [
+          "3982"
+        ]
+      },
+      "OverviewId": 36,
+      "Size": 4186112,
+      "Publishers": [
+        "Ubisoft",
+        "Ubisoft Entertainment"
+      ],
+      "Developers": [
+        "Ubisoft Entertainment"
+      ],
+      "ReleaseDate": "9/8/1995",
+      "ESRB": "E",
+      "Genres": [
+        "Platform"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Rayman"
+      ],
+      "Sha1": "33980b8b3511f5b32c73f59d51dde07b610af88d",
+      "Crc32": "ddff49f5",
+      "SetNames": {
+        "TOSEC": [
+          "Rayman (1995)(Ubisoft)(proto)"
+        ],
+        "TGDB": [
+          "3982"
+        ]
+      },
+      "OverviewId": 36,
+      "Size": 2088960,
+      "Publishers": [
+        "Ubisoft",
+        "Ubisoft Entertainment"
+      ],
+      "Developers": [
+        "Ubisoft Entertainment"
+      ],
+      "ReleaseDate": "9/8/1995",
+      "ESRB": "E",
+      "Genres": [
+        "Platform"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "Ruiner Pinball"
+      ],
+      "Sha1": "01e19899824f730b4f7f810cfa285d29d02de11a",
+      "Crc32": "5c637bec",
+      "SetNames": {
+        "TOSEC": [
+          "Ruiner Pinball (1995)(Atari)"
+        ],
+        "TGDB": [
+          "3983"
+        ]
+      },
+      "OverviewId": 37,
+      "Size": 2088960,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "High Voltage Software, Inc."
+      ],
+      "ReleaseDate": "1/1/1995",
+      "ESRB": "E",
+      "Genres": [
+        "Strategy"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Skyhammer"
+      ],
+      "Sha1": "fe66614441dbe0cea42dc498dca609fe5c3f8128",
+      "Crc32": "4471bfa0",
+      "SetNames": {
+        "TOSEC": [
+          "Skyhammer (2000)(Songbird Productions)[CF3001]"
+        ],
+        "TGDB": [
+          "20277"
+        ]
+      },
+      "OverviewId": 38,
+      "Size": 4186112,
+      "Publishers": [
+        "Songbird Productions"
+      ],
+      "Developers": [
+        "Rebellion"
+      ],
+      "ReleaseDate": "5/22/2000",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Slam Racer"
+      ],
+      "Sha1": "87f5181775e4ed0dbaf596ee88c5c1d3c98e8c29",
+      "Crc32": "f0e2e569",
+      "SetNames": {
+        "TOSEC": [
+          "Slam Racer (1996)(Sinister Developments)(proto)"
+        ]
+      },
+      "Size": 4186112,
+      "Publishers": [
+        "Sinister Developments"
+      ],
+      "ReleaseDate": "1/1/1996",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "Soccer Kid"
+      ],
+      "Sha1": "4b69e6354791af82988d2df9da10ea418b58f490",
+      "Crc32": "ba13ae79",
+      "SetNames": {
+        "TOSEC": [
+          "Soccer Kid (1996)(ReadySoft)(beta)"
+        ],
+        "TGDB": [
+          "20278"
+        ]
+      },
+      "OverviewId": 39,
+      "Size": 2088960,
+      "Publishers": [
+        "ReadySoft",
+        "Songbird Productions"
+      ],
+      "Developers": [
+        "ReadySoft Incorporated"
+      ],
+      "ReleaseDate": "2/7/2000",
+      "Genres": [
+        "Platform"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "beta"
+      ]
+    },
+    {
+      "Titles": [
+        "Soccer Kid"
+      ],
+      "Sha1": "5883bf678a4cc23e258d4d5fe1e400660c16bf01",
+      "Crc32": "6694cad2",
+      "SetNames": {
+        "TOSEC": [
+          "Soccer Kid (2000)(Songbird Productions)[re-release][CF3002]"
+        ],
+        "TGDB": [
+          "20278"
+        ]
+      },
+      "OverviewId": 39,
+      "Size": 2088960,
+      "Publishers": [
+        "Songbird Productions"
+      ],
+      "Developers": [
+        "ReadySoft Incorporated"
+      ],
+      "ReleaseDate": "2/7/2000",
+      "Genres": [
+        "Platform"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Space War 2000"
+      ],
+      "Sha1": "edfda6a64b29659ca94bb8a80749bdf00faa9868",
+      "Crc32": "20936557",
+      "SetNames": {
+        "TOSEC": [
+          "Space War 2000 (2001)(B&C Computervisions)"
+        ],
+        "TGDB": [
+          "20279"
+        ]
+      },
+      "OverviewId": 40,
+      "Size": 2088960,
+      "Publishers": [
+        "B&C Computervisions",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Atari"
+      ],
+      "ReleaseDate": "10/1/2001",
+      "Genres": [
+        "Adventure"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Super Burnout"
+      ],
+      "Sha1": "774de7c46e05c99ce1673d89feb3ca692603cc22",
+      "Crc32": "537457d3",
+      "SetNames": {
+        "TOSEC": [
+          "Super Burnout (1995)(Atari)"
+        ],
+        "TGDB": [
+          "3984"
+        ]
+      },
+      "OverviewId": 41,
+      "Size": 2088960,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Shen"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "ESRB": "E",
+      "Genres": [
+        "Racing"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "SuperCross 3D"
+      ],
+      "Sha1": "622d8482302e2f758fd316091228d1476b32d1f1",
+      "Crc32": "e97f8282",
+      "SetNames": {
+        "TOSEC": [
+          "SuperCross 3D (1995)(Atari)"
+        ],
+        "TGDB": [
+          "3985"
+        ]
+      },
+      "OverviewId": 42,
+      "Size": 2088960,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Tiertex Design Studios"
+      ],
+      "ReleaseDate": "12/1/1995",
+      "ESRB": "E",
+      "Genres": [
+        "Racing",
+        "Sports"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Syndicate"
+      ],
+      "Sha1": "ee7f095d79403c569e83234a7b5401610b82f6dc",
+      "Crc32": "e55c67ab",
+      "SetNames": {
+        "TOSEC": [
+          "Syndicate (1995)(Ocean)"
+        ],
+        "TGDB": [
+          "3986"
+        ]
+      },
+      "OverviewId": 43,
+      "Size": 2088960,
+      "Publishers": [
+        "Ocean",
+        "Ocean Software Ltd."
+      ],
+      "Developers": [
+        "Bullfrog Productions"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "ESRB": "T",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Tempest 2000"
+      ],
+      "Sha1": "563b42d2de68ed02a7e420b957709e56921b5baa",
+      "Crc32": "f5221fca",
+      "SetNames": {
+        "TOSEC": [
+          "Tempest 2000 (1994)(Atari)"
+        ],
+        "TGDB": [
+          "3987"
+        ]
+      },
+      "OverviewId": 44,
+      "Size": 2088960,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Llamasoft Ltd."
+      ],
+      "ReleaseDate": "4/1/1994",
+      "Genres": [
+        "Action",
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Thea Realm Fighters"
+      ],
+      "Sha1": "aeeefe7187799995c5b46a634313bafa015ed0f6",
+      "Crc32": "6c391146",
+      "SetNames": {
+        "TOSEC": [
+          "Thea Realm Fighters (19xx)(High Voltage Software)(alpha)"
+        ]
+      },
+      "Size": 4186112,
+      "Publishers": [
+        "High Voltage Software"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "alpha"
+      ]
+    },
+    {
+      "Titles": [
+        "Thea Realm Fighters"
+      ],
+      "Sha1": "483cd397d752f97908b4c2e11316ab59461c2ee9",
+      "Crc32": "c3732527",
+      "SetNames": {
+        "TOSEC": [
+          "Thea Realm Fighters (19xx)(High Voltage Software)(alpha)[early demo]"
+        ]
+      },
+      "Size": 4186112,
+      "Publishers": [
+        "High Voltage Software"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "alpha"
+      ]
+    },
+    {
+      "Titles": [
+        "Theme Park"
+      ],
+      "Sha1": "32f47cd7b261727f88b1b2d2c37e0cf524a6ddb6",
+      "Crc32": "76c37fc8",
+      "SetNames": {
+        "TOSEC": [
+          "Theme Park (1995)(Ocean)"
+        ],
+        "TGDB": [
+          "14796"
+        ]
+      },
+      "OverviewId": 45,
+      "Size": 2088960,
+      "Publishers": [
+        "Ocean",
+        "Ocean Software Ltd."
+      ],
+      "Developers": [
+        "Ocean Software Ltd.",
+        "Ocean",
+        "Enigma Variations Ltd"
+      ],
+      "ReleaseDate": "3/1/1995",
+      "Genres": [
+        "Strategy",
+        "Life Simulation"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Tiny Toon Adventures v1"
+      ],
+      "Sha1": "19e2af3a1cd6533a37e4b9411a6381ce58d58f4a",
+      "Crc32": "f528dc3d",
+      "SetNames": {
+        "TOSEC": [
+          "Tiny Toon Adventures v1 (2010)(Team Jaguar)[J6004E 110403-110]"
+        ]
+      },
+      "Size": 2088960,
+      "Publishers": [
+        "Team Jaguar"
+      ],
+      "ReleaseDate": "1/1/2010",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Total Carnage"
+      ],
+      "Sha1": "949a93d364c75ae0b94c8266b7fd0785c995db80",
+      "Crc32": "f7f51b2e",
+      "SetNames": {
+        "TOSEC": [
+          "Total Carnage (1995)(Midway)(proto)[Evaluation copy for Computer West]"
+        ],
+        "TGDB": [
+          "20280"
+        ]
+      },
+      "OverviewId": 46,
+      "Size": 4186112,
+      "Publishers": [
+        "Midway",
+        "Songbird Productions"
+      ],
+      "Developers": [
+        "Hand Made Software"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "Total Carnage"
+      ],
+      "Sha1": "7d43b85941d96319482b02537c4b2a45431e68e5",
+      "Crc32": "e21c7950",
+      "SetNames": {
+        "TOSEC": [
+          "Total Carnage (2005)(Songbird Productions)[CF3006]"
+        ],
+        "TGDB": [
+          "20280"
+        ]
+      },
+      "OverviewId": 46,
+      "Size": 4186112,
+      "Publishers": [
+        "Songbird Productions"
+      ],
+      "Developers": [
+        "Hand Made Software"
+      ],
+      "ReleaseDate": "1/1/2005",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Towers II - Plight of the Stargazer"
+      ],
+      "Sha1": "02a7def122325c960761ccf64c43f73d37cee332",
+      "Crc32": "3241ab6a",
+      "SetNames": {
+        "TOSEC": [
+          "Towers II - Plight of the Stargazer (1996)(Telegames)[JA256]"
+        ]
+      },
+      "Size": 2088960,
+      "Publishers": [
+        "Telegames"
+      ],
+      "ReleaseDate": "1/1/1996",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Trevor McFur in the Crescent Galaxy"
+      ],
+      "Sha1": "447465542816e7cc81d0601c5be23fd020d3bce9",
+      "Crc32": "7270a801",
+      "SetNames": {
+        "TOSEC": [
+          "Trevor McFur in the Crescent Galaxy (1993)(Atari)(beta)"
+        ],
+        "TGDB": [
+          "20281"
+        ]
+      },
+      "OverviewId": 47,
+      "Size": 4186112,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Atari"
+      ],
+      "ReleaseDate": "11/23/1993",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "beta"
+      ]
+    },
+    {
+      "Titles": [
+        "Trevor McFur in the Crescent Galaxy"
+      ],
+      "Sha1": "503e1eca6ba7767e0f1b242812700dd68540dcaa",
+      "Crc32": "62d32c32",
+      "SetNames": {
+        "TOSEC": [
+          "Trevor McFur in the Crescent Galaxy (1993)(Atari)[J9001E 700701]"
+        ],
+        "TGDB": [
+          "20281"
+        ]
+      },
+      "OverviewId": 47,
+      "Size": 2088960,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Atari"
+      ],
+      "ReleaseDate": "11/23/1993",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Trevor McFur in the Crescent Galaxy"
+      ],
+      "Sha1": "31160e1d73332af61443b705653863b3a369a6bc",
+      "Crc32": "97b9f885",
+      "SetNames": {
+        "TOSEC": [
+          "Trevor McFur in the Crescent Galaxy Rev A (1993)(Atari)"
+        ],
+        "TGDB": [
+          "20281"
+        ]
+      },
+      "OverviewId": 47,
+      "Size": 2088960,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Atari"
+      ],
+      "ReleaseDate": "11/23/1993",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Troy Aikman NFL Football"
+      ],
+      "Sha1": "c7e5fdf6bdd8abd0eb344409913a1c543b45c004",
+      "Crc32": "33328474",
+      "SetNames": {
+        "TOSEC": [
+          "Troy Aikman NFL Football (1995)(Atari)"
+        ],
+        "TGDB": [
+          "20282"
+        ]
+      },
+      "OverviewId": 48,
+      "Size": 2088960,
+      "Publishers": [
+        "Atari",
+        "Williams Electronic Games, Inc."
+      ],
+      "Developers": [
+        "Telegames, Inc."
+      ],
+      "ReleaseDate": "2/1/1995",
+      "Genres": [
+        "Sports"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Ultra Vortek"
+      ],
+      "Sha1": "4f9da371ee331aba815d700c4f93687c8571fd46",
+      "Crc32": "e7b4f5b9",
+      "SetNames": {
+        "TOSEC": [
+          "Ultra Vortek (1995)(Atari)"
+        ],
+        "TGDB": [
+          "3988"
+        ]
+      },
+      "OverviewId": 49,
+      "Size": 4186112,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Beyond Software, Inc."
+      ],
+      "ReleaseDate": "1/1/1995",
+      "ESRB": "M",
+      "Genres": [
+        "Fighting"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Ultra Vortex v0.94"
+      ],
+      "Sha1": "9adc8bb00f819fae761d7a38392cedd96a637501",
+      "Crc32": "c00c85d1",
+      "SetNames": {
+        "TOSEC": [
+          "Ultra Vortex v0.94 (1995-03-20)(Atari)(proto)"
+        ]
+      },
+      "Size": 4186112,
+      "Publishers": [
+        "Atari"
+      ],
+      "ReleaseDate": "3/20/1995",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "Val D'Isère Skiing & Snowboarding"
+      ],
+      "Sha1": "1e0aca82fe8a41e2444d28cfa2af5cd1d05b1ae4",
+      "Crc32": "194ae39e",
+      "SetNames": {
+        "TOSEC": [
+          "Val D'Isère Skiing & Snowboarding (1994)(Atari)"
+        ]
+      },
+      "Size": 2088960,
+      "Publishers": [
+        "Atari"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Virtual VCS"
+      ],
+      "Sha1": "51ce2807e92dc8aa35be8ecab40d0df6d57fb608",
+      "Crc32": "328f40db",
+      "SetNames": {
+        "TOSEC": [
+          "Virtual VCS (1995)(TSD)(proto)"
+        ]
+      },
+      "Size": 1040384,
+      "Publishers": [
+        "TSD"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "White Men Can't Jump"
+      ],
+      "Sha1": "ddb0b3022c35283c3640546ebd574f2e15ea99e1",
+      "Crc32": "72c77077",
+      "SetNames": {
+        "TOSEC": [
+          "White Men Can't Jump (1995)(Atari)"
+        ],
+        "TGDB": [
+          "3989"
+        ]
+      },
+      "OverviewId": 50,
+      "Size": 4186112,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "High Voltage Software, Inc."
+      ],
+      "ReleaseDate": "6/1/1995",
+      "ESRB": "E",
+      "Genres": [
+        "Sports"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Wolfenstein 3D"
+      ],
+      "Sha1": "8f868977af95270f5c9af373034febb544f5bd96",
+      "Crc32": "7b52ecd8",
+      "SetNames": {
+        "TOSEC": [
+          "Wolfenstein 3D (1994)(Atari)"
+        ],
+        "TGDB": [
+          "3990"
+        ]
+      },
+      "OverviewId": 51,
+      "Size": 2088960,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "id Software"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "ESRB": "M",
+      "Genres": [
+        "Action",
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Worms"
+      ],
+      "Sha1": "f2530bf82a7d2ce48ccdda7eda7091bf976667b3",
+      "Crc32": "a2ebed11",
+      "SetNames": {
+        "TOSEC": [
+          "Worms (1998)(Telegames)[JA103]"
+        ],
+        "TGDB": [
+          "20276"
+        ]
+      },
+      "OverviewId": 52,
+      "Size": 2088960,
+      "Publishers": [
+        "Telegames",
+        "Telegames, Inc."
+      ],
+      "Developers": [
+        "Team17 Software Limited"
+      ],
+      "ReleaseDate": "10/1/1998",
+      "Genres": [
+        "Action",
+        "Strategy"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Zero 5",
+        "Zero V"
+      ],
+      "Sha1": "c11e3ca1c0beeb27ed0b05612e567f29e2c3f2db",
+      "Crc32": "9046bd72",
+      "SetNames": {
+        "TOSEC": [
+          "Zero 5 (1996)(Caspian Software)(proto)"
+        ],
+        "TGDB": [
+          "13356"
+        ]
+      },
+      "OverviewId": 53,
+      "Size": 4186112,
+      "Publishers": [
+        "Caspian Software",
+        "Telegames, Inc."
+      ],
+      "Developers": [
+        "Telegames, Inc."
+      ],
+      "ReleaseDate": "9/1/1997",
+      "ESRB": "E",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "Zero 5",
+        "Zero V"
+      ],
+      "Sha1": "e704e16284f4238146cb4d86764113289e2d3364",
+      "Crc32": "0795ed13",
+      "SetNames": {
+        "TOSEC": [
+          "Zero 5 (1997)(Telegames)[J4011]"
+        ],
+        "TGDB": [
+          "13356"
+        ]
+      },
+      "OverviewId": 53,
+      "Size": 2088960,
+      "Publishers": [
+        "Telegames",
+        "Telegames, Inc."
+      ],
+      "Developers": [
+        "Telegames, Inc."
+      ],
+      "ReleaseDate": "9/1/1997",
+      "ESRB": "E",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Zool 2"
+      ],
+      "Sha1": "f2927c6f69552e01882ab47049e568491af8cd56",
+      "Crc32": "f5b867ac",
+      "SetNames": {
+        "TOSEC": [
+          "Zool 2 (1994)(Atari)"
+        ],
+        "TGDB": [
+          "2581"
+        ]
+      },
+      "OverviewId": 54,
+      "Size": 2088960,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Gremlin Interactive Ltd."
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Genres": [
+        "Action",
+        "Platform"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Zoop!",
+        "Zoop"
+      ],
+      "Sha1": "52005733b5e06215a9b64407767133d009349b60",
+      "Crc32": "75679275",
+      "SetNames": {
+        "TOSEC": [
+          "Zoop! (1996)(Atari)"
+        ],
+        "TGDB": [
+          "3991"
+        ]
+      },
+      "OverviewId": 55,
+      "Size": 1040384,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc.",
+        "Viacom New Media"
+      ],
+      "Developers": [
+        "Hookstone Ltd."
+      ],
+      "ReleaseDate": "1/1/1996",
+      "ESRB": "E",
+      "Genres": [
+        "Puzzle"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Zzyorxx II"
+      ],
+      "Sha1": "d38f360c3276167bcbad18046e865c4233b57d45",
+      "Crc32": "4c84d996",
+      "SetNames": {
+        "TOSEC": [
+          "Zzyorxx II (199x)(Virtual Xperience)(proto)"
+        ]
+      },
+      "Size": 1040384,
+      "Publishers": [
+        "Virtual Xperience"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "proto"
+      ]
+    }
+  ],
+  "Overviews": {
+    "1": {
+      "en": "In the wake of a nuclear holocaust an organization known as E.B.N.E.R.S. was established with the goal of encouraging all mankind to live together in peace. E.B.N.E.R.S. membership included many members of the nuclear scientific community who wished that their work no longer be used for destructive purposes. The E.B.N.E.R.S. suggested that society should be structured to eliminate all possibility of hostility. This strutured society was deemed unrealistic in a free world and ridiculed. E.B.N.E.R.S. became known as a fringe organization of radical scientists trying to restructure society.\r\n\r\nYou will pilot an aircar which will be teleported into an E.B.N.E.R.S. complex. You will then proceed to destroy key installations within this complex. After these primary targets have been destroyed you will use the complex's teleportation system to get to the next base. We know there are at least 28 bases around the World. Each of these bases must be knocked out if the world is to be saved from the E.B.N.E.R.S. threat."
+    },
+    "2": {
+      "en": "A go-cart free for all! In Atari Karts you'll race around the track with some of the craziest creatures around. Watch out for the objects lying on the road. Some are bonuses that will help you get ahead, but those hazards can be nasty. They'll cause you to slow down or mess with your driving controls. Try to outdistance your competition and finish fourth or better to move on to the next course. Kids of all ages will love this game!"
+    },
+    "3": {
+      "en": "In the distant galaxy of Bleurggh, an evil (but reasonably stupid) band of aliens picked up some of Earth's television signals. Unfortunately for them, they could only tune in a wildlife program. They figured the Earth would be a pushover to invade, so they disguised themselves as its inhabitants -- penguins! Word of the invasion has reached those champions of intergalactic do-goodery, Bernard and Rodney. Now, with their help, you must prevent the alien mutant penguins from triggering the Doomscale and destroying the Earth. Are you up to the challenge?"
+    },
+    "4": {
+      "en": "SMASH! POW! CRUNCH! Is your hand/eye coordination up to demolishing field after field of bricks? Breakout 2000 brings back the nostalgia of early gaming days but adds 90's challenges, such as a three-dimensional field and bricks that resist breaking, as well as many powerups and hazards. You can also test your skill against a buddy. Break through your own wall and start working on his. You'll gain bonus points, and he'll go nuts! Who ever said life was fair never played Breakout 2000."
+    },
+    "5": {
+      "en": "This is the unreleased Atari Jaguar port of Brett Hull Hockey, an ice hockey game that is played from a vertical perspective in a two-dimensional environment with sprites. Featuring NHL and NHLPA licensing and updated graphics and sound compared to the SNES original, this version was never commercially released."
+    },
+    "6": {
+      "en": "Do you like action but reckon that chainsaw massacres are for grannies&#039; tea parties? If you do then brutal sports football is for you, league, knockout or unfriendly tournaments.\r\nThis is an all action, crunch &#039;em, stamp &#039;em, no holds barred game of mutant football where heads roll and where injury time means just that.\r\nFAQs, Guides, Cheats, and S"
+    },
+    "7": {
+      "en": "Only Bubsy can protect the world's kids from these silly stories and tangled-up tales as he leaps and bounds his way through 15 frantic chapters of fabulous furry fun. In Fairytaleland, Bubsy attends a twisted tea party, climbs a giant beanstalk, voyages under the sea (without getting his paws wet), head to Ali Baba's desert and even meets Hansel and Gretel, who should be up on kidnapping charges."
+    },
+    "8": {
+      "en": "\"Don't wait 'til you see the whites of their eyes... Don't kid yourself it will be over by Christmas... Don't try to shut out the screams... And don't forget to wash your hand afterwards...\""
+    },
+    "9": {
+      "en": "Get ready to burn rubber! Race for the Checkered Flag behind the wheel of a turbo-powered speedway racer in real-time, 3D-rendered action. Choose from 10 high-performance tracks and see the speedway from 6 distinct views. Alter features and attributes on your racer to improve your times or even change the weather conditions. Action is so intense and realistic you&#039;ll swear you feel the wind in your hair as your tires screech around the curves. Keep your sweaty palms on the controller!"
+    },
+    "10": {
+      "en": "Sure, you've always wanted to blaze down the streets of San Francisco in a souped-up hot rod, just like in those action movies. But have you ever wanted to scramble across the living room floor playing tag in a minature racing car with a buddy? Or plow through an Old West town in a futuristic speed machine picking up randomly placed energy Powerballs? Strap in and join the 64-bit club!"
+    },
+    "11": {
+      "en": "Cybermorph was the first game released for Atari's Jaguar console. It's a 3D sci-fi shoot-'em-up. The story goes like this: The evil Pernitia Empire is swallowing up the galaxy's planets left and right. What's worse, the resistance forces have had their secret weapons stolen from them and put into pods spread out on many different planets. You must pilot the T-Griffon morphing attack craft to each planet and recover the pods to stop the Pernitians.\r\n\r\nSo, in each planet, or level, you must collect a certain number of pods and make it to the exit before the enemies shoot you down. Fortunately, there are power-ups that can strategically enhance the T-Griffon's offensive capabilities. After clearing 8 planets, you take on a boss creature/ship before moving on to the next sector. There are 4 levels like this to clear, each with progressively increasing difficulty."
+    },
+    "12": {
+      "en": "You whomped the aliens from the Alpha Proximian Empire in classic Defender and sent them home to cry. Now they want the planets that Earth is mining for desperately needed, life-sustaining minerals. Your job is to protect the space miners as they perform their vital work. The aliens will try to capture them and use their life-energy to turn their ships into hyper-fast mutants. Rescure the captives and destroy the aliens or Earth is history!"
+    },
+    "13": {
+      "en": "From outside the base you hear the carnage: guns firing, men screaming, bones cracking...then silence. Suddenly you're the last surviving marine thrust into a bloody, gore-ridden underworld 50 million miles into the future. It's Doom to the 64th power with 16-bit true color, advanced lighting effects...and some new parts of Hell you'll wish we didn't include in this version."
+    },
+    "14": {
+      "en": "Double Dragon is back and better than ever! Featuring 12 BIG, lightning fast characters! Four to six special moves for each fighter, and you can set your own strength, defense and more! Customizable controls and three different fighting modes to choose from. Over 130 sound effects and HOT rock music tracks!"
+    },
+    "15": {
+      "en": "The spirit of martial arts Master Bruce Lee lives on in DRAGON: a dangerously life-like combat simulation based on his biographical film. Apply discipline and a devastating array of age-old fighting techniques to subdue opponents more cunning than the real Bruce Lee ever faced. Unite your spiritual and physical strength to confront The Phantom, the mythical samurai which has plagued your thoughts and dreams, in a jeet kune do duel to the death!"
+    },
+    "16": {
+      "en": "The gameplay of The Humans has similarities to Lode Runner and Lemmings. Your job in this action puzzler is to help prehistoric man to evolve by helping them discover tools, the wheel, weapons, or even fire. Each level in the game will have a given task to help in this, and you are allotted a number of characters who must accomplish the task. The player can switch from person to person while moving the characters around each scrolling puzzle, and teamwork is essential to success."
+    },
+    "17": {
+      "en": "Create a killer game plan and take on over 50 of the world's top soccer teams. Dribble, pass and kick your way down the field and take your best shot on goal. Wathc out for the star players - they're extra tough! Block, steal, even slide tackle and rough up the other team, but try to avoid the foul. Check the instant replay and devise your next attack. The clock's ticking!"
+    },
+    "18": {
+      "en": "Life in the afterlife can be a nightmare for anybody -- especially if real life was a mess. In the Spectre Zone, eight people compete in the annual Hell Fighting Tournament for the amusement of the Gatekeeper. The prize is a second chance at life! Defeat each opponent and steal two of their special fighting moves to prepare for the final challenge -- a battle against the son of the devil himself. Show no mercy. There will be only one victor, only one new life... it must be yours!"
+    },
+    "19": {
+      "en": "You're Conrad B. Hart, Galaxis Bureau of Investigation Agent and right now you're stranded on a far-away planet after discovering an alien plot to overtake Earth. You must travel and find your way through four planets back to Earth and foil the aliens' sinister and deadly plans.\r\n\r\nThe award winning sci-fi action adventure comes to Jaguar. And it's gonna rip you right out of your comfortable little century and hurl you smack into a time and place that'll have you begging for a nap!\r\n\r\n-Film-style, fluid 24 frames-per-second animation and gives life-like movements to this wild action game.\r\n\r\n-You star as super-agent Conrad Hart, stranded on a far-away planet after you discover an alien plot to overtake Earth."
+    },
+    "20": {
+      "en": "Congratulations Earthling! The Citizens of Planet Phrohmaj have invited you to join their Great Tile Flipping Festival, an honor of the highest sort. Tile flipping influences their customs, their eating habits, and even their vacations. Solve maddening puzzles while watching for the mishievous aliens who think confusing you is part of the fun. If they weren't so cute you'd wring their necks...if they had them."
+    },
+    "21": {
+      "en": "The latest offering developed by Charles Doty of RasterSoft: FROG FEAST. This game, a tribute to classic gaming, was developed entirely from the ground up with a focus on fun, replay value, and a true love for making a great game.\r\n\r\nControl one or two frogs as you jump above the lily pads and entangle as many flies as you can using your amphibious tongue.\r\n\r\nThe game is played in rounds after which your score is calculated. Catch the most flies to win!"
+    },
+    "22": {
+      "en": "Terrakian Pirates have taken over a colonized planet under Federation control. They've set up an atmospheric cannon, making invasion impossible. Your job, as a hovercraft pilot, is to launch a pre-emptive strike on the planet's surface.\r\n\r\nHover Strike for the Jaguar is a mission-based tank game. In each mission, you will drop to the surface of the planet, destroy some targets, and then return to your ship in orbit. The hovercraft you pilot is heavily armored and includes various weapons systems to take out enemies and targets."
+    },
+    "23": {
+      "en": "It's Just You, Your Gun, and a Corporate Army Bent On Your Destruction.\r\n\r\nTrans Con is decimating world after world in search of enough resources and wealth to launch an attack against the Terran High Command. The politicians don't want a direct confrontation that might hurt their corporate sponsors. So, Interstellar Special Forces has been called in to send a lone warrior to eliminate the Trans Con threat. Wanna guess who that warrior is?\r\n\r\nFeatures:\r\n-More than 20 levels of intense action!\r\n-ISF Supply Shop allows you to upgrade 5 different weapons\r\n-Secret areas and hidden switches\r\n-Parallax scrolling\r\n-Incredible in-game music!\r\n-Saved game support with three game slots"
+    },
+    "24": {
+      "en": "I-War is a 3D virtual reality tank game. In each of the 21 levels, you must find all the data pods and make your way to the exit. Enemy tanks, turrets, and bombers stand in your way, as well as occasional traps or locked doors controlled by hidden switches. Levels are divided into simple, enclosed rooms, linearly connected by one-way teleporters."
+    },
+    "25": {
+      "en": "Released alongside the 1994 World Cup, this was the first version of Sensible Soccer to feature teams from outside Europe. The World Cup tournament is featured in full, and you can adjust which 24 teams this features, a particularly crucial feature for English and French fans, as their nations failed to qualify. For the first time in the series an on-screen referee is featured. The club team data has been updated to take into account transfers and kit changes since the previous version. Gameplay is much the same as previous editions, being viewed from above with small sprites and loose ball control."
+    },
+    "26": {
+      "en": "Iron Soldier is a mech sim played from an in-cockpit view. There are 16 single player missions. Objectives involve taking out certain targets, defending convoys, collecting items, and so on.\r\nIt is the future, and the earth has been covered with wastelands and cities. The powerful, faceless Iron First Corporation has replaced the last forms of free government. Now, they are developing a new, 42-foot, armed robot known as the Iron Soldier. With the Iron Soldier, no one will be able to stop the Iron First Corporation. The only hope is the Resistance, a group that has managed to capture one of the Iron Soldier prototypes. You are a pilot for the Resistance. It's up to you to pilot the robot and bring down the Iron Fist."
+    },
+    "27": {
+      "en": "Iron Soldier 2 is a first-person 3D giant mech game. Players must pilot their building-sized robots in a variety of missions ranging from search-and-destroy to surgical attacks to defending objectives. Starting with a limited set of weapons, players can collect more armaments throughout the game. Each weapon can be mounted on a certain part of the robot's body, but once mounted, no other weapons can be placed there. So, while there is a wide range of weapon configurations, not every weapon can be combined with others. Players can destroy buildings in levels to find crates containing new weapons and extra ammunition for current weapons."
+    },
+    "28": {
+      "en": "ALL HELL IS ABOUT TO BREAK LOOSE\r\nStop the Evil Ninja Lord Gyaku from opening the Dragon Cloud temple's portal to Hell and unleashing his demon minions upon Kasumi Island and the world. Battle it out in this bloody brawler in 1 Player Story mode or Two Player versus mode as one of the 8 all-time greatest warrior-fighters. Gain fighting skill and master special moves from bout to bout as you journey through the Underground Labyrinth to the Dragon Cloud temple where you'll face your ultimate opponent: The Evil Ninja Lord Gyaku himself!"
+    },
+    "29": {
+      "en": "Missile Command 3D is an update to the classic Atari arcade game. The goal in Missile Command is to defend your cities against an onslaught of missiles coming from the sky. Your arsenal consists of three anti-missile flak cannons. You have to position the anti-missile clouds in the path of the incoming missiles to stop them from impacting.\r\n\r\nThis Jaguar game has 3 modes. First, there is a port of the original arcade game. There are neat extras for this mode like graphic backdrops and the ability to resize or scale the screen. The second mode is Missile Command 3D. This mode retains the gameplay of the original, but adds 3D graphics to the mix. The final mode, Virtual Missile Command, changes things up quite a lot. Instead of anti-missile flak, your cannons shoot lasers. This means you don't need to lead your targets anymore. You play the game from a first-person perspective, and must switch between the three cannons via buttons on the keypad. There are nine levels in this mode, each with a boss at the end."
+    },
+    "30": {
+      "en": "Your state-of-the-art system demands a state-of-the-art NBA JAM TE -- and this is it! Arcade-quality player scaling! Updated player rosters! Want more? We've got all-new secret characters! Monster-jamming stereo music and authentic arcade sound F/X -- including voice calls for individual players!"
+    },
+    "31": {
+      "en": "Phase Zero is an unreleased action-shooter video game that was in development by Hyper Image Productions and originally planned to be published by Atari Corporation on a scheduled September 1995 release date exclusively for the Atari Jaguar. It was the only game in development by Hyper Image.\r\n\r\nThe Phase Zero Demo has been properly licensed by the original Hyper Image team. This game is incomplete, but a very solid start on what could have been an incredible game.\r\n\r\nYou pilot your combat vehicle on a variety of missions to retrieve lost personnel and take out enemy targets. The speed of this engine is amazing, and the graphics and audio make for an enjoyable game to explore.\r\n\r\nFeatures\r\n\r\nFour or more fully playable levels (additional levels are incomplete)\r\nIncredible 3D engine\r\nVariety of terrain and enemies\r\nGuidance system, shield management system, selectable weapons, and more!\r\nAnimated 3D menu loaded with options and background music"
+    },
+    "32": {
+      "en": "Turn your Jaguar into the ultimate amusement arcade with Pinball Fantasies - the greatest pinball simulator ever. This classic game offers four scorchingly addictive tables with the most realistic ball movement you'll ever seen in a video game. If you're looking for instant playability, speed and excitement, Pinball Fantasies is the game for you."
+    },
+    "33": {
+      "en": "Pitfall Harry has been captured by the dreaded warrior spirit, Zakelua: Lord of Evil. You, young Harry Jr., must venture into the unknown, armed with only your trusty sling and your father's journal, to attempt his rescue. Keep your eyes peeled for objects that might help you as you sneak through the Mayan jungle."
+    },
+    "34": {
+      "en": "Fueled by a nitro-burning, 64-bit graphics engine, PowerDrive Rally delivers the sights, sounds and the chaotic intensity of pure Rally racing. You'll actually see the skid marks and icicles fly as you tear across the Italian countryside. Hear the gears grind and your navigator sneer as you rip through the Arizona desert. Feel the heart palpitations and adrenaline overload as you bury the needle along the dust-choked African plains."
+    },
+    "35": {
+      "en": "Mother Earth has fallen to deranged aliens. Now, as pilot of the Raiden Supersonic Attack Fighter, you must rip through enemy lines and mount a daring counterattack...in Raiden, the ultimate arcade game conversion. Showcasing the Atari Jaguar's 64-bit capabilities, Raiden enhances the vertical-shooter excitement of an all-time arcade favorite with brilliant sounds and exceptional speed and motion."
+    },
+    "36": {
+      "en": "Enter the challenging, mind-altering world of Rayman and, suddenly, reality seems far too tame. Free your mind as Rayman takes you on an arduous adventure through a complex realm of psychedelic landscapes, absurd characters, formidable opponents, and uncharted levels of dementia. You'll experience a heightened sense of visual awareness. You'll hear strange and beautiful sounds. Endless legions of bizarre creatures will be out to get you. One trip into Rayman's kaleidoscopic domain...and you'll be addicted!"
+    },
+    "37": {
+      "en": "Ruiner Pinball is two fantastic games in one! In Ruiner, a double-wide table provides challenging gameplay and real classic arcade feel as you strive to defend your country from a foreign attack and prepare a strike of your own. In Tower, the triple-length table is so eerie you'll think you've descended into Hell. The Sorceress and her wicked minions are after you. Casting three spells will bring the tower crashing down, but can you figure them out before it's too late!"
+    },
+    "38": {
+      "en": "In a futuristic city, you are a mercenary pilot flying a helicopter-like craft in cyberspace. Hired by the large corporation Cytox, you are to defend its corporate holdings from those who seek to destroy all it has accomplished.\r\n\r\nThe numerous missions involve flying to several large cities and hunting down the renegades who threaten them. You have a cockpit view of the city as you hunt down your enemies and dock at the Cyber Mart for repairs. As you destroy your enemies and complete missions, you can earn credits for buying more supplies, weapons and ship upgrades at the Cyber Mart.\r\n\r\nPlay in Mission Mode or Battle Mode. To win the game, you must complete each mission successfully. The enemies become more tough as you progress through the \"levels\" of gameplay."
+    },
+    "39": {
+      "en": "Disaster! An alien of the cup collecting kind has stolen the World Cup!\r\nDouble Disaster!! In a collision with an asteroid the trophy is smashed into five pieces and scattered around the globe. Join Soccer Kid in his quest to recover and reassemble the World Cup. His un-balliev-able ball skills are put to the test like never before. It's awesome arcade action all the way with a blistering soundtrack to match.\r\n\r\nFeatures:\r\n20+ levels of frantic fun!\r\nTons of awesome soccer moves that take out obstacles and score big points.\r\nLook for hidden features and secret items.\r\nTravel to exotic locations in England, Russia, Italy, Japan and the U.S.\r\nParallax scrolling with attractive graphics and smooth animation.\r\nSaved game support via password."
+    },
+    "40": {
+      "en": "As a space knight, you will vie for glory, honor, fame and fortune in this one- or two-player first-person perspective 3D jousting adventure. Procure multiple weapons anhd cool defensive items in your quest to rank with other valiant knights on the High Score Table."
+    },
+    "41": {
+      "en": "This game will get your adrenaline pumping and pin you to your seat with its 'G' force. As you lean into the first bend you'll feel like you're really there."
+    },
+    "42": {
+      "en": "Supercross 3D brings the excitement of arena supercross racing to the Jaguar. Not only do you get to race ahead of your competitors, you can catch big air on the huge jumps and perform a few tricks.\r\nThere are three game modes: Practice, Single Race, and Tournament. In practice mode, you can race around any track for as long as you like. In single race mode, you compete in one race against the computer. Finally, in tournament mode, you compete in a series of races to accumulate points and become the Supercross champion."
+    },
+    "43": {
+      "en": "A rival Syndicate has gained full control of the population via a mind-altering techno-drug known as the CHIP.\r\n\r\n You are an ambitious executive in the Syndicate, hand picked to lead a team of CHIP-induced Cyborg mercenaries on a quest to infiltrate and seize opposing Syndicate territories. Your mission: Assassinate, pillage, destroy, do whatever it takes to bring down competing Agents... before they unleash their bloody assault on you!"
+    },
+    "44": {
+      "en": "Turn out the lights, turn up the volume and prepare for a mind-blowing assault on the senses. Once your neurotransmitters get a taste of the hypnotic rhythms of 100% pure techno-rave, you'll be hooked...Unable to escape the rush of blasting Flippers and Demon Heads as enhanced 3D polygons, screaming particle displays and hyperdelic Melt-O-Vision™ graphics warp you into the ultraviolent 64th Dimension..."
+    },
+    "45": {
+      "en": "Now you're ready to design and operate your own amusement park. You choose the location, hire the staff, build and repair the rides, manage the cash flow, even decide how much salt to put on the french fries. But make your decisions wisely...there's nothing like a broken Ferris Wheel to turn your customers into an army of marciless vandals."
+    },
+    "46": {
+      "en": "Total Carnage is the classic arcade game originally ported by Hand Made Software and licensed from long-time game publisher Midway. One or two players assume the roles of Captain Carnage or Major Mayhem in a tongue-in-cheek frantic assault on the dastardly forces of General Ahkboob. There is an unending -- often overwhelming -- number of enemies pursuing the heroes at all times, but thankfully there are also many powerups, bombs, and even missile strikes to assist players in their quest. Player strive to rescue civilians and collect valuable items such as keys, dogtags, and more.\r\n\r\nTotal Carnage was never commercially released, but is one of the most complete Jaguar prototypes to surface in recent years. Songbird Productions licensed Total Carnage from Midway Games and released the game in cartridge form (complete with box, manual and label) in 2005."
+    },
+    "47": {
+      "en": "The Crescent Galaxy has been attacked by an entity known as Odd-it. This creatures goal is to make everything odd, like it. You play Trevor McFur, a corporal in the Crescent Galaxy's chapter of the Interplanetary Defense squad and are sent in along with your feline partner Cutter to defeat Odd-it. The game is a side scrolling shooter featuring a wide variety of worlds and enemies to conquer. Throughout the game you can power your ship with newer and better weapons by shooting certain enemies and collecting the bonuses left behind."
+    },
+    "48": {
+      "en": "You and a friend can become star NFL players or choose to coach a team in this realistic rendition of the game of American football, endorsed by former Dallas Cowboys quarterback and Super Bowl champ, Troy Aikman. Choose to play alone against the system, or play against each other.\r\n\r\nPick from 3 play modes: Pre-season, Season, or Custom Generated (editable) season. There are also three skill levels: Rookie, Pro and Veteran. You can design your own plays, customize your team, and save your team's stats. True-to-life playing surfaces have an effect on how your team performs and include grass, mud, dirt, snow, rain and turf. Listen to the roar of the crowd and other authentic stadium sounds as your plays are followed through."
+    },
+    "49": {
+      "en": "Mankind must prove that it is worthy of the powers of the Ultra Vortek -- the eternal energy source for all life on Earth. Failure to meet this challenge will result in the Earth's destruction. Seven of the planet's mightiest warriors have been chosen to pit strength and cunning against the Guardian for complete control of the Ultra Vortek."
+    },
+    "50": {
+      "en": "Are you ready for the most hyped up, monster jammin', bruisin' elbows, rebound snatchin', rim stuffin', skying over suckers, down your throat, money making game of street ball you never thought possible? Well, here it is, in your face, and it's time to get it on! Hit the courts with White Men Can't Jump!"
+    },
+    "51": {
+      "en": "Bring Down The Third Reich! \r\n\r\nAs the legendary William \"B.J.\" Blazkowicz, you've been commissioned to rewrite history in a bloody 64-bit war zone filled with enough Nazi scum to keep you trigger-happy for weeks. Annihilate Der Fuerher's elite commando team, assasinate the diabolical Dr. Shabbs, capture the secret war plans, infiltrate Der Fuerher's bunker... and waste anyone and anything that gets in your way!"
+    },
+    "52": {
+      "en": "Worms is a turn-based strategy game. It features up to 4 teams of 4 worms, aiming to destroy the others on a generated terrain. Each worm has 100 hit points, and dies when his hit points fall to 0. Upon death, a worm explodes, causing damage to everyone around.\r\n\r\nGameplay is turn-based. Each turn, the player can control one specific worm from his team. The worm can crawl left and right or jump. However, there is a time limit to make a move; also, if the worm falls from a great height, it loses health and the turn ends immediately; and if a worm falls into water or offscreen, it dies. Each turn, a worm can also make a single attack: the player can aim up and down, choose a weapon and then fire it. After attacking, the turn ends. \r\n\r\nThere's a lot of weapons available - the standard ones as bazookas (which is affected by the (random) wind settings and gravity) and grenades. The others include a Fire Punch, dynamite, air strikes, and utilities such as ropes and girders.\r\n\r\nThere are 10 styles of terrain, ranging from forests and deserts to Candy land and the moon (complete with affected gravity). Shots leave craters in the ground, and complex tunnels can be formed."
+    },
+    "53": {
+      "en": "Zero 5 is a futuristic space shooter set in a 3-D, 360 degree playfield. The year is 2044 and the battle for Earth has begun. On the far reaches of the galaxy, a massive invasion force is assembling. Scanners at DEFCON have alerted you to the alien threat. The Earth's best pilots are dispatched in their BAMBAM cruisers to engage the enemy."
+    },
+    "54": {
+      "en": "Zool and his daring lovely sidekick Zooz face a challenge that would wilt the knees of even the toughest Ninja. The Nth Dimension is under attack from the evil forces of Krool. Our heroes must restore the Nth Dimension to equilibrium and exile Mental-Block and his mind-numbing cronies before imagination is wiped out of existence. Zoon the two-headed intergalactic wonder-canine will help, but you'll need skills from the Nth Dimension to save imagination!"
+    },
+    "55": {
+      "en": "Right here inside this cardboard box is the excitement you crave, the challenge you need. Level after level of brain-burning action coming at you from all sides, faster and faster until your thumbs are numb, your eyes are aching, and your mind is molten. Scorching four-way action! 99 levels of action! Demands strategic thinking."
+    }
+  }
+}

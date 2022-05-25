@@ -1,0 +1,2511 @@
+{
+  "PlatformName": "Leapster",
+  "LastUpdate": "5/24/2022 3:04:52 AM",
+  "Games": [
+    {
+      "Titles": [
+        "1st Grade"
+      ],
+      "Sha1": "9f9509313a0ebdac84c2dc02566fedf04ea0eee7",
+      "Crc32": "db36283f",
+      "SetNames": {
+        "No-Intro": [
+          "1st Grade (USA)"
+        ],
+        "MESS": [
+          "1stgrade"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "A la conquete des nombres",
+        "A La Conquête Des Nombres - Un Jeu D'Arcade Éducatif!"
+      ],
+      "Sha1": "b601d42a0cca30e3a4595cdd7f4ad24e89b82e41",
+      "Crc32": "c12334cf",
+      "SetNames": {
+        "No-Intro": [
+          "A la conquete des nombres (France)"
+        ],
+        "MESS": [
+          "numraidf"
+        ]
+      },
+      "Size": 4194304,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "CloneOf": "numraid",
+      "ReleaseDate": "1/1/2005",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Adibou - A la recherche de Robitoc"
+      ],
+      "Sha1": "d5bf632b9c2a7850f9a6e1ce855ac48af366f859",
+      "Crc32": "b0ba6d76",
+      "SetNames": {
+        "No-Intro": [
+          "Adibou - A la recherche de Robitoc (France)"
+        ],
+        "MESS": [
+          "adibou"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "ReleaseDate": "1/1/2006",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Animal Genius"
+      ],
+      "Sha1": "af22fdbb0466e1a078e68fe26752e606b529fcca",
+      "Crc32": "af063ba4",
+      "SetNames": {
+        "No-Intro": [
+          "Animal Genius (USA)"
+        ],
+        "MESS": [
+          "anigeni"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "ReleaseDate": "1/1/2005",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Backyardigans, The",
+        "The Backyardigans"
+      ],
+      "Sha1": "2a1df737ec907d1f1b837f9b58323ee908cb45a9",
+      "Crc32": "de5fb26e",
+      "SetNames": {
+        "No-Intro": [
+          "Backyardigans, The (USA)"
+        ],
+        "MESS": [
+          "backyard"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Batman, The - El poder de los numeros",
+        "The Batman - El Poder De Los Números"
+      ],
+      "Sha1": "3ae1372253b852b2cef8bfd549050b324375bda9",
+      "Crc32": "6a7afd1c",
+      "SetNames": {
+        "No-Intro": [
+          "Batman, The - El poder de los numeros (Spain)"
+        ],
+        "MESS": [
+          "batmans"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "CloneOf": "batman",
+      "ReleaseDate": "1/1/2007",
+      "Regions": [
+        "ES"
+      ],
+      "Languages": [
+        "es",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Batman, The - Multipliziere, dividiere und regiere",
+        "Batman - Multipliziere, dividiere und regiere"
+      ],
+      "Sha1": "442455a0bf2c3ca4c1084a1e8761eb80a4cd71e2",
+      "Crc32": "a0a362aa",
+      "SetNames": {
+        "No-Intro": [
+          "Batman, The - Multipliziere, dividiere und regiere (Germany)"
+        ],
+        "MESS": [
+          "batmang"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "CloneOf": "batman",
+      "ReleaseDate": "1/1/2003",
+      "Regions": [
+        "DE"
+      ],
+      "Languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Batman, The - Strength in Numbers",
+        "Batman - Strength in Numbers"
+      ],
+      "Sha1": "8db48ba9caa2f87922cb289520acd97d9931a178",
+      "Crc32": "7c934681",
+      "SetNames": {
+        "No-Intro": [
+          "Batman, The - Strength in Numbers (USA)"
+        ],
+        "MESS": [
+          "batman"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Bob l'eponge - Heros d'un jour",
+        "Bob Leponge - Heros D'un Jour"
+      ],
+      "Sha1": "000a2658a787fb56a7b4597b8170a1ee4459bb1d",
+      "Crc32": "7ccf1715",
+      "SetNames": {
+        "No-Intro": [
+          "Bob l'eponge - Heros d'un jour (France)"
+        ],
+        "MESS": [
+          "spongebf"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "CloneOf": "spongeb",
+      "ReleaseDate": "1/1/2006",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cars"
+      ],
+      "Sha1": "bbc2b70e588710b2096741046ae3e08095397ee9",
+      "Crc32": "c7b62602",
+      "SetNames": {
+        "No-Intro": [
+          "Cars (Germany)"
+        ],
+        "MESS": [
+          "carsg"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "CloneOf": "cars",
+      "ReleaseDate": "1/1/2003",
+      "Regions": [
+        "DE"
+      ],
+      "Languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cars"
+      ],
+      "Sha1": "c831db237e73e61e863e4f477dcc0298488b3d69",
+      "Crc32": "d4a7e5d4",
+      "SetNames": {
+        "No-Intro": [
+          "Cars (USA)"
+        ],
+        "MESS": [
+          "cars"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cars"
+      ],
+      "Sha1": "069f0e139231a3786472ab139e3d28bb2f2e098e",
+      "Crc32": "2a704606",
+      "SetNames": {
+        "No-Intro": [
+          "Cars (Spain)"
+        ],
+        "MESS": [
+          "carss"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "CloneOf": "cars",
+      "ReleaseDate": "1/1/2006",
+      "Regions": [
+        "ES"
+      ],
+      "Languages": [
+        "es",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cars"
+      ],
+      "Sha1": "82cc91536be8c18c10089c4ad85b9a82e63b824b",
+      "Crc32": "b6aabb7b",
+      "SetNames": {
+        "No-Intro": [
+          "Cars (France)"
+        ],
+        "MESS": [
+          "carsf"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "CloneOf": "cars",
+      "ReleaseDate": "1/1/2006",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cars - Supercharged"
+      ],
+      "Sha1": "8cda80251d6e45427dba6acbae5dff306eb84d34",
+      "Crc32": "beca3909",
+      "SetNames": {
+        "No-Intro": [
+          "Cars - Supercharged (USA)"
+        ],
+        "MESS": [
+          "carssc"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cars 2"
+      ],
+      "Sha1": "01263c4b6b178599eca818a514f9a668bdf9081d",
+      "Crc32": "29af42ba",
+      "SetNames": {
+        "No-Intro": [
+          "Cars 2 (USA)"
+        ],
+        "MESS": [
+          "cars2"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "ReleaseDate": "1/1/2011",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Clifford - The Big Red Dog - Reading"
+      ],
+      "Sha1": "29c3e2e9d56aeee09c752776bfd8c096e02b75c5",
+      "Crc32": "0134af49",
+      "SetNames": {
+        "No-Intro": [
+          "Clifford - The Big Red Dog - Reading (USA)"
+        ],
+        "MESS": [
+          "clifread"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cosmic Math",
+        "Cosmic Math - Arcade-Style Learning!"
+      ],
+      "Sha1": "ecd8d3f7bae4fea1710ee99c5637224180021dd6",
+      "Crc32": "979346d5",
+      "SetNames": {
+        "No-Intro": [
+          "Cosmic Math (USA)"
+        ],
+        "MESS": [
+          "cosmicmt"
+        ]
+      },
+      "Size": 4194304,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Creature Create"
+      ],
+      "Sha1": "82a408b87ff5df6f17d314af17cd20ff4847b30f",
+      "Crc32": "9f08d02a",
+      "SetNames": {
+        "No-Intro": [
+          "Creature Create (USA)"
+        ],
+        "MESS": [
+          "createcr"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "ReleaseDate": "1/1/2006",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Demo - Herbst 2004 II"
+      ],
+      "Sha1": "eaf0656d29f61d89b97c6d66e73a2fa7021a92e3",
+      "Crc32": "71062cd7",
+      "SetNames": {
+        "No-Intro": [
+          "Demo - Herbst 2004 II (Germany)"
+        ],
+        "MESS": [
+          "demo"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Regions": [
+        "DE"
+      ],
+      "Languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Digging for Dinosaurs"
+      ],
+      "Sha1": "ff0ac7f5fded346553e1a4697b45c27fc04ee3fe",
+      "Crc32": "822ca3da",
+      "SetNames": {
+        "No-Intro": [
+          "Digging for Dinosaurs (USA)"
+        ],
+        "MESS": [
+          "digdino"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Dis pourquoi Kirikou"
+      ],
+      "Sha1": "fbe422df83608a75f96168f83b32f45b700dacd5",
+      "Crc32": "fdcd1321",
+      "SetNames": {
+        "No-Intro": [
+          "Dis pourquoi Kirikou (France)"
+        ],
+        "MESS": [
+          "kirikou"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "ReleaseDate": "1/1/2008",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Disney Fairies"
+      ],
+      "Sha1": "7a9a8f78eb245c3b8600b0658f1d1b1fa99e6a5c",
+      "Crc32": "d2f560c7",
+      "SetNames": {
+        "No-Intro": [
+          "Disney Fairies (Spain)"
+        ],
+        "MESS": [
+          "fairiess"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "ReleaseDate": "1/1/2009",
+      "Regions": [
+        "ES"
+      ],
+      "Languages": [
+        "es",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Disney Princesa - La magia de aprender"
+      ],
+      "Sha1": "072353a79c124855c5904137f15e8a84ad622914",
+      "Crc32": "5a52d3f0",
+      "SetNames": {
+        "No-Intro": [
+          "Disney Princesa - La magia de aprender (Spain)"
+        ],
+        "MESS": [
+          "princels"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "CloneOf": "princelg",
+      "ReleaseDate": "1/1/2006",
+      "Regions": [
+        "ES"
+      ],
+      "Languages": [
+        "es",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Disney Princess"
+      ],
+      "Sha1": "42740f6597f4a2eb878a54ddbf75452a2cca301d",
+      "Crc32": "5ccb2ad3",
+      "SetNames": {
+        "No-Intro": [
+          "Disney Princess (USA)"
+        ],
+        "MESS": [
+          "princess"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Disney Princess - Worlds of Enchantment"
+      ],
+      "Sha1": "d37d7ea21cf8ed01ecf497c3c99185529aee59af",
+      "Crc32": "2465f01d",
+      "SetNames": {
+        "No-Intro": [
+          "Disney Princess - Worlds of Enchantment (USA)"
+        ],
+        "MESS": [
+          "princwen"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Disney Princesse - La magie d'apprendre"
+      ],
+      "Sha1": "a7072e5fe5d143ad65fb16ad13bf738b1b43552f",
+      "Crc32": "69eaa1ea",
+      "SetNames": {
+        "No-Intro": [
+          "Disney Princesse - La magie d'apprendre (France)"
+        ],
+        "MESS": [
+          "princelf"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "CloneOf": "princelg",
+      "ReleaseDate": "1/1/2004",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Disney Prinzessinnen - Zauberhaftes Lernen"
+      ],
+      "Sha1": "743d07ee756b54e2c72bf94da56dd8d18c4cd106",
+      "Crc32": "bb6d5375",
+      "SetNames": {
+        "No-Intro": [
+          "Disney Prinzessinnen - Zauberhaftes Lernen (Germany)"
+        ],
+        "MESS": [
+          "princelg"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Regions": [
+        "DE"
+      ],
+      "Languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Dora - Retter der Wildnis"
+      ],
+      "Sha1": "262ee3e208fff0fc362bc879416cbdf31bf38304",
+      "Crc32": "242907d4",
+      "SetNames": {
+        "No-Intro": [
+          "Dora - Retter der Wildnis (Germany)"
+        ],
+        "MESS": [
+          "dora"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Regions": [
+        "DE"
+      ],
+      "Languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Dora l'exploratrice - Au secours des animaux"
+      ],
+      "Sha1": "964150dfd525188a0e8d6bcbc715f9a40e4c6779",
+      "Crc32": "e557c760",
+      "SetNames": {
+        "No-Intro": [
+          "Dora l'exploratrice - Au secours des animaux (France)"
+        ],
+        "MESS": [
+          "doraf"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "CloneOf": "dora",
+      "ReleaseDate": "1/1/2006",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Dora L'exploratrice - Le pont casse"
+      ],
+      "Sha1": "278e89cdc99bdd9284447f31a1fd23de36eb8dca",
+      "Crc32": "b6607eee",
+      "SetNames": {
+        "No-Intro": [
+          "Dora L'exploratrice - Le pont casse (France)"
+        ],
+        "MESS": [
+          "dorapont"
+        ]
+      },
+      "Size": 4194304,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "ReleaseDate": "1/1/2006",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Dora the Explorer - Camping Adventure"
+      ],
+      "Sha1": "9f8c5e02519def049078614dacc76b990e911add",
+      "Crc32": "71778536",
+      "SetNames": {
+        "No-Intro": [
+          "Dora the Explorer - Camping Adventure (USA)"
+        ],
+        "MESS": [
+          "doraca"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "ReleaseDate": "1/1/2007",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Dora the Explorer - Pinata Party!",
+        "Dora the Explorer - Piñata Party!"
+      ],
+      "Sha1": "a9aaf73e5259db303f8bfc39bd6d7b40bddb127f",
+      "Crc32": "ea544030",
+      "SetNames": {
+        "No-Intro": [
+          "Dora the Explorer - Pinata Party! (USA)"
+        ],
+        "MESS": [
+          "dorapp"
+        ]
+      },
+      "Size": 4194304,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "ReleaseDate": "1/1/2006",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Dora the Explorer - Wildlife Rescue"
+      ],
+      "Sha1": "0436c64cc08089e9ca96b006d54bf00120685e6e",
+      "Crc32": "74af5d57",
+      "SetNames": {
+        "No-Intro": [
+          "Dora the Explorer - Wildlife Rescue (USA) (L-MAX)"
+        ],
+        "MESS": [
+          "dorawr"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "ReleaseDate": "1/1/2005",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Findet Nemo"
+      ],
+      "Sha1": "984638e1d9b869611de8900d8f5a6a760cd40539",
+      "Crc32": "6a5e20ba",
+      "SetNames": {
+        "No-Intro": [
+          "Findet Nemo (Germany)"
+        ],
+        "MESS": [
+          "findnemog"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "CloneOf": "findnemo",
+      "ReleaseDate": "1/1/2003",
+      "Regions": [
+        "DE"
+      ],
+      "Languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Finding Nemo"
+      ],
+      "Sha1": "8baf4f44f64d17333a82ce29e59c62e51e45c0c0",
+      "Crc32": "1895f946",
+      "SetNames": {
+        "No-Intro": [
+          "Finding Nemo (USA)"
+        ],
+        "MESS": [
+          "findnemo"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Foster's Home for Imaginary Friends"
+      ],
+      "Sha1": "e43820efe9dbd8dddf6312493a7967c75a29431a",
+      "Crc32": "e62d1684",
+      "SetNames": {
+        "No-Intro": [
+          "Foster's Home for Imaginary Friends (USA)"
+        ],
+        "MESS": [
+          "imagfrnd"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Get Puzzled!"
+      ],
+      "Sha1": "04b3181f39e88b6cd47e39a7efb50fa14618ff2c",
+      "Crc32": "05b608f0",
+      "SetNames": {
+        "No-Intro": [
+          "Get Puzzled! (USA)"
+        ],
+        "MESS": [
+          "getpuzld"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Go Diego Go! - Animal Rescuer"
+      ],
+      "Sha1": "2412607b40f8e46881368607b4fe15ecf2f2e9eb",
+      "Crc32": "ebbf83a0",
+      "SetNames": {
+        "No-Intro": [
+          "Go Diego Go! - Animal Rescuer (USA)"
+        ],
+        "MESS": [
+          "diegogo"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Grundschule 1"
+      ],
+      "Sha1": "fe6e8e1aaf72901820ee99d22dcc40a01d627fac",
+      "Crc32": "6fd44f1a",
+      "SetNames": {
+        "No-Intro": [
+          "Grundschule 1 (Germany)"
+        ],
+        "MESS": [
+          "grund1"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Regions": [
+        "DE"
+      ],
+      "Languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Grundschule 2 - Musik in Gefahr"
+      ],
+      "Sha1": "61dd156ae456a370a021061da9b3a4e33bda371e",
+      "Crc32": "96d30f93",
+      "SetNames": {
+        "No-Intro": [
+          "Grundschule 2 - Musik in Gefahr (Germany)"
+        ],
+        "MESS": [
+          "grund2"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Regions": [
+        "DE"
+      ],
+      "Languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "I Spy - Challenger",
+        "Scholastic I Spy - Challenger"
+      ],
+      "Sha1": "952a3135131b6543b7e6b4f784c7a239cfd6e75a",
+      "Crc32": "da56181c",
+      "SetNames": {
+        "No-Intro": [
+          "I Spy - Challenger (USA)"
+        ],
+        "MESS": [
+          "ispychl"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "ReleaseDate": "1/1/2005",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "I Spy - Treasure Hunt"
+      ],
+      "Sha1": "35512ea5c267f5540cbfa64a4d35ebc54464fd31",
+      "Crc32": "7c716016",
+      "SetNames": {
+        "No-Intro": [
+          "I Spy - Treasure Hunt (USA)"
+        ],
+        "MESS": [
+          "ispy"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Kindergarten"
+      ],
+      "Sha1": "2ece5050d65d020cce70e220af3c11c9827029ac",
+      "Crc32": "db262164",
+      "SetNames": {
+        "No-Intro": [
+          "Kindergarten (USA)"
+        ],
+        "MESS": [
+          "kinderga"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "La riviere des lapins + L'atelier de peinture",
+        "La Rivière Des Lapins + L'Atelier De Peinture"
+      ],
+      "Sha1": "dfdf21c90ce5807459c90d515f28f838effacde6",
+      "Crc32": "e8c84241",
+      "SetNames": {
+        "No-Intro": [
+          "La riviere des lapins + L'atelier de peinture (France)"
+        ],
+        "MESS": [
+          "riviere"
+        ]
+      },
+      "Size": 4194304,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "ReleaseDate": "1/1/2006",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Lapin Malin - Danse avec les mots"
+      ],
+      "Sha1": "fc28a2b4e86cbdbf5f3218bd36fb7b72d9bd44d3",
+      "Crc32": "680f3323",
+      "SetNames": {
+        "No-Intro": [
+          "Lapin Malin - Danse avec les mots (France)"
+        ],
+        "MESS": [
+          "rrabbitf"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "ReleaseDate": "1/1/2007",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Learning with Leap"
+      ],
+      "Sha1": "ee9dbfa8aabda493cc2a34dc82b253122fa96c91",
+      "Crc32": "2c1fcf40",
+      "SetNames": {
+        "No-Intro": [
+          "Learning with Leap (USA)"
+        ],
+        "MESS": [
+          "lernleap"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Lernen mit Leap"
+      ],
+      "Sha1": "935eb17d3b6f9df2115a12445b3c8c977005481a",
+      "Crc32": "e1f505e7",
+      "SetNames": {
+        "No-Intro": [
+          "Lernen mit Leap (Germany)"
+        ],
+        "MESS": [
+          "lernleapg"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "CloneOf": "lernleap",
+      "ReleaseDate": "1/1/2003",
+      "Regions": [
+        "DE"
+      ],
+      "Languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Letterpillar"
+      ],
+      "Sha1": "c7d5381205340f85b302342cbe518f20c959a193",
+      "Crc32": "9b86a0fb",
+      "SetNames": {
+        "No-Intro": [
+          "Letterpillar (USA) (Rev 1)"
+        ],
+        "MESS": [
+          "letrpilr"
+        ]
+      },
+      "Size": 4194304,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "ReleaseDate": "1/1/2005",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Letters on the Loose"
+      ],
+      "Sha1": "10bfa48a7627905bd9ba6af8399f70d35f814ded",
+      "Crc32": "b186a3bf",
+      "SetNames": {
+        "No-Intro": [
+          "Letters on the Loose (USA) (L-MAX)"
+        ],
+        "MESS": [
+          "lettontl"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "ReleaseDate": "1/1/2005",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Madagascar"
+      ],
+      "Sha1": "3509eb76178a20037fb277d2d0cf062dedbaba47",
+      "Crc32": "a9c75d90",
+      "SetNames": {
+        "No-Intro": [
+          "Madagascar (USA) (L-MAX)"
+        ],
+        "MESS": [
+          "madagasc"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "ReleaseDate": "1/1/2005",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Mit Bruno Bleistift lernst du Malen & Schreiben",
+        "Lernst du Malen & Schreiben - Mit Bruno Bleistift"
+      ],
+      "Sha1": "a2f8c6df81fd5f72f6894b153306fd871fd20aac",
+      "Crc32": "e58eac06",
+      "SetNames": {
+        "No-Intro": [
+          "Mit Bruno Bleistift lernst du Malen & Schreiben (Germany)"
+        ],
+        "MESS": [
+          "brunobls"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "Regions": [
+        "DE"
+      ],
+      "Languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Mr. Pencil's Learn to Draw & Write"
+      ],
+      "Sha1": "280b18a8cdf3ae09c5c7b32b8e592a8e2890302c",
+      "Crc32": "dbb767cc",
+      "SetNames": {
+        "No-Intro": [
+          "Mr. Pencil's Learn to Draw & Write (USA)"
+        ],
+        "MESS": [
+          "mrpencil"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "My Amusement Park"
+      ],
+      "Sha1": "266e08439be2c91fbc9942c3620f49459c157fcc",
+      "Crc32": "2fc77c9d",
+      "SetNames": {
+        "No-Intro": [
+          "My Amusement Park (USA)"
+        ],
+        "MESS": [
+          "amuspark"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "NASCAR"
+      ],
+      "Sha1": "91619b2f1297b8d07c6122b92b8ff33f6f6c1629",
+      "Crc32": "95c78f34",
+      "SetNames": {
+        "No-Intro": [
+          "NASCAR (USA) (L-MAX)"
+        ],
+        "MESS": [
+          "nascar"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "ReleaseDate": "1/1/2005",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Number Raiders",
+        "Number Raiders - Arcade-Style Learning"
+      ],
+      "Sha1": "f30e7d55c5222e85aca08819ff613343b91138a4",
+      "Crc32": "0f6d55cf",
+      "SetNames": {
+        "No-Intro": [
+          "Number Raiders (USA)"
+        ],
+        "MESS": [
+          "numraid"
+        ]
+      },
+      "Size": 4194304,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "ReleaseDate": "1/1/2005",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Numbers on the Run",
+        "Numbers on the Run - Counting on Zero"
+      ],
+      "Sha1": "6e468f68b57d93777347d6a2e8ce15b79ccefb7f",
+      "Crc32": "01f12ce7",
+      "SetNames": {
+        "No-Intro": [
+          "Numbers on the Run (USA) (L-MAX)"
+        ],
+        "MESS": [
+          "numbrun"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Oui-Oui - Aventures au Pays des Jouets"
+      ],
+      "Sha1": "f6af3d9629d66d71fcb0acf731bd0295e1142135",
+      "Crc32": "24c28bcd",
+      "SetNames": {
+        "No-Intro": [
+          "Oui-Oui - Aventures au Pays des Jouets (France)"
+        ],
+        "MESS": [
+          "noddyf"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "ReleaseDate": "1/1/2007",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "OutWit!",
+        "Scholastic OutWit!"
+      ],
+      "Sha1": "395de47ca1e89eb63f4ff316d15da9b0425488d1",
+      "Crc32": "9e69c26a",
+      "SetNames": {
+        "No-Intro": [
+          "OutWit! (USA)"
+        ],
+        "MESS": [
+          "scoutwit"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "ReleaseDate": "1/1/2008",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Perrito Club - Adopta un nuevo amiguito y aprende!",
+        "Perrito Club - ¡Adopta Un Nuevo Amiguito Y Aprende!"
+      ],
+      "Sha1": "680508d157425523b8b0da3d99408e68c241acd0",
+      "Crc32": "b6d630e0",
+      "SetNames": {
+        "No-Intro": [
+          "Perrito Club - Adopta un nuevo amiguito y aprende! (Spain)"
+        ],
+        "MESS": [
+          "petpalss"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "CloneOf": "petpals",
+      "ReleaseDate": "1/1/2007",
+      "Regions": [
+        "ES"
+      ],
+      "Languages": [
+        "es",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Pet Pals"
+      ],
+      "Sha1": "b90cdd518178849efabf7e3e17bf99072d964fad",
+      "Crc32": "3c428a13",
+      "SetNames": {
+        "No-Intro": [
+          "Pet Pals (USA)"
+        ],
+        "MESS": [
+          "petpals"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Ratatouille"
+      ],
+      "Sha1": "af3c6b80d075f469388395cb065efa8bd6aeeab1",
+      "Crc32": "df729fe7",
+      "SetNames": {
+        "No-Intro": [
+          "Ratatouille (Germany)"
+        ],
+        "MESS": [
+          "ratatg"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "CloneOf": "ratat",
+      "ReleaseDate": "1/1/2003",
+      "Regions": [
+        "DE"
+      ],
+      "Languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Ratatouille"
+      ],
+      "Sha1": "372c61285eee5c8ce2670d12bedb09150fdaaa45",
+      "Crc32": "d0c4de47",
+      "SetNames": {
+        "No-Intro": [
+          "Ratatouille (USA)"
+        ],
+        "MESS": [
+          "ratat"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "ReleaseDate": "1/1/2006",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Ratatouille"
+      ],
+      "Sha1": "f3a67125ac50ce793a80ac2978e4e656b6696642",
+      "Crc32": "8f835af7",
+      "SetNames": {
+        "No-Intro": [
+          "Ratatouille (France)"
+        ],
+        "MESS": [
+          "ratatf"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "CloneOf": "ratat",
+      "ReleaseDate": "1/1/2007",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Reading with Phonics - Mole's Huge Nose"
+      ],
+      "Sha1": "c298181f00109b7f863fdb12b5bd462085c4ff4f",
+      "Crc32": "2c6e623e",
+      "SetNames": {
+        "No-Intro": [
+          "Reading with Phonics - Mole's Huge Nose (USA)"
+        ],
+        "MESS": [
+          "hugenose"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Scooby-Doo!",
+        "Scooby Doo!"
+      ],
+      "Sha1": "9f06cb4aba2399464a799910be9df1d5678bb23a",
+      "Crc32": "4cd2c497",
+      "SetNames": {
+        "No-Intro": [
+          "Scooby-Doo! (USA)"
+        ],
+        "MESS": [
+          "scooby"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "ReleaseDate": "1/1/2009",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Scooby-Doo! - Et les nombres fous !",
+        "Scooby-Doo! - Et Les Nombres Fous!"
+      ],
+      "Sha1": "b483b8e04a287f3b6c2a80deabfd5812963b413b",
+      "Crc32": "648e3ee5",
+      "SetNames": {
+        "No-Intro": [
+          "Scooby-Doo! - Et les nombres fous ! (France)"
+        ],
+        "MESS": [
+          "scoobsnkf"
+        ]
+      },
+      "Size": 4194304,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "CloneOf": "scoobsnk",
+      "ReleaseDate": "1/1/2006",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Scooby-Doo! - Spooky Snacks!"
+      ],
+      "Sha1": "8966d8d1e65ea0f778c9b435de94da793a874efe",
+      "Crc32": "19da3dd8",
+      "SetNames": {
+        "No-Intro": [
+          "Scooby-Doo! - Spooky Snacks! (USA)"
+        ],
+        "MESS": [
+          "scoobsnk"
+        ]
+      },
+      "Size": 4194304,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "ReleaseDate": "1/1/2005",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Sonic X",
+        "SonicX"
+      ],
+      "Sha1": "e239b209239252f0f6cd2a4c71d2a46a3abfd5eb",
+      "Crc32": "a9d2cdbd",
+      "SetNames": {
+        "No-Intro": [
+          "Sonic X (USA)"
+        ],
+        "MESS": [
+          "sonicx"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Spider-Man - L'affaire des mots mysteres",
+        "Spider-Man - L'Affaire Des Mots Mystères"
+      ],
+      "Sha1": "12245cfacd1b67fb4cb0cc176789a5b7c1de698a",
+      "Crc32": "cbe0de6f",
+      "SetNames": {
+        "No-Intro": [
+          "Spider-Man - L'affaire des mots mysteres (France)"
+        ],
+        "MESS": [
+          "spidermnf"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "CloneOf": "spidermn",
+      "ReleaseDate": "1/1/2006",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Spider-Man - Schachmatt den Schildersaboteuren!"
+      ],
+      "Sha1": "089e6739142edaaa5c0e72ba7faf6f443e1ddc59",
+      "Crc32": "9dc2e5f6",
+      "SetNames": {
+        "No-Intro": [
+          "Spider-Man - Schachmatt den Schildersaboteuren! (Germany)"
+        ],
+        "MESS": [
+          "spidermng"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "CloneOf": "spidermn",
+      "ReleaseDate": "1/1/2003",
+      "Regions": [
+        "DE"
+      ],
+      "Languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Spider-Man - The Case of the Sinister Speller"
+      ],
+      "Sha1": "ff00b91ca8bcd2a5d1ead2c353d6d1c048994d69",
+      "Crc32": "0ef61cbb",
+      "SetNames": {
+        "No-Intro": [
+          "Spider-Man - The Case of the Sinister Speller (USA)"
+        ],
+        "MESS": [
+          "spidermn"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Spider-Man - The Case of the Sinister Speller"
+      ],
+      "Sha1": "e5cd4a48d027fef14bbfc1c1304ebe9138353110",
+      "Crc32": "2eee5925",
+      "SetNames": {
+        "No-Intro": [
+          "Spider-Man - The Case of the Sinister Speller (USA) (L-MAX)"
+        ],
+        "MESS": [
+          "spidermnlm"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "CloneOf": "spidermn",
+      "ReleaseDate": "1/1/2005",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Spongebob Schwammkopf - Zeitreise durch das Wurmloch"
+      ],
+      "Sha1": "90b0e1faf6964ec74643a45b46f0b064ebf9ea8a",
+      "Crc32": "8761fc61",
+      "SetNames": {
+        "No-Intro": [
+          "Spongebob Schwammkopf - Zeitreise durch das Wurmloch (Germany)"
+        ],
+        "MESS": [
+          "spongewrmg"
+        ]
+      },
+      "Size": 4194304,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "CloneOf": "spongewrm",
+      "ReleaseDate": "1/1/2003",
+      "Regions": [
+        "DE"
+      ],
+      "Languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Spongebob Schwammkopf hat alles im Griff"
+      ],
+      "Sha1": "71a844d9f38f7bc915e716d3d5485f558e9bffe9",
+      "Crc32": "d11e7c30",
+      "SetNames": {
+        "No-Intro": [
+          "Spongebob Schwammkopf hat alles im Griff (Germany)"
+        ],
+        "MESS": [
+          "spongebg"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "CloneOf": "spongeb",
+      "ReleaseDate": "1/1/2003",
+      "Regions": [
+        "DE"
+      ],
+      "Languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Spongebob Squarepants - Saves the Day"
+      ],
+      "Sha1": "258e5b006086a7fd4cfa4460f3008604a5d87e1d",
+      "Crc32": "0f2ad725",
+      "SetNames": {
+        "No-Intro": [
+          "Spongebob Squarepants - Saves the Day (USA)"
+        ],
+        "MESS": [
+          "spongeb"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Spongebob Squarepants - Saves the Day"
+      ],
+      "Sha1": "b108972cbd1408aa395af64ef0760e99cb956d28",
+      "Crc32": "4d893b32",
+      "SetNames": {
+        "No-Intro": [
+          "Spongebob Squarepants - Saves the Day (USA) (L-MAX)"
+        ],
+        "MESS": [
+          "spongeblm"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "CloneOf": "spongeb",
+      "ReleaseDate": "1/1/2005",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "SpongeBob SquarePants - Through the Wormhole"
+      ],
+      "Sha1": "34dfb9ddef02731440085f3a1dad80654ad29c76",
+      "Crc32": "6b24a3ef",
+      "SetNames": {
+        "No-Intro": [
+          "SpongeBob SquarePants - Through the Wormhole (USA)"
+        ],
+        "MESS": [
+          "spongewrm"
+        ]
+      },
+      "Size": 4194304,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Star Wars - Jedi Math"
+      ],
+      "Sha1": "a7e8e63ab74931ad9546aba20755714df572badb",
+      "Crc32": "27000674",
+      "SetNames": {
+        "No-Intro": [
+          "Star Wars - Jedi Math (USA)"
+        ],
+        "MESS": [
+          "jedimath"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Star Wars - Jedi Reading"
+      ],
+      "Sha1": "55c09dbeaabfd21a12369aefa8eae6b7a8d7c1f3",
+      "Crc32": "6239a178",
+      "SetNames": {
+        "No-Intro": [
+          "Star Wars - Jedi Reading (USA)"
+        ],
+        "MESS": [
+          "swjedir"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "ReleaseDate": "1/1/2008",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Star Wars - Matematicas Jedi",
+        "Star Wars - Matemáticas Jedi"
+      ],
+      "Sha1": "31ab97019d5e1fafa05cdb3a359e3c512a089b01",
+      "Crc32": "cf835b84",
+      "SetNames": {
+        "No-Intro": [
+          "Star Wars - Matematicas Jedi (Spain)"
+        ],
+        "MESS": [
+          "jedimaths"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "CloneOf": "jedimath",
+      "ReleaseDate": "1/1/2008",
+      "Regions": [
+        "ES"
+      ],
+      "Languages": [
+        "es",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Talking Words Factory"
+      ],
+      "Sha1": "14932442f9970ff0352e50a72c7e0cb18a64948d",
+      "Crc32": "58d08f36",
+      "SetNames": {
+        "No-Intro": [
+          "Talking Words Factory (USA)"
+        ],
+        "MESS": [
+          "talkingw"
+        ]
+      },
+      "Size": 16777216,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Thomas & Friends - Calling All Engines!",
+        "Thomas and Friends - Calling all Engines!"
+      ],
+      "Sha1": "a7a65b5027d742634dd0860d3db44981c2351a05",
+      "Crc32": "5303d366",
+      "SetNames": {
+        "No-Intro": [
+          "Thomas & Friends - Calling All Engines! (USA)"
+        ],
+        "MESS": [
+          "tfcall"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "ReleaseDate": "1/1/2005",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Toy Story 3"
+      ],
+      "Sha1": "3524a9167e6139101a27fccef4a97ef30dd928fe",
+      "Crc32": "a72c61fd",
+      "SetNames": {
+        "No-Intro": [
+          "Toy Story 3 (USA)"
+        ],
+        "MESS": [
+          "toystor3"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Up"
+      ],
+      "Sha1": "ab74239918208cc7dfa7377549086b59e6c40818",
+      "Crc32": "1e2a5031",
+      "SetNames": {
+        "No-Intro": [
+          "Up (USA)"
+        ],
+        "MESS": [
+          "up"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "ReleaseDate": "1/1/2009",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Up"
+      ],
+      "Sha1": "d89e05c3afb2377efcdddf3099819541c28ee640",
+      "Crc32": "975a0a85",
+      "SetNames": {
+        "No-Intro": [
+          "Up (Spain)"
+        ],
+        "MESS": [
+          "ups"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "CloneOf": "up",
+      "ReleaseDate": "1/1/2009",
+      "Regions": [
+        "ES"
+      ],
+      "Languages": [
+        "es",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Vorschule"
+      ],
+      "Sha1": "87819e1a95f0d435fc94697423fcfca13f463a34",
+      "Crc32": "4c5e775e",
+      "SetNames": {
+        "No-Intro": [
+          "Vorschule (Germany)"
+        ],
+        "MESS": [
+          "vorschul"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Regions": [
+        "DE"
+      ],
+      "Languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Wall-E"
+      ],
+      "Sha1": "3606a63fb783ba1e16d0466766dd456eb84b4116",
+      "Crc32": "ee2c39ea",
+      "SetNames": {
+        "No-Intro": [
+          "Wall-E (Germany)"
+        ],
+        "MESS": [
+          "walleg"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "CloneOf": "walle",
+      "Regions": [
+        "DE"
+      ],
+      "Languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Wall-E"
+      ],
+      "Sha1": "ac31af80cf3dedf13ddb94595e2914377f85f819",
+      "Crc32": "c71cff35",
+      "SetNames": {
+        "No-Intro": [
+          "Wall-E (USA)"
+        ],
+        "MESS": [
+          "walle"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "ReleaseDate": "1/1/2007",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Wall-E"
+      ],
+      "Sha1": "001d00815e42cd01c650d4cce81ea2a9de6d422c",
+      "Crc32": "c10ab3dd",
+      "SetNames": {
+        "No-Intro": [
+          "Wall-E (Spain)"
+        ],
+        "MESS": [
+          "walles"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "CloneOf": "walle",
+      "ReleaseDate": "1/1/2008",
+      "Regions": [
+        "ES"
+      ],
+      "Languages": [
+        "es",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Weltraum-Mathe",
+        "Weltraum-Mathe - Lernen im Arcade-Stil!"
+      ],
+      "Sha1": "6bebaef0d3b6f8a1a4b2bb957a00a0cce4ed65a2",
+      "Crc32": "75164c8e",
+      "SetNames": {
+        "No-Intro": [
+          "Weltraum-Mathe (Germany)"
+        ],
+        "MESS": [
+          "cosmicmtg"
+        ]
+      },
+      "Size": 4194304,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "CloneOf": "cosmicmt",
+      "ReleaseDate": "1/1/2003",
+      "Regions": [
+        "DE"
+      ],
+      "Languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Woerterjaeger",
+        "Wörterjäger - Lernen im Arcade-Stil!"
+      ],
+      "Sha1": "76689979f08d8c585576a138579fcfb147449db5",
+      "Crc32": "a707de61",
+      "SetNames": {
+        "No-Intro": [
+          "Woerterjaeger (Germany)"
+        ],
+        "MESS": [
+          "wrdchsrsg"
+        ]
+      },
+      "Size": 4194304,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Regions": [
+        "DE"
+      ],
+      "Languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Wolverine and the X-Men"
+      ],
+      "Sha1": "70c35a12e368e19956ff43101f7125f9c5679cb2",
+      "Crc32": "67bd4a6a",
+      "SetNames": {
+        "No-Intro": [
+          "Wolverine and the X-Men (USA)"
+        ],
+        "MESS": [
+          "wolverin"
+        ]
+      },
+      "Size": 8388608,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Zahlenjaeger",
+        "Zahlenjäger - Lernen im Arcade-Stil!"
+      ],
+      "Sha1": "00eb76e267bfaded25fdf8361e933dc4ec72d059",
+      "Crc32": "334ab5d0",
+      "SetNames": {
+        "No-Intro": [
+          "Zahlenjaeger (Germany)"
+        ],
+        "MESS": [
+          "numraidg"
+        ]
+      },
+      "Size": 4194304,
+      "Publishers": [
+        "LeapFrog"
+      ],
+      "CloneOf": "numraid",
+      "ReleaseDate": "1/1/2003",
+      "Regions": [
+        "DE"
+      ],
+      "Languages": [
+        "de",
+        "en"
+      ]
+    }
+  ],
+  "Overviews": {}
+}

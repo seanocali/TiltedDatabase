@@ -1,0 +1,257 @@
+{
+  "PlatformName": "Tutor",
+  "LastUpdate": "5/25/2022 3:06:41 AM",
+  "Games": [
+    {
+      "Titles": [
+        "Car-azy Racer",
+        "Car-Azy Racer"
+      ],
+      "Sha1": "aade318f130cfeedb90ad963c351e9b344a5b133",
+      "Crc32": "d3d9e415",
+      "SetNames": {
+        "TOSEC": [
+          "Car-azy Racer (1991)(TM)"
+        ],
+        "TGDB": [
+          "42978"
+        ]
+      },
+      "OverviewId": 1,
+      "Size": 16384,
+      "Publishers": [
+        "TM",
+        "Tomy"
+      ],
+      "ReleaseDate": "1/1/1991",
+      "ESRB": "E",
+      "Genres": [
+        "Racing"
+      ],
+      "Regions": [
+        "TM"
+      ],
+      "Tags": [
+        "Co-op"
+      ]
+    },
+    {
+      "Titles": [
+        "Cave Crawlers"
+      ],
+      "Sha1": "e28e32206a3961cd8b9522ec4edf83e2177f3457",
+      "Crc32": "6969757d",
+      "SetNames": {
+        "TOSEC": [
+          "Cave Crawlers (1991)(TM)"
+        ]
+      },
+      "Size": 8192,
+      "Publishers": [
+        "TM"
+      ],
+      "ReleaseDate": "1/1/1991",
+      "Regions": [
+        "TM"
+      ]
+    },
+    {
+      "Titles": [
+        "Deep Six"
+      ],
+      "Sha1": "f127f6641f8187ada313ebb5a6b87cd61d27f019",
+      "Crc32": "6b8a878f",
+      "SetNames": {
+        "TOSEC": [
+          "Deep Six (1991)(TM)"
+        ]
+      },
+      "Size": 8192,
+      "Publishers": [
+        "TM"
+      ],
+      "ReleaseDate": "1/1/1991",
+      "Regions": [
+        "TM"
+      ]
+    },
+    {
+      "Titles": [
+        "Jungler"
+      ],
+      "Sha1": "335c509de78bf0bec25ceeef6a65ce1bdb24a62c",
+      "Crc32": "38dce126",
+      "SetNames": {
+        "TOSEC": [
+          "Jungler (1991)(TM)"
+        ],
+        "TGDB": [
+          "40758"
+        ]
+      },
+      "OverviewId": 2,
+      "Size": 8192,
+      "Publishers": [
+        "TM",
+        "Tomy"
+      ],
+      "Developers": [
+        "Konami"
+      ],
+      "ReleaseDate": "1/1/1991",
+      "Genres": [
+        "Action"
+      ],
+      "Regions": [
+        "TM"
+      ]
+    },
+    {
+      "Titles": [
+        "Loco-motion"
+      ],
+      "Sha1": "6913d4040687485672b03891151b0db9a6bfcd2b",
+      "Crc32": "ede5ed83",
+      "SetNames": {
+        "TOSEC": [
+          "Loco-motion (1991)(TM)"
+        ]
+      },
+      "Size": 8192,
+      "Publishers": [
+        "TM"
+      ],
+      "ReleaseDate": "1/1/1991",
+      "Regions": [
+        "TM"
+      ]
+    },
+    {
+      "Titles": [
+        "Pooyan"
+      ],
+      "Sha1": "40867a075d5d6c2bbcc293200af288b7494a41b5",
+      "Crc32": "96f805e4",
+      "SetNames": {
+        "TOSEC": [
+          "Pooyan (1991)(TM)"
+        ],
+        "TGDB": [
+          "40757"
+        ]
+      },
+      "OverviewId": 3,
+      "Size": 8192,
+      "Publishers": [
+        "TM",
+        "Tomy"
+      ],
+      "Developers": [
+        "Konami"
+      ],
+      "ReleaseDate": "1/1/1991",
+      "Genres": [
+        "Action"
+      ],
+      "Regions": [
+        "TM"
+      ]
+    },
+    {
+      "Titles": [
+        "Scramble"
+      ],
+      "Sha1": "cf025d180cec5bafbbae9623cd5b6177481478a9",
+      "Crc32": "3c23d24f",
+      "SetNames": {
+        "TOSEC": [
+          "Scramble (199x)(TM)"
+        ],
+        "TGDB": [
+          "40749"
+        ]
+      },
+      "OverviewId": 4,
+      "Size": 8192,
+      "Publishers": [
+        "TM",
+        "Tomy"
+      ],
+      "Developers": [
+        "Konami"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Genres": [
+        "Action"
+      ],
+      "Regions": [
+        "TM"
+      ]
+    },
+    {
+      "Titles": [
+        "Torpedo Terror"
+      ],
+      "Sha1": "d75bf8507e5ccc5fb42da149b0bed3a810415a4f",
+      "Crc32": "40f82fb3",
+      "SetNames": {
+        "TOSEC": [
+          "Torpedo Terror (1991)(TM)"
+        ]
+      },
+      "Size": 8192,
+      "Publishers": [
+        "TM"
+      ],
+      "ReleaseDate": "1/1/1991",
+      "Regions": [
+        "TM"
+      ]
+    },
+    {
+      "Titles": [
+        "Traffic Jam"
+      ],
+      "Sha1": "3d2fad00cd15ee8e72a005f41fc9f96e362324d2",
+      "Crc32": "81f529f9",
+      "SetNames": {
+        "TOSEC": [
+          "Traffic Jam (1991)(TM)"
+        ],
+        "TGDB": [
+          "40753"
+        ]
+      },
+      "OverviewId": 5,
+      "Size": 8192,
+      "Publishers": [
+        "TM",
+        "Tomy"
+      ],
+      "ReleaseDate": "1/1/1991",
+      "Genres": [
+        "Action"
+      ],
+      "Regions": [
+        "TM"
+      ]
+    }
+  ],
+  "Overviews": {
+    "1": {
+      "en": "Car-Azy Racer is a Miscellaneous game, developed by Wordwright and published by Tomy Corporation, which was released in 1983."
+    },
+    "2": {
+      "en": "Japanese Tomy Pyuuta title, part number 015E, released in 1983."
+    },
+    "3": {
+      "en": "Japanese Tomy Pyuuta title, part number 014E, released in 1983."
+    },
+    "4": {
+      "en": "Japanese Tomy Pyuuta title, part number 006E, released in 1982."
+    },
+    "5": {
+      "en": "Japanese Tomy Pyuuta title, part number 010E, released in 1982.  US version also named Traffic Jam."
+    }
+  }
+}

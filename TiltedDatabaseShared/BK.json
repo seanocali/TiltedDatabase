@@ -1,0 +1,140 @@
+{
+  "PlatformName": "BK",
+  "LastUpdate": "5/24/2022 2:35:07 AM",
+  "Games": [
+    {
+      "Titles": [
+        "Pigame"
+      ],
+      "Sha1": "e8b15a084089e9d9476450ba91e6b52f32b72761",
+      "Crc32": "47312fa6",
+      "Exe": "Pigamend.exe",
+      "SetNames": {
+        "TOSEC": [
+          "Pigame (1995)(-)"
+        ]
+      },
+      "Size": 19831,
+      "Publishers": [
+        "-"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Pigame"
+      ],
+      "Sha1": "9bdab811331fa1f25724763679c8de2be09f9852",
+      "Crc32": "d9cf6f7d",
+      "SetNames": {
+        "TOSEC": [
+          "Pigame (1995)(-)"
+        ]
+      },
+      "Size": 19831,
+      "Publishers": [
+        "-"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Pigame"
+      ],
+      "Sha1": "9747fb73fdd3653c88e1b8e7d0adb452f77e64df",
+      "Crc32": "632a7240",
+      "SetNames": {
+        "TOSEC": [
+          "Pigame (1995)(-)"
+        ]
+      },
+      "Size": 19831,
+      "Publishers": [
+        "-"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Rescue Ranger"
+      ],
+      "Sha1": "a280bed2bc99962f9810c6e113762a4342ca00db",
+      "Crc32": "a919cae1",
+      "SetNames": {
+        "TOSEC": [
+          "Rescue Ranger (1991)(Screw)"
+        ]
+      },
+      "Size": 35836,
+      "Publishers": [
+        "Screw"
+      ],
+      "ReleaseDate": "1/1/1991",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Rescue Ranger"
+      ],
+      "Sha1": "efa2ddefcb6446ff0ed93b382a1a3e8926115be1",
+      "Crc32": "5c743f2c",
+      "SetNames": {
+        "TOSEC": [
+          "Rescue Ranger (1991)(Screw)"
+        ]
+      },
+      "Size": 35836,
+      "Publishers": [
+        "Screw"
+      ],
+      "ReleaseDate": "1/1/1991",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "ZZZ-UNK-PJANIC"
+      ],
+      "Sha1": "0eb50d5579cc25d85922406575778287e337c23b",
+      "Crc32": "f094ab7d",
+      "SetNames": {
+        "TOSEC": [
+          "ZZZ-UNK-PJANIC"
+        ]
+      },
+      "Size": 8850,
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "ZZZ-UNK-PJANIC"
+      ],
+      "Sha1": "883b98222b126438399a859ec9625741e33af0a4",
+      "Crc32": "8624f8d2",
+      "SetNames": {
+        "TOSEC": [
+          "ZZZ-UNK-PJANIC"
+        ]
+      },
+      "Size": 8850,
+      "Languages": [
+        "en"
+      ]
+    }
+  ],
+  "Overviews": {}
+}

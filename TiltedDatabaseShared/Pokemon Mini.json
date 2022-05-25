@@ -1,0 +1,1565 @@
+{
+  "PlatformName": "Pokemon Mini",
+  "LastUpdate": "5/25/2022 3:06:09 AM",
+  "Games": [
+    {
+      "Titles": [
+        "[BIOS] Nintendo Pokemon Mini"
+      ],
+      "Sha1": "daad4113713ed776fbd47727762bca81ba74915f",
+      "Crc32": "aed3c14d",
+      "SetNames": {
+        "No-Intro": [
+          "[BIOS] Nintendo Pokemon Mini (World)"
+        ]
+      },
+      "Size": 4096,
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "BIOS"
+      ]
+    },
+    {
+      "Titles": [
+        "Lunch Time"
+      ],
+      "Sha1": "3511d1bf4a3570a4011ca9d7d9d77ea43cc7543d",
+      "Crc32": "05c5c126",
+      "SetNames": {
+        "No-Intro": [
+          "Lunch Time (USA) (GameCube)"
+        ],
+        "TOSEC": [
+          "Lunch Time (2003)(Nintendo)(US)[GameCube]"
+        ],
+        "MESS": [
+          "lunchtme"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Nintendo"
+      ],
+      "CloneOf": "snorlax",
+      "ReleaseDate": "1/1/2003",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Pichu Bros. Mini",
+        "Pichu Bros. Mini - Skateboard"
+      ],
+      "Sha1": "6f9bded4842b451102083d181db9deac2a7696e4",
+      "Crc32": "00d8c968",
+      "SetNames": {
+        "No-Intro": [
+          "Pichu Bros. Mini (Japan)"
+        ],
+        "TOSEC": [
+          "Pichu Bros. Mini (2002)(Nintendo)(JP)"
+        ],
+        "MESS": [
+          "pichubro"
+        ],
+        "TGDB": [
+          "37725"
+        ]
+      },
+      "OverviewId": 1,
+      "Size": 524288,
+      "Publishers": [
+        "Nintendo"
+      ],
+      "Developers": [
+        "Denyu-Sha"
+      ],
+      "ReleaseDate": "8/9/2002",
+      "Genres": [
+        "Sports"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Pichu Bros. Mini - Hoppip's Jump Match"
+      ],
+      "Sha1": "1c928c1e989f37751536494e1e843ed01c7f2c93",
+      "Crc32": "be22866a",
+      "SetNames": {
+        "No-Intro": [
+          "Pichu Bros. Mini - Hoppip's Jump Match (Japan) (Preview)"
+        ],
+        "TOSEC": [
+          "Pichu Bros. Mini - Hoppip's Jump Match (2002)(Nintendo)(JP)[preview]"
+        ],
+        "MESS": [
+          "pichuhop"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Nintendo"
+      ],
+      "ReleaseDate": "1/1/2002",
+      "Regions": [
+        "JP"
+      ],
+      "Tags": [
+        "preview"
+      ]
+    },
+    {
+      "Titles": [
+        "Pichu Bros. Mini - Netsukikyuu"
+      ],
+      "Sha1": "041b6bea48d316eb63efcf930a9bda0dd3bd6618",
+      "Crc32": "a22d00a7",
+      "SetNames": {
+        "No-Intro": [
+          "Pichu Bros. Mini - Netsukikyuu (Japan) (Preview)"
+        ],
+        "TOSEC": [
+          "Pichu Bros. Mini - Netsukikyuu (2002)(Nintendo)(JP)[preview]"
+        ],
+        "MESS": [
+          "pichunts"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Nintendo"
+      ],
+      "ReleaseDate": "1/1/2002",
+      "Regions": [
+        "JP"
+      ],
+      "Tags": [
+        "preview"
+      ]
+    },
+    {
+      "Titles": [
+        "Pichu Bros. Mini - Skateboard",
+        "Pichu Bros. Mini"
+      ],
+      "Sha1": "b36ed9e3c86d37b128bcefbeb6088c4c66f11c52",
+      "Crc32": "dec65262",
+      "SetNames": {
+        "No-Intro": [
+          "Pichu Bros. Mini - Skateboard (Japan) (Preview)"
+        ],
+        "TOSEC": [
+          "Pichu Bros. Mini - Skateboard (2002)(Nintendo)(JP)[preview]"
+        ],
+        "MESS": [
+          "pichuskt"
+        ],
+        "TGDB": [
+          "37725"
+        ]
+      },
+      "OverviewId": 1,
+      "Size": 524288,
+      "Publishers": [
+        "Nintendo"
+      ],
+      "Developers": [
+        "Denyu-Sha"
+      ],
+      "ReleaseDate": "8/9/2002",
+      "Genres": [
+        "Sports"
+      ],
+      "Regions": [
+        "JP"
+      ],
+      "Tags": [
+        "preview"
+      ]
+    },
+    {
+      "Titles": [
+        "Pokemon Anime Card Daisakusen",
+        "Pokémon Anime Card Daisakusen"
+      ],
+      "Sha1": "2c3aee0d0db8b4a80083732b8db07b0cc72608a8",
+      "Crc32": "199d7ab1",
+      "SetNames": {
+        "No-Intro": [
+          "Pokemon Anime Card Daisakusen (Japan)"
+        ],
+        "TOSEC": [
+          "Pokemon Anime Card Daisakusen (2001)(Nintendo)(JP)"
+        ],
+        "MESS": [
+          "pokeacrd"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Nintendo"
+      ],
+      "CloneOf": "pokezcrd",
+      "ReleaseDate": "1/1/2001",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Pokemon Party Mini",
+        "Pokémon Party Mini"
+      ],
+      "Sha1": "58c3210187497cffe989debcc095cb99c465e970",
+      "Crc32": "54acb670",
+      "SetNames": {
+        "No-Intro": [
+          "Pokemon Party Mini (Europe)"
+        ],
+        "TOSEC": [
+          "Pokemon Party Mini (2001)(Nintendo)(EU)"
+        ],
+        "MESS": [
+          "pparty"
+        ],
+        "TGDB": [
+          "37718"
+        ]
+      },
+      "OverviewId": 2,
+      "Size": 524288,
+      "Publishers": [
+        "Nintendo"
+      ],
+      "Developers": [
+        "Denyu-Sha"
+      ],
+      "ReleaseDate": "11/16/2001",
+      "Regions": [
+        "EU"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Pokemon Party Mini",
+        "Pokémon Party Mini"
+      ],
+      "Sha1": "4db4568b990077c21320b50dee6a3ceb258809db",
+      "Crc32": "ae2dde60",
+      "SetNames": {
+        "No-Intro": [
+          "Pokemon Party Mini (Japan)"
+        ],
+        "TOSEC": [
+          "Pokemon Party Mini (2001)(Nintendo)(JP)"
+        ],
+        "MESS": [
+          "ppartyj"
+        ],
+        "TGDB": [
+          "37718"
+        ]
+      },
+      "OverviewId": 2,
+      "Size": 524288,
+      "Publishers": [
+        "Nintendo"
+      ],
+      "Developers": [
+        "Denyu-Sha"
+      ],
+      "CloneOf": "pparty",
+      "ReleaseDate": "11/16/2001",
+      "Regions": [
+        "JP"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Pokemon Party Mini",
+        "Pokémon Party Mini"
+      ],
+      "Sha1": "ac94ed80d6f857e9530d17cc77c43aa809bf0415",
+      "Crc32": "938d3819",
+      "SetNames": {
+        "No-Intro": [
+          "Pokemon Party Mini (USA)"
+        ],
+        "TOSEC": [
+          "Pokemon Party Mini (2001)(Nintendo)(US)"
+        ],
+        "MESS": [
+          "ppartyu"
+        ],
+        "TGDB": [
+          "37718"
+        ]
+      },
+      "OverviewId": 2,
+      "Size": 524288,
+      "Publishers": [
+        "Nintendo"
+      ],
+      "Developers": [
+        "Denyu-Sha"
+      ],
+      "CloneOf": "pparty",
+      "ReleaseDate": "11/16/2001",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Pokemon Party Mini - Baseline Judge",
+        "Pokémon Party Mini - Baseline Judge"
+      ],
+      "Sha1": "20004ffc01eeb04e72402e70fc97170111aafa6a",
+      "Crc32": "0cfb4d1c",
+      "SetNames": {
+        "No-Intro": [
+          "Pokemon Party Mini - Baseline Judge (USA) (GameCube)"
+        ],
+        "TOSEC": [
+          "Pokemon Party Mini - Baseline Judge (2001)(Nintendo)(US)[GameCube]"
+        ],
+        "MESS": [
+          "pptbaseju"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Nintendo"
+      ],
+      "CloneOf": "pptbasej",
+      "ReleaseDate": "1/1/2001",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Pokemon Party Mini - Baseline Judge",
+        "Pokémon Party Mini - Baseline Judge"
+      ],
+      "Sha1": "bdad2fc86506f18c16d2bd249cc1ad4ebf6113dd",
+      "Crc32": "f5192440",
+      "SetNames": {
+        "No-Intro": [
+          "Pokemon Party Mini - Baseline Judge (Japan) (GameCube)"
+        ],
+        "TOSEC": [
+          "Pokemon Party Mini - Baseline Judge (2001)(Nintendo)(JP)[GameCube]"
+        ],
+        "MESS": [
+          "pptbasejj"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Nintendo"
+      ],
+      "CloneOf": "pptbasej",
+      "ReleaseDate": "1/1/2001",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Pokemon Party Mini - Baseline Judge",
+        "Pokémon Party Mini - Baseline Judge"
+      ],
+      "Sha1": "a309e00b2a8d7290070f27ec2fe10cfaba048283",
+      "Crc32": "0e1e150b",
+      "SetNames": {
+        "No-Intro": [
+          "Pokemon Party Mini - Baseline Judge (Europe) (GameCube)"
+        ],
+        "TOSEC": [
+          "Pokemon Party Mini - Baseline Judge (2001)(Nintendo)(EU)[GameCube]"
+        ],
+        "MESS": [
+          "pptbasej"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Nintendo"
+      ],
+      "ReleaseDate": "1/1/2001",
+      "Regions": [
+        "EU"
+      ]
+    },
+    {
+      "Titles": [
+        "Pokemon Party Mini - Chansey's Dribble",
+        "Pokémon Party Mini - Chansey's Dribble"
+      ],
+      "Sha1": "c9a5f335c93e9bacf198b976d430cf798bc517bc",
+      "Crc32": "ba504497",
+      "SetNames": {
+        "No-Intro": [
+          "Pokemon Party Mini - Chansey's Dribble (Europe) (GameCube)"
+        ],
+        "TOSEC": [
+          "Pokemon Party Mini - Chansey's Dribble (2001)(Nintendo)(EU)[GameCube]"
+        ],
+        "MESS": [
+          "pptdribl"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Nintendo"
+      ],
+      "ReleaseDate": "1/1/2001",
+      "Regions": [
+        "EU"
+      ]
+    },
+    {
+      "Titles": [
+        "Pokemon Party Mini - Pikachu's Rocket Start",
+        "Pokémon Party Mini - Pikachu's Rocket Start"
+      ],
+      "Sha1": "b1922f3d43f3a4e36876c3e0e8428809fd999efc",
+      "Crc32": "f15964af",
+      "SetNames": {
+        "No-Intro": [
+          "Pokemon Party Mini - Pikachu's Rocket Start (Europe) (GameCube)"
+        ],
+        "TOSEC": [
+          "Pokemon Party Mini - Pikachu's Rocket Start (2001)(Nintendo)(EU)[GameCube]"
+        ],
+        "MESS": [
+          "pptrocks"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Nintendo"
+      ],
+      "ReleaseDate": "1/1/2001",
+      "Regions": [
+        "EU"
+      ]
+    },
+    {
+      "Titles": [
+        "Pokemon Party Mini - Ricochet Dribble",
+        "Pokémon Party Mini - Ricochet Dribble"
+      ],
+      "Sha1": "ba1db1745933a941479d885fe0d1b52365b7f817",
+      "Crc32": "3322ed38",
+      "SetNames": {
+        "No-Intro": [
+          "Pokemon Party Mini - Ricochet Dribble (USA) (GameCube)"
+        ],
+        "TOSEC": [
+          "Pokemon Party Mini - Ricochet Dribble (2001)(Nintendo)(US)[GameCube]"
+        ],
+        "MESS": [
+          "pptdriblu"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Nintendo"
+      ],
+      "CloneOf": "pptdribl",
+      "ReleaseDate": "1/1/2001",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Pokemon Party Mini - Ricochet Dribble",
+        "Pokémon Party Mini - Ricochet Dribble"
+      ],
+      "Sha1": "88b60902f9cf779ebcba1caee7c8477fc2e22598",
+      "Crc32": "d09db45c",
+      "SetNames": {
+        "No-Intro": [
+          "Pokemon Party Mini - Ricochet Dribble (Japan) (GameCube)"
+        ],
+        "TOSEC": [
+          "Pokemon Party Mini - Ricochet Dribble (2001)(Nintendo)(JP)[GameCube]"
+        ],
+        "MESS": [
+          "pptdriblj"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Nintendo"
+      ],
+      "CloneOf": "pptdribl",
+      "ReleaseDate": "1/1/2001",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Pokemon Party Mini - Rocket Start",
+        "Pokémon Party Mini - Rocket Start"
+      ],
+      "Sha1": "840d43fe55e8e056940ff0b7bc6d7e4e11b5e047",
+      "Crc32": "44c5271e",
+      "SetNames": {
+        "No-Intro": [
+          "Pokemon Party Mini - Rocket Start (USA) (GameCube)"
+        ],
+        "TOSEC": [
+          "Pokemon Party Mini - Rocket Start (2001)(Nintendo)(US)[GameCube]"
+        ],
+        "MESS": [
+          "pptrocksu"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Nintendo"
+      ],
+      "CloneOf": "pptrocks",
+      "ReleaseDate": "1/1/2001",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Pokemon Party Mini - Slowking's Judge",
+        "Pokémon Party Mini - Slowking's Judge"
+      ],
+      "Sha1": "e3bd506b97ea94e9291c2fa4e1395e1829bafeaf",
+      "Crc32": "9fd4d48b",
+      "SetNames": {
+        "No-Intro": [
+          "Pokemon Party Mini - Slowking's Judge (Europe) (GameCube)"
+        ],
+        "TOSEC": [
+          "Pokemon Party Mini - Slowking's Judge (2001)(Nintendo)(EU)[GameCube]"
+        ],
+        "MESS": [
+          "pptslowj"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Nintendo"
+      ],
+      "CloneOf": "pptbasej",
+      "ReleaseDate": "1/1/2001",
+      "Regions": [
+        "EU"
+      ]
+    },
+    {
+      "Titles": [
+        "Pokemon Pinball Mini",
+        "Pokémon Pinball Mini"
+      ],
+      "Sha1": "3ec1e04de413c22e9034074789ff2c45646ec0ac",
+      "Crc32": "a0091534",
+      "SetNames": {
+        "No-Intro": [
+          "Pokemon Pinball Mini (USA, Europe)"
+        ],
+        "TOSEC": [
+          "Pokemon Pinball Mini (2001)(Nintendo)(AU-EU-US)"
+        ],
+        "MESS": [
+          "ppinb"
+        ],
+        "TGDB": [
+          "37723"
+        ]
+      },
+      "OverviewId": 3,
+      "Size": 524288,
+      "Publishers": [
+        "Nintendo"
+      ],
+      "Developers": [
+        "Jupiter Corporation"
+      ],
+      "ReleaseDate": "11/16/2001",
+      "Genres": [
+        "Puzzle"
+      ],
+      "Regions": [
+        "US",
+        "EU",
+        "AU"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Pokemon Pinball Mini",
+        "Pokémon Pinball Mini"
+      ],
+      "Sha1": "a4209afea584757055aa6d4a77e58f943d2d6c6d",
+      "Crc32": "88ca8cc5",
+      "SetNames": {
+        "No-Intro": [
+          "Pokemon Pinball Mini (Japan) (Preview)"
+        ],
+        "TOSEC": [
+          "Pokemon Pinball Mini (2001)(Nintendo)(JP)[preview]"
+        ],
+        "MESS": [
+          "ppinbjp"
+        ],
+        "TGDB": [
+          "37723"
+        ]
+      },
+      "OverviewId": 3,
+      "Size": 524288,
+      "Publishers": [
+        "Nintendo"
+      ],
+      "Developers": [
+        "Jupiter Corporation"
+      ],
+      "CloneOf": "ppinb",
+      "ReleaseDate": "11/16/2001",
+      "Genres": [
+        "Puzzle"
+      ],
+      "Regions": [
+        "JP"
+      ],
+      "Tags": [
+        "preview"
+      ]
+    },
+    {
+      "Titles": [
+        "Pokemon Pinball Mini",
+        "Pokémon Pinball Mini"
+      ],
+      "Sha1": "57c78731f17f29d9cddfc7e21b4d8801e8569ca6",
+      "Crc32": "398d47de",
+      "SetNames": {
+        "No-Intro": [
+          "Pokemon Pinball Mini (Japan)"
+        ],
+        "TOSEC": [
+          "Pokemon Pinball Mini (2001)(Nintendo)(JP)"
+        ],
+        "MESS": [
+          "ppinbj"
+        ],
+        "TGDB": [
+          "37723"
+        ]
+      },
+      "OverviewId": 3,
+      "Size": 524288,
+      "Publishers": [
+        "Nintendo"
+      ],
+      "Developers": [
+        "Jupiter Corporation"
+      ],
+      "CloneOf": "ppinb",
+      "ReleaseDate": "11/16/2001",
+      "Genres": [
+        "Puzzle"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Pokemon Pinball Mini",
+        "Pokémon Pinball Mini"
+      ],
+      "Sha1": "6704e372e20f137a4b46e2ab2d5c1231900ce1d3",
+      "Crc32": "50ad9d57",
+      "SetNames": {
+        "No-Intro": [
+          "Pokemon Pinball Mini (USA) (GameCube Preview)"
+        ],
+        "TOSEC": [
+          "Pokemon Pinball Mini (2001)(Nintendo)(US)[GameCube][preview]"
+        ],
+        "MESS": [
+          "ppinbp"
+        ],
+        "TGDB": [
+          "37723"
+        ]
+      },
+      "OverviewId": 3,
+      "Size": 524288,
+      "Publishers": [
+        "Nintendo"
+      ],
+      "Developers": [
+        "Jupiter Corporation"
+      ],
+      "CloneOf": "ppinb",
+      "ReleaseDate": "11/16/2001",
+      "Genres": [
+        "Puzzle"
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Pokemon Puzzle Collection",
+        "Pokémon Puzzle Collection"
+      ],
+      "Sha1": "d748f54bb50622858ae65cba74ba0cc82415fcbc",
+      "Crc32": "7776f2bb",
+      "SetNames": {
+        "No-Intro": [
+          "Pokemon Puzzle Collection (France) (GameCube Preview)"
+        ],
+        "TOSEC": [
+          "Pokemon Puzzle Collection (2001)(Nintendo)(FR)[GameCube][preview]"
+        ],
+        "MESS": [
+          "ppuzzlcfp"
+        ],
+        "TGDB": [
+          "37719"
+        ]
+      },
+      "OverviewId": 4,
+      "Size": 524288,
+      "Publishers": [
+        "Nintendo"
+      ],
+      "Developers": [
+        "Jupiter Corporation"
+      ],
+      "CloneOf": "ppuzzlc",
+      "ReleaseDate": "11/16/2001",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Pokemon Puzzle Collection",
+        "Pokémon Puzzle Collection"
+      ],
+      "Sha1": "7c83682f595dc6eafc9c438d92eba7920ff3b2ca",
+      "Crc32": "22101046",
+      "SetNames": {
+        "No-Intro": [
+          "Pokemon Puzzle Collection (Germany)"
+        ],
+        "TOSEC": [
+          "Pokemon Puzzle Collection (2001)(Nintendo)(DE)"
+        ],
+        "MESS": [
+          "ppuzzlcg"
+        ],
+        "TGDB": [
+          "37719"
+        ]
+      },
+      "OverviewId": 4,
+      "Size": 524288,
+      "Publishers": [
+        "Nintendo"
+      ],
+      "Developers": [
+        "Jupiter Corporation"
+      ],
+      "CloneOf": "ppuzzlc",
+      "ReleaseDate": "11/16/2001",
+      "Regions": [
+        "DE"
+      ],
+      "Languages": [
+        "de",
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Pokemon Puzzle Collection",
+        "Pokémon Puzzle Collection"
+      ],
+      "Sha1": "9c5fa07cc9f93874b297f759a6c6fd98f6ec6f47",
+      "Crc32": "2b348340",
+      "SetNames": {
+        "No-Intro": [
+          "Pokemon Puzzle Collection (USA, Europe)"
+        ],
+        "TOSEC": [
+          "Pokemon Puzzle Collection (2001)(Nintendo)(AU-EU-US)"
+        ],
+        "MESS": [
+          "ppuzzlc"
+        ],
+        "TGDB": [
+          "37719"
+        ]
+      },
+      "OverviewId": 4,
+      "Size": 524288,
+      "Publishers": [
+        "Nintendo"
+      ],
+      "Developers": [
+        "Jupiter Corporation"
+      ],
+      "ReleaseDate": "11/16/2001",
+      "Regions": [
+        "US",
+        "EU",
+        "AU"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Pokemon Puzzle Collection",
+        "Pokémon Puzzle Collection"
+      ],
+      "Sha1": "2da4d24ed3192a88ab0b71ade7aec387987c5000",
+      "Crc32": "95afae59",
+      "SetNames": {
+        "No-Intro": [
+          "Pokemon Puzzle Collection (Japan)"
+        ],
+        "TOSEC": [
+          "Pokemon Puzzle Collection (2001)(Nintendo)(JP)"
+        ],
+        "MESS": [
+          "ppuzzlcj"
+        ],
+        "TGDB": [
+          "37719"
+        ]
+      },
+      "OverviewId": 4,
+      "Size": 524288,
+      "Publishers": [
+        "Nintendo"
+      ],
+      "Developers": [
+        "Jupiter Corporation"
+      ],
+      "CloneOf": "ppuzzlc",
+      "ReleaseDate": "11/16/2001",
+      "Regions": [
+        "JP"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Pokemon Puzzle Collection",
+        "Pokémon Puzzle Collection"
+      ],
+      "Sha1": "1ce915f0c03bc0ec2e505669336e6b6965f7476c",
+      "Crc32": "da278854",
+      "SetNames": {
+        "No-Intro": [
+          "Pokemon Puzzle Collection (Japan) (GameCube)"
+        ],
+        "TOSEC": [
+          "Pokemon Puzzle Collection (2001)(Nintendo)(JP)[GameCube]"
+        ],
+        "MESS": [
+          "ppuzzlcj1"
+        ],
+        "TGDB": [
+          "37719"
+        ]
+      },
+      "OverviewId": 4,
+      "Size": 524288,
+      "Publishers": [
+        "Nintendo"
+      ],
+      "Developers": [
+        "Jupiter Corporation"
+      ],
+      "CloneOf": "ppuzzlc",
+      "ReleaseDate": "11/16/2001",
+      "Regions": [
+        "JP"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Pokemon Puzzle Collection",
+        "Pokémon Puzzle Collection"
+      ],
+      "Sha1": "7dc61e11b482b873d58657c827e3b166b3882db2",
+      "Crc32": "0e7752e8",
+      "SetNames": {
+        "No-Intro": [
+          "Pokemon Puzzle Collection (Germany) (GameCube Preview)"
+        ],
+        "TOSEC": [
+          "Pokemon Puzzle Collection (2001)(Nintendo)(DE)[GameCube][preview]"
+        ],
+        "MESS": [
+          "ppuzzlcgp"
+        ],
+        "TGDB": [
+          "37719"
+        ]
+      },
+      "OverviewId": 4,
+      "Size": 524288,
+      "Publishers": [
+        "Nintendo"
+      ],
+      "Developers": [
+        "Jupiter Corporation"
+      ],
+      "CloneOf": "ppuzzlc",
+      "ReleaseDate": "11/16/2001",
+      "Regions": [
+        "DE"
+      ],
+      "Languages": [
+        "de",
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Pokemon Puzzle Collection",
+        "Pokémon Puzzle Collection"
+      ],
+      "Sha1": "5a2927770c1e2c7df3f8cc80c9252bb1111ca3a6",
+      "Crc32": "3004c354",
+      "SetNames": {
+        "No-Intro": [
+          "Pokemon Puzzle Collection (France)"
+        ],
+        "TOSEC": [
+          "Pokemon Puzzle Collection (2001)(Nintendo)(FR)"
+        ],
+        "MESS": [
+          "ppuzzlcf"
+        ],
+        "TGDB": [
+          "37719"
+        ]
+      },
+      "OverviewId": 4,
+      "Size": 524288,
+      "Publishers": [
+        "Nintendo"
+      ],
+      "Developers": [
+        "Jupiter Corporation"
+      ],
+      "CloneOf": "ppuzzlc",
+      "ReleaseDate": "11/16/2001",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Pokemon Puzzle Collection",
+        "Pokémon Puzzle Collection"
+      ],
+      "Sha1": "048bb1d30d6ff21be14dd123c52a375e12611238",
+      "Crc32": "6f8ae656",
+      "SetNames": {
+        "No-Intro": [
+          "Pokemon Puzzle Collection (USA) (GameCube Preview)"
+        ],
+        "TOSEC": [
+          "Pokemon Puzzle Collection (2001)(Nintendo)(US)[GameCube][preview]"
+        ],
+        "MESS": [
+          "ppuzzlcp"
+        ],
+        "TGDB": [
+          "37719"
+        ]
+      },
+      "OverviewId": 4,
+      "Size": 524288,
+      "Publishers": [
+        "Nintendo"
+      ],
+      "Developers": [
+        "Jupiter Corporation"
+      ],
+      "CloneOf": "ppuzzlc",
+      "ReleaseDate": "11/16/2001",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Pokemon Puzzle Collection Vol. 2",
+        "Pokémon Puzzle Collection Vol. 2"
+      ],
+      "Sha1": "11775bbac2e985ef90d4192ed6322dd3b8352ac9",
+      "Crc32": "76a1bbf8",
+      "SetNames": {
+        "No-Intro": [
+          "Pokemon Puzzle Collection Vol. 2 (Japan)"
+        ],
+        "TOSEC": [
+          "Pokemon Puzzle Collection Vol. 2 (2002)(Nintendo)(JP)"
+        ],
+        "MESS": [
+          "ppuzzlc2"
+        ],
+        "TGDB": [
+          "37733"
+        ]
+      },
+      "OverviewId": 5,
+      "Size": 524288,
+      "Publishers": [
+        "Nintendo"
+      ],
+      "Developers": [
+        "Jupiter Corporation"
+      ],
+      "ReleaseDate": "4/26/2002",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Pokemon Race Mini",
+        "Pokémon Race Mini"
+      ],
+      "Sha1": "12bfbd2c8a810b49338148feb6162e29a540ac3a",
+      "Crc32": "f8c842b5",
+      "SetNames": {
+        "No-Intro": [
+          "Pokemon Race Mini (Japan)"
+        ],
+        "TOSEC": [
+          "Pokemon Race Mini (2002)(Nintendo)(JP)"
+        ],
+        "MESS": [
+          "pokerace"
+        ],
+        "TGDB": [
+          "37721"
+        ]
+      },
+      "OverviewId": 6,
+      "Size": 524288,
+      "Publishers": [
+        "Nintendo"
+      ],
+      "Developers": [
+        "Jupiter Corporation"
+      ],
+      "ReleaseDate": "7/19/2002",
+      "Regions": [
+        "JP"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Pokemon Race Mini",
+        "Pokémon Race Mini"
+      ],
+      "Sha1": "6b8dbaa68ede37e64a22ee4b1cbb722f038cf5b5",
+      "Crc32": "8f731830",
+      "SetNames": {
+        "No-Intro": [
+          "Pokemon Race Mini (Japan) (Preview)"
+        ],
+        "TOSEC": [
+          "Pokemon Race Mini (2002)(Nintendo)(JP)[preview]"
+        ],
+        "MESS": [
+          "pokeracep"
+        ],
+        "TGDB": [
+          "37721"
+        ]
+      },
+      "OverviewId": 6,
+      "Size": 524288,
+      "Publishers": [
+        "Nintendo"
+      ],
+      "Developers": [
+        "Jupiter Corporation"
+      ],
+      "CloneOf": "pokerace",
+      "ReleaseDate": "7/19/2002",
+      "Regions": [
+        "JP"
+      ],
+      "Tags": [
+        "preview"
+      ]
+    },
+    {
+      "Titles": [
+        "Pokemon Shock Tetris",
+        "Pokémon Shock Tetris"
+      ],
+      "Sha1": "e81c3576b0c96e6ca28b958f8dda11cea5fce078",
+      "Crc32": "b4b5cc20",
+      "SetNames": {
+        "No-Intro": [
+          "Pokemon Shock Tetris (Japan)"
+        ],
+        "TOSEC": [
+          "Pokemon Shock Tetris (2002)(Nintendo)(JP)"
+        ],
+        "MESS": [
+          "ptetrisj"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Nintendo"
+      ],
+      "CloneOf": "ptetris",
+      "ReleaseDate": "1/1/2002",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Pokemon Sodateyasan Mini",
+        "Pokémon Sodateyasan Mini"
+      ],
+      "Sha1": "3b87d4d61ba3db92190b6ffa055f463adea2363c",
+      "Crc32": "d55fc4c8",
+      "SetNames": {
+        "No-Intro": [
+          "Pokemon Sodateyasan Mini (Japan)"
+        ],
+        "TOSEC": [
+          "Pokemon Sodateyasan Mini (2002)(Nintendo)(JP)"
+        ],
+        "MESS": [
+          "pokesoda"
+        ]
+      },
+      "Size": 524288,
+      "Publishers": [
+        "Nintendo"
+      ],
+      "ReleaseDate": "1/1/2002",
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Pokemon Tetris",
+        "Pokémon Tetris"
+      ],
+      "Sha1": "5fd1198a4725e21629edd4869535b70edfe165d4",
+      "Crc32": "2fb23527",
+      "SetNames": {
+        "No-Intro": [
+          "Pokemon Tetris (Europe) (En,Ja,Fr)"
+        ],
+        "TOSEC": [
+          "Pokemon Tetris (2002)(Nintendo)(EU)(M3)"
+        ],
+        "MESS": [
+          "ptetris"
+        ],
+        "TGDB": [
+          "37722"
+        ]
+      },
+      "OverviewId": 7,
+      "Size": 524288,
+      "Publishers": [
+        "Nintendo"
+      ],
+      "Developers": [
+        "Nintendo"
+      ],
+      "ReleaseDate": "3/21/2002",
+      "Genres": [
+        "Puzzle"
+      ],
+      "Regions": [
+        "EU"
+      ],
+      "Languages": [
+        "en",
+        "ja",
+        "fr"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Pokemon Zany Cards",
+        "Pokémon Zany Cards"
+      ],
+      "Sha1": "f34909ed7d1c1d432819ff774c0767ebfa42fb84",
+      "Crc32": "8a2fc063",
+      "SetNames": {
+        "No-Intro": [
+          "Pokemon Zany Cards (USA, Europe)"
+        ],
+        "TOSEC": [
+          "Pokemon Zany Cards (2001)(Nintendo)(AU-EU-US)"
+        ],
+        "MESS": [
+          "pokezcrd"
+        ],
+        "TGDB": [
+          "37724"
+        ]
+      },
+      "OverviewId": 8,
+      "Size": 524288,
+      "Publishers": [
+        "Nintendo"
+      ],
+      "Developers": [
+        "Denyu-Sha"
+      ],
+      "ReleaseDate": "11/16/2001",
+      "Regions": [
+        "US",
+        "EU",
+        "AU"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Pokemon Zany Cards",
+        "Pokémon Zany Cards"
+      ],
+      "Sha1": "7a8b3f6a3751cd39431d822fa3a8016ffd2d26d8",
+      "Crc32": "830da957",
+      "SetNames": {
+        "No-Intro": [
+          "Pokemon Zany Cards (France)"
+        ],
+        "TOSEC": [
+          "Pokemon Zany Cards (2001)(Nintendo)(FR)"
+        ],
+        "MESS": [
+          "pokezcrdf"
+        ],
+        "TGDB": [
+          "37724"
+        ]
+      },
+      "OverviewId": 8,
+      "Size": 524288,
+      "Publishers": [
+        "Nintendo"
+      ],
+      "Developers": [
+        "Denyu-Sha"
+      ],
+      "CloneOf": "pokezcrd",
+      "ReleaseDate": "11/16/2001",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Pokemon Zany Cards",
+        "Pokémon Zany Cards"
+      ],
+      "Sha1": "0922e0147ff097e56d5ec98bf66ef050539329fa",
+      "Crc32": "c009d501",
+      "SetNames": {
+        "No-Intro": [
+          "Pokemon Zany Cards (Germany)"
+        ],
+        "TOSEC": [
+          "Pokemon Zany Cards (2001)(Nintendo)(DE)"
+        ],
+        "MESS": [
+          "pokezcrdg"
+        ],
+        "TGDB": [
+          "37724"
+        ]
+      },
+      "OverviewId": 8,
+      "Size": 524288,
+      "Publishers": [
+        "Nintendo"
+      ],
+      "Developers": [
+        "Denyu-Sha"
+      ],
+      "CloneOf": "pokezcrd",
+      "ReleaseDate": "11/16/2001",
+      "Regions": [
+        "DE"
+      ],
+      "Languages": [
+        "de",
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Snorlax's Lunch Time",
+        "Snorlax's Lunchtime カビゴンのランチタイム"
+      ],
+      "Sha1": "22cc052d900909a9032b7c84a0c7ab7c366a4a57",
+      "Crc32": "b9324f30",
+      "SetNames": {
+        "No-Intro": [
+          "Snorlax's Lunch Time (Europe) (GameCube)"
+        ],
+        "TOSEC": [
+          "Snorlax's Lunch Time (2003)(Nintendo)(EU)[GameCube]"
+        ],
+        "MESS": [
+          "snorlax"
+        ],
+        "TGDB": [
+          "54646"
+        ]
+      },
+      "OverviewId": 9,
+      "Size": 524288,
+      "Publishers": [
+        "Nintendo"
+      ],
+      "Developers": [
+        "Ambrella"
+      ],
+      "ReleaseDate": "12/1/2003",
+      "Genres": [
+        "Role-Playing"
+      ],
+      "Regions": [
+        "EU"
+      ]
+    },
+    {
+      "Titles": [
+        "Snorlax's Lunch Time",
+        "Snorlax's Lunchtime カビゴンのランチタイム"
+      ],
+      "Sha1": "a332feeca96c2b4cad2e1abd2d9b289804101a4a",
+      "Crc32": "0186ea70",
+      "SetNames": {
+        "No-Intro": [
+          "Snorlax's Lunch Time (Japan) (GameCube)"
+        ],
+        "TOSEC": [
+          "Snorlax's Lunch Time (2003)(Nintendo)(JP)[GameCube]"
+        ],
+        "MESS": [
+          "snorlaxj"
+        ],
+        "TGDB": [
+          "54646"
+        ]
+      },
+      "OverviewId": 9,
+      "Size": 524288,
+      "Publishers": [
+        "Nintendo"
+      ],
+      "Developers": [
+        "Ambrella"
+      ],
+      "CloneOf": "snorlax",
+      "ReleaseDate": "12/1/2003",
+      "Genres": [
+        "Role-Playing"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Togepi no Daibouken",
+        "Togepī no Daibōken",
+        "Togepi's Great Adventure"
+      ],
+      "Sha1": "db7d8209594c6e8edee5932f799f36ecf1cfac9f",
+      "Crc32": "8c557c89",
+      "SetNames": {
+        "No-Intro": [
+          "Togepi no Daibouken (Japan) (Preview)"
+        ],
+        "TOSEC": [
+          "Togepi no Daibouken (2002)(Nintendo)(JP)[preview]"
+        ],
+        "MESS": [
+          "togepip"
+        ],
+        "TGDB": [
+          "55399"
+        ]
+      },
+      "OverviewId": 10,
+      "Size": 524288,
+      "Publishers": [
+        "Nintendo"
+      ],
+      "Developers": [
+        "Nintendo"
+      ],
+      "CloneOf": "togepi",
+      "ReleaseDate": "10/18/2002",
+      "Regions": [
+        "JP"
+      ],
+      "Tags": [
+        "preview"
+      ]
+    },
+    {
+      "Titles": [
+        "Togepi no Daibouken",
+        "Togepī no Daibōken",
+        "Togepi's Great Adventure"
+      ],
+      "Sha1": "0f56e0a3e72180b1113b900a6d3e4f8e8f570bb3",
+      "Crc32": "33b3492b",
+      "SetNames": {
+        "No-Intro": [
+          "Togepi no Daibouken (Japan)"
+        ],
+        "TOSEC": [
+          "Togepi no Daibouken (2002)(Nintendo)(JP)"
+        ],
+        "MESS": [
+          "togepi"
+        ],
+        "TGDB": [
+          "55399"
+        ]
+      },
+      "OverviewId": 10,
+      "Size": 524288,
+      "Publishers": [
+        "Nintendo"
+      ],
+      "Developers": [
+        "Nintendo"
+      ],
+      "ReleaseDate": "10/18/2002",
+      "Regions": [
+        "JP"
+      ]
+    }
+  ],
+  "Overviews": {
+    "1": {
+      "en": "A collection of several mini-games, similar to Pokémon Party mini."
+    },
+    "2": {
+      "en": "A collection of several minigames, included with the Pokémon mini. The minigames include: Hitmonchan's Boxing, where you shake the system to 'punch'; Pikachu's Rocket Start, a game where you have to launch off a starting line before another Pokémon; Bellossom's Dance, a Dance Dance Revolution-like game; Chansey's Dribble, kick the ball to the finish line as quickly as possible; Slowking's Judge, predict if the tennis ball will land in or out of the court; Sneasel's Fakeout, a rock-paper-scissors-like game for two players; Battlefield, where two to six players battle for the highest score; and Celebi's Clock, which is essentially a clock with date, alarm and stopwatch function."
+    },
+    "3": {
+      "en": "A pinball style game with several levels where Diglett, Pikachu and other iconic Pokémon act as the 'bumping' mechanism."
+    },
+    "4": {
+      "en": "A collection of different puzzle-games such as: Shadow Puzzle, where different shapes are put together to make an image of a Pokémon; Motion Puzzle, a sliding game where an image of a Pokémon has to be unscrambled; Escape, where one has to move blocks to let a Pokémon out of a maze; and a bonus for completing most of your Minidex is the game Power On, a 'Pipe Dream'-like game where one has to connect a Pikachu to a light bulb, creating a circuit)."
+    },
+    "5": {
+      "en": "Similar to the first puzzle collection, but some games are different and there are 80 new puzzles. This was only released in Japan."
+    },
+    "6": {
+      "en": "The game is a platformer racing competition, where the player races a Pikachu against other Pokémon, much like Pokémon Dash."
+    },
+    "7": {
+      "en": "Perform Tetris combos to catch Pokémon and add them to your Mini-Dex. Shaking the Pokémon Mini flips the piece horizontally."
+    },
+    "8": {
+      "en": "A small collection of four card games featuring Pokémon-oriented cards."
+    },
+    "9": {
+      "en": "Snorlax's Lunchtime is a small bonus game that was available within the Gamecube title Pokémon Channel. In that game, when you find the Pokémon mini, you also get Snorlax's Lunchtime with it. This is a small mini-game, exclusive to Pokémon Channel, which can only be played here."
+    },
+    "10": {
+      "en": "Togepi no Daibouken is an action game for the Pokémon mini."
+    }
+  }
+}

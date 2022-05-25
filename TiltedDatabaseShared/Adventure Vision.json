@@ -1,0 +1,195 @@
+{
+  "PlatformName": "Adventure Vision",
+  "LastUpdate": "5/25/2022 2:32:57 AM",
+  "Games": [
+    {
+      "Titles": [
+        "[BIOS] Entex Adventure Vision"
+      ],
+      "Sha1": "bf7b0663e9125c9bfb950232eab627d9dbda8460",
+      "Crc32": "279e33d1",
+      "SetNames": {
+        "No-Intro": [
+          "[BIOS] Entex Adventure Vision (USA, Europe)"
+        ]
+      },
+      "Size": 1024,
+      "Regions": [
+        "US",
+        "EU"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "BIOS"
+      ]
+    },
+    {
+      "Titles": [
+        "Defender"
+      ],
+      "Sha1": "33e6bc08b3e8a951942e078102e90fbc8ba729a8",
+      "Crc32": "3e280096",
+      "SetNames": {
+        "No-Intro": [
+          "Defender (USA, Europe)"
+        ],
+        "TOSEC": [
+          "Defender (1982)(Entex Industries)[release number 6075]"
+        ],
+        "MESS": [
+          "defender"
+        ],
+        "TGDB": [
+          "97566"
+        ]
+      },
+      "OverviewId": 1,
+      "Size": 4096,
+      "Publishers": [
+        "Entex Industries"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Genres": [
+        "Action",
+        "Shooter"
+      ],
+      "Regions": [
+        "US",
+        "EU"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Space Force"
+      ],
+      "Sha1": "86c1a6eb8a5070f4be32bf4e83c0d5951e831d27",
+      "Crc32": "c70d4028",
+      "SetNames": {
+        "No-Intro": [
+          "Space Force (USA, Europe)"
+        ],
+        "TOSEC": [
+          "Space Force (1982)(Entex Industries)[release number 6078]"
+        ],
+        "MESS": [
+          "spacefrc"
+        ],
+        "TGDB": [
+          "50894"
+        ]
+      },
+      "OverviewId": 2,
+      "Size": 4096,
+      "Publishers": [
+        "Entex Industries"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "ESRB": "E",
+      "Genres": [
+        "Action",
+        "Shooter"
+      ],
+      "Regions": [
+        "US",
+        "EU"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Super Cobra"
+      ],
+      "Sha1": "fd059081d8d82f51dd1415cc3710f1fa5ebb1336",
+      "Crc32": "b6045c9e",
+      "SetNames": {
+        "No-Intro": [
+          "Super Cobra (USA, Europe)"
+        ],
+        "TOSEC": [
+          "Super Cobra (1982)(Entex Industries)[release number 6077]"
+        ],
+        "MESS": [
+          "scobra"
+        ],
+        "TGDB": [
+          "97564"
+        ]
+      },
+      "OverviewId": 3,
+      "Size": 4096,
+      "Publishers": [
+        "Entex Industries"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Genres": [
+        "Action",
+        "Shooter"
+      ],
+      "Regions": [
+        "US",
+        "EU"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Turtles"
+      ],
+      "Sha1": "88748cf4080646e0a2f115a7f6e6001916314816",
+      "Crc32": "33a23eba",
+      "SetNames": {
+        "No-Intro": [
+          "Turtles (USA, Europe)"
+        ],
+        "TOSEC": [
+          "Turtles (1982)(Entex Industries)[release number 6076]"
+        ],
+        "MESS": [
+          "turtles"
+        ],
+        "TGDB": [
+          "97565"
+        ]
+      },
+      "OverviewId": 4,
+      "Size": 4096,
+      "Publishers": [
+        "Entex Industries"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Genres": [
+        "Strategy"
+      ],
+      "Regions": [
+        "US",
+        "EU"
+      ],
+      "Languages": [
+        "en"
+      ]
+    }
+  ],
+  "Overviews": {
+    "1": {
+      "en": "Based on Williams Defender arcade game.  This is the pack-in cartridge that comes with the Adventure Vision system.  It was never sold separately."
+    },
+    "2": {
+      "en": "The Adventure Vision Space Force cartridge is based on the famous Venture Line arcade game and includes all the key features of its big brother. Your mission is to fly the mothership through wave after wave of meteor showers launched by the evil alliance power from the planets Zereal and Xenac. Your job is to blow all alien life forms and meteors to atoms with your phaser canon, but, you had better be quick in your ability to manuever and fire. So, plug your cartridge into Adventure Vision, grab the joystick and get ready for action."
+    },
+    "3": {
+      "en": "Based on the Konami arcade and includes all the key features and elements of its big brother.\r\nYou are the pilot and your chopper awaits full of fuel and armed with sidewinder missiles and bombs. Your mission is to fly your helicopter over 10 different terrains and get the booty at the secret enemy base. It may sound easy but watch out. There are enemy rockets, magnetic space mines, UFOs, and the most treacherous terrain an Ace pilot like you has ever encountered."
+    },
+    "4": {
+      "en": "Based on the Konami arcade game, it's your job to rescue six little turtlettes and take them home. It may sound easy, but you had better watch out because the beetles are after you. Each floor contains eight mystery squares.  Behind six of the squares are those cute little turtlettes. But beware, because the other two contain beetles. If a beetle gets too close you can use the bug bomb, but use them wisely, because you only can use one at a time."
+    }
+  }
+}

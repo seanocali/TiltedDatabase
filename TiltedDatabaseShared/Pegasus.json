@@ -1,0 +1,179 @@
+{
+  "PlatformName": "Pegasus",
+  "LastUpdate": "5/24/2022 2:35:45 AM",
+  "Games": [
+    {
+      "Titles": [
+        "Galaxy Wars & Hangman"
+      ],
+      "Sha1": "ef2a5bb02303340c6709136a82858f7b124eedd5",
+      "Crc32": "700d0e10",
+      "SetNames": {
+        "TOSEC": [
+          "Galaxy Wars & Hangman (19xx)(-)[raw]"
+        ]
+      },
+      "Size": 4096,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Galaxy Wars & Hangman"
+      ],
+      "Sha1": "462345693150a0b34814f2ef8876f5513b2188ca",
+      "Crc32": "85a02408",
+      "SetNames": {
+        "TOSEC": [
+          "Galaxy Wars & Hangman (19xx)(-)[translated]"
+        ]
+      },
+      "Size": 4096,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Invaders v1.1"
+      ],
+      "Sha1": "77a2a3a7ddf2b30790860be994e9c4bab02c72d6",
+      "Crc32": "e19be9e4",
+      "SetNames": {
+        "TOSEC": [
+          "Invaders v1.1 (19xx)(-)[raw]"
+        ]
+      },
+      "Size": 4096,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Invaders v1.1"
+      ],
+      "Sha1": "cf814969797e8944dd76f64232218735e651feb3",
+      "Crc32": "61d55d3e",
+      "SetNames": {
+        "TOSEC": [
+          "Invaders v1.1 (19xx)(-)[translated]"
+        ]
+      },
+      "Size": 4096,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Invaders v1.2"
+      ],
+      "Sha1": "2e4c21672be35a91110f0b56c2f0ed21a39e637b",
+      "Crc32": "d4ffaded",
+      "SetNames": {
+        "TOSEC": [
+          "Invaders v1.2 (19xx)(-)[raw]"
+        ]
+      },
+      "Size": 4096,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Invaders v1.2"
+      ],
+      "Sha1": "4957dc0275bc878519c079db102af72dd7fbeaea",
+      "Crc32": "5ebe9166",
+      "SetNames": {
+        "TOSEC": [
+          "Invaders v1.2 (19xx)(-)[translated]"
+        ]
+      },
+      "Size": 4096,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Tank v1.1"
+      ],
+      "Sha1": "e133f2ef3fc1e7aba5383cbbe2006ecddaaa1f00",
+      "Crc32": "8824847f",
+      "SetNames": {
+        "TOSEC": [
+          "Tank v1.1 (19xx)(-)[raw][tape2rom]",
+          "Tank v1.1 (19xx)(-)[translated][tape2rom]"
+        ]
+      },
+      "Size": 4096,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Tank v1.2"
+      ],
+      "Sha1": "0451c71ff2a23fcf6f58316211a3feee10c1b1e6",
+      "Crc32": "00908560",
+      "SetNames": {
+        "TOSEC": [
+          "Tank v1.2 (19xx)(-)[raw][tape2rom]"
+        ]
+      },
+      "Size": 4096,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Tank v1.2"
+      ],
+      "Sha1": "4678ff9a5d4d9e3ee22b0fde9ec64d0ebb588055",
+      "Crc32": "5e6c6423",
+      "SetNames": {
+        "TOSEC": [
+          "Tank v1.2 (19xx)(-)[translated][tape2rom]"
+        ]
+      },
+      "Size": 4096,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    }
+  ],
+  "Overviews": {}
+}

@@ -1,0 +1,5946 @@
+{
+  "PlatformName": "Vectrex",
+  "LastUpdate": "5/25/2022 3:06:41 AM",
+  "Games": [
+    {
+      "Titles": [
+        "[BIOS] GCE Vectrex",
+        "Mine Storm",
+        "[BIOS] Mine Storm"
+      ],
+      "Sha1": "65d07426b520ddd3115d40f255511e0fd2e20ae7",
+      "Crc32": "ba13fb57",
+      "SetNames": {
+        "No-Intro": [
+          "[BIOS] GCE Vectrex (World)"
+        ],
+        "TOSEC": [
+          "Mine Storm (1982)(GCE)[a]"
+        ],
+        "TGDB": [
+          "32725"
+        ]
+      },
+      "OverviewId": 1,
+      "Size": 8192,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "ReleaseDate": "11/5/1982",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "BIOS",
+        "Alternate"
+      ]
+    },
+    {
+      "Titles": [
+        "3D Crazy Coaster",
+        "3-D Crazy Coaster",
+        "Crazy Coaster"
+      ],
+      "Sha1": "4a833e4869221f832dacb7ef0fb2997c870b7d7f",
+      "Crc32": "92709b11",
+      "SetNames": {
+        "No-Intro": [
+          "3D Crazy Coaster (USA)"
+        ],
+        "TOSEC": [
+          "3-D Crazy Coaster (1983)(GCE)"
+        ],
+        "MESS": [
+          "ccoaster"
+        ],
+        "TGDB": [
+          "32671"
+        ]
+      },
+      "OverviewId": 2,
+      "Size": 8192,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "ReleaseDate": "5/5/1983",
+      "Genres": [
+        "Adventure"
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "3D Mine Storm",
+        "3-D Mine Storm",
+        "Mine Storm 2"
+      ],
+      "Sha1": "1731e892da8945fe4945b43847d23960c581682a",
+      "Crc32": "b2313487",
+      "SetNames": {
+        "No-Intro": [
+          "3D Mine Storm (USA)"
+        ],
+        "TOSEC": [
+          "3-D Mine Storm (1983)(GCE)"
+        ],
+        "MESS": [
+          "3dminest"
+        ],
+        "TGDB": [
+          "32685"
+        ]
+      },
+      "OverviewId": 3,
+      "Size": 8192,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Genres": [
+        "Shooter"
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "3D Narrow Escape",
+        "3-D Narrow Escape",
+        "Narrow Escape"
+      ],
+      "Sha1": "9e5d23cb7ef111394e1804e105b6dd277c062df6",
+      "Crc32": "050bd949",
+      "SetNames": {
+        "No-Intro": [
+          "3D Narrow Escape (USA)"
+        ],
+        "TOSEC": [
+          "3-D Narrow Escape (1983)(GCE)"
+        ],
+        "MESS": [
+          "narrowes"
+        ],
+        "TGDB": [
+          "36977"
+        ]
+      },
+      "OverviewId": 4,
+      "Size": 8192,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "ESRB": "E",
+      "Genres": [
+        "Shooter"
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "AnimAction - Advanced Animation",
+        "Animaction",
+        "AnimAction"
+      ],
+      "Sha1": "71946be47debae89ad191ac382c2015d6a862072",
+      "Crc32": "9f62e167",
+      "SetNames": {
+        "No-Intro": [
+          "AnimAction - Advanced Animation (USA)"
+        ],
+        "MESS": [
+          "animactn"
+        ],
+        "TGDB": [
+          "32648"
+        ]
+      },
+      "OverviewId": 5,
+      "Size": 8192,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "ReleaseDate": "5/4/1983",
+      "Genres": [
+        "Life Simulation"
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Armor..Attack",
+        "Armor Attack"
+      ],
+      "Sha1": "eb76f860130f8cc87826fa931350467760511213",
+      "Crc32": "b7510971",
+      "SetNames": {
+        "No-Intro": [
+          "Armor..Attack (World)"
+        ],
+        "TOSEC": [
+          "Armor Attack (1982)(GCE)"
+        ],
+        "MESS": [
+          "armora"
+        ],
+        "TGDB": [
+          "32361"
+        ]
+      },
+      "OverviewId": 6,
+      "Size": 4096,
+      "Publishers": [
+        "GCE",
+        "Cinematronics"
+      ],
+      "Developers": [
+        "Tim Skelly"
+      ],
+      "ReleaseDate": "11/1/1982",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Art Master"
+      ],
+      "Sha1": "8f35bac5e8e0fc4ad7291bbfe5ae6e693272de06",
+      "Crc32": "c8e2f247",
+      "SetNames": {
+        "No-Intro": [
+          "Art Master (USA)"
+        ],
+        "MESS": [
+          "artmastr"
+        ],
+        "TGDB": [
+          "32670"
+        ]
+      },
+      "OverviewId": 7,
+      "Size": 4096,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "ReleaseDate": "5/5/1983",
+      "Genres": [
+        "Life Simulation"
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Bedlam"
+      ],
+      "Sha1": "3ff3fa4feda6d562dedff2a10cfa8679d8318044",
+      "Crc32": "a2fa649b",
+      "SetNames": {
+        "No-Intro": [
+          "Bedlam (USA, Europe)"
+        ],
+        "TOSEC": [
+          "Bedlam (1983)(-)"
+        ],
+        "MESS": [
+          "bedlam"
+        ],
+        "TGDB": [
+          "32362"
+        ]
+      },
+      "OverviewId": 8,
+      "Size": 4096,
+      "Publishers": [
+        "-",
+        "GCE"
+      ],
+      "ReleaseDate": "11/1/1983",
+      "Genres": [
+        "Shooter"
+      ],
+      "Regions": [
+        "US",
+        "EU"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Berzerk"
+      ],
+      "Sha1": "e4badd494ed548721328ef869d33ad70e3e522c9",
+      "Crc32": "eafe2455",
+      "SetNames": {
+        "No-Intro": [
+          "Berzerk (World)"
+        ],
+        "TOSEC": [
+          "Berzerk (1982)(GCE)"
+        ],
+        "MESS": [
+          "berzerk"
+        ],
+        "TGDB": [
+          "32363"
+        ]
+      },
+      "OverviewId": 9,
+      "Size": 4096,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "ReleaseDate": "5/6/1982",
+      "Genres": [
+        "Puzzle"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Blitz! - Action Football",
+        "Blitz!"
+      ],
+      "Sha1": "aa1aa811c9ce5e19f43b78a6531cdd0e707337bd",
+      "Crc32": "881b27c5",
+      "SetNames": {
+        "No-Intro": [
+          "Blitz! - Action Football (USA, Europe) (881B27C5)"
+        ],
+        "TOSEC": [
+          "Blitz! - Action Football (1982)(MB)"
+        ],
+        "MESS": [
+          "blitza"
+        ],
+        "TGDB": [
+          "32364"
+        ]
+      },
+      "OverviewId": 10,
+      "Size": 8192,
+      "Publishers": [
+        "MB",
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "CloneOf": "blitz",
+      "ReleaseDate": "5/5/1982",
+      "Genres": [
+        "Sports"
+      ],
+      "Regions": [
+        "US",
+        "EU",
+        "MB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Blitz! - Action Football",
+        "Blitz!"
+      ],
+      "Sha1": "60893dfada42cf50c94083d45ad5bd14d0c031c8",
+      "Crc32": "0f11ce0c",
+      "SetNames": {
+        "No-Intro": [
+          "Blitz! - Action Football (USA, Europe) (0F11CE0C)"
+        ],
+        "TOSEC": [
+          "Blitz! - Action Football (1982)(MB)[b]"
+        ],
+        "MESS": [
+          "blitz"
+        ],
+        "TGDB": [
+          "32364"
+        ]
+      },
+      "OverviewId": 10,
+      "Size": 8192,
+      "Publishers": [
+        "MB",
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "ReleaseDate": "5/5/1982",
+      "Genres": [
+        "Sports"
+      ],
+      "Regions": [
+        "US",
+        "EU",
+        "MB"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Clean Sweep"
+      ],
+      "Sha1": "67f8513958c04e936b135740ed4ec6e6fa1763d5",
+      "Crc32": "f1b1de78",
+      "SetNames": {
+        "No-Intro": [
+          "Clean Sweep (World)"
+        ],
+        "TOSEC": [
+          "Clean Sweep (1982)(GCE)"
+        ],
+        "MESS": [
+          "cleanswp"
+        ],
+        "TGDB": [
+          "32365"
+        ]
+      },
+      "OverviewId": 11,
+      "Size": 4096,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "ReleaseDate": "5/4/1982",
+      "Genres": [
+        "Action",
+        "Puzzle"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cosmic Chasm"
+      ],
+      "Sha1": "56a7f277bf09f94461dda542c04c36266d838b86",
+      "Crc32": "6c1afa52",
+      "SetNames": {
+        "No-Intro": [
+          "Cosmic Chasm (World)"
+        ],
+        "TOSEC": [
+          "Cosmic Chasm (1982)(GCE)"
+        ],
+        "MESS": [
+          "cchasm"
+        ],
+        "TGDB": [
+          "32366"
+        ]
+      },
+      "OverviewId": 12,
+      "Size": 4096,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "ReleaseDate": "5/5/1982",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Dark Tower"
+      ],
+      "Sha1": "dbb0b378aacc2a18dfb476aa99ab00d6ab395205",
+      "Crc32": "9dcfd5b7",
+      "SetNames": {
+        "No-Intro": [
+          "Dark Tower (USA) (Proto)"
+        ],
+        "TOSEC": [
+          "Dark Tower (1983)(GCE)(proto)"
+        ],
+        "MESS": [
+          "darktowr"
+        ],
+        "TGDB": [
+          "32682"
+        ]
+      },
+      "OverviewId": 13,
+      "Size": 12288,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Genres": [
+        "Adventure",
+        "Role-Playing"
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "Engine Analyzer"
+      ],
+      "Sha1": "c226d78301dbe40f2194c165f2124d5afa885be4",
+      "Crc32": "fe9a501a",
+      "SetNames": {
+        "No-Intro": [
+          "Engine Analyzer (USA) (Proto)"
+        ],
+        "MESS": [
+          "enginean"
+        ],
+        "TGDB": [
+          "36978"
+        ]
+      },
+      "OverviewId": 14,
+      "Size": 4096,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Genres": [
+        "Sandbox"
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "Fortress of Narzod"
+      ],
+      "Sha1": "286e061331289b031de33725a4966c379c1df47f",
+      "Crc32": "13a35c8a",
+      "SetNames": {
+        "No-Intro": [
+          "Fortress of Narzod (USA, Europe)"
+        ],
+        "TOSEC": [
+          "Fortress of Narzod (1982)(GCE)"
+        ],
+        "MESS": [
+          "fnarzod"
+        ],
+        "TGDB": [
+          "32367"
+        ]
+      },
+      "OverviewId": 15,
+      "Size": 8192,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "ReleaseDate": "5/6/1982",
+      "Genres": [
+        "Adventure"
+      ],
+      "Regions": [
+        "US",
+        "EU"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Heads-Up - Action Soccer",
+        "Heads Up - Action Soccer",
+        "Heads Up",
+        "Soccer Football"
+      ],
+      "Sha1": "0406c13952fb0bd6adc68298ae163ebc6160484c",
+      "Crc32": "e61a7de3",
+      "SetNames": {
+        "No-Intro": [
+          "Heads-Up - Action Soccer (USA)"
+        ],
+        "TOSEC": [
+          "Heads Up - Action Soccer (1983)(GCE)"
+        ],
+        "MESS": [
+          "headsup"
+        ],
+        "TGDB": [
+          "32368"
+        ]
+      },
+      "OverviewId": 16,
+      "Size": 8192,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "ReleaseDate": "5/4/1983",
+      "Genres": [
+        "Sports"
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "HyperChase - Auto Race",
+        "Hyperchase",
+        "Hyperchase Auto Race"
+      ],
+      "Sha1": "a246f1d94a5b062b60784787a1d6d499b21c10cd",
+      "Crc32": "4bb13472",
+      "SetNames": {
+        "No-Intro": [
+          "HyperChase - Auto Race (World)"
+        ],
+        "TOSEC": [
+          "Hyperchase (1982)(GCE)"
+        ],
+        "MESS": [
+          "hyprchas"
+        ],
+        "TGDB": [
+          "32369"
+        ]
+      },
+      "OverviewId": 17,
+      "Size": 4096,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "ReleaseDate": "5/5/1982",
+      "Genres": [
+        "Racing"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Mail Plane"
+      ],
+      "Sha1": "05f56e708f752ca801f8013c7da9b0db01508ba5",
+      "Crc32": "da1ac0db",
+      "SetNames": {
+        "No-Intro": [
+          "Mail Plane (USA) (Proto) (DA1AC0DB)"
+        ],
+        "TOSEC": [
+          "Mail Plane (1983)(GCE)(proto)[a]"
+        ],
+        "MESS": [
+          "mailplan"
+        ],
+        "TGDB": [
+          "36979"
+        ]
+      },
+      "OverviewId": 18,
+      "Size": 8192,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "ESRB": "E",
+      "Genres": [
+        "Flight Simulator"
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "proto",
+        "Alternate"
+      ]
+    },
+    {
+      "Titles": [
+        "Mail Plane"
+      ],
+      "Sha1": "969d5ec7d7aba9ac25e54069149d9586217ab63d",
+      "Crc32": "05838962",
+      "SetNames": {
+        "No-Intro": [
+          "Mail Plane (USA) (Proto) (05838962)"
+        ],
+        "TOSEC": [
+          "Mail Plane (1983)(GCE)(proto)"
+        ],
+        "MESS": [
+          "mailplan1"
+        ],
+        "TGDB": [
+          "36979"
+        ]
+      },
+      "OverviewId": 18,
+      "Size": 8192,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "CloneOf": "mailplan",
+      "ReleaseDate": "1/1/1983",
+      "ESRB": "E",
+      "Genres": [
+        "Flight Simulator"
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "Melody Master - Music Composition and Entertainment",
+        "Melody Master"
+      ],
+      "Sha1": "58aecc7fb1d26a22b09e9a13d845e4ed12e2449d",
+      "Crc32": "afefa29c",
+      "SetNames": {
+        "No-Intro": [
+          "Melody Master - Music Composition and Entertainment (USA)"
+        ],
+        "MESS": [
+          "melody"
+        ],
+        "TGDB": [
+          "32684"
+        ]
+      },
+      "OverviewId": 19,
+      "Size": 8192,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "ReleaseDate": "5/5/1983",
+      "Genres": [
+        "Music"
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Mine Storm"
+      ],
+      "Sha1": "5f00ed35f189357b4a16a190520166371ca57906",
+      "Crc32": "6d509566",
+      "SetNames": {
+        "No-Intro": [
+          "Mine Storm (World)"
+        ],
+        "TOSEC": [
+          "Mine Storm (1982)(GCE)"
+        ],
+        "MESS": [
+          "minestrm"
+        ],
+        "TGDB": [
+          "32725"
+        ]
+      },
+      "OverviewId": 1,
+      "Size": 4096,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "ReleaseDate": "11/5/1982",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Mine Storm II",
+        "Mine Storm 2",
+        "3D Mine Storm"
+      ],
+      "Sha1": "1fdcc6e54ae5177bc9cdc79ce616ae3401e5c229",
+      "Crc32": "f5b3b374",
+      "SetNames": {
+        "No-Intro": [
+          "Mine Storm II (USA) (Rev 2)"
+        ],
+        "TOSEC": [
+          "Mine Storm II (1983)(GCE)"
+        ],
+        "MESS": [
+          "minestr2"
+        ],
+        "TGDB": [
+          "32685"
+        ]
+      },
+      "OverviewId": 3,
+      "Size": 4096,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "CloneOf": "minestrm",
+      "ReleaseDate": "1/1/1983",
+      "Genres": [
+        "Shooter"
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Mr. Boston Clean Sweep",
+        "Clean Sweep - Mr. Boston Version"
+      ],
+      "Sha1": "299841a116e59399af4e74ccae23ddfc078e007b",
+      "Crc32": "bd4da4c2",
+      "SetNames": {
+        "No-Intro": [
+          "Mr. Boston Clean Sweep (Europe)"
+        ],
+        "TOSEC": [
+          "Clean Sweep - Mr. Boston Version (1982)(-)"
+        ],
+        "MESS": [
+          "mrboston"
+        ]
+      },
+      "Size": 8192,
+      "Publishers": [
+        "-",
+        "GCE"
+      ],
+      "CloneOf": "cleanswp",
+      "ReleaseDate": "1/1/1982",
+      "Regions": [
+        "EU"
+      ]
+    },
+    {
+      "Titles": [
+        "Pitcher's Duel"
+      ],
+      "Sha1": "f6f26beb20bb364761a9466ff4087c7b9713d048",
+      "Crc32": "c25f2e0e",
+      "SetNames": {
+        "No-Intro": [
+          "Pitcher's Duel (USA) (Proto)"
+        ],
+        "TOSEC": [
+          "Pitcher's Duel (1983)(GCE)(proto)"
+        ],
+        "MESS": [
+          "ptchduel"
+        ],
+        "TGDB": [
+          "36980"
+        ]
+      },
+      "OverviewId": 20,
+      "Size": 8192,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "ReleaseDate": "1/1/2007",
+      "ESRB": "E",
+      "Genres": [
+        "Sports"
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "Polar Rescue"
+      ],
+      "Sha1": "87248dcd3db51c1ebf3f8e07e21ec021eec0b9be",
+      "Crc32": "a7471784",
+      "SetNames": {
+        "No-Intro": [
+          "Polar Rescue (USA)"
+        ],
+        "TOSEC": [
+          "Polar Rescue (1983)(GCE)"
+        ],
+        "MESS": [
+          "polarres"
+        ],
+        "TGDB": [
+          "32688"
+        ]
+      },
+      "OverviewId": 21,
+      "Size": 8192,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "ReleaseDate": "5/5/1983",
+      "Genres": [
+        "Adventure"
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Polar Rescue"
+      ],
+      "Sha1": "b7bd8c8003c60535e1e776758f5c289aa9a77e81",
+      "Crc32": "ad844645",
+      "SetNames": {
+        "No-Intro": [
+          "Polar Rescue (USA) (Beta)"
+        ],
+        "TOSEC": [
+          "Polar Rescue (1983)(GCE)[a]"
+        ],
+        "MESS": [
+          "polarresp"
+        ],
+        "TGDB": [
+          "32688"
+        ]
+      },
+      "OverviewId": 21,
+      "Size": 8192,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "CloneOf": "polarres",
+      "ReleaseDate": "5/5/1983",
+      "Genres": [
+        "Adventure"
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "beta",
+        "Alternate"
+      ]
+    },
+    {
+      "Titles": [
+        "Pole Position",
+        "Pole Position Vectrex"
+      ],
+      "Sha1": "9f5b0b5e6caf6d887d3637ace70ad6a6258b999d",
+      "Crc32": "c10f37d8",
+      "SetNames": {
+        "No-Intro": [
+          "Pole Position (USA) (C10F37D8)"
+        ],
+        "TOSEC": [
+          "Pole Position (1983)(GCE)"
+        ],
+        "MESS": [
+          "poleposa"
+        ],
+        "TGDB": [
+          "32689"
+        ]
+      },
+      "OverviewId": 22,
+      "Size": 8192,
+      "Publishers": [
+        "GCE",
+        "Namco Ltd."
+      ],
+      "Developers": [
+        "Namco"
+      ],
+      "CloneOf": "polepos",
+      "ReleaseDate": "1/1/1983",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Pole Position",
+        "Pole Position Vectrex"
+      ],
+      "Sha1": "8454d472435e7a6a4ca5fe129162480ca6e84b87",
+      "Crc32": "a00ed3d6",
+      "SetNames": {
+        "No-Intro": [
+          "Pole Position (USA) (A00ED3D6)"
+        ],
+        "TOSEC": [
+          "Pole Position (1983)(GCE)[b2]"
+        ],
+        "MESS": [
+          "polepos"
+        ],
+        "TGDB": [
+          "32689"
+        ]
+      },
+      "OverviewId": 22,
+      "Size": 8192,
+      "Publishers": [
+        "GCE",
+        "Namco Ltd."
+      ],
+      "Developers": [
+        "Namco"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "RA+A Spectrum I+ Stress Tester"
+      ],
+      "Sha1": "7ce85db8dd32687ad7629631ae113820371faf7c",
+      "Crc32": "20af7f3f",
+      "SetNames": {
+        "No-Intro": [
+          "RA+A Spectrum I+ Stress Tester (USA) (Proto)"
+        ],
+        "TGDB": [
+          "36981"
+        ]
+      },
+      "OverviewId": 23,
+      "Size": 32768,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "ESRB": "E",
+      "Genres": [
+        "Life Simulation"
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "Rip Off",
+        "Rip-Off",
+        "RipOff"
+      ],
+      "Sha1": "22f7a490f6f7aaa31e892b03a85178af211f62e3",
+      "Crc32": "34a98132",
+      "SetNames": {
+        "No-Intro": [
+          "Rip Off (World)"
+        ],
+        "TOSEC": [
+          "Rip-Off (1982)(GCE)"
+        ],
+        "MESS": [
+          "ripoff"
+        ],
+        "TGDB": [
+          "32726"
+        ]
+      },
+      "OverviewId": 24,
+      "Size": 4096,
+      "Publishers": [
+        "GCE",
+        "Cinematronics"
+      ],
+      "Developers": [
+        "Tim Skelly"
+      ],
+      "ReleaseDate": "11/4/1982",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Scramble"
+      ],
+      "Sha1": "38e38b5c60466146d4648f8929b5ce3a08dcbe0d",
+      "Crc32": "707c8ffe",
+      "SetNames": {
+        "No-Intro": [
+          "Scramble (USA, Europe)"
+        ],
+        "TOSEC": [
+          "Scramble (1982)(GCE)"
+        ],
+        "MESS": [
+          "scramble"
+        ],
+        "TGDB": [
+          "32727"
+        ]
+      },
+      "OverviewId": 25,
+      "Size": 4096,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "Konami"
+      ],
+      "ReleaseDate": "11/3/1982",
+      "Regions": [
+        "US",
+        "EU"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Sledge 3D",
+        "Rocket Sledge"
+      ],
+      "Sha1": "526b347bc02a47c8bda326b1f6da50284127f038",
+      "Crc32": "863b89e8",
+      "SetNames": {
+        "No-Intro": [
+          "Sledge 3D (USA) (Sample)"
+        ],
+        "TOSEC": [
+          "Rocket Sledge (1983)(GCE)(proto)[b]"
+        ],
+        "MESS": [
+          "rocksled"
+        ],
+        "TGDB": [
+          "36982"
+        ]
+      },
+      "OverviewId": 26,
+      "Size": 3671,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "ESRB": "E",
+      "Genres": [
+        "Flight Simulator"
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "sample",
+        "Bad Dump",
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "Solar Quest"
+      ],
+      "Sha1": "38072dc491d5c729c06f4c50bc310d361e0ff62a",
+      "Crc32": "5c4611c8",
+      "SetNames": {
+        "No-Intro": [
+          "Solar Quest (World)"
+        ],
+        "TOSEC": [
+          "Solar Quest (1982)(GCE)"
+        ],
+        "MESS": [
+          "solarq"
+        ],
+        "TGDB": [
+          "32728"
+        ]
+      },
+      "OverviewId": 27,
+      "Size": 4096,
+      "Publishers": [
+        "GCE",
+        "Cinematronics"
+      ],
+      "Developers": [
+        "Cinematronics"
+      ],
+      "ReleaseDate": "11/17/1982",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Space Wars"
+      ],
+      "Sha1": "0c229dd12a55044681585f7fdabd37dbc1243b59",
+      "Crc32": "a3be5aff",
+      "SetNames": {
+        "No-Intro": [
+          "Space Wars (World)"
+        ],
+        "TOSEC": [
+          "Space Wars (1982)(GCE)"
+        ],
+        "MESS": [
+          "spacewar"
+        ],
+        "TGDB": [
+          "32799"
+        ]
+      },
+      "OverviewId": 28,
+      "Size": 4096,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "Cinematronics"
+      ],
+      "ReleaseDate": "5/5/1982",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Spike"
+      ],
+      "Sha1": "8bba6705e6f69f55ab6d105eac2fd5b0c0d16d9f",
+      "Crc32": "62a61843",
+      "SetNames": {
+        "No-Intro": [
+          "Spike (USA, Europe)"
+        ],
+        "TOSEC": [
+          "Spike (1983)(GCE)"
+        ],
+        "MESS": [
+          "spike"
+        ],
+        "TGDB": [
+          "32801"
+        ]
+      },
+      "OverviewId": 29,
+      "Size": 8192,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "ReleaseDate": "5/3/1983",
+      "Genres": [
+        "Platform"
+      ],
+      "Regions": [
+        "US",
+        "EU"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Spin ball",
+        "Spinball",
+        "Spin Ball"
+      ],
+      "Sha1": "2e8285061530ccadfa2d8d11c374ae244449ebfa",
+      "Crc32": "02f41733",
+      "SetNames": {
+        "No-Intro": [
+          "Spin ball (USA)"
+        ],
+        "TOSEC": [
+          "Spinball (1983)(GCE)"
+        ],
+        "MESS": [
+          "spinball"
+        ],
+        "TGDB": [
+          "32798"
+        ]
+      },
+      "OverviewId": 30,
+      "Size": 8192,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "ReleaseDate": "5/12/1983",
+      "Genres": [
+        "Action"
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Star Castle"
+      ],
+      "Sha1": "c9b79f1ba30dcbce5a068b606a97775cf863fe0a",
+      "Crc32": "c9039623",
+      "SetNames": {
+        "No-Intro": [
+          "Star Castle (USA)"
+        ],
+        "TOSEC": [
+          "Star Castle (1983)(GCE)"
+        ],
+        "MESS": [
+          "starcas"
+        ],
+        "TGDB": [
+          "32802"
+        ]
+      },
+      "OverviewId": 31,
+      "Size": 4096,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "ReleaseDate": "5/3/1983",
+      "Genres": [
+        "Adventure"
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Star Ship"
+      ],
+      "Sha1": "d182eac5a54ffc642fcbe4a495c7c09f87b43585",
+      "Crc32": "7967a8cb",
+      "SetNames": {
+        "No-Intro": [
+          "Star Ship (Europe)"
+        ],
+        "TOSEC": [
+          "Star Ship (1982)(GCE)"
+        ],
+        "MESS": [
+          "starship"
+        ]
+      },
+      "Size": 4096,
+      "Publishers": [
+        "GCE"
+      ],
+      "CloneOf": "startrek",
+      "ReleaseDate": "1/1/1982",
+      "Regions": [
+        "EU"
+      ]
+    },
+    {
+      "Titles": [
+        "Star Trek - The Motion Picture",
+        "Star Trek - The Game",
+        "Star Trek"
+      ],
+      "Sha1": "3a2ee61316fb316d9e9efdf5ee405e813475b466",
+      "Crc32": "3768d8c3",
+      "SetNames": {
+        "No-Intro": [
+          "Star Trek - The Motion Picture (USA)"
+        ],
+        "TOSEC": [
+          "Star Trek - The Motion Picture (1982)(GCE)"
+        ],
+        "MESS": [
+          "startrek"
+        ],
+        "TGDB": [
+          "32803"
+        ]
+      },
+      "OverviewId": 32,
+      "Size": 4096,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Genres": [
+        "Shooter"
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "StarHawk",
+        "Star Hawk"
+      ],
+      "Sha1": "d6b388b3951e34971c1b00c7fdf8dd00ad52df09",
+      "Crc32": "4de1f06b",
+      "SetNames": {
+        "No-Intro": [
+          "StarHawk (World)"
+        ],
+        "TOSEC": [
+          "Star Hawk (1982)(GCE)"
+        ],
+        "MESS": [
+          "starhawk"
+        ],
+        "TGDB": [
+          "32804"
+        ]
+      },
+      "OverviewId": 33,
+      "Size": 4096,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "Cinematronics"
+      ],
+      "ReleaseDate": "5/5/1982",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Test Cartridge",
+        "Test"
+      ],
+      "Sha1": "e3418055f1e79a2300572c557e71bf2ce8badbfa",
+      "Crc32": "7297e815",
+      "SetNames": {
+        "No-Intro": [
+          "Test Cartridge (USA) (Rev 4) (Proto)"
+        ],
+        "MESS": [
+          "testrev4"
+        ],
+        "TGDB": [
+          "36983"
+        ]
+      },
+      "OverviewId": 34,
+      "Size": 4096,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "ESRB": "E",
+      "Genres": [
+        "Sandbox"
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "Tour De France"
+      ],
+      "Sha1": "4f461b0b51c82433e70130eac5494f26239b4453",
+      "Crc32": "bb4791f1",
+      "SetNames": {
+        "No-Intro": [
+          "Tour De France (USA) (Proto)"
+        ],
+        "TOSEC": [
+          "Tour De France (1983)(GCE)(proto)"
+        ],
+        "MESS": [
+          "tourfrnc"
+        ],
+        "TGDB": [
+          "36984"
+        ]
+      },
+      "OverviewId": 35,
+      "Size": 8192,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "ESRB": "E",
+      "Genres": [
+        "Sports"
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "WebWarp",
+        "Web Warp",
+        "Web Wars",
+        "WebWars",
+        "Web Wars VECTREX"
+      ],
+      "Sha1": "9681dc5d38a31cb0d0c6c3bd0fc76bfdde531cce",
+      "Crc32": "521107c3",
+      "SetNames": {
+        "No-Intro": [
+          "WebWarp (Europe)"
+        ],
+        "TOSEC": [
+          "Web Warp (1983)(GCE)"
+        ],
+        "MESS": [
+          "webwarp"
+        ],
+        "TGDB": [
+          "35984"
+        ]
+      },
+      "OverviewId": 36,
+      "Size": 8192,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "ESRB": "E",
+      "Genres": [
+        "Shooter"
+      ],
+      "Regions": [
+        "EU"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "WebWars",
+        "Web Wars",
+        "Web Wars VECTREX",
+        "Web Warp",
+        "WebWarp"
+      ],
+      "Sha1": "08e2df9f7769c16a4d730adf8d659f8ea4be7f9d",
+      "Crc32": "2ee20103",
+      "SetNames": {
+        "No-Intro": [
+          "WebWars (USA)"
+        ],
+        "TOSEC": [
+          "Web Wars (1983)(GCE)"
+        ],
+        "MESS": [
+          "webwars"
+        ],
+        "TGDB": [
+          "35984"
+        ]
+      },
+      "OverviewId": 36,
+      "Size": 8192,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "CloneOf": "webwarp",
+      "ReleaseDate": "1/1/1983",
+      "ESRB": "E",
+      "Genres": [
+        "Shooter"
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "3-D Crazy Coaster",
+        "3D Crazy Coaster",
+        "Crazy Coaster"
+      ],
+      "Sha1": "bb89953e586009e43b774df2baf519e5e7183ebd",
+      "Crc32": "071b1dc9",
+      "SetNames": {
+        "TOSEC": [
+          "3-D Crazy Coaster (1983)(GCE)[b2]"
+        ],
+        "TGDB": [
+          "32671"
+        ]
+      },
+      "OverviewId": 2,
+      "Size": 8243,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "ReleaseDate": "5/5/1983",
+      "Genres": [
+        "Adventure"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "3-D Crazy Coaster",
+        "3D Crazy Coaster",
+        "Crazy Coaster"
+      ],
+      "Sha1": "319974609e4292a0e6b6a7c34264cba082855509",
+      "Crc32": "23a542c2",
+      "SetNames": {
+        "TOSEC": [
+          "3-D Crazy Coaster (1983)(GCE)[b]"
+        ],
+        "TGDB": [
+          "32671"
+        ]
+      },
+      "OverviewId": 2,
+      "Size": 8192,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "ReleaseDate": "5/5/1983",
+      "Genres": [
+        "Adventure"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "3-D Mine Storm",
+        "Mine Storm 2",
+        "3D Mine Storm"
+      ],
+      "Sha1": "17de7250a48f4a5da536956697751369fd9b7524",
+      "Crc32": "3cc9f092",
+      "SetNames": {
+        "TOSEC": [
+          "3-D Mine Storm (1983)(GCE)[b]"
+        ],
+        "TGDB": [
+          "32685"
+        ]
+      },
+      "OverviewId": 3,
+      "Size": 8233,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "3-D Narrow Escape",
+        "3D Narrow Escape"
+      ],
+      "Sha1": "e7e0a8d12cf7b7451c7f643e8a793e47295f4d31",
+      "Crc32": "9dff64da",
+      "SetNames": {
+        "TOSEC": [
+          "3-D Narrow Escape (1983)(GCE)[b2]"
+        ],
+        "TGDB": [
+          "36977"
+        ]
+      },
+      "OverviewId": 4,
+      "Size": 7936,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "ESRB": "E",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "3-D Narrow Escape",
+        "3D Narrow Escape"
+      ],
+      "Sha1": "084e5161ec6db4df0cb3c4124dc5fa26a69fd423",
+      "Crc32": "b4c45b4b",
+      "SetNames": {
+        "TOSEC": [
+          "3-D Narrow Escape (1983)(GCE)[b3]"
+        ],
+        "TGDB": [
+          "36977"
+        ]
+      },
+      "OverviewId": 4,
+      "Size": 8240,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "ESRB": "E",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "3-D Narrow Escape",
+        "3D Narrow Escape"
+      ],
+      "Sha1": "4ff2caa11ba111b256610d34a19de97b28053026",
+      "Crc32": "09ae457a",
+      "SetNames": {
+        "TOSEC": [
+          "3-D Narrow Escape (1983)(GCE)[b]"
+        ],
+        "TGDB": [
+          "36977"
+        ]
+      },
+      "OverviewId": 4,
+      "Size": 7168,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "ESRB": "E",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Abyss"
+      ],
+      "Sha1": "7fc188e68782aad9ccad9d99bc21fdc8c1934904",
+      "Crc32": "0d5f6408",
+      "SetNames": {
+        "TOSEC": [
+          "Abyss (1999)(-)(PD)(preview)"
+        ]
+      },
+      "Size": 3489,
+      "Publishers": [
+        "-"
+      ],
+      "ReleaseDate": "1/1/1999",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "preview"
+      ]
+    },
+    {
+      "Titles": [
+        "All Good Things",
+        "All Good Things by John Dondzila"
+      ],
+      "Sha1": "85588ca116fe3695f19e1d06dd0853220a5b2f39",
+      "Crc32": "e98ab5a2",
+      "SetNames": {
+        "TOSEC": [
+          "All Good Things (1996)(Dondzila, John)(PD)"
+        ],
+        "MESS": [
+          "agt"
+        ],
+        "TGDB": [
+          "37530"
+        ]
+      },
+      "OverviewId": 37,
+      "Size": 16384,
+      "Publishers": [
+        "Dondzila, John",
+        "homebrew",
+        "Packrat Video Games"
+      ],
+      "Developers": [
+        "John Dondzila"
+      ],
+      "ReleaseDate": "1/1/1996",
+      "ESRB": "E",
+      "Genres": [
+        "Puzzle",
+        "Platform"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Armor Attack"
+      ],
+      "Sha1": "2ea5f2ea3237a80c6aa96af10464adf5547409d8",
+      "Crc32": "7a859c8b",
+      "SetNames": {
+        "TOSEC": [
+          "Armor Attack (1982)(GCE)[b]"
+        ],
+        "TGDB": [
+          "32361"
+        ]
+      },
+      "OverviewId": 6,
+      "Size": 4110,
+      "Publishers": [
+        "GCE",
+        "Cinematronics"
+      ],
+      "Developers": [
+        "Tim Skelly"
+      ],
+      "ReleaseDate": "11/1/1982",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Armor Attack"
+      ],
+      "Sha1": "e4f5739c9f9ed054963a6535ed0b2a067f1ced95",
+      "Crc32": "131ee522",
+      "SetNames": {
+        "TOSEC": [
+          "Armor Attack (1982)(GCE)[h][a][spinner controller]"
+        ],
+        "TGDB": [
+          "32361"
+        ]
+      },
+      "OverviewId": 6,
+      "Size": 4265,
+      "Publishers": [
+        "GCE",
+        "Cinematronics"
+      ],
+      "Developers": [
+        "Tim Skelly"
+      ],
+      "ReleaseDate": "11/1/1982",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Hacked",
+        "Alternate"
+      ]
+    },
+    {
+      "Titles": [
+        "Armor Attack"
+      ],
+      "Sha1": "9c6ed40a420461919344a3207974a4b70c948685",
+      "Crc32": "b4725dbe",
+      "SetNames": {
+        "TOSEC": [
+          "Armor Attack (1982)(GCE)[h][spinner controller]"
+        ],
+        "TGDB": [
+          "32361"
+        ]
+      },
+      "OverviewId": 6,
+      "Size": 4269,
+      "Publishers": [
+        "GCE",
+        "Cinematronics"
+      ],
+      "Developers": [
+        "Tim Skelly"
+      ],
+      "ReleaseDate": "11/1/1982",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Hacked"
+      ]
+    },
+    {
+      "Titles": [
+        "Battle Earth Terror Hazard v1"
+      ],
+      "Sha1": "d50bad595610608ad8fd149f2d277539cb83eb25",
+      "Crc32": "4b6e2949",
+      "SetNames": {
+        "TOSEC": [
+          "Battle Earth Terror Hazard v1 (2000)(Parssinen, Manu)(PD)"
+        ]
+      },
+      "Size": 1038,
+      "Publishers": [
+        "Parssinen, Manu"
+      ],
+      "ReleaseDate": "1/1/2000",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Battle Earth Terror Hazard v2"
+      ],
+      "Sha1": "fb136954a87febd6cbbc8a0054fe8131964a2471",
+      "Crc32": "96fa93ff",
+      "SetNames": {
+        "TOSEC": [
+          "Battle Earth Terror Hazard v2 (2000)(Parssinen, Manu)(PD)"
+        ]
+      },
+      "Size": 1169,
+      "Publishers": [
+        "Parssinen, Manu"
+      ],
+      "ReleaseDate": "1/1/2000",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Battle Earth Terror Hazard v3"
+      ],
+      "Sha1": "15577afe813b2421bccc952cdb1abb11263af0eb",
+      "Crc32": "3e908770",
+      "SetNames": {
+        "TOSEC": [
+          "Battle Earth Terror Hazard v3 (2000)(Parssinen, Manu)(PD)"
+        ]
+      },
+      "Size": 1464,
+      "Publishers": [
+        "Parssinen, Manu"
+      ],
+      "ReleaseDate": "1/1/2000",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Battle Earth Terror Hazard v4"
+      ],
+      "Sha1": "b19afa5e412bb1e8dd80e1158074efe78003f8ff",
+      "Crc32": "b06012b3",
+      "SetNames": {
+        "TOSEC": [
+          "Battle Earth Terror Hazard v4 (2000)(Parssinen, Manu)(PD)"
+        ]
+      },
+      "Size": 2103,
+      "Publishers": [
+        "Parssinen, Manu"
+      ],
+      "ReleaseDate": "1/1/2000",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "BCOR-FTS"
+      ],
+      "Sha1": "ed22d2adbe8b3d8fa7e0404482c8bc1bf01c68dc",
+      "Crc32": "309e6b20",
+      "SetNames": {
+        "TOSEC": [
+          "BCOR-FTS (demo) (1997)(Cowgill, Clay)(PD)"
+        ]
+      },
+      "Size": 2499,
+      "Publishers": [
+        "Cowgill, Clay"
+      ],
+      "ReleaseDate": "1/1/1997",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "demo"
+      ]
+    },
+    {
+      "Titles": [
+        "Bedlam"
+      ],
+      "Sha1": "2d727aad037f0f072a10d45d0c5355db8577de85",
+      "Crc32": "39553b6e",
+      "SetNames": {
+        "TOSEC": [
+          "Bedlam (1983)(GCE)[b2]"
+        ],
+        "TGDB": [
+          "32362"
+        ]
+      },
+      "OverviewId": 8,
+      "Size": 4122,
+      "Publishers": [
+        "GCE"
+      ],
+      "ReleaseDate": "11/1/1983",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Bedlam"
+      ],
+      "Sha1": "9340244989dd922d93db92cc33fd169d33587b0d",
+      "Crc32": "bcc631d3",
+      "SetNames": {
+        "TOSEC": [
+          "Bedlam (1983)(GCE)[b3]"
+        ],
+        "TGDB": [
+          "32362"
+        ]
+      },
+      "OverviewId": 8,
+      "Size": 3968,
+      "Publishers": [
+        "GCE"
+      ],
+      "ReleaseDate": "11/1/1983",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Bedlam"
+      ],
+      "Sha1": "38027413986ff31917f6ddb5346ada1ff96ebb63",
+      "Crc32": "1006dbe1",
+      "SetNames": {
+        "TOSEC": [
+          "Bedlam (1983)(GCE)[b]"
+        ],
+        "TGDB": [
+          "32362"
+        ]
+      },
+      "OverviewId": 8,
+      "Size": 3584,
+      "Publishers": [
+        "GCE"
+      ],
+      "ReleaseDate": "11/1/1983",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Bedlam"
+      ],
+      "Sha1": "7ba5a345e6882003c1cc7c5162dc5d162c3b165c",
+      "Crc32": "2094c6b1",
+      "SetNames": {
+        "TOSEC": [
+          "Bedlam (1983)(GCE)[h][spinner controller]"
+        ],
+        "TGDB": [
+          "32362"
+        ]
+      },
+      "OverviewId": 8,
+      "Size": 4251,
+      "Publishers": [
+        "GCE"
+      ],
+      "ReleaseDate": "11/1/1983",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Hacked"
+      ]
+    },
+    {
+      "Titles": [
+        "Berzerk"
+      ],
+      "Sha1": "9e2221ce5f75b49a084c284cc9db0df4cc8a62ea",
+      "Crc32": "e9d149de",
+      "SetNames": {
+        "TOSEC": [
+          "Berzerk (1982)(GCE)(proto)[f]"
+        ],
+        "TGDB": [
+          "32363"
+        ]
+      },
+      "OverviewId": 9,
+      "Size": 4096,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "ReleaseDate": "5/6/1982",
+      "Genres": [
+        "Puzzle"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Fixed",
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "Berzerk"
+      ],
+      "Sha1": "88031823ed2af95e8a7a6239cd83b158f9b7c16a",
+      "Crc32": "2adc4eaa",
+      "SetNames": {
+        "TOSEC": [
+          "Berzerk (1982)(GCE)(proto)[f][o]"
+        ],
+        "MESS": [
+          "berzerkd"
+        ],
+        "TGDB": [
+          "32363"
+        ]
+      },
+      "OverviewId": 9,
+      "Size": 32768,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "CloneOf": "berzerk",
+      "ReleaseDate": "5/6/1982",
+      "Genres": [
+        "Puzzle"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Fixed",
+        "Bad Dump",
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "Birds of Prey"
+      ],
+      "Sha1": "f4aa288a6170ff2e3fb49ddafcf0953e1488bdf5",
+      "Crc32": "a337b848",
+      "SetNames": {
+        "TOSEC": [
+          "Birds of Prey (1999)(Dondzila, John)(PD)"
+        ],
+        "TGDB": [
+          "37531"
+        ]
+      },
+      "OverviewId": 38,
+      "Size": 7156,
+      "Publishers": [
+        "Dondzila, John",
+        "Packrat Video Games"
+      ],
+      "Developers": [
+        "John Dondzila"
+      ],
+      "ReleaseDate": "1/1/1999",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Blitz! - Action Football"
+      ],
+      "Sha1": "e49826a5ab04007a93a5e163a1ca5ef3cb51e487",
+      "Crc32": "fe9e1d33",
+      "SetNames": {
+        "TOSEC": [
+          "Blitz! - Action Football (1982)(MB)[b2]"
+        ],
+        "TGDB": [
+          "32364"
+        ]
+      },
+      "OverviewId": 10,
+      "Size": 8212,
+      "Publishers": [
+        "MB",
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "ReleaseDate": "5/5/1982",
+      "Genres": [
+        "Sports"
+      ],
+      "Regions": [
+        "MB"
+      ]
+    },
+    {
+      "Titles": [
+        "Clean Sweep"
+      ],
+      "Sha1": "25898388304ec608cfb2207e2757fcd2fc4f296b",
+      "Crc32": "d2a6b4d3",
+      "SetNames": {
+        "TOSEC": [
+          "Clean Sweep (1982)(GCE)[b]"
+        ],
+        "TGDB": [
+          "32365"
+        ]
+      },
+      "OverviewId": 11,
+      "Size": 4148,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "ReleaseDate": "5/4/1982",
+      "Genres": [
+        "Action",
+        "Puzzle"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Dark Tower"
+      ],
+      "Sha1": "eb15f5c90c7c312a799816aa9f69c6fc27063ece",
+      "Crc32": "d3c252c5",
+      "SetNames": {
+        "TOSEC": [
+          "Dark Tower (1983)(GCE)(proto)[64k]"
+        ],
+        "TGDB": [
+          "32682"
+        ]
+      },
+      "OverviewId": 13,
+      "Size": 8192,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Genres": [
+        "Adventure",
+        "Role-Playing"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "Dark Tower"
+      ],
+      "Sha1": "c3f305fe0e28de4d5cd82690ec4d457a34c5b159",
+      "Crc32": "5de945a1",
+      "SetNames": {
+        "TOSEC": [
+          "Dark Tower (1983)(GCE)(proto)[b]"
+        ],
+        "TGDB": [
+          "32682"
+        ]
+      },
+      "OverviewId": 13,
+      "Size": 12322,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Genres": [
+        "Adventure",
+        "Role-Playing"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump",
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "Dark Tower"
+      ],
+      "Sha1": "75f91fd2c1ef43dcc8f215da3bb992fe8c21f48b",
+      "Crc32": "5107c081",
+      "SetNames": {
+        "TOSEC": [
+          "Dark Tower (1983)(GCE)(proto)[b][Req 32k]"
+        ],
+        "TGDB": [
+          "32682"
+        ]
+      },
+      "OverviewId": 13,
+      "Size": 4096,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Genres": [
+        "Adventure",
+        "Role-Playing"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump",
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "Dark Tower"
+      ],
+      "Sha1": "fbfd58464d42986d10f1b37f321071ec74525469",
+      "Crc32": "09f51459",
+      "SetNames": {
+        "TOSEC": [
+          "Dark Tower (1983)(GCE)(proto)[h Fred Taft]"
+        ],
+        "TGDB": [
+          "32682"
+        ]
+      },
+      "OverviewId": 13,
+      "Size": 12288,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Genres": [
+        "Adventure",
+        "Role-Playing"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Hacked",
+        "proto"
+      ]
+    },
+    {
+      "Titles": [
+        "Disc Duel"
+      ],
+      "Sha1": "e81f3e64cca103f64f78757c0bc563520ed41307",
+      "Crc32": "2e54332e",
+      "SetNames": {
+        "TOSEC": [
+          "Disc Duel (demo) (1997)(-)(PD)"
+        ]
+      },
+      "Size": 4548,
+      "Publishers": [
+        "-"
+      ],
+      "ReleaseDate": "1/1/1997",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "demo"
+      ]
+    },
+    {
+      "Titles": [
+        "Fortress of Narzod"
+      ],
+      "Sha1": "f7d289918d5a7856885cfa55a7a77abf04f4f048",
+      "Crc32": "c56ddc79",
+      "SetNames": {
+        "TOSEC": [
+          "Fortress of Narzod (1982)(GCE)[b]"
+        ],
+        "TGDB": [
+          "32367"
+        ]
+      },
+      "OverviewId": 15,
+      "Size": 8217,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "ReleaseDate": "5/6/1982",
+      "Genres": [
+        "Adventure"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Gravitrex",
+        "Gravitrex Plus",
+        "Gravitrex by John Dondzila"
+      ],
+      "Sha1": "4120a657ce2a702371d09fe7fd58dc9cc4b7e5cb",
+      "Crc32": "83b06492",
+      "SetNames": {
+        "TOSEC": [
+          "Gravitrex (2002)(Dondzila, John)(PD)"
+        ],
+        "TGDB": [
+          "37532"
+        ]
+      },
+      "OverviewId": 39,
+      "Size": 32768,
+      "Publishers": [
+        "Dondzila, John",
+        "Packrat Video Games"
+      ],
+      "Developers": [
+        "John Dondzila"
+      ],
+      "ReleaseDate": "1/1/2002",
+      "ESRB": "E",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Heads Up - Action Soccer"
+      ],
+      "Sha1": "5e8f6f9e9c6c6f784b910773ca387048a5941726",
+      "Crc32": "05bb5c7e",
+      "SetNames": {
+        "TOSEC": [
+          "Heads Up - Action Soccer (1983)(GCE)[b]"
+        ]
+      },
+      "Size": 8223,
+      "Publishers": [
+        "GCE"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Hyperchase"
+      ],
+      "Sha1": "1c79e8a995f814ce2c0273139089dd99575f5610",
+      "Crc32": "c7f86149",
+      "SetNames": {
+        "TOSEC": [
+          "Hyperchase (1982)(GCE)[b]"
+        ]
+      },
+      "Size": 4121,
+      "Publishers": [
+        "GCE"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Labyrinth"
+      ],
+      "Sha1": "9060ce5ceed5163ea905e857fe5847f4d132438a",
+      "Crc32": "7525e02a",
+      "SetNames": {
+        "TOSEC": [
+          "Labyrinth Rev 1 (1998)(Salomon, Christopher)(PD)"
+        ]
+      },
+      "Size": 3944,
+      "Publishers": [
+        "Salomon, Christopher"
+      ],
+      "ReleaseDate": "1/1/1998",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Labyrinth"
+      ],
+      "Sha1": "139891ccaf0fc7c4ce0d24f05b2999498eac3f66",
+      "Crc32": "05d5ea98",
+      "SetNames": {
+        "TOSEC": [
+          "Labyrinth Rev 2 (1998)(Salomon, Christopher)(PD)"
+        ]
+      },
+      "Size": 15026,
+      "Publishers": [
+        "Salomon, Christopher"
+      ],
+      "ReleaseDate": "1/1/1998",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Labyrinth"
+      ],
+      "Sha1": "d20129539b4104e73041baa2a84c0a1cf6cc48f4",
+      "Crc32": "f3494cfa",
+      "SetNames": {
+        "TOSEC": [
+          "Labyrinth Rev 3 (1998)(Salomon, Christopher)(PD)"
+        ]
+      },
+      "Size": 12760,
+      "Publishers": [
+        "Salomon, Christopher"
+      ],
+      "ReleaseDate": "1/1/1998",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Labyrinth - Vector Rouge"
+      ],
+      "Sha1": "80cf22643f6e4c5e3d9dc725ecd70d8dc7c283d9",
+      "Crc32": "c6e46807",
+      "SetNames": {
+        "TOSEC": [
+          "Labyrinth Rev 4 - Vector Rouge (1998)(Salomon, Christopher)(PD)"
+        ]
+      },
+      "Size": 13913,
+      "Publishers": [
+        "Salomon, Christopher"
+      ],
+      "ReleaseDate": "1/1/1998",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Lunar Lander"
+      ],
+      "Sha1": "4318d453257b35991b926fbef824348088a631f3",
+      "Crc32": "67ed5845",
+      "SetNames": {
+        "TOSEC": [
+          "Lunar Lander (demo) (19xx)(Landspurg, Thomas)(PD)"
+        ]
+      },
+      "Size": 1216,
+      "Publishers": [
+        "Landspurg, Thomas"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "demo"
+      ]
+    },
+    {
+      "Titles": [
+        "Magic 8 Ball"
+      ],
+      "Sha1": "1a4343635345ec0ac45ac5a5a72d3118c53134aa",
+      "Crc32": "8957ed6b",
+      "SetNames": {
+        "TOSEC": [
+          "Magic 8 Ball (2001)(Tumber, Christopher)"
+        ]
+      },
+      "Size": 1805,
+      "Publishers": [
+        "Tumber, Christopher"
+      ],
+      "ReleaseDate": "1/1/2001",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Manu's Incomplete Games - Volume 1 - Nonagalf"
+      ],
+      "Sha1": "d4680b4188e550931d198c12c244b8e32a420c28",
+      "Crc32": "cd49f149",
+      "SetNames": {
+        "TOSEC": [
+          "Manu's Incomplete Games - Volume 1 - Nonagalf (2003)(Parssinen, Manu)(PD)"
+        ]
+      },
+      "Size": 7665,
+      "Publishers": [
+        "Parssinen, Manu"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Manu's Incomplete Games - Volume 2 - VecSports Kingpin"
+      ],
+      "Sha1": "f03a9f4075881a32f30cb926f651f14bade85995",
+      "Crc32": "29d083e3",
+      "SetNames": {
+        "TOSEC": [
+          "Manu's Incomplete Games - Volume 2 - VecSports Kingpin (2002)(Parssinen, Manu)(PD)"
+        ]
+      },
+      "Size": 6504,
+      "Publishers": [
+        "Parssinen, Manu"
+      ],
+      "ReleaseDate": "1/1/2002",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Manu's Incomplete Games - Volume 3 - B.E.T.H."
+      ],
+      "Sha1": "8a15a82ca8856a422d4824e961b0395f1224946d",
+      "Crc32": "3a74fd7e",
+      "SetNames": {
+        "TOSEC": [
+          "Manu's Incomplete Games - Volume 3 - B.E.T.H. (200x)(Parssinen, Manu)(PD)"
+        ]
+      },
+      "Size": 8156,
+      "Publishers": [
+        "Parssinen, Manu"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Manu's Incomplete Games - Volume 4 - Yoehl - Saga of Pathrk"
+      ],
+      "Sha1": "aff1e9b2a1ef1fa5e4422875e771df225bc5dfeb",
+      "Crc32": "e0f3e1df",
+      "SetNames": {
+        "TOSEC": [
+          "Manu's Incomplete Games - Volume 4 - Yoehl - Saga of Pathrk (200x)(Parssinen, Manu)(PD)"
+        ]
+      },
+      "Size": 2981,
+      "Publishers": [
+        "Parssinen, Manu"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Manu's Incomplete Games - Volume 5 - Ztagger"
+      ],
+      "Sha1": "a19302b9539275ebfa680d4102bb2ee0bc5d6789",
+      "Crc32": "4e97c168",
+      "SetNames": {
+        "TOSEC": [
+          "Manu's Incomplete Games - Volume 5 - Ztagger (200x)(Parssinen, Manu)(PD)"
+        ]
+      },
+      "Size": 2575,
+      "Publishers": [
+        "Parssinen, Manu"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Mike's Molecules"
+      ],
+      "Sha1": "b2432b5fdad1c4c1043edd647a26a4b76376b763",
+      "Crc32": "c6ed30ab",
+      "SetNames": {
+        "TOSEC": [
+          "Mike's Molecules (demo) (1985)(Blackwell, Mike)(PD)"
+        ]
+      },
+      "Size": 512,
+      "Publishers": [
+        "Blackwell, Mike"
+      ],
+      "ReleaseDate": "1/1/1985",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "demo"
+      ]
+    },
+    {
+      "Titles": [
+        "Mike's Molecules"
+      ],
+      "Sha1": "0699ce4d4f79c1c372d643510a61ac43c02280da",
+      "Crc32": "bcc59075",
+      "SetNames": {
+        "TOSEC": [
+          "Mike's Molecules (demo) (1985)(Blackwell, Mike)(PD)[a]"
+        ]
+      },
+      "Size": 333,
+      "Publishers": [
+        "Blackwell, Mike"
+      ],
+      "ReleaseDate": "1/1/1985",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Alternate",
+        "demo"
+      ]
+    },
+    {
+      "Titles": [
+        "Mike's Molecules"
+      ],
+      "Sha1": "164d1dc97e2c7e9d1d1e1ef0651a0ee6bfa32bde",
+      "Crc32": "611cf078",
+      "SetNames": {
+        "TOSEC": [
+          "Mike's Molecules (demo) (1985)(Blackwell, Mike)(PD)[b]"
+        ]
+      },
+      "Size": 513,
+      "Publishers": [
+        "Blackwell, Mike"
+      ],
+      "ReleaseDate": "1/1/1985",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump",
+        "demo"
+      ]
+    },
+    {
+      "Titles": [
+        "Mine Storm"
+      ],
+      "Sha1": "e0900be6d6858b985fd7f0999d864b2fceaf01a1",
+      "Crc32": "a6e4dac4",
+      "SetNames": {
+        "TOSEC": [
+          "Mine Storm (1982)(GCE)[h Karrsoft]"
+        ],
+        "TGDB": [
+          "32725"
+        ]
+      },
+      "OverviewId": 1,
+      "Size": 8192,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "ReleaseDate": "11/5/1982",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Hacked"
+      ]
+    },
+    {
+      "Titles": [
+        "Mine Storm"
+      ],
+      "Sha1": "a96144bb36a94eb0a2f981701213ce59791185d1",
+      "Crc32": "410d7d82",
+      "SetNames": {
+        "TOSEC": [
+          "Mine Storm (1982)(GCE)[h RLB]"
+        ],
+        "TGDB": [
+          "32725"
+        ]
+      },
+      "OverviewId": 1,
+      "Size": 4096,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "ReleaseDate": "11/5/1982",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Hacked"
+      ]
+    },
+    {
+      "Titles": [
+        "Mine Storm"
+      ],
+      "Sha1": "75b70b679ac65d297dc9520a3fef08cabf8bc526",
+      "Crc32": "36263b03",
+      "SetNames": {
+        "TOSEC": [
+          "Mine Storm (1982)(GCE)[h RLB][b]"
+        ],
+        "TGDB": [
+          "32725"
+        ]
+      },
+      "OverviewId": 1,
+      "Size": 4121,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "ReleaseDate": "11/5/1982",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Hacked",
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Mine Storm"
+      ],
+      "Sha1": "f6a50dc6d7dbb1017b3461bcd9f3304f10a88f86",
+      "Crc32": "6e0fcd2a",
+      "SetNames": {
+        "TOSEC": [
+          "Mine Storm (1982)(GCE)[h RLB][o2][b]"
+        ],
+        "TGDB": [
+          "32725"
+        ]
+      },
+      "OverviewId": 1,
+      "Size": 8217,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "ReleaseDate": "11/5/1982",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Hacked",
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Mine Storm"
+      ],
+      "Sha1": "c6c40b4f56d6f84cb64758d00a745496e3e81d68",
+      "Crc32": "65d9ad00",
+      "SetNames": {
+        "TOSEC": [
+          "Mine Storm (1982)(GCE)[h RLB][o]"
+        ],
+        "TGDB": [
+          "32725"
+        ]
+      },
+      "OverviewId": 1,
+      "Size": 8192,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "ReleaseDate": "11/5/1982",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Hacked",
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Mine Storm"
+      ],
+      "Sha1": "e881db60389f8c2fb6c1be7ed8dddb375b768578",
+      "Crc32": "3c535de3",
+      "SetNames": {
+        "TOSEC": [
+          "Mine Storm (1982)(GCE)[h RLB][o][b]"
+        ],
+        "TGDB": [
+          "32725"
+        ]
+      },
+      "OverviewId": 1,
+      "Size": 8217,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "ReleaseDate": "11/5/1982",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Hacked",
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Mine Storm"
+      ],
+      "Sha1": "1142f7570efccd7d03b4f5a64472534303bfcfdf",
+      "Crc32": "fd74f4d6",
+      "SetNames": {
+        "TOSEC": [
+          "Mine Storm (1982)(GCE)[h]"
+        ],
+        "TGDB": [
+          "32725"
+        ]
+      },
+      "OverviewId": 1,
+      "Size": 8192,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "ReleaseDate": "11/5/1982",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Hacked"
+      ]
+    },
+    {
+      "Titles": [
+        "Mine Storm II",
+        "Mine Storm 2",
+        "3D Mine Storm"
+      ],
+      "Sha1": "62469ad35eafd546f595b3f98468e0ad30cc6cd0",
+      "Crc32": "c06dba91",
+      "SetNames": {
+        "TOSEC": [
+          "Mine Storm II (1983)(-)[h][spinner controller]"
+        ],
+        "TGDB": [
+          "32685"
+        ]
+      },
+      "OverviewId": 3,
+      "Size": 4220,
+      "Publishers": [
+        "-",
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Hacked"
+      ]
+    },
+    {
+      "Titles": [
+        "Mine Storm v2.00"
+      ],
+      "Sha1": "b456780dfbb2a5ec46feb7eba05d3b1c0f589b1b",
+      "Crc32": "8b310d4b",
+      "SetNames": {
+        "TOSEC": [
+          "Mine Storm v2.00 (1998)(Salomon, Christopher)(PD)"
+        ]
+      },
+      "Size": 4538,
+      "Publishers": [
+        "Salomon, Christopher"
+      ],
+      "ReleaseDate": "1/1/1998",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Missile Lords"
+      ],
+      "Sha1": "afd01651101e21de5afbf3fc493f6ad51deb007f",
+      "Crc32": "8d39abc5",
+      "SetNames": {
+        "TOSEC": [
+          "Missile Lords (2001)(Tumber, Christopher)(PD)"
+        ]
+      },
+      "Size": 8685,
+      "Publishers": [
+        "Tumber, Christopher"
+      ],
+      "ReleaseDate": "1/1/2001",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Moon Lander"
+      ],
+      "Sha1": "0758bfd187b449ff0111bd637ecebd33ea326bae",
+      "Crc32": "55a79111",
+      "SetNames": {
+        "TOSEC": [
+          "Moon Lander (demo) (1997)(Clay Cowgill)(PD)"
+        ],
+        "TGDB": [
+          "32683"
+        ]
+      },
+      "Size": 8700,
+      "Publishers": [
+        "Clay Cowgill",
+        "Self-Published"
+      ],
+      "Developers": [
+        "Clay Cowgill",
+        "Chris Salomon"
+      ],
+      "ReleaseDate": "1/1/1997",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "demo"
+      ]
+    },
+    {
+      "Titles": [
+        "Moon Lander"
+      ],
+      "Sha1": "7c0752c24b3645b716337b57fe6f4bc4064e9eb0",
+      "Crc32": "8617c304",
+      "SetNames": {
+        "TOSEC": [
+          "Moon Lander (demo) (1997)(Clay Cowgill)(PD)[a]"
+        ],
+        "MESS": [
+          "moonland"
+        ],
+        "TGDB": [
+          "32683"
+        ]
+      },
+      "Size": 32768,
+      "Publishers": [
+        "Clay Cowgill",
+        "homebrew",
+        "Self-Published"
+      ],
+      "Developers": [
+        "Clay Cowgill",
+        "Chris Salomon"
+      ],
+      "ReleaseDate": "1/1/1997",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Alternate",
+        "demo"
+      ]
+    },
+    {
+      "Titles": [
+        "Narrow Escape 2-D"
+      ],
+      "Sha1": "34515c515f11afa2f57d4b03d5c213828158b3d5",
+      "Crc32": "1eda284c",
+      "SetNames": {
+        "TOSEC": [
+          "Narrow Escape 2-D (1983)(GCE)"
+        ]
+      },
+      "Size": 7573,
+      "Publishers": [
+        "GCE"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Nebula Commander"
+      ],
+      "Sha1": "7fde2967b0a373a1a18462b7416811d127502c15",
+      "Crc32": "a97f6c31",
+      "SetNames": {
+        "TOSEC": [
+          "Nebula Commander (2005)(Aker, Craig)(PD)"
+        ],
+        "MESS": [
+          "nebula"
+        ],
+        "TGDB": [
+          "37544"
+        ]
+      },
+      "OverviewId": 40,
+      "Size": 8192,
+      "Publishers": [
+        "Aker, Craig",
+        "homebrew",
+        "Packrat Video Games"
+      ],
+      "Developers": [
+        "Craig Aker"
+      ],
+      "ReleaseDate": "1/1/2005",
+      "ESRB": "E",
+      "Genres": [
+        "Strategy"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Nonagalf"
+      ],
+      "Sha1": "0a01f3991ddc555095a198269d075e3466811f9b",
+      "Crc32": "c7ffec5f",
+      "SetNames": {
+        "TOSEC": [
+          "Nonagalf (2003-03-10)(Parssinen, Manu)(PD)"
+        ]
+      },
+      "Size": 7436,
+      "Publishers": [
+        "Parssinen, Manu"
+      ],
+      "ReleaseDate": "3/10/2003",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Omega Chase",
+        "Omega Chase Deluxe"
+      ],
+      "Sha1": "c390f580f841b2702274565521385879b8d9fd1a",
+      "Crc32": "1ae8e788",
+      "SetNames": {
+        "TOSEC": [
+          "Omega Chase (1998)(Tumber, Christopher)(PD)"
+        ],
+        "TGDB": [
+          "32687"
+        ]
+      },
+      "Size": 16361,
+      "Publishers": [
+        "Tumber, Christopher",
+        "Self-Published"
+      ],
+      "Developers": [
+        "Chris Tumber"
+      ],
+      "ReleaseDate": "1/1/1998",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Omega Chase",
+        "Omega Chase Deluxe"
+      ],
+      "Sha1": "00ba347f71cccd6d38f012263b75fa6d17b0603c",
+      "Crc32": "9b4d0540",
+      "SetNames": {
+        "TOSEC": [
+          "Omega Chase (1998)(Tumber, Christopher)(PD)[final]"
+        ],
+        "TGDB": [
+          "32687"
+        ]
+      },
+      "Size": 16913,
+      "Publishers": [
+        "Tumber, Christopher",
+        "Self-Published"
+      ],
+      "Developers": [
+        "Chris Tumber"
+      ],
+      "ReleaseDate": "1/1/1998",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Paratroopers"
+      ],
+      "Sha1": "fc8918a8941b83e7f03ce3d9c4ea237bee6ce948",
+      "Crc32": "971076c8",
+      "SetNames": {
+        "TOSEC": [
+          "Paratroopers (2002)(Dondzila, John)(PD)"
+        ]
+      },
+      "Size": 1565,
+      "Publishers": [
+        "Dondzila, John"
+      ],
+      "ReleaseDate": "1/1/2002",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Patriots",
+        "Patriots by John Dondzila"
+      ],
+      "Sha1": "228dc86174f12aca8717b4fc782049b9e1a56c30",
+      "Crc32": "f0073328",
+      "SetNames": {
+        "TOSEC": [
+          "Patriots (1996)(Dondzila, John)(PD)"
+        ],
+        "TGDB": [
+          "37533"
+        ]
+      },
+      "OverviewId": 41,
+      "Size": 8169,
+      "Publishers": [
+        "Dondzila, John",
+        "Packrat Video Games"
+      ],
+      "Developers": [
+        "John Dondzila"
+      ],
+      "ReleaseDate": "1/1/1996",
+      "ESRB": "E",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Patriots",
+        "Patriots by John Dondzila"
+      ],
+      "Sha1": "481aa3b761f34747fe769c8420564e4f37529c26",
+      "Crc32": "7d709da2",
+      "SetNames": {
+        "TOSEC": [
+          "Patriots (1996)(Dondzila, John)(PD)[a]"
+        ],
+        "MESS": [
+          "patriots"
+        ],
+        "TGDB": [
+          "37533"
+        ]
+      },
+      "OverviewId": 41,
+      "Size": 8192,
+      "Publishers": [
+        "Dondzila, John",
+        "homebrew",
+        "Packrat Video Games"
+      ],
+      "Developers": [
+        "John Dondzila"
+      ],
+      "ReleaseDate": "1/1/1996",
+      "ESRB": "E",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Alternate"
+      ]
+    },
+    {
+      "Titles": [
+        "Patriots",
+        "Patriots by John Dondzila"
+      ],
+      "Sha1": "23f8ea355bc8335f4c0b57fed25bced324c12374",
+      "Crc32": "1417f83c",
+      "SetNames": {
+        "TOSEC": [
+          "Patriots (1996)(Dondzila, John)(PD)[b]"
+        ],
+        "TGDB": [
+          "37533"
+        ]
+      },
+      "OverviewId": 41,
+      "Size": 8190,
+      "Publishers": [
+        "Dondzila, John",
+        "Packrat Video Games"
+      ],
+      "Developers": [
+        "John Dondzila"
+      ],
+      "ReleaseDate": "1/1/1996",
+      "ESRB": "E",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Patriots III - BALListics Busters"
+      ],
+      "Sha1": "b9dc68ef0f573476518f6f543641c67a3fe4cded",
+      "Crc32": "58452261",
+      "SetNames": {
+        "TOSEC": [
+          "Patriots III - BALListics Busters (1996)(Dondzila, John)(PD)"
+        ]
+      },
+      "Size": 2345,
+      "Publishers": [
+        "Dondzila, John"
+      ],
+      "ReleaseDate": "1/1/1996",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Patriots III - BALListics Busters"
+      ],
+      "Sha1": "3e8ffd3f569c69dd4aa647aa8f392ea338fefe42",
+      "Crc32": "d783de03",
+      "SetNames": {
+        "TOSEC": [
+          "Patriots III - BALListics Busters (2002)(Dondzila, John)(PD)"
+        ]
+      },
+      "Size": 16384,
+      "Publishers": [
+        "Dondzila, John"
+      ],
+      "ReleaseDate": "1/1/2002",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Patriots Remix"
+      ],
+      "Sha1": "6ce0dd588c93ba50a6f81f60180f2a4a8002830d",
+      "Crc32": "45cef85b",
+      "SetNames": {
+        "TOSEC": [
+          "Patriots Remix (1996)(Dondzila, John)(PD)"
+        ],
+        "TGDB": [
+          "37535"
+        ]
+      },
+      "OverviewId": 42,
+      "Size": 8393,
+      "Publishers": [
+        "Dondzila, John",
+        "Packrat Video Games"
+      ],
+      "Developers": [
+        "John Dondzila"
+      ],
+      "ReleaseDate": "1/1/1999",
+      "ESRB": "E",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Polar Rescue"
+      ],
+      "Sha1": "a990578e7b3fb3d6a81a3d4e534898609dd41c13",
+      "Crc32": "82dbbb6e",
+      "SetNames": {
+        "TOSEC": [
+          "Polar Rescue (1983)(GCE)[b]"
+        ],
+        "TGDB": [
+          "32688"
+        ]
+      },
+      "OverviewId": 21,
+      "Size": 8252,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "ReleaseDate": "5/5/1983",
+      "Genres": [
+        "Adventure"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Polar Rescue"
+      ],
+      "Sha1": "fec113dfd3931f14a6e7cad225571860f9a7221f",
+      "Crc32": "4fdfdc80",
+      "SetNames": {
+        "TOSEC": [
+          "Polar Rescue (1983)(GCE)[o][a]"
+        ],
+        "TGDB": [
+          "32688"
+        ]
+      },
+      "OverviewId": 21,
+      "Size": 32768,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "ReleaseDate": "5/5/1983",
+      "Genres": [
+        "Adventure"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump",
+        "Alternate"
+      ]
+    },
+    {
+      "Titles": [
+        "Pole Position",
+        "Pole Position Vectrex"
+      ],
+      "Sha1": "0c64fa53d87a199200d8fffe10c89c25a0d8ba27",
+      "Crc32": "b4906cc6",
+      "SetNames": {
+        "TOSEC": [
+          "Pole Position (1983)(GCE)[b]"
+        ],
+        "TGDB": [
+          "32689"
+        ]
+      },
+      "OverviewId": 22,
+      "Size": 8208,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "Namco"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Pole Position",
+        "Pole Position Vectrex"
+      ],
+      "Sha1": "4bb008ea3129b22b9827178d7a9de2c468658f2f",
+      "Crc32": "addc25e4",
+      "SetNames": {
+        "TOSEC": [
+          "Pole Position (1983)(GCE)[h][spinner controller]"
+        ],
+        "TGDB": [
+          "32689"
+        ]
+      },
+      "OverviewId": 22,
+      "Size": 8411,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "Namco"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Hacked"
+      ]
+    },
+    {
+      "Titles": [
+        "Pop"
+      ],
+      "Sha1": "5608ced5aa8b4c1e8bdd23784b46aaa698cb2874",
+      "Crc32": "c999f9c5",
+      "SetNames": {
+        "TOSEC": [
+          "Pop (demo) (19xx)(Tumber, Christopher)(PD)"
+        ]
+      },
+      "Size": 3419,
+      "Publishers": [
+        "Tumber, Christopher"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "demo"
+      ]
+    },
+    {
+      "Titles": [
+        "Repulse",
+        "Repulse by John Dondzila"
+      ],
+      "Sha1": "993d03e92844ba56d07819d9e062e4db9c924d17",
+      "Crc32": "4c4d1786",
+      "SetNames": {
+        "TOSEC": [
+          "Repulse (1999)(Dondzila, John)(PD)"
+        ],
+        "TGDB": [
+          "37534"
+        ]
+      },
+      "OverviewId": 43,
+      "Size": 6073,
+      "Publishers": [
+        "Dondzila, John",
+        "Packrat Video Games"
+      ],
+      "Developers": [
+        "John Dondzila"
+      ],
+      "ReleaseDate": "1/1/1999",
+      "ESRB": "E",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Revector"
+      ],
+      "Sha1": "d0db028d166997667fb2bd5363f16ce058dcca5d",
+      "Crc32": "69dba2be",
+      "SetNames": {
+        "TOSEC": [
+          "Revector (2004)(Aker, Craig)(PD)"
+        ],
+        "MESS": [
+          "revector"
+        ],
+        "TGDB": [
+          "37547"
+        ]
+      },
+      "OverviewId": 44,
+      "Size": 16384,
+      "Publishers": [
+        "Aker, Craig",
+        "homebrew",
+        "Packrat Video Games"
+      ],
+      "Developers": [
+        "Craig Aker"
+      ],
+      "ReleaseDate": "1/1/2004",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Rip-Off",
+        "Rip Off",
+        "RipOff"
+      ],
+      "Sha1": "c8f9bef26068134f501819e423f01b73c27a4893",
+      "Crc32": "3aa38de0",
+      "SetNames": {
+        "TOSEC": [
+          "Rip-Off (1982)(GCE)[b]"
+        ],
+        "TGDB": [
+          "32726"
+        ]
+      },
+      "OverviewId": 24,
+      "Size": 4132,
+      "Publishers": [
+        "GCE",
+        "Cinematronics"
+      ],
+      "Developers": [
+        "Tim Skelly"
+      ],
+      "ReleaseDate": "11/4/1982",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Rockaroids Remix - 3rd Rock",
+        "Rockaroids Remix",
+        "Rockaroids Remix by John Dondzila",
+        "Rockaroids Remix - 3rd rock"
+      ],
+      "Sha1": "0a82ca2ace9db627829dd4b5e2390e8d3614ad7d",
+      "Crc32": "e8d3bbc2",
+      "SetNames": {
+        "TOSEC": [
+          "Rockaroids Remix - 3rd Rock (1996)(Dondzila, John)(PD)"
+        ],
+        "TGDB": [
+          "37536"
+        ]
+      },
+      "OverviewId": 45,
+      "Size": 4245,
+      "Publishers": [
+        "Dondzila, John",
+        "Packrat Video Games"
+      ],
+      "Developers": [
+        "John Dondzila"
+      ],
+      "ReleaseDate": "1/1/1998",
+      "ESRB": "E",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Rockaroids Remix - 3rd Rock",
+        "Rockaroids Remix",
+        "Rockaroids Remix by John Dondzila",
+        "Rockaroids Remix - 3rd rock"
+      ],
+      "Sha1": "a10ffb6efdf32a63f7c4da8bb0b7f8d5fd6cdb98",
+      "Crc32": "d1e0268f",
+      "SetNames": {
+        "TOSEC": [
+          "Rockaroids Remix - 3rd Rock (1996)(Dondzila, John)(PD)[a]"
+        ],
+        "MESS": [
+          "rockremx"
+        ],
+        "TGDB": [
+          "37536"
+        ]
+      },
+      "OverviewId": 45,
+      "Size": 4096,
+      "Publishers": [
+        "Dondzila, John",
+        "homebrew",
+        "Packrat Video Games"
+      ],
+      "Developers": [
+        "John Dondzila"
+      ],
+      "ReleaseDate": "1/1/1998",
+      "ESRB": "E",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Alternate"
+      ]
+    },
+    {
+      "Titles": [
+        "Rounders"
+      ],
+      "Sha1": "f521611b349ab2bda09440dfad4e8dd454d7dea2",
+      "Crc32": "f2f08482",
+      "SetNames": {
+        "TOSEC": [
+          "Rounders (demo) (2001-02-24)(Habot, Ronen)"
+        ]
+      },
+      "Size": 9630,
+      "Publishers": [
+        "Habot, Ronen"
+      ],
+      "ReleaseDate": "2/24/2001",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "demo"
+      ]
+    },
+    {
+      "Titles": [
+        "Scramble"
+      ],
+      "Sha1": "7901a6e6dba40f3a21bf17f313d27713726891c4",
+      "Crc32": "686f0169",
+      "SetNames": {
+        "TOSEC": [
+          "Scramble (1982)(GCE)[b]"
+        ],
+        "TGDB": [
+          "32727"
+        ]
+      },
+      "OverviewId": 25,
+      "Size": 4155,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "Konami"
+      ],
+      "ReleaseDate": "11/3/1982",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Solar Quest"
+      ],
+      "Sha1": "78e5629348d2731d76e2614432748c6e19105d60",
+      "Crc32": "e8b9db6d",
+      "SetNames": {
+        "TOSEC": [
+          "Solar Quest (1982)(-)[h][spinner controller]"
+        ],
+        "TGDB": [
+          "32728"
+        ]
+      },
+      "OverviewId": 27,
+      "Size": 4227,
+      "Publishers": [
+        "-",
+        "Cinematronics"
+      ],
+      "Developers": [
+        "Cinematronics"
+      ],
+      "ReleaseDate": "11/17/1982",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Hacked"
+      ]
+    },
+    {
+      "Titles": [
+        "Solar Quest"
+      ],
+      "Sha1": "92d26f1a4dfc11bf724f57a1d8863b6a1b2a3ff2",
+      "Crc32": "80d29fe9",
+      "SetNames": {
+        "TOSEC": [
+          "Solar Quest (1982)(GCE)[b]"
+        ],
+        "TGDB": [
+          "32728"
+        ]
+      },
+      "OverviewId": 27,
+      "Size": 4118,
+      "Publishers": [
+        "GCE",
+        "Cinematronics"
+      ],
+      "Developers": [
+        "Cinematronics"
+      ],
+      "ReleaseDate": "11/17/1982",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Space Frenzy"
+      ],
+      "Sha1": "b59668b3ba446abf964e6bba57063f86cbcedd7f",
+      "Crc32": "0766ef4c",
+      "SetNames": {
+        "TOSEC": [
+          "Space Frenzy (2006)(Dondzila, John)"
+        ],
+        "TGDB": [
+          "37540"
+        ]
+      },
+      "OverviewId": 46,
+      "Size": 27054,
+      "Publishers": [
+        "Dondzila, John",
+        "Packrat Video Games"
+      ],
+      "Developers": [
+        "John Dondzila"
+      ],
+      "ReleaseDate": "1/1/2006",
+      "ESRB": "E",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Space Frenzy v1.0"
+      ],
+      "Sha1": "50926f2dba0ce469e91775839f9ecaf7c123ec9d",
+      "Crc32": "4d05fda8",
+      "SetNames": {
+        "TOSEC": [
+          "Space Frenzy v1.0 (200x)(Dondzila, John)(beta)"
+        ]
+      },
+      "Size": 27129,
+      "Publishers": [
+        "Dondzila, John"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "beta"
+      ]
+    },
+    {
+      "Titles": [
+        "Space Wars"
+      ],
+      "Sha1": "f78d62da701372c92acbfabf622f8c011e45daae",
+      "Crc32": "1302f1cb",
+      "SetNames": {
+        "TOSEC": [
+          "Space Wars (1982)(GCE)[b]"
+        ],
+        "TGDB": [
+          "32799"
+        ]
+      },
+      "OverviewId": 28,
+      "Size": 4122,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "Cinematronics"
+      ],
+      "ReleaseDate": "5/5/1982",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Spike Goes Skiing"
+      ],
+      "Sha1": "ba48b40d4745b9cc2a0c1fb2e8d7c64057915049",
+      "Crc32": "d17ddc97",
+      "SetNames": {
+        "TOSEC": [
+          "Spike Goes Skiing (1998)(-)(PD)"
+        ],
+        "TGDB": [
+          "44337"
+        ]
+      },
+      "OverviewId": 47,
+      "Size": 2010,
+      "Publishers": [
+        "-"
+      ],
+      "ReleaseDate": "1/1/1998",
+      "Genres": [
+        "Sports"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Spike Goes Skiing v.03"
+      ],
+      "Sha1": "0c452f25fb3f42ae455b0fab9f5d621408fd0efa",
+      "Crc32": "de0c20ed",
+      "SetNames": {
+        "TOSEC": [
+          "Spike Goes Skiing v.03 (1998)(-)(PD)"
+        ]
+      },
+      "Size": 1841,
+      "Publishers": [
+        "-"
+      ],
+      "ReleaseDate": "1/1/1998",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Spike Hoppin'"
+      ],
+      "Sha1": "775d6e5fd438246a256f27a2a5145368ec7d2cbe",
+      "Crc32": "1c6b030e",
+      "SetNames": {
+        "TOSEC": [
+          "Spike Hoppin' (1998)(Dondzila, John)(PD)"
+        ],
+        "MESS": [
+          "spikehop"
+        ],
+        "TGDB": [
+          "32800"
+        ]
+      },
+      "Size": 16384,
+      "Publishers": [
+        "Dondzila, John",
+        "homebrew",
+        "Packrat Video Games"
+      ],
+      "Developers": [
+        "John Dondzila"
+      ],
+      "ReleaseDate": "1/1/1998",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Spike Hoppin'"
+      ],
+      "Sha1": "723aa7e0d0f301e899d6d5d44d2faca47d2ae42a",
+      "Crc32": "7e3359ea",
+      "SetNames": {
+        "TOSEC": [
+          "Spike Hoppin' (1998)(Dondzila, John)(PD)[b2]"
+        ],
+        "TGDB": [
+          "32800"
+        ]
+      },
+      "Size": 16446,
+      "Publishers": [
+        "Dondzila, John",
+        "Packrat Video Games"
+      ],
+      "Developers": [
+        "John Dondzila"
+      ],
+      "ReleaseDate": "1/1/1998",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Spike Hoppin'"
+      ],
+      "Sha1": "93e33ca1d276d62eedad646827cd1dbc5bca2f49",
+      "Crc32": "f487ab41",
+      "SetNames": {
+        "TOSEC": [
+          "Spike Hoppin' (1998)(Dondzila, John)(PD)[b]"
+        ],
+        "TGDB": [
+          "32800"
+        ]
+      },
+      "Size": 8216,
+      "Publishers": [
+        "Dondzila, John",
+        "Packrat Video Games"
+      ],
+      "Developers": [
+        "John Dondzila"
+      ],
+      "ReleaseDate": "1/1/1998",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Spike's Slam Pit"
+      ],
+      "Sha1": "62d1fbb2e0012916deba2623da31281951f9de9b",
+      "Crc32": "91b546dc",
+      "SetNames": {
+        "TOSEC": [
+          "Spike's Slam Pit (demo) (2001)(Gauze)(PD)"
+        ]
+      },
+      "Size": 1844,
+      "Publishers": [
+        "Gauze"
+      ],
+      "ReleaseDate": "1/1/2001",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "demo"
+      ]
+    },
+    {
+      "Titles": [
+        "Spike's Water Balloons",
+        "Spike's Water Balloons - Analog Version"
+      ],
+      "Sha1": "b83fa76da4e4bbe861be821c4eb78abd8c9657b9",
+      "Crc32": "95188f66",
+      "SetNames": {
+        "TOSEC": [
+          "Spike's Water Balloons (19xx)(Dondzila, John)(PD)[analog version]"
+        ],
+        "MESS": [
+          "spikewb"
+        ]
+      },
+      "Size": 2980,
+      "Publishers": [
+        "Dondzila, John",
+        "homebrew"
+      ],
+      "ReleaseDate": "1/1/2000",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Spinball",
+        "Spin Ball"
+      ],
+      "Sha1": "161db68a5c87653f87bb34e0bdd395fcbf0ce079",
+      "Crc32": "b1591c89",
+      "SetNames": {
+        "TOSEC": [
+          "Spinball (1983)(GCE)[b2]"
+        ],
+        "TGDB": [
+          "32798"
+        ]
+      },
+      "OverviewId": 30,
+      "Size": 8192,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "ReleaseDate": "5/12/1983",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Spinball",
+        "Spin Ball"
+      ],
+      "Sha1": "f1efee6d3e83200e0b52faa2851e2bcb99ae4931",
+      "Crc32": "8ae2b9a2",
+      "SetNames": {
+        "TOSEC": [
+          "Spinball (1983)(GCE)[b]"
+        ],
+        "TGDB": [
+          "32798"
+        ]
+      },
+      "OverviewId": 30,
+      "Size": 8221,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "ReleaseDate": "5/12/1983",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Star Castle"
+      ],
+      "Sha1": "12dc9716d7621555c8c2dfcf4646cadde9196909",
+      "Crc32": "66e1d134",
+      "SetNames": {
+        "TOSEC": [
+          "Star Castle (1983)(-)[h][spinner controller]"
+        ],
+        "TGDB": [
+          "32802"
+        ]
+      },
+      "OverviewId": 31,
+      "Size": 4220,
+      "Publishers": [
+        "-",
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "ReleaseDate": "5/3/1983",
+      "Genres": [
+        "Adventure"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Hacked"
+      ]
+    },
+    {
+      "Titles": [
+        "Star Castle"
+      ],
+      "Sha1": "6c60f4e2dbf962f71ec01f79e09295bcfa0273a0",
+      "Crc32": "b2ecdd85",
+      "SetNames": {
+        "TOSEC": [
+          "Star Castle (1983)(GCE)[b]"
+        ],
+        "TGDB": [
+          "32802"
+        ]
+      },
+      "OverviewId": 31,
+      "Size": 4120,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "ReleaseDate": "5/3/1983",
+      "Genres": [
+        "Adventure"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Star Fire Spirits"
+      ],
+      "Sha1": "f4d2a7a2ca4560e8e68bf87ff31e12ce4f8e1229",
+      "Crc32": "421cea28",
+      "SetNames": {
+        "TOSEC": [
+          "Star Fire Spirits (1999)(Dondzila, John)(PD)"
+        ],
+        "TGDB": [
+          "44338"
+        ]
+      },
+      "OverviewId": 48,
+      "Size": 8516,
+      "Publishers": [
+        "Dondzila, John",
+        "Packrat Video Games"
+      ],
+      "Developers": [
+        "John Dondzilla"
+      ],
+      "ReleaseDate": "1/1/1999",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Star Fire Spirits"
+      ],
+      "Sha1": "abf12b7798d790576aa2ae17bd9ed52e6f14b373",
+      "Crc32": "651d3afc",
+      "SetNames": {
+        "TOSEC": [
+          "Star Fire Spirits (1999)(Dondzila, John)(PD)[a]"
+        ],
+        "TGDB": [
+          "44338"
+        ]
+      },
+      "OverviewId": 48,
+      "Size": 8560,
+      "Publishers": [
+        "Dondzila, John",
+        "Packrat Video Games"
+      ],
+      "Developers": [
+        "John Dondzilla"
+      ],
+      "ReleaseDate": "1/1/1999",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Alternate"
+      ]
+    },
+    {
+      "Titles": [
+        "Star Hawk"
+      ],
+      "Sha1": "696b1a030c34a2caf1b021bd24407f753db10441",
+      "Crc32": "7e955785",
+      "SetNames": {
+        "TOSEC": [
+          "Star Hawk (1982)(GCE)[b]"
+        ]
+      },
+      "Size": 4113,
+      "Publishers": [
+        "GCE"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Star Trek - The Motion Picture",
+        "Star Trek"
+      ],
+      "Sha1": "21707811e544edae66ca076351bf0743842b46e5",
+      "Crc32": "563f846b",
+      "SetNames": {
+        "TOSEC": [
+          "Star Trek - The Motion Picture (1982)(GCE)[a]"
+        ],
+        "MESS": [
+          "startrekd"
+        ],
+        "TGDB": [
+          "32803"
+        ]
+      },
+      "OverviewId": 32,
+      "Size": 4096,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "CloneOf": "startrek",
+      "ReleaseDate": "1/1/1982",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Alternate"
+      ]
+    },
+    {
+      "Titles": [
+        "Star Trek - The Motion Picture",
+        "Star Trek"
+      ],
+      "Sha1": "f3d2fa2c1e78da1f615692631e09eee1e4be1884",
+      "Crc32": "e827ef51",
+      "SetNames": {
+        "TOSEC": [
+          "Star Trek - The Motion Picture (1982)(GCE)[b]"
+        ],
+        "TGDB": [
+          "32803"
+        ]
+      },
+      "OverviewId": 32,
+      "Size": 4096,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Star Trek - The Motion Picture",
+        "Star Trek"
+      ],
+      "Sha1": "a8cbab762eba29fbb532cffa37e140035e6eefa6",
+      "Crc32": "a0ecb4db",
+      "SetNames": {
+        "TOSEC": [
+          "Star Trek - The Motion Picture (1982)(GCE)[h][controller hack]"
+        ],
+        "TGDB": [
+          "32803"
+        ]
+      },
+      "OverviewId": 32,
+      "Size": 4137,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Hacked"
+      ]
+    },
+    {
+      "Titles": [
+        "Star Trek - The Motion Picture",
+        "Star Trek"
+      ],
+      "Sha1": "1a947684579d697c9600897639ee0edd2ed26a60",
+      "Crc32": "081f7c7c",
+      "SetNames": {
+        "TOSEC": [
+          "Star Trek - The Motion Picture (1982)(GCE)[o]"
+        ],
+        "TGDB": [
+          "32803"
+        ]
+      },
+      "OverviewId": 32,
+      "Size": 4126,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Star Wars Clone"
+      ],
+      "Sha1": "66ef12db183ae0443eb322bed71e0483b733bcab",
+      "Crc32": "0ccca430",
+      "SetNames": {
+        "TOSEC": [
+          "Star Wars Clone (19xx)(Dondzila, John)(PD)"
+        ]
+      },
+      "Size": 7326,
+      "Publishers": [
+        "Dondzila, John"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Thrust v1.01",
+        "Thrust"
+      ],
+      "Sha1": "451ba51be3f94b3a625627866877239aee61766d",
+      "Crc32": "569b50e7",
+      "SetNames": {
+        "TOSEC": [
+          "Thrust v1.01 (2004)(Krumlinde, Ville)(PD)"
+        ],
+        "MESS": [
+          "thrusta"
+        ],
+        "TGDB": [
+          "37548"
+        ]
+      },
+      "OverviewId": 49,
+      "Size": 32497,
+      "Publishers": [
+        "Krumlinde, Ville",
+        "homebrew",
+        "Packrat Video Games"
+      ],
+      "Developers": [
+        "Ville Krumlinde"
+      ],
+      "CloneOf": "thrust",
+      "ReleaseDate": "1/1/2004",
+      "ESRB": "E",
+      "Genres": [
+        "Strategy",
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Tsunami"
+      ],
+      "Sha1": "8c07f9db3b5eefb993efa36da08ca83dc645b162",
+      "Crc32": "db787558",
+      "SetNames": {
+        "TOSEC": [
+          "Tsunami (2001)(Tumber, Christopher)(PD)[a2]"
+        ]
+      },
+      "Size": 25431,
+      "Publishers": [
+        "Tumber, Christopher"
+      ],
+      "ReleaseDate": "1/1/2001",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Tsunami"
+      ],
+      "Sha1": "25c4cf4609566564d406b28aec7190eff45af2c8",
+      "Crc32": "c9f8e0de",
+      "SetNames": {
+        "TOSEC": [
+          "Tsunami (2001)(Tumber, Christopher)(PD)[a]"
+        ]
+      },
+      "Size": 21863,
+      "Publishers": [
+        "Tumber, Christopher"
+      ],
+      "ReleaseDate": "1/1/2001",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Alternate"
+      ]
+    },
+    {
+      "Titles": [
+        "Tsunami"
+      ],
+      "Sha1": "a9c1b8475d76bb3c1a1facb852b7a4c2d6dc72ab",
+      "Crc32": "cdccde30",
+      "SetNames": {
+        "TOSEC": [
+          "Tsunami (2002)(Tumber, Christopher)(PD)"
+        ]
+      },
+      "Size": 32633,
+      "Publishers": [
+        "Tumber, Christopher"
+      ],
+      "ReleaseDate": "1/1/2002",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Tsunami"
+      ],
+      "Sha1": "cab4882d9ed324926080dc56ca0dd39842692fde",
+      "Crc32": "cbabec97",
+      "SetNames": {
+        "TOSEC": [
+          "Tsunami (demo) (2001)(Tumber, Christopher)"
+        ]
+      },
+      "Size": 11407,
+      "Publishers": [
+        "Tumber, Christopher"
+      ],
+      "ReleaseDate": "1/1/2001",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "demo"
+      ]
+    },
+    {
+      "Titles": [
+        "V-Frogger",
+        "Vectrex Frogger",
+        "V Frogger",
+        "VFrogger"
+      ],
+      "Sha1": "7f014697309efca22f310448acb02c8e5da89c6a",
+      "Crc32": "9c5410be",
+      "SetNames": {
+        "TOSEC": [
+          "V-Frogger (1998)(Salomon, Christopher)(PD)"
+        ],
+        "MESS": [
+          "frogger"
+        ],
+        "TGDB": [
+          "37550"
+        ]
+      },
+      "OverviewId": 50,
+      "Size": 16384,
+      "Publishers": [
+        "Salomon, Christopher",
+        "homebrew"
+      ],
+      "Developers": [
+        "Christopher Salomon"
+      ],
+      "ReleaseDate": "1/1/1998",
+      "ESRB": "E",
+      "Genres": [
+        "Platform"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "V-Frogger",
+        "V Frogger",
+        "VFrogger"
+      ],
+      "Sha1": "7bd5c296866a3a7136a990e11f3126d19041b3ce",
+      "Crc32": "667e4029",
+      "SetNames": {
+        "TOSEC": [
+          "V-Frogger (1998)(Salomon, Christopher)(PD)[a]"
+        ],
+        "TGDB": [
+          "37550"
+        ]
+      },
+      "OverviewId": 50,
+      "Size": 16384,
+      "Publishers": [
+        "Salomon, Christopher"
+      ],
+      "Developers": [
+        "Christopher Salomon"
+      ],
+      "ReleaseDate": "1/1/1998",
+      "ESRB": "E",
+      "Genres": [
+        "Platform"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Alternate"
+      ]
+    },
+    {
+      "Titles": [
+        "V-Frogger",
+        "V Frogger",
+        "VFrogger"
+      ],
+      "Sha1": "eec5741ae85ae10e4a0ba78ef7ee29468b223140",
+      "Crc32": "9d971ee8",
+      "SetNames": {
+        "TOSEC": [
+          "V-Frogger (2001)(Salomon, Christopher - Woloch, Kurt)(PD)"
+        ],
+        "TGDB": [
+          "37550"
+        ]
+      },
+      "OverviewId": 50,
+      "Size": 16384,
+      "Publishers": [
+        "Salomon, Christopher - Woloch, Kurt"
+      ],
+      "Developers": [
+        "Christopher Salomon"
+      ],
+      "ReleaseDate": "1/1/2001",
+      "ESRB": "E",
+      "Genres": [
+        "Platform"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "VecFLASH - Memory v1.0"
+      ],
+      "Sha1": "907b004e554200973a5ae854194d023322c716eb",
+      "Crc32": "d880d295",
+      "SetNames": {
+        "TOSEC": [
+          "VecFLASH - Memory v1.0 (19xx)(Herbert, Alex)(PD)"
+        ]
+      },
+      "Size": 4074,
+      "Publishers": [
+        "Herbert, Alex"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Vecsports Boxing"
+      ],
+      "Sha1": "ae56133ffcbdecf5489af53c5238aacefa9d74db",
+      "Crc32": "1e29ec6b",
+      "SetNames": {
+        "TOSEC": [
+          "Vecsports Boxing (2002)(Parssinen, Manu)"
+        ]
+      },
+      "Size": 15245,
+      "Publishers": [
+        "Parssinen, Manu"
+      ],
+      "ReleaseDate": "1/1/2002",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Vecsports Boxing"
+      ],
+      "Sha1": "7fdacd5e2181b1b2150e74d3a66631dcbaa3abb6",
+      "Crc32": "083a2616",
+      "SetNames": {
+        "TOSEC": [
+          "Vecsports Boxing (demo) (2000)(Parssinen, Manu)(PD)"
+        ]
+      },
+      "Size": 1212,
+      "Publishers": [
+        "Parssinen, Manu"
+      ],
+      "ReleaseDate": "1/1/2000",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "demo"
+      ]
+    },
+    {
+      "Titles": [
+        "Vecsports Boxing"
+      ],
+      "Sha1": "d7ac5d05a905ad2717a3955c11ec85b7815f7f82",
+      "Crc32": "59119454",
+      "SetNames": {
+        "TOSEC": [
+          "Vecsports Boxing (demo) (2000)(Parssinen, Manu)(PD)[a]"
+        ]
+      },
+      "Size": 3090,
+      "Publishers": [
+        "Parssinen, Manu"
+      ],
+      "ReleaseDate": "1/1/2000",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Alternate",
+        "demo"
+      ]
+    },
+    {
+      "Titles": [
+        "VecSports Kingpin Bowling"
+      ],
+      "Sha1": "36b9b0bd65480a7e92eadc78b7a67dd369a2077f",
+      "Crc32": "3cde1fd5",
+      "SetNames": {
+        "TOSEC": [
+          "VecSports Kingpin Bowling (2002-08-19)(Parssinen, Manu)(PD)"
+        ]
+      },
+      "Size": 1031,
+      "Publishers": [
+        "Parssinen, Manu"
+      ],
+      "ReleaseDate": "8/19/2002",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "VecSports Kingpin Bowling v0.2"
+      ],
+      "Sha1": "7a0e691d49ab56dc7e67d5b093061040e51e5026",
+      "Crc32": "a1be9786",
+      "SetNames": {
+        "TOSEC": [
+          "VecSports Kingpin Bowling v0.2 (2002)(Parssinen, Manu)(PD)"
+        ]
+      },
+      "Size": 3448,
+      "Publishers": [
+        "Parssinen, Manu"
+      ],
+      "ReleaseDate": "1/1/2002",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "VecSports Kingpin Bowling v0.3"
+      ],
+      "Sha1": "b32fdda57a2a97afb7b3d25ae085c7f7049a1d01",
+      "Crc32": "1968f7de",
+      "SetNames": {
+        "TOSEC": [
+          "VecSports Kingpin Bowling v0.3 (2002)(Parssinen, Manu)(PD)"
+        ]
+      },
+      "Size": 4517,
+      "Publishers": [
+        "Parssinen, Manu"
+      ],
+      "ReleaseDate": "1/1/2002",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "VecSports Kingpin Bowling v0.4"
+      ],
+      "Sha1": "098c4f5a487eba0a4aec351bdb5ed3e52f7b2969",
+      "Crc32": "b9801d7b",
+      "SetNames": {
+        "TOSEC": [
+          "VecSports Kingpin Bowling v0.4 (2002-08-26)(Parssinen, Manu)(PD)"
+        ]
+      },
+      "Size": 5783,
+      "Publishers": [
+        "Parssinen, Manu"
+      ],
+      "ReleaseDate": "8/26/2002",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Vectopia"
+      ],
+      "Sha1": "785970293348996a1803a8d5083f81a0f9be14b9",
+      "Crc32": "070b9ecb",
+      "SetNames": {
+        "TOSEC": [
+          "Vectopia (2001)(Dondzila, John)(PD)"
+        ],
+        "TGDB": [
+          "37543"
+        ]
+      },
+      "OverviewId": 51,
+      "Size": 32768,
+      "Publishers": [
+        "Dondzila, John",
+        "Packrat Video Games"
+      ],
+      "Developers": [
+        "John Dondzila"
+      ],
+      "ReleaseDate": "1/1/2001",
+      "ESRB": "E",
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Vector Vaders"
+      ],
+      "Sha1": "83a6269a9275d8ce48c58b5560fb2d7324eaeea0",
+      "Crc32": "825987e3",
+      "SetNames": {
+        "TOSEC": [
+          "Vector Vaders (1996)(Dondzila, John)(PD)"
+        ],
+        "MESS": [
+          "vaders"
+        ],
+        "TGDB": [
+          "32806"
+        ]
+      },
+      "Size": 8192,
+      "Publishers": [
+        "Dondzila, John",
+        "homebrew",
+        "Packrat Video Games"
+      ],
+      "Developers": [
+        "John Dondzila"
+      ],
+      "ReleaseDate": "3/8/1996",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Vector Vaders"
+      ],
+      "Sha1": "bd8cd7cc527844fd7620ac5e6e82579d5f5dd0a0",
+      "Crc32": "8bd103c1",
+      "SetNames": {
+        "TOSEC": [
+          "Vector Vaders (1996)(Dondzila, John)(PD)[a]"
+        ],
+        "TGDB": [
+          "32806"
+        ]
+      },
+      "Size": 8058,
+      "Publishers": [
+        "Dondzila, John",
+        "Packrat Video Games"
+      ],
+      "Developers": [
+        "John Dondzila"
+      ],
+      "ReleaseDate": "3/8/1996",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Alternate"
+      ]
+    },
+    {
+      "Titles": [
+        "Vector Vaders"
+      ],
+      "Sha1": "acab2b661c005775456efaebb4ddfd54aa0cab71",
+      "Crc32": "db24d8cc",
+      "SetNames": {
+        "TOSEC": [
+          "Vector Vaders (1996)(Dondzila, John)(PD)[b]"
+        ],
+        "TGDB": [
+          "32806"
+        ]
+      },
+      "Size": 8073,
+      "Publishers": [
+        "Dondzila, John",
+        "Packrat Video Games"
+      ],
+      "Developers": [
+        "John Dondzila"
+      ],
+      "ReleaseDate": "3/8/1996",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Vector Vaders Remix"
+      ],
+      "Sha1": "af22b2d6af67fe099449240509f43489494e9a77",
+      "Crc32": "cc515522",
+      "SetNames": {
+        "TOSEC": [
+          "Vector Vaders Remix (1999)(Dondzila, John)(PD)"
+        ],
+        "TGDB": [
+          "44341"
+        ]
+      },
+      "Size": 8103,
+      "Publishers": [
+        "Dondzila, John",
+        "John Dondzilla"
+      ],
+      "Developers": [
+        "John Dondzilla"
+      ],
+      "ReleaseDate": "1/1/1999",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Vectrace",
+        "Vaboom!"
+      ],
+      "Sha1": "567616c50b49c03539daeff90efcb6479039107b",
+      "Crc32": "635b3377",
+      "SetNames": {
+        "TOSEC": [
+          "Vectrace (2000)(Habot, Ronen)(PD)"
+        ],
+        "TGDB": [
+          "37538"
+        ]
+      },
+      "OverviewId": 52,
+      "Size": 3976,
+      "Publishers": [
+        "Habot, Ronen",
+        "Packrat Video Games"
+      ],
+      "Developers": [
+        "Ronen Habot"
+      ],
+      "ReleaseDate": "7/1/2000",
+      "ESRB": "E",
+      "Genres": [
+        "Action",
+        "Sports"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Vectrex Maze"
+      ],
+      "Sha1": "ae1d16609ddd6f414aa0ca54838ade1efdef6e84",
+      "Crc32": "3af042f6",
+      "SetNames": {
+        "TOSEC": [
+          "Vectrex Maze (1998)(Salomon, Christopher)(PD)"
+        ]
+      },
+      "Size": 626,
+      "Publishers": [
+        "Salomon, Christopher"
+      ],
+      "ReleaseDate": "1/1/1998",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Vectrex Pong"
+      ],
+      "Sha1": "4b1e43808aefc8235b130d2dbac41fa087d9aedf",
+      "Crc32": "0a5ff28d",
+      "SetNames": {
+        "TOSEC": [
+          "Vectrex Pong (1998)(Salomon, Christopher)(PD)"
+        ]
+      },
+      "Size": 1214,
+      "Publishers": [
+        "Salomon, Christopher"
+      ],
+      "ReleaseDate": "1/1/1998",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Vectrexians"
+      ],
+      "Sha1": "9b40748fb9e395f70d1266f1a40828331f1d4012",
+      "Crc32": "05f67127",
+      "SetNames": {
+        "TOSEC": [
+          "Vectrexians (1999)(Tuts, Kristof)(PD)"
+        ],
+        "TGDB": [
+          "67933"
+        ]
+      },
+      "Size": 13434,
+      "Publishers": [
+        "Tuts, Kristof"
+      ],
+      "ReleaseDate": "5/1/2007",
+      "ESRB": "E",
+      "Genres": [
+        "Action"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": []
+    },
+    {
+      "Titles": [
+        "Verzerk"
+      ],
+      "Sha1": "a118510a934184762a032326bb105e2de084a5c1",
+      "Crc32": "59665f3d",
+      "SetNames": {
+        "TOSEC": [
+          "Verzerk (2002)(Herber, Axel)(PD)[Berzerk hack]"
+        ],
+        "MESS": [
+          "verzerk"
+        ],
+        "TGDB": [
+          "37539"
+        ]
+      },
+      "OverviewId": 53,
+      "Size": 29218,
+      "Publishers": [
+        "Herber, Axel",
+        "hack",
+        "Packrat Video Games"
+      ],
+      "Developers": [
+        "Albert Hebert"
+      ],
+      "ReleaseDate": "1/1/2002",
+      "ESRB": "E",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Vix"
+      ],
+      "Sha1": "d0797366e16163cf326930dd2281eecdf4cda170",
+      "Crc32": "e3f141ac",
+      "SetNames": {
+        "TOSEC": [
+          "Vix (2002)(Tumber, Christopher)(PD)"
+        ]
+      },
+      "Size": 9177,
+      "Publishers": [
+        "Tumber, Christopher"
+      ],
+      "ReleaseDate": "1/1/2002",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Vix"
+      ],
+      "Sha1": "fd5d9f3346072490b70801db18459165705692a0",
+      "Crc32": "441518f0",
+      "SetNames": {
+        "TOSEC": [
+          "Vix (2002)(Tumber, Christopher)(PD)[a2]"
+        ]
+      },
+      "Size": 3829,
+      "Publishers": [
+        "Tumber, Christopher"
+      ],
+      "ReleaseDate": "1/1/2002",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Vix"
+      ],
+      "Sha1": "f1b2a5072850f882c126974eb95ff7c9ecfa04be",
+      "Crc32": "15eed280",
+      "SetNames": {
+        "TOSEC": [
+          "Vix (2002)(Tumber, Christopher)(PD)[a]"
+        ]
+      },
+      "Size": 8387,
+      "Publishers": [
+        "Tumber, Christopher"
+      ],
+      "ReleaseDate": "1/1/2002",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Alternate"
+      ]
+    },
+    {
+      "Titles": [
+        "Vix"
+      ],
+      "Sha1": "ad3f28070ecf045f2419208715f7f956ef7bfc06",
+      "Crc32": "f5ae9e16",
+      "SetNames": {
+        "TOSEC": [
+          "Vix (demo) (2001)(Tumber, Christopher)(PD)"
+        ]
+      },
+      "Size": 32689,
+      "Publishers": [
+        "Tumber, Christopher"
+      ],
+      "ReleaseDate": "1/1/2001",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "demo"
+      ]
+    },
+    {
+      "Titles": [
+        "War of the Robots"
+      ],
+      "Sha1": "8bd8d9ccecb1fc22d36291383cf3eb23175e4b11",
+      "Crc32": "09b7daeb",
+      "SetNames": {
+        "TOSEC": [
+          "War of the Robots (2003)(Fury Unlimited)(FW)"
+        ],
+        "MESS": [
+          "wotr"
+        ]
+      },
+      "Size": 20879,
+      "Publishers": [
+        "Fury Unlimited",
+        "homebrew"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "War of the Robots - Bow to the Queen"
+      ],
+      "Sha1": "b61a8e84e379489e191395c9ee08bd04399a04c0",
+      "Crc32": "5799bfde",
+      "SetNames": {
+        "TOSEC": [
+          "War of the Robots - Bow to the Queen (2003)(Fury Unlimited)(FW)"
+        ],
+        "MESS": [
+          "wotrbttq"
+        ]
+      },
+      "Size": 20920,
+      "Publishers": [
+        "Fury Unlimited",
+        "homebrew"
+      ],
+      "ReleaseDate": "1/1/2003",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Web Wars",
+        "WebWars",
+        "Web Wars VECTREX",
+        "Web Warp",
+        "WebWarp"
+      ],
+      "Sha1": "ddfa44536f5a7a6e7d1f53cf4cffeee8655d2d8b",
+      "Crc32": "9550b174",
+      "SetNames": {
+        "TOSEC": [
+          "Web Wars (1983)(GCE)[b]"
+        ],
+        "TGDB": [
+          "35984"
+        ]
+      },
+      "OverviewId": 36,
+      "Size": 8225,
+      "Publishers": [
+        "GCE"
+      ],
+      "Developers": [
+        "GCE"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "ESRB": "E",
+      "Genres": [
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Wormhole"
+      ],
+      "Sha1": "745ddbdc285f1da4f7c3eb5e44fe252d503c7a15",
+      "Crc32": "6371ec9d",
+      "SetNames": {
+        "TOSEC": [
+          "Wormhole (2001)(Dondzila, John)(PD)"
+        ]
+      },
+      "Size": 32768,
+      "Publishers": [
+        "Dondzila, John"
+      ],
+      "ReleaseDate": "1/1/2001",
+      "Languages": [
+        "en"
+      ]
+    }
+  ],
+  "Overviews": {
+    "1": {
+      "en": "The game begins with a large enemy ship dropping mines onto the field as an ominous jingle plays, and moves from the top to the bottom of the screen, where it disappears. The player's ship starts in the middle of the field with 5 lives. Numerous mines then start popping up. The player must destroy all of the mines in order to progress to the next minefield. All of the mines can be destroyed with one shot, or hit with the player's ship, costing the player a life. There are 4 types of mines."
+    },
+    "2": {
+      "en": "3D Crazy Coaster made use of vector graphics, presenting a three-dimensional playing environment. It was originally designed for use with CGE's Imager glasses.\r\n\r\nThe user controlled the movements of a passenger in the lead car of a roller coaster as it plummets down steep hills and careers around sharp curves. One goal of the game was to keep the passenger's arms raised throughout the ride without being flung out."
+    },
+    "3": {
+      "en": "Tread lightly! The transport lanes of intergalactic space have been seeded with mines from an alien vessel. Use your mine destroying blaster to blow up the mines before they annihilate you! You may survive the floating mines, but beware of the fireball, magnetic, and treacherous fireball-magnetic mines . . . 13 fields, each one more difficult, await you!"
+    },
+    "4": {
+      "en": "The goal in 3D Narrow Escape is to successfully navigate a ship through the narrow, fast-moving passages of the warlord's fortress, destroy the defense forces and avoid space debris. The player's ship must also be maneuvered through small holes in a series of walls where fuel cells can be picked up to restore the ship's constantly decreasing fuel supply. If the player pilots their ship successfully, they will be faced with the warlord's own escape ship which must be hit several times to be destroyed, liberating the star system from the warlord's tyranny.\r\n\r\nEach level becomes more difficult as everything will move faster, fuel will be consumed more quickly, the holes in the walls will become smaller, and more menacing defense forces will appear.\r\n\r\nEach level of game play consists of two phases:\r\n\r\n1. Passages: During the first phase of each level, the player must maneuver their ship through the narrow, moving passages with the joystick while shooting six of the warlord's defense forces with button 4. If any of the six are missed, they will go off-screen and be recycled to give the player another chance, but more fuel will be used. In addition to various defense forces which must be destroyed, there are extra targets that can be shot for additional points. Unlike the regular defense forces, the extra targets are non-threatening in that they will not shoot or crash into the player's ship. During this phase, space debris will also be shooting up through the play field. Space debris cannot be shot and can only be avoided by dodging it by moving from side to side. The walls of the narrow passage are also a danger to the player. If the player's ship crashes into a wall, a life will be lost. There are gaps between the moving walls which the player can maneuver quickly into and out of so as to avoid approaching enemies or space debris, however as game play becomes faster this will present a higher risk to crashing into oncoming walls.\r\n\r\n2. Walls: If the passages are successfully navigated and the the required six defense forces are destroyed, the player will enter the second phase. This is a series of walls with holes. In the first level of the game, there are five successive walls, each with one hole through which the player must maneuver their ship. In the second level of play, there will be six successive walls, in the third level, seven walls, etc. Also the size of the holes will become smaller in each new level. The hole will be in a different location on each wall. After passing through the hole in each wall (but prior to entering the hole in the next wall) there will be a fuel cell which must be passed to pick up. If the fuel cells are missed, the game will continue, but the fuel gauge will be continuously depleting. Note: in early levels of the game, all of the fuel cells will not need to be captured. However as the game progresses and fuel is consumed faster, all of the fuel cells will need to be captured in order to make it through the next level.\r\n\r\nAfter successfully completing three levels of play, the player will come face-to-face with the warlord's escape ship in open space. The warlord's ship must be shot five times to be destroyed during the first encounter, seven times on the next encounter, nine times the next, etc. The warlord's ship will shoot torpedoes at the player's ship, which can be either avoided or shot at to be destroyed. If the warlord's escape ship is destroyed, the player will enter the next level of play and the game will continue."
+    },
+    "5": {
+      "en": "AnimAction is one of the Vectrex titles that requires the light pen accessory to operate. The light pen pack-in cartridge Art Master, only had rudimentary animation capabilities... AnimAction takes animating your vector based artwork to another level.\r\nAn interesting fact about the AnimAction cartridge is that it is not an any of the the aftermarket multi-carts because it had extra memory built in to save your artwork, making it a more desirable program cartridge for your Vectrex collection. let's face it... there is something cool about seeing your own art moving about on the screen of a gaming console that is over a quarter century old!\r\nThis is one of the software releases where GCE broke out of the \"games only\" mold and endeavored to make more interactive and educational programs for this awesome vector based platform."
+    },
+    "6": {
+      "en": "The player controls a jeep and must destroy the many tanks and helicopters that attack them in a maze-like cityscape. The jeep is armed with a rocket launcher that fires straight forward; the player can have two rockets on-screen at the time. The driving is generally similar to the well-known Combat for the Atari 2600.\r\n\r\nTanks periodically spawn from different locations on the edge of the screen and drive towards the player. The tanks always travel along horizontal or vertical lines, unlike the freely moving jeep. Tank turrets move to track the player, allowing them to shoot in any direction. Tanks normally take two hits to kill, and the player can have only two rockets on the screen at a time. The helicopter spawns from any point, and approaches the player in looping paths flying over the jeep and periodically firing. If hit, the helicopter spirals in.\r\n\r\nThe player can be killed by being shot by either the tanks of helicopter, or by colliding with the tanks. In two-player mode, the players can not kill each other. Gameplay periodically speeds up to increase the difficulty."
+    },
+    "7": {
+      "en": "The Light Pen is an accessory for the Vectrex released in 1983 by GCE. It was quite revolutionary for its time, but because of the Great Video Game Crash of 1983, it ended up as a commercial failure. Packed in with the accessory was the game Art Master.\r\n\r\nDuring its lifetime, GCE managed to release three games for it: Art Master, Melody Master and AnimAction. There was also a prototype, Mail Plane, that never managed to get a release."
+    },
+    "8": {
+      "en": "In the arcade game Tempest, players controlled a blaster that could move around the outermost lanes of a bunch of geometrically-shaped levels and fire at ships that emerged from the middle or innermost areas of those levels.\r\n\r\nBedlam, however, was a \"Tempest in reverse\", where players' ships (resembling the Millennium Falcon from several of the Star Wars movies) sat in the middle of sectors while ships emerge from points of those sectors and came inwards towards the player. Players turn their ships left and right and can spin them around quicker with the Fast Rotate button. Also, Zap, like the Superzapper on Tempest, will destroy everything onscreen and can only be used once per sector.\r\n\r\nThere are several different types and mannerisms of enemies as well as sectors. Getting rammed by an enemy will cause the player to lose a ship in reserve and the game will end once the player has no more remaining ships."
+    },
+    "9": {
+      "en": "Berzerk was a unique game at the time when it was released in the arcade for several reasons; for one thing, being a maze game, it had 64,000 mazes, which was a gigantic number for any game of any gaming genre back then. It was also one of the first games that had speech synthesis as well (costing [US] $1,000 a word), which involved sassing the player when they didn't destroy all the robots in a maze, saying \"chicken! Fight like a robot!\", among several other brief phrases.\r\n\r\nThe A. I. for the game was also a bit unique as well, as the enemy robots were stupid, shooting and running into each other or walls, which would result in them being destroyed. The player would also earn points for every robot destroyed, no matter if they or the robots caused their [own] destruction.\r\n\r\nIf the player took too long to escape from a level, the indestructible Evil Otto nemesis would appear from wherever the player had originated from in a maze and bounce his way across the screen, through walls and robots alike. The fewer robots that remained, the faster Otto would travel.\r\n\r\nAlso, the indication of a difficulty level increase would be apparent with the robots changing color. They would also fire faster and with more shots as well as the player progressed through the levels.\r\n\r\nThe game involved the player(s) running their way through a series of mazes while destroying as many robots as possible; destroying all robots in a maze would result in a bonus. Touching any robot, explosion from destroyed robot or wall segment or being shot would cause them to lose a life, and once the player ran out of lives the game would end."
+    },
+    "10": {
+      "en": "Blitz! is a simulation of American football. Each player (which the game supports a simultaneous two player mode) controls one member of their team on offense and defense and the basic objective is to move the ball up the field to reach the opposition end zone. This is done using a series of \"downs\", there being four downs available to move the ball ten yards forward. If a player fails to achieve that then the ball turns over to the opposition offense. The player can also score by opting to attempt to kick the ball between the opponent's goal (called a field goal and worth fewer points than a touchdown).\r\n\r\nWhen on offense, the player controls the snapping of the ball (which must be done within 30 seconds of the formations being set) and then the quarterback, who can either run with the ball himself, or pass it to a team mate by \"pointing\" the joystick towards that receiving player, which the player will then assume control of to run with the ball.\r\n\r\nOn defense, the player controls a single defender who runs faster than any of his teammates and is thus most able to tackle the opposition's ball carrier.\r\n\r\nPlayers can be penalised and be moved back five yards by either delaying the game (not snapping within 30 seconds), or moving offside (crossing the line of scrimmage when the ball is snapped).\r\n\r\nAfter each game, a statistics screen is shown, listing items such as number of first downs and total rushing and passing yards for each team."
+    },
+    "11": {
+      "en": "The player moves a vacuum through a maze in order to suck up dollar bills that are strewn throughout the screen. After several bills are vacuumed up, the vacuum will increase in size. After several size increases, the vacuum will become full and will not be able to vacuum up any more bills, so the money must be deposited in the vault in the center of the screen before the vacuum can start gathering up money again.\r\n\r\nRobbers (which look like the player's blaster in the Tempest arcade game) begin appearing, entering via the two escape tunnels (as opposed to Pac-Man's one) that run vertically and horizontally in the maze. If a robber catches the player they will lose a life; run out of lives and the game will end.\r\n\r\nAlong with using the escape tunnels (which will warp the vacuum to the opposite end of the maze [i. e. entering an escape tunnel from the bottom will cause the player to reappear at the tunnel entrance at the top of the screen]), there are four special rooms -- one in each corner of the maze -- that the player can enter in order to be able to vacuum up the robbers for a brief time. The robbers will re-emerge from an escape tunnel seconds later though, and any remaining robbers that the player was not able to vacuum up will start blinking, indicating that they are about to return to their previous, dangerous form.\r\n\r\nThe difficulty level increases by having the vacuum fill up quicker, causing the player to make multiple trips to the vault during a level."
+    },
+    "12": {
+      "en": "With the beginning of a new game, a map screen is shown with the player's position, as they control a ship set in a series of interconnected caverns. They must first plan out the best route in order to get to the central area in each Mission.\r\n\r\nAfter several seconds, the map screen changes to a cavern that the player is currently in, which each cavern has a core in the center that is constantly growing, as well as having several Planet Protector enemies. It is usually in the player's best interest to clear out each area of Planet Protectors by shooting them, then carefully inching their way to the protective barrier by an exit in order to drill through it. Once the barrier has been disabled by the drill, the player can then fly into the next cavern and thereby gets a step closer to the central area.\r\n\r\nThe view changes from a cavern to the map screen with each cavern that they pass, showing the player's(') progress. Once the central central area is reached, the player(s) must drop a bomb at the center core, which they have several seconds in order to escape from the area before the bomb explodes. If the player does not make it out in time they will lose a ship; succeed and they will start again on a new area/Mission.\r\n\r\nHitting a cavern wall, core or a Planet Protector will cause players to lose a ship and the game will end when there are no ships remaining. Exiting a Mission without leaving a bomb at the central core will cause the player to lose a ship as well, along with restarting the current Mission (if they have any remaining lives left). Also when the player loses a ship without clearing out all Planet Protectors in a cavern, that cavern's full complement of Protectors are totally replaced once the player's next ship comes into play. Players have a protective shield for use in emergencies, however."
+    },
+    "13": {
+      "en": "Dark Tower is a fully playable unreleased prototype role playing game programmed in 1983.\r\nEnter the fantastic world of the Dark Tower -- a world filled with adventure, danger and all the mysteries of ancient times. You control a squadron of warriors as you search an adventure-filled forest for the magical keys that will unlock the entrance to the Dark Tower. Guide your warriors to the enchanted chests scattered throughout the forest -- each will contain a new puzzle, adventure, terror or treasure. Use your warriors wisely and beware the evils of the forest!"
+    },
+    "14": {
+      "en": "Engine Analyzer was a diagnostic tool released by GCE for the Vectrex in 1983."
+    },
+    "15": {
+      "en": "The player controls a hovercraft on its ascent up a mountain range with the goal of reaching the fortress at its summit. Each screen is part of a roadway, which is defended by three waves of guardians. These waves of guardians consist first of the Doomgrabbers, then the Tarantulas and finally the Ghouls. Each wave makes its descent down the roadway and towards the player, which all of one wave needs to be destroyed before the next wave begins its descent. Contact with enemies or the Spikers which are randomly released from the Doomgrabbers will result in the loss of a life.\r\n\r\nThe player's own fire has the ability to ricochet off the walls of the roadway. This not only has the benefit of creating angles, which the player may destroy the enemies without them being able to return fire, but can also be a disadvantage due to the ability for the shot to return and destroy the player's ship.\r\n\r\nAfter three waves, the player is allowed to move up the screen and to the next roadway. Each roadway has the same enemies, although in increasing numbers. With the second roadway comes the addition of the Warbirds, who fly over the entire mountain and are able to fire at the player in the third roadway.\r\n\r\nOnce three roadways have been"
+    },
+    "16": {
+      "en": "The player controls one of three active members of their team as well as the defensive goalie. The player must use passing, stealing, shooting, and blocking to either score in offense or defend in defense, just as in a live game of Soccer (also known as Football in most non-U. S. countries). Each game consists of two consecutive three-minute halves where each team attempts to score as many points as possible. If the score happens to be tied at the end of the two halves, the game will go into Sudden Death overtime, which consists of three minute periods until the first team scores and wins.\r\n\r\nShould the ball go out of bounds at any time, the player who last touched the ball loses possession and the opposing team gets to throw the ball back in."
+    },
+    "17": {
+      "en": "The player controls a formula one race car whose objective is to advance through the rankings and either make the best time or accumulate as many points as possible depending on the game selected.\r\n\r\nIn Game 1, the player has unlimited cars and their goal is to finish the course in as little time as possible. In Game 2, the player receives 5 cars and the goal is to accumulate as many points as possible.\r\n\r\nIn both games, collision with either the edge of the track or other cars results in the loss of a life and the player is forced to start from a speed of zero."
+    },
+    "18": {
+      "en": "As far as Vectrex games go, the holy grail for many collectors and gamers is the unreleased flight simulator, Mail Plane. This quirky take on the tried and tested genre made use of the obscure light-pen accessory to control the airborne vehicle tasking you with delivering letters. Unfortunately nobody got to experience this unique offering back in the day following the games cancellation.\r\n\r\nHaving said that, the moment many of these deprived gamers had been waiting for finally arrived in November - a Mail Plane prototype cartridge surfaced on eBay in Pennsylvania, United States. Selling for a massive $877, one lucky bidder had finally secured the chance to experience this oddity once and for all, however, they had bigger plans for this title.\r\n\r\nUnderstanding the demand for this long lost title, AtariAge user Vectrexer - the new owner of this Mail Plane prototype - decided to generously create a ROM image of the game cartridge and release it online for free to the masses.\r\n\r\nAs of today we can all finally experience Mail Plane in its original form, although there are a few more issues present. Not only do we need a Vectrex flash cartridge to load the ROM on to, but also the incredibly difficult to source Light Pen accessory."
+    },
+    "19": {
+      "en": "Melody Master is a fantastic cartridge that, when used in conjunction with your Vectrex light pen, introduces you to the exciting world of music. It allows you to compose your own melodies and even has the capability to play flute and piano harmony with rhythm sections of snare and cymbals.\r\nYou can create your own electronic musical masterpiece and amaze your friends that this interactive cartridge in a quarter century old gaming system allowed you to compose it.\r\nThere is also a tutorial program for those of us who are not musically inclined. The \"Songman\" teaches you to recognize notes and identify other concepts of musical notation. It is a true interactive educational and creative experience.\r\nIn my opinion, the feel of this cartridge rates 9-10, controls 7-10, and overall 8-10. It is a fun software title to sink hours of creative fun into on your Vectrex."
+    },
+    "20": {
+      "en": "Pitcher's Duel was sold both as cart only and cartridge with manual and full color printed GCE Style cardboard box. Approximately, 250-300 are believed to exist, of which somewhere around 200 were sold complete. Those sold complete with box at the 2007 Classic Gaming Expo had a PCB contained in a green transluscent reproduction shell while those sold after were contained in the standard black shell. There was no overlay included however an overlay design is depicted on the box.  In addition, the was one Pitcher's Duel Collectors Set auctioned at CGE2K7 which included both the green translucent and black standard versions of Pitcher's Duel as well as exclusive red translucent and blue translucent version of the cart."
+    },
+    "21": {
+      "en": "The player controls a submarine in hostile waters and must rescue the survivors of a mission which ended in disaster. Enemy submarines surround and will fire upon the player's ship if it enters sonar range. Each enemy submarine can fire up to five torpedoes; however, if it is destroyed before it uses all of their torpedoes, the remainder will be added to the player's arsenal. Other obstacles which must be avoided are mines, ice chunks and turbulent underwater whirlwinds. Once the survivors are located, it is necessary to dock with their pod, which the player has to approach with accuracy and care. A new mission will begin with a successful rescue."
+    },
+    "22": {
+      "en": "Pole Position  is an arcade racing video game which was released by Namco in 1982 and licensed to Atari, Inc. for US manufacture and distribution, running on the Namco Pole Position arcade system board. The game was designed by T?ru Iwatani, who had also designed the Gee Bee games and Pac-Man. It was the most popular coin-op arcade game of 1983. Pole Position was released in two configurations: a standard upright cabinet, and an environmental/cockpit cabinet. Both versions feature a steering wheel and a gear shifter for low and high gears, but the environmental/cockpit cabinet featured both an accelerator and a brake pedal, while the standard upright one only featured an accelerator pedal.[3]\r\n\r\nBy 1983, it had become the highest-grossing arcade game that year in North America,[4] where it had sold over 21,000 machines for $61 million[5][6] ($150 million in 2015), in addition to earning $450 ($1103 in 2015) weekly revenues per machine.[7] It was the most successful racing game of the classic era, spawning ports, sequels, and a Saturday morning cartoon.[4] The game established the conventions of the racing game genre and its success inspired numerous imitators. Pole Position is regarded as one of the most influential video games of all time and \"arguably the most important racing game ever made.\""
+    },
+    "23": {
+      "en": "Stress Tester designed to see how responsive the user was to color changes.\r\n\r\nDiscover how color affects your life.......\r\n\r\nChoose all 8 colors and the computer will accurately determine"
+    },
+    "24": {
+      "en": "The objective of Rip Off is to prevent computer-controlled enemies from stealing eight canisters set in the center of the screen for as long as possible. One or two players control tank-like vehicles while game-controlled \"pirate\" tanks rush onto the field and attempt to hook up and drag the canisters off the edge of the screen. Enemies can be defeated by shooting or colliding with them. The game speed and difficulty increase with each successive wave until all the canisters have been taken (\"ripped off\")."
+    },
+    "25": {
+      "en": "The player controls an aircraft, referred to in the game as a \"Jet,\" and has to guide it across a scrolling terrain, battling obstacles along the way. The ship is armed with a forward-firing weapon and bombs; each weapon has its own button. The player must avoid colliding with the terrain and other enemies, while simultaneously maintaining its limited fuel supply which diminishes over time. More fuel can be acquired by destroying fuel tanks in the game.\r\n\r\nThe game is divided into six sections, each with a different style of terrain and different obstacles. There is no intermission between each section; the game simply scrolls into the new terrain. Points are awarded based upon the number of seconds of being alive, and on destroying enemies and fuel tanks. In the final section, the player must destroy a \"base\". Once this has been accomplished, a flag denoting a completed mission is posted at the bottom right of the screen. The game then continues by returning to the first section once more, with a slight increase in difficulty."
+    },
+    "26": {
+      "en": "A demo program for the 3-D Goggles. BaronVR described it like this : \"The effect is that of a track extending from the monitor surface to about 3 feet inside the monitor surface, the speed controlled by pushing up or down on the joystick...\""
+    },
+    "27": {
+      "en": "The player controls a ship that can rotate to the left and right and thrust forward, similar to the better known Asteroids, and like that game the player also has a \"hail mary\" device, hyperspace. In the center of the screen is the sun, which pulls objects into it, in a fashion similar to Spacewar!. The screen wraps at the edges.\r\n\r\nWaves of enemy spaceships appear in groups of up to eight. There are seven different types of ships, growing smaller to make them harder to hit. Each \"phase\" of the gameplay completes when each of the seven waves is destroyed. The spaceships are a collision hazard and normally fly around the screen randomly. As the game progresses, they become more likely to attempt to ram the player directly. At higher levels, the ships gain weapons and attempt to shoot the player.\r\n\r\nThe player's ship is armed with two weapons, a cannon and a \"nuke\". The cannon fires a single shot in the direction your ship is pointed, and the game allows up to four shots on screen at once. The nuke destroys all ships in the area when it is triggered, which occurs with a second button press after being launched from the ship. The player's ship starts the game with three nukes and gains a new one every 10000 points.\r\n\r\nWhenever an alien ship is destroyed, a \"survivor\" is left drifting in space. The player can collect the survivors by flying his ship over them. Alternately he can shoot them, or allow them to fall into the sun. The player is awarded with points for successful rescues, and eventually free ships.\r\n\r\nThe game is remembered fondly by many players, and Simon Burns of VoxelArcade called it \"freedom under an overlaid blue sky\"."
+    },
+    "28": {
+      "en": "The player(s) control a space ship in a space field with only the sun, their opponent's ship, and an occasional asteroid to contend with. The opponent's ship is equally matched to the player's, as it is their mission to destroy the opponent's ship as many times as possible. Both players have similar maneuverability, speed, defense and attack capabilities. Players may fire lasers, thrust or enter hyperspace; however, defense usage is limited and can be depleted. Both ships can be disabled and still cause damage before they are completely destroyed, although thrusting directly into the sun will completely destroy either ship."
+    },
+    "29": {
+      "en": "The evil Spud has taken Spike's girl, Molly, and Spike must make his way through various levels on platforms and ladders to rescue Molly. You must move the ladder from platform to platform and jump gaps to retrieve the key that will set Molly free from her cage. But be careful, Spud has evil bounces and birds he has sent out after you! You can defend yourself by kicking right or left.\r\n\r\nYou can play either one player or two player mode where each player takes a turn with a single joystick controller. Who will save the fair Molly first and win her affection?"
+    },
+    "30": {
+      "en": "Spin Ball is a pinball simulation game. The games pinball table comes complete with a variety of bumpers, spinners, and other targets which can earn you varying amounts of points with several combinations possible for even more points. Bonuses can be earned as well, both in point form and also ball savers which block the chutes on the corners of the screen. A ball splitter may also appear, allowing you to have two balls in play at one time. The joystick is used to set the tension on the spring when putting a ball into play or to shake the table during play, and the buttons are used to control the left and right paddles on the table. You begin each game with 5 balls, and the game ends when all 5 are lost."
+    },
+    "31": {
+      "en": "Star Castle is a 1980 vector arcade game by Cinematronics. The game involves obliterating a series of defenses orbiting a stationary turret in the center of the screen. The game was designed by Tim Skelly and programmed by Scott Boden. Tim Skelly also created a number of other Cinematronics titles, including Starhawk, Armor Attack and Rip-Off. As with many other titles by the company, Star Castle was ported to the Vectrex video game console in 1983."
+    },
+    "32": {
+      "en": "The object of this game – a basic \"shoot-'em-up\" style game for one or two players – is to travel through space and destroy Klingon and Romulan ships."
+    },
+    "33": {
+      "en": "Starhawk is a 1979 vector arcade game by Cinematronics. Starhawk is a shoot 'em up with a fixed environment. The game was unique at the time as it presented the graphics in a pseudo-three dimensional way. Essentially, the game is a simple video game version of the Star Wars: Episode IV trench run. The game was later ported to the Vectrex video game console in 1982. The game is remembered as having quite advanced graphics for the time and being the first video game based upon or to have noticeable references to Star Wars."
+    },
+    "34": {
+      "en": "Test Cartridge was a test utility to used to diagnose the overall system in 1982."
+    },
+    "35": {
+      "en": "Tour De France was a limited release prototype game. Both Mark Shaker and John Donzilla made several different box inlays however the cartridge only had one version which made use of a reproduction cartridge shell."
+    },
+    "36": {
+      "en": "In Web Wars, the player controls a bird flying through a Web of Fantasy, shooting enemies, dodging their fire and collecting various creatures. There are 20 different creatures to collect in all. \r\n\r\nAt times a portal will appear for the player to fly into to be taken to the Trophy Room, which displays all of their captured creatures. \r\n\r\nIf the player misses two chances in entering the Trophy Room during a wave, a Cosmic Dragon will appear over the Web, out of weapons range, and shoot down at the player."
+    },
+    "37": {
+      "en": "From Packrat Video Games.\r\n\r\nAll Good Things, was the world´s first 16K Vectrex cartridge, created by John Dondzila. Compiled together were four great games on the one cartridge.\r\n\r\nThe games are:\r\n- More Invaders\r\n- Rockaroids\r\n- Vectris\r\n- Spike´s Water Balloons\r\n\r\nPlus there is a secret bonus game too!\r\n\r\nRockaroids is the name for this Asteroids clone. This is the feature game in the release and sports all the features of the \"Asteroids\" type games.\r\n\r\nMore Invaders! is the sequel to Vector Vaders. It's how John wanted VV to look originally, but due to his lack of Vectrex programming experience at the time, couldn't make it so. More Invaders! has practically no screen flicker and plays very fast (compared to its predecessor), and has some enhanced features, such as splitting Invaders, trick saucers and special bonuses!\r\n\r\nVectris is your typical blocks and lines type puzzle game. The game is complete however, it does suffer from some screen flicker. A Vectrex side effect of drawing too many vectors on screen at once.\r\n\r\nSpike's Water Balloons. Spike returns in this Vectrex version of popular \"Kaboom\" and \"Mad Bomber\" style games of the early eighties !"
+    },
+    "38": {
+      "en": "From http://botss.wikia.com/wiki/Birds_of_Prey.\r\n\r\nBirds of Prey is a clone of the arcade game Phoenix, which was included on the Vecmania cartridge (or ROM to be played on a Vectrex emulator). The cartridge also includes the fellow bottom of the screen shooters of Vector Vaders 2 The Director’s Cut, along with clones of other arcade games of Tempest, Star Wars, Missile Command, Eliminator, Breakout, Discs Of Tron, and Asteroids.\r\n\r\nThe games can be scrolled through at the main menu by moving the joystick or D-pad left and right and then chosen by pressing up on the joystick or D-pad. The main menu can be returned to by pressing three on the controller when the player is on an individual game's title screen (except for the demos).\r\n\r\nBirds of Prey\r\nBeing a clone of Phoenix, the player shoots at an assortment of birds. A shield is used for protection from attacks and can kill a bird upon contact as well. The player can still shoot but not move, and they cannot use the shield again for a few seconds afterwards.\r\n\r\nGetting rammed by a bird or their fire will destroy the player's blaster and the game ends once the player has no more reserve blasters. However, an extra blaster is awarded at 10,000 points.\r\n\r\nDuring the first level, the birds dive bomb the player. The second level is identical to the first except the player can shoot two shots at once. Levels three and four feature much larger birds that can only be shot if hit right in the middle, and the last level features the first level birds along with a mother ship that must have it's middle belt damaged enough so the player can shoot and destroy the ship itself. Once the mother ship is destroyed, the game starts over again but at a higher difficulty.\r\n\r\nControls:\r\nStart game--button four\r\nMove left and right--buttons one and two\r\nFire--button four\r\nShields--button three\r\n\r\nBug:\r\nThere is a slight graphics bug where sometimes if a bird from the third or fourth level is shot right next to a screen edge, its explosion will emerge on the other side of the screen."
+    },
+    "39": {
+      "en": "From http://vectrex.wikia.com/wiki/Gravitrex_Plus\r\n\r\nGravitar was a vector graphic arcade game that took some of the elements of Asteroids (the controls and free flight abilities of the player's['] ship[s]) but made them more restrictive by placing players inside a series of planets. Players had to skim surfaces of the planets and destroy all the bunkers therein, as well as beam up fuel cells to maintain their fuel level(s) and avoiding or destroying saucers that would also appear. The game did not do very well commercially and would only be ported to the Atari 2600 a few years later (although it has reappeared on some modern day compilations since).\r\n\r\nGravitrex is a clone of Gravitar, although with many differences, such as the addition of humans dotting the planetary landscapes that have to be rescued, and the Gravitrex Plus cart also includes two bonus games and other features as well. All games are for one player only.\r\n\r\nGameplay:\r\n\r\nThe player controls a fighter ship that begins each game in a solar system. There is a sun in the middle and several planets to choose from to enter so the player can start their mission. If the player takes too long with choosing a planet, a pair of space saucers will emerge from the reactor planet and will engage the player in a dogfight if they get close enough (although the player can just elude them by entering a planet). If the player’s ship gets destroyed or the player shoots both saucers then the player will return to the main solar system screen.\r\nOnce the player enters a planet by thrusting into it, they must destroy every enemy bunker on the surface and dispose of every fuel tank and human. Humans and fuel tanks can be shot (although the player will not receive any points for doing so), but a bonus is given if all humans are rescued on a level (see Scoring and Extras sections), plus fuel tanks are needed to keep up the player’s fuel level (which is indicated by a line right next to the score at the top left of the screen). Humans and fuel tanks can be teleported into the player’s ship by maneuvering their ship close and activating the teleporter/shields function. Once all bunkers have been destroyed and all humans and fuel tanks have been disposed of, a sound effect will signal that the mission is complete, and upon leaving the planet, it will self-destruct and the player will be given a bonus for that planet.\r\n\r\nThe exception to this rule is the lone reactor planet on each level, which has only one target – a reactor – deep inside it. This planet is different than all the others, as the player is given 99 time units to make their way through a brief maze, shoot the reactor, and get out before time runs out or else the player’s ship will be destroyed and the reactor will remain intact. If the player does not destroy this planet last in a level then it clears out the space saucers for the remainder of the level, since this is the planet that they emerge from.\r\n\r\nDangers include the player’s ship crashing if it runs out of fuel, plus the ship will be destroyed if shot by a bunker, space saucer or alien air interceptor (which are similar to space saucers but they appear inside a planet), if they crash into a wall, the sun, space saucer or alien air interceptor, or do not leave the reactor planet before their time runs out. If the player runs out of reserve ships then the game will end. The player’s fuel, however, is replenished mostly from a fuel tank and is fully replaced upon destroying a planet, finishing a level, or with each new ship. The player’s teleporter function also doubles as a shield to protect them from enemy fire. Also, if the player defeats all planets in a level, then that level’s sun will go nova, various bonuses are then awarded (see Extras section), and if the player defeats the third level the game will end, giving a congratulations message as well as sharing some trivia about Gravitrex from the game’s programmer John Dondzila on the screen."
+    },
+    "40": {
+      "en": "From http://vectrex.wikia.com/wiki/Nebula_Commander\r\n\r\nAs of early 2015, Nebula Commander is still the only real time strategy game for the Vectrex. One or two players must gather up resources and create and launch weapons to destroy the other’s space station while defending their own in turn. Two players can face off with each other or one player can go against the computer."
+    },
+    "41": {
+      "en": "From http://www.packratvg.com/vpatriots.html\r\n\r\nPatriots made its first \"official\" public appearance at the quarterly collectors meeting at Video Game Connections in Howell, NJ on April 21st, 1996. The game was written by John Dondzila.\r\n\r\nPatriots is a clone of a popular arcade game from the 80's. Patriots is faster and more challenging than other missile games. It is visually exciting, with many special effects, including fades, scaling and rotation. Game control is solid with additional options for those who need them. \r\n\r\nPatriots code is optimized to make the game run very, very smooth. Vectrex \"flicker\" is almost nonexistent, except for higher levels with tons of missiles, patriots and explosions all happening at once.\r\n\r\nBy the way, Patriots contains a \"SECRET\" game!"
+    },
+    "42": {
+      "en": "From http://www.packratvg.com/vmania.html\r\n\r\nThis game is a remix of Patriots by John Dondzila. It's improved graphics routines, bug fixes and multi-channel sound effects.\r\n\r\nThere is no original cover for cartridge. The original cover is only for package Vecmania."
+    },
+    "43": {
+      "en": "From http://www.packratvg.com/vmania.html\r\n\r\nA very difficult yet addictive Vectrex game. Maneuver your ship and destroy the mother fortress, while sentry ships attack you. Avoid crashing into the fortress. Take too long and the mother ship will attack at full force!\r\n\r\n\r\nFrom http://www.packratvg.com/vmania.html\r\n\r\nThis game is a remix of Patriots by John Dondzila. It's improved graphics routines, bug fixes and multi-channel sound effects.\r\n\r\nThere is no original cover for cartridge. The original cover is only for package Vecmania."
+    },
+    "44": {
+      "en": "From http://www.packratvg.com/vrevector.html\r\n\r\nYour goal is to out score your opponent in a 7 minute timed match. You can score points by shooting your opponent or by picking up power-up items. Revector allows you to take-on another player head-to-head, or a challenging CPU opponent. Revector features a rather unique vehicle control system with the joystick controling both rotation and thrust. Power-up's include points, health, energy, weapons, invisibility and more ..."
+    },
+    "45": {
+      "en": "From http://www.packratvg.com/vrockremix.html\r\n\r\nThis is the second of John Dondzila's three versions of Rockaroids.\r\nRockaroids Remix features more intense game play than the original Rockaroids and does not have the game slowing rotating rocks of Rockaroids: 3'rd Rock."
+    },
+    "46": {
+      "en": "From http://www.packratvg.com/vsfrenzy.html\r\n\r\nIntense Arcade Style Gameplay, as you fight off wave after wave of ship fragments, that will form into cruisers to attack and destroy your ship. Doc with other ships after each wave to increase your firepower."
+    },
+    "47": {
+      "en": "Public Domain game."
+    },
+    "48": {
+      "en": "This is a clone of the Atari vector game Star Wars, which is comprised of three waves. The player starts with six shield units, which will drop every time a spaceship or any other obstacle collides with the player or the player is hit by enemy fire; if the player is hit when they have no more shields left the game will end."
+    },
+    "49": {
+      "en": "From http://www.packratvg.com/vthrust.html\r\n\r\nVille Krumlinde created Thrust in 2004, and it has been compared to the arcade game Gravitar, but tougher. It works well though, as the player has to penetrate various planets to attach a tow-bar to Kylstron Pods, and get out alive. In doing so you can stop the Intergalactic Empire from achieving its evil plan. The game is difficult enough to make a gamer curse, but fun enough to make one smile too!\r\n\r\nThrust features:\r\n- Configurable controls\r\n- Three game modes (Normal, Hard, and Time Attack)\r\n- Three Difficulty Levels (Normal, Reverse Gravity, and Invisible Landscape)\r\n- Hidden game (ZSB)\r\n(NOTE: Current 1.2 version of game fixes a bug in the hidden game that could cause the game to crash. All cartridges sold after Feb 15th, 2016 include this bug fix. Contact Packrat if you'd like the upgrade, as this is not covered under any warranty, as this bug existed since 2004 and was only recently found and fixed)!"
+    },
+    "50": {
+      "en": "From http://www.packratvg.com/vfrogger.html\r\n\r\nGuide frogs across a busy street and then through dangerous water to get to their home, in this enhanced version of this arcade game clone by Christopher Salomon.\r\n\r\nThe variety of objects and enemies will kill a players´ frog on contact, plus there is a timer for each level too, of which there are 16 total. The game is enhanced with a pause mode, so you can take a break if you need too!"
+    },
+    "51": {
+      "en": "From http://vectrex.wikia.com/wiki/Vectopia\r\n\r\nUnlike the previous Vecmania, which comprised seven full games and two demos, the majority of Vectopia is composed of unfinished demos and only three full games.\r\n\r\nIn order to cycle through the games, once the menu screen appears after power-up, the player must press button one on the Vectrex controller, then to play a game they must press button four\r\n\r\nGames in Vectopia:\r\n- Wormhole\r\n- Trakkers\r\n- Vectropolis 500 (demo)\r\n- Spike's Water Balloons\r\n- Control Test (demo)\r\n- Mad Planetoid Test Wk (demo)\r\n- Star Fire Early Work (demo)\r\n- Star Fire Early Work II (demo)\r\n- Star Fury Test Work\r\n- Trivia"
+    },
+    "52": {
+      "en": "From http://vectrex.wikia.com/wiki/Vaboom!/Vectrace\r\n\r\nAlso known as Ronen's Game Cart, Vaboom!/Vectrace is a bit of an unusual homebrew entry, due to it containing one of the very few racing games for the Vectrex (Vectrace). And it might also seem to be a bit unusual for another Kaboom! clone to be made for the system as well (Vaboom!, as the first clone, Spike's Water Balloons, from the All Good Things cartridge, was released four years earlier). Arguably, this odd pairing of games makes this cartridge still stand out a bit."
+    },
+    "53": {
+      "en": "From http://vectrex.wikia.com/wiki/Verzerk\r\n\r\nVerzerk is a hack of Berzerk, adding speech this time around, with a robotic voice welcoming the player during the attract mode, then states \"this is Verzerk\". The phrases from the original arcade version of \"shoot him\", \"chicken, fight like a robot\", \"got you humanoid\", etc. are included in this release. The game plays identically to Berzerk though, aside from that and only being for one player."
+    }
+  }
+}

@@ -1,0 +1,5007 @@
+{
+  "PlatformName": "Sorcerer",
+  "LastUpdate": "5/24/2022 2:35:11 AM",
+  "Games": [
+    {
+      "Titles": [
+        "Chomp"
+      ],
+      "Sha1": "c9e4269305974ab2b9ac0fc2e17dfb20910d3a0b",
+      "Crc32": "20ef7022",
+      "SetNames": {
+        "TOSEC": [
+          "Chomp (1981)(W.S.King)"
+        ]
+      },
+      "Size": 755349,
+      "Publishers": [
+        "W.S.King"
+      ],
+      "ReleaseDate": "1/1/1981",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Eliza"
+      ],
+      "Sha1": "79d9856b1d39d4fa96e85c4dfee9592f1cd365dc",
+      "Crc32": "e43b9b3c",
+      "SetNames": {
+        "TOSEC": [
+          "Eliza (19xx)(-)"
+        ]
+      },
+      "Size": 410332,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Galaxians"
+      ],
+      "Sha1": "c26dfe4a70b0644c9c6fe5f55b3f79383c82a9b9",
+      "Crc32": "3863ec86",
+      "SetNames": {
+        "TOSEC": [
+          "Galaxians (19xx)(-)"
+        ]
+      },
+      "Size": 523080,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Amazing Maze, The"
+      ],
+      "Sha1": "90bcd6cb0d4a84c0e6ecc5e48ff742a977f9e34e",
+      "Crc32": "a370e482",
+      "SetNames": {
+        "TOSEC": [
+          "Amazing Maze, The (19xx)(Wyvill, Brian)"
+        ]
+      },
+      "Size": 65564,
+      "Publishers": [
+        "Wyvill, Brian"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Astro Attacker"
+      ],
+      "Sha1": "916e540ce8007a72b4549177c69e7103f6632506",
+      "Crc32": "3b105119",
+      "SetNames": {
+        "TOSEC": [
+          "Astro Attacker (1982)(Global Software Network)"
+        ]
+      },
+      "Size": 65564,
+      "Publishers": [
+        "Global Software Network"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Breakout"
+      ],
+      "Sha1": "019706f221fa0628b3542e2f64b94a28e27c9c0f",
+      "Crc32": "c758244a",
+      "SetNames": {
+        "TOSEC": [
+          "Breakout (1980)(Bannon, Ray)"
+        ]
+      },
+      "Size": 65564,
+      "Publishers": [
+        "Bannon, Ray"
+      ],
+      "ReleaseDate": "1/1/1980",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Chess"
+      ],
+      "Sha1": "3e31b7d661d46eb32dff80ab2c42ce0eb4897733",
+      "Crc32": "5d9f7caa",
+      "SetNames": {
+        "TOSEC": [
+          "Chess (19xx)(Spracklen, Dan & Spracklen, Kathleen)"
+        ]
+      },
+      "Size": 65564,
+      "Publishers": [
+        "Spracklen, Dan & Spracklen, Kathleen"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Chomp"
+      ],
+      "Sha1": "4af1778ee79ed15dcc4986ee4480c1aa2d842cdc",
+      "Crc32": "338bd4c5",
+      "SetNames": {
+        "TOSEC": [
+          "Chomp (1981)(Global Software Network)"
+        ]
+      },
+      "Size": 65564,
+      "Publishers": [
+        "Global Software Network"
+      ],
+      "ReleaseDate": "1/1/1981",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Defender v3.2"
+      ],
+      "Sha1": "cd51f339976c69d361440d1b7ed1baee172658c2",
+      "Crc32": "f71426f6",
+      "SetNames": {
+        "TOSEC": [
+          "Defender v3.2 (1982)(System Software)(AU)"
+        ]
+      },
+      "Size": 65564,
+      "Publishers": [
+        "System Software"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Regions": [
+        "AU"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Fast Gammon"
+      ],
+      "Sha1": "2d4ac57eb0ec48e6f4543d29154daad12ac6ccb9",
+      "Crc32": "cc2512d8",
+      "SetNames": {
+        "TOSEC": [
+          "Fast Gammon (1979)(Quality Software)(US)"
+        ]
+      },
+      "Size": 65564,
+      "Publishers": [
+        "Quality Software"
+      ],
+      "ReleaseDate": "1/1/1979",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Galaxian"
+      ],
+      "Sha1": "f2a7742056ded8c6b3bbc0edbf87b52fc3c196da",
+      "Crc32": "7908c146",
+      "SetNames": {
+        "TOSEC": [
+          "Galaxian (1978)(Exidy Inc.)"
+        ]
+      },
+      "Size": 65564,
+      "Publishers": [
+        "Exidy Inc."
+      ],
+      "ReleaseDate": "1/1/1978",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Invaders"
+      ],
+      "Sha1": "a19f1d99732a6aadf4bce0b915323c6691344f41",
+      "Crc32": "7d9da712",
+      "SetNames": {
+        "TOSEC": [
+          "Invaders (1978)(Digital Research)"
+        ]
+      },
+      "Size": 65564,
+      "Publishers": [
+        "Digital Research"
+      ],
+      "ReleaseDate": "1/1/1978",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Killopede"
+      ],
+      "Sha1": "6b448a1f1cb7d11a6845fa77b57e358cf71b64d0",
+      "Crc32": "847c0e57",
+      "SetNames": {
+        "TOSEC": [
+          "Killopede (1982)(System Software)(AU)"
+        ]
+      },
+      "Size": 65564,
+      "Publishers": [
+        "System Software"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Regions": [
+        "AU"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Labyrinth Maze Generator"
+      ],
+      "Sha1": "9fc0715a69ccaf59ddc6003b32e2a24fe60accb4",
+      "Crc32": "60c1406c",
+      "SetNames": {
+        "TOSEC": [
+          "Labyrinth Maze Generator (1980-02)(Computing Today)"
+        ]
+      },
+      "Size": 65564,
+      "Publishers": [
+        "Computing Today"
+      ],
+      "ReleaseDate": "2/1/1980",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Martian Invaders"
+      ],
+      "Sha1": "ca2145b36c64476304db691df006b6221f0f5b9e",
+      "Crc32": "fe3dfc8c",
+      "SetNames": {
+        "TOSEC": [
+          "Martian Invaders (1980)(Quality Software)(US)"
+        ]
+      },
+      "Size": 65564,
+      "Publishers": [
+        "Quality Software"
+      ],
+      "ReleaseDate": "1/1/1980",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Qubic - 3D Noughts & Crosses"
+      ],
+      "Sha1": "6fdace5db2af2aec95adf13e3becf7058fc59ad4",
+      "Crc32": "be3aae46",
+      "SetNames": {
+        "TOSEC": [
+          "Qubic - 3D Noughts & Crosses (1985)(Toowoomba Sorcerer Group)(AU)"
+        ]
+      },
+      "Size": 65564,
+      "Publishers": [
+        "Toowoomba Sorcerer Group"
+      ],
+      "ReleaseDate": "1/1/1985",
+      "Regions": [
+        "AU"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Reversi"
+      ],
+      "Sha1": "0067d9b15705f079c3db2157f05533b881e1c4db",
+      "Crc32": "81422cdb",
+      "SetNames": {
+        "TOSEC": [
+          "Reversi (1979)(Bayer, Kathleen & Terry)"
+        ]
+      },
+      "Size": 65564,
+      "Publishers": [
+        "Bayer, Kathleen & Terry"
+      ],
+      "ReleaseDate": "1/1/1979",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Snake"
+      ],
+      "Sha1": "7114b7b94aadce0e7e4d70a800e90b8e69beb146",
+      "Crc32": "8cd145a7",
+      "SetNames": {
+        "TOSEC": [
+          "Snake (1978)(Digital Research)"
+        ]
+      },
+      "Size": 65564,
+      "Publishers": [
+        "Digital Research"
+      ],
+      "ReleaseDate": "1/1/1978",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Super Asteroids"
+      ],
+      "Sha1": "385b78e37380e7c76338324d2240ab2e8ef2074c",
+      "Crc32": "e4247399",
+      "SetNames": {
+        "TOSEC": [
+          "Super Asteroids (1981)(System Software)(AU)"
+        ]
+      },
+      "Size": 65564,
+      "Publishers": [
+        "System Software"
+      ],
+      "ReleaseDate": "1/1/1981",
+      "Regions": [
+        "AU"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Super Star Trek v2.0"
+      ],
+      "Sha1": "b3d2bde82676085948b678b8955aee0c59401bf5",
+      "Crc32": "c7ad4757",
+      "SetNames": {
+        "TOSEC": [
+          "Super Star Trek v2.0 (1979-07)(-)"
+        ]
+      },
+      "Size": 65564,
+      "Publishers": [
+        "-"
+      ],
+      "ReleaseDate": "7/1/1979",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Airmail Pilot"
+      ],
+      "Sha1": "457d6b9b00c836c5b31121e42e1254097341144c",
+      "Crc32": "1d17f5be",
+      "SetNames": {
+        "TOSEC": [
+          "Airmail Pilot (19xx)(-)[BASIC]"
+        ]
+      },
+      "Size": 6265,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Chomp"
+      ],
+      "Sha1": "367a26cddb6717ac444bb86afbb4cea89df7e519",
+      "Crc32": "d3927115",
+      "SetNames": {
+        "TOSEC": [
+          "Chomp (1981)(Global Software Network)[BASIC]"
+        ]
+      },
+      "Size": 12043,
+      "Publishers": [
+        "Global Software Network"
+      ],
+      "ReleaseDate": "1/1/1981",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross-Up"
+      ],
+      "Sha1": "51886fbe4ec76a4ab9169d37bc4b78f4ff741bd0",
+      "Crc32": "f4f5eb15",
+      "SetNames": {
+        "TOSEC": [
+          "Cross-Up (19xx)(Crowley, Ted)[b tape crc][BASIC][Demo 5]"
+        ]
+      },
+      "Size": 6958,
+      "Publishers": [
+        "Crowley, Ted"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Cybernetic Pool"
+      ],
+      "Sha1": "2684170b1c004efb6226d12f8f4ba2c2ac8374b7",
+      "Crc32": "fc62109b",
+      "SetNames": {
+        "TOSEC": [
+          "Cybernetic Pool (19xx)(P.J.B. Systems)(AU)[BASIC]"
+        ]
+      },
+      "Size": 6508,
+      "Publishers": [
+        "P.J.B. Systems"
+      ],
+      "Regions": [
+        "AU"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Eastern Australian Truck Driving"
+      ],
+      "Sha1": "61ec67077c0959e11c68853e83e8758c7f16cf8f",
+      "Crc32": "ad780ad7",
+      "SetNames": {
+        "TOSEC": [
+          "Eastern Australian Truck Driving (19xx)(-)[BASIC]"
+        ]
+      },
+      "Size": 7577,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Galaxians"
+      ],
+      "Sha1": "564971d887859c3d38161bd33fa4636dde9b8d4b",
+      "Crc32": "f199651a",
+      "SetNames": {
+        "TOSEC": [
+          "Galaxians (19xx)(-)"
+        ]
+      },
+      "Size": 8188,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Games"
+      ],
+      "Sha1": "a8dd9e10abf15f350fe27f4236e1a3e7bca3e995",
+      "Crc32": "5a9e57b1",
+      "SetNames": {
+        "TOSEC": [
+          "Games (19xx)(-)[b tape crc]"
+        ]
+      },
+      "Size": 9475,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Horse Race"
+      ],
+      "Sha1": "d54edeb0dc8d250823a56ef9b068d6d1c0ace9fb",
+      "Crc32": "adf353e9",
+      "SetNames": {
+        "TOSEC": [
+          "Horse Race (19xx)(Neil, Gerard)[BASIC]"
+        ]
+      },
+      "Size": 7561,
+      "Publishers": [
+        "Neil, Gerard"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Kadath"
+      ],
+      "Sha1": "c195f72269e40f605e294b56b420f5ea1eadcf26",
+      "Crc32": "76c736e7",
+      "SetNames": {
+        "TOSEC": [
+          "Kadath (1985)(Barnes, Reni)[BASIC]"
+        ]
+      },
+      "Size": 45816,
+      "Publishers": [
+        "Barnes, Reni"
+      ],
+      "ReleaseDate": "1/1/1985",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Labyrinth Maze Generator"
+      ],
+      "Sha1": "a538512e37d43680e33ccd97b546afdcf1ef4b3d",
+      "Crc32": "4801b241",
+      "SetNames": {
+        "TOSEC": [
+          "Labyrinth Maze Generator (1980-02)(Computing Today)[BASIC]"
+        ]
+      },
+      "Size": 5782,
+      "Publishers": [
+        "Computing Today"
+      ],
+      "ReleaseDate": "2/1/1980",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Lem"
+      ],
+      "Sha1": "01b58f89ae2ba7a535015893a552695295f65bf8",
+      "Crc32": "9ca50d74",
+      "SetNames": {
+        "TOSEC": [
+          "Lem (19xx)(Creative Computing)(US)[BASIC]"
+        ]
+      },
+      "Size": 5813,
+      "Publishers": [
+        "Creative Computing"
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Martian Invaders"
+      ],
+      "Sha1": "e17467ba8d72d06c220b125bcf83090f6b821cb5",
+      "Crc32": "b6d4bb05",
+      "SetNames": {
+        "TOSEC": [
+          "Martian Invaders (1980)(Quality Software)(US)"
+        ]
+      },
+      "Size": 3560,
+      "Publishers": [
+        "Quality Software"
+      ],
+      "ReleaseDate": "1/1/1980",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Presidents Quiz"
+      ],
+      "Sha1": "ff889bc9dc27af65ffe2c934ba462ee1bae25c88",
+      "Crc32": "8e971985",
+      "SetNames": {
+        "TOSEC": [
+          "Presidents Quiz (19xx)(Stayley, J. & L.)(US)[BASIC][Demo 7]"
+        ]
+      },
+      "Size": 14005,
+      "Publishers": [
+        "Stayley, J. & L."
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Qubic - 3D Noughts & Crosses"
+      ],
+      "Sha1": "134aef09d0fe9d39bdea7eb721f9f13902d237b4",
+      "Crc32": "6091624f",
+      "SetNames": {
+        "TOSEC": [
+          "Qubic - 3D Noughts & Crosses (1985)(Toowoomba Sorcerer Group)(AU)[BASIC]"
+        ]
+      },
+      "Size": 10163,
+      "Publishers": [
+        "Toowoomba Sorcerer Group"
+      ],
+      "ReleaseDate": "1/1/1985",
+      "Regions": [
+        "AU"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Reversi"
+      ],
+      "Sha1": "6db12876b7b307d160b795e018fe59befaa8bfef",
+      "Crc32": "fb6eec93",
+      "SetNames": {
+        "TOSEC": [
+          "Reversi (1979)(Bayer, Kathleen & Terry)[a][BASIC]"
+        ]
+      },
+      "Size": 12487,
+      "Publishers": [
+        "Bayer, Kathleen & Terry"
+      ],
+      "ReleaseDate": "1/1/1979",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Alternate"
+      ]
+    },
+    {
+      "Titles": [
+        "Reversi"
+      ],
+      "Sha1": "804140f84e462338539db436eb292897a846e87f",
+      "Crc32": "62105e69",
+      "SetNames": {
+        "TOSEC": [
+          "Reversi (1979)(Bayer, Kathleen & Terry)[BASIC][Demo 6]"
+        ]
+      },
+      "Size": 13531,
+      "Publishers": [
+        "Bayer, Kathleen & Terry"
+      ],
+      "ReleaseDate": "1/1/1979",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Super Star Trek v2.0"
+      ],
+      "Sha1": "299e5b4db0eadc42b9e8164ab41f56620a06a9b7",
+      "Crc32": "43beee6a",
+      "SetNames": {
+        "TOSEC": [
+          "Super Star Trek v2.0 (1979-07)(-)[BASIC]"
+        ]
+      },
+      "Size": 24245,
+      "Publishers": [
+        "-"
+      ],
+      "ReleaseDate": "7/1/1979",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Wordsquares"
+      ],
+      "Sha1": "bda321cfe60bb0f1eb4f5aef625e63d60757cafb",
+      "Crc32": "1337d507",
+      "SetNames": {
+        "TOSEC": [
+          "Wordsquares (19xx)(-)[b][BASIC]"
+        ]
+      },
+      "Size": 8445,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Action Bowling"
+      ],
+      "Sha1": "8a9ba25b30cc36e7c9e86313f8b5ed3dfb164b27",
+      "Crc32": "10e47a07",
+      "SetNames": {
+        "TOSEC": [
+          "Action Bowling (1980)(Staley, J.T.)[1200baud][BASIC]"
+        ]
+      },
+      "Size": 18297112,
+      "Publishers": [
+        "Staley, J.T."
+      ],
+      "ReleaseDate": "1/1/1980",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Action Bowling"
+      ],
+      "Sha1": "d8260e4ece7da4a97231a4d73133eb86474751b6",
+      "Crc32": "93a93b39",
+      "SetNames": {
+        "TOSEC": [
+          "Action Bowling (1980)(Staley, J.T.)[300baud][BASIC]"
+        ]
+      },
+      "Size": 77665276,
+      "Publishers": [
+        "Staley, J.T."
+      ],
+      "ReleaseDate": "1/1/1980",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Adventure #1 - Adventureland v4.16"
+      ],
+      "Sha1": "13c9b358ab3ad261abf7250d573ebb3b94085038",
+      "Crc32": "49815811",
+      "SetNames": {
+        "TOSEC": [
+          "Adventure #1 - Adventureland v4.16 (1979)(Adams, Scott)(US)[1200baud]"
+        ]
+      },
+      "Size": 13414936,
+      "Publishers": [
+        "Adams, Scott"
+      ],
+      "ReleaseDate": "1/1/1979",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Adventure #1 - Adventureland v4.16"
+      ],
+      "Sha1": "142704efea45b32800d7d5b44d53f4b9c8fae841",
+      "Crc32": "64b0a470",
+      "SetNames": {
+        "TOSEC": [
+          "Adventure #1 - Adventureland v4.16 (1979)(Adams, Scott)(US)[300baud]"
+        ]
+      },
+      "Size": 52589222,
+      "Publishers": [
+        "Adams, Scott"
+      ],
+      "ReleaseDate": "1/1/1979",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Adventure #2 - Pirate Adventure v4.08"
+      ],
+      "Sha1": "0bf17438ce4124b6ebe72a4d790bbd464ab80b90",
+      "Crc32": "61398b61",
+      "SetNames": {
+        "TOSEC": [
+          "Adventure #2 - Pirate Adventure v4.08 (1979)(Adams, Scott)(US)[1200baud]"
+        ]
+      },
+      "Size": 6868492,
+      "Publishers": [
+        "Adams, Scott"
+      ],
+      "ReleaseDate": "1/1/1979",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Adventure #2 - Pirate Adventure v4.08"
+      ],
+      "Sha1": "fc4ac467d336f358ce0b34530b86f6f363fb51e2",
+      "Crc32": "bb7299a6",
+      "SetNames": {
+        "TOSEC": [
+          "Adventure #2 - Pirate Adventure v4.08 (1979)(Adams, Scott)(US)[300baud]"
+        ]
+      },
+      "Size": 26679966,
+      "Publishers": [
+        "Adams, Scott"
+      ],
+      "ReleaseDate": "1/1/1979",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Adventure #3 - Mission Impossible v3.06"
+      ],
+      "Sha1": "2b43a48ab27fb0d7744e25f1f573f35e41c81beb",
+      "Crc32": "f34cef29",
+      "SetNames": {
+        "TOSEC": [
+          "Adventure #3 - Mission Impossible v3.06 (1979)(Adams, Scott)(US)[1200baud]"
+        ]
+      },
+      "Size": 12999368,
+      "Publishers": [
+        "Adams, Scott"
+      ],
+      "ReleaseDate": "1/1/1979",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Adventure #3 - Mission Impossible v3.06"
+      ],
+      "Sha1": "7009c80218be461aa8afdee0d046a7c81b2d8a03",
+      "Crc32": "afbe1053",
+      "SetNames": {
+        "TOSEC": [
+          "Adventure #3 - Mission Impossible v3.06 (1979)(Adams, Scott)(US)[300baud]"
+        ]
+      },
+      "Size": 50926942,
+      "Publishers": [
+        "Adams, Scott"
+      ],
+      "ReleaseDate": "1/1/1979",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Adventure #4 - Voodoo Castle v1.19"
+      ],
+      "Sha1": "7d19317c37e97e28ea39f09bcf8c709d5e363ef5",
+      "Crc32": "1c1a24b6",
+      "SetNames": {
+        "TOSEC": [
+          "Adventure #4 - Voodoo Castle v1.19 (1979)(Adams, Scott)(US)[1200baud]"
+        ]
+      },
+      "Size": 13354350,
+      "Publishers": [
+        "Adams, Scott"
+      ],
+      "ReleaseDate": "1/1/1979",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Adventure #4 - Voodoo Castle v1.19"
+      ],
+      "Sha1": "173496145cd86bcfd96504f8650e9de3ee8b2ee4",
+      "Crc32": "79001722",
+      "SetNames": {
+        "TOSEC": [
+          "Adventure #4 - Voodoo Castle v1.19 (1979)(Adams, Scott)(US)[300baud]"
+        ]
+      },
+      "Size": 51758078,
+      "Publishers": [
+        "Adams, Scott"
+      ],
+      "ReleaseDate": "1/1/1979",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Adventure #5 - The Count v1.15"
+      ],
+      "Sha1": "063bfe2084139612a65611e67ae33ba6ba4e40bb",
+      "Crc32": "d3f5881f",
+      "SetNames": {
+        "TOSEC": [
+          "Adventure #5 - The Count v1.15 (1979)(Adams, Scott)(US)[1200baud]"
+        ]
+      },
+      "Size": 13207154,
+      "Publishers": [
+        "Adams, Scott"
+      ],
+      "ReleaseDate": "1/1/1979",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Adventure #5 - The Count v1.15"
+      ],
+      "Sha1": "ded9a1855ada6d8cc50f3e07dae53139f1f6debb",
+      "Crc32": "ff86e302",
+      "SetNames": {
+        "TOSEC": [
+          "Adventure #5 - The Count v1.15 (1979)(Adams, Scott)(US)[300baud]"
+        ]
+      },
+      "Size": 51758086,
+      "Publishers": [
+        "Adams, Scott"
+      ],
+      "ReleaseDate": "1/1/1979",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Adventure #6 - Strange Odyssey v1.19"
+      ],
+      "Sha1": "0d6ab8f8f4a5ca8391276c8dd0944f0ae7112aa6",
+      "Crc32": "0f6247fe",
+      "SetNames": {
+        "TOSEC": [
+          "Adventure #6 - Strange Odyssey v1.19 (1979)(Adams, Scott)(US)[1200baud]"
+        ]
+      },
+      "Size": 6764600,
+      "Publishers": [
+        "Adams, Scott"
+      ],
+      "ReleaseDate": "1/1/1979",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Adventure #6 - Strange Odyssey v1.19"
+      ],
+      "Sha1": "f3ee5f9a78a30662d51ccdad5692e66fcb831a83",
+      "Crc32": "220a791b",
+      "SetNames": {
+        "TOSEC": [
+          "Adventure #6 - Strange Odyssey v1.19 (1979)(Adams, Scott)(US)[300baud]"
+        ]
+      },
+      "Size": 26176198,
+      "Publishers": [
+        "Adams, Scott"
+      ],
+      "ReleaseDate": "1/1/1979",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Adventure #7 - Mystery Fun House v1.45"
+      ],
+      "Sha1": "7686d91f5579d30093f0a0d77e8cc3374dce6205",
+      "Crc32": "536c826d",
+      "SetNames": {
+        "TOSEC": [
+          "Adventure #7 - Mystery Fun House v1.45 (1979)(Adams, Scott)(US)[1200baud]"
+        ]
+      },
+      "Size": 6764600,
+      "Publishers": [
+        "Adams, Scott"
+      ],
+      "ReleaseDate": "1/1/1979",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Adventure #7 - Mystery Fun House v1.45"
+      ],
+      "Sha1": "c517927540abacbfd3e87e3bf80d756b5425952e",
+      "Crc32": "6d7d6356",
+      "SetNames": {
+        "TOSEC": [
+          "Adventure #7 - Mystery Fun House v1.45 (1979)(Adams, Scott)(US)[300baud]"
+        ]
+      },
+      "Size": 26176198,
+      "Publishers": [
+        "Adams, Scott"
+      ],
+      "ReleaseDate": "1/1/1979",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Adventure #8 - Pyramid of Doom v1.24"
+      ],
+      "Sha1": "b1a9f72933f681ee923a1158e2b11f1ab94d8842",
+      "Crc32": "1a336d87",
+      "SetNames": {
+        "TOSEC": [
+          "Adventure #8 - Pyramid of Doom v1.24 (1979)(Adams, Scott)(US)[1200baud]"
+        ]
+      },
+      "Size": 6764600,
+      "Publishers": [
+        "Adams, Scott"
+      ],
+      "ReleaseDate": "1/1/1979",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Adventure #8 - Pyramid of Doom v1.24"
+      ],
+      "Sha1": "d04a1d5520e91f1b6ede9aedee26f5bb4f1b51de",
+      "Crc32": "e27289b5",
+      "SetNames": {
+        "TOSEC": [
+          "Adventure #8 - Pyramid of Doom v1.24 (1979)(Adams, Scott)(US)[300baud]"
+        ]
+      },
+      "Size": 26176198,
+      "Publishers": [
+        "Adams, Scott"
+      ],
+      "ReleaseDate": "1/1/1979",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Adventure #9 - Ghost Town v1.23"
+      ],
+      "Sha1": "03e6e5e7a88730cb0d25b85d1f7b321246817363",
+      "Crc32": "ad1116c1",
+      "SetNames": {
+        "TOSEC": [
+          "Adventure #9 - Ghost Town v1.23 (1979)(Adams, Scott)(US)[1200baud]"
+        ]
+      },
+      "Size": 6764600,
+      "Publishers": [
+        "Adams, Scott"
+      ],
+      "ReleaseDate": "1/1/1979",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Adventure #9 - Ghost Town v1.23"
+      ],
+      "Sha1": "35f93cccbdbffdf15683ad59f4a8cc5cc8c552a4",
+      "Crc32": "106bf510",
+      "SetNames": {
+        "TOSEC": [
+          "Adventure #9 - Ghost Town v1.23 (1979)(Adams, Scott)(US)[300baud]"
+        ]
+      },
+      "Size": 26176198,
+      "Publishers": [
+        "Adams, Scott"
+      ],
+      "ReleaseDate": "1/1/1979",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Air Traffic Control"
+      ],
+      "Sha1": "96779ed5bcf2ec7487b72f862ea57753d56c6187",
+      "Crc32": "2f3980f0",
+      "SetNames": {
+        "TOSEC": [
+          "Air Traffic Control (1979)(Mannering, David)[1200baud]"
+        ]
+      },
+      "Size": 2804990,
+      "Publishers": [
+        "Mannering, David"
+      ],
+      "ReleaseDate": "1/1/1979",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Air Traffic Control"
+      ],
+      "Sha1": "655f751500c08977b26a50199e06ab212342619d",
+      "Crc32": "a519090b",
+      "SetNames": {
+        "TOSEC": [
+          "Air Traffic Control (1979)(Mannering, David)[1200baud][later version]"
+        ]
+      },
+      "Size": 2297232,
+      "Publishers": [
+        "Mannering, David"
+      ],
+      "ReleaseDate": "1/1/1979",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Air Traffic Control"
+      ],
+      "Sha1": "e4b2f87d0a784850641c03eb2dbfca6935bca64d",
+      "Crc32": "fc4aab85",
+      "SetNames": {
+        "TOSEC": [
+          "Air Traffic Control (1979)(Mannering, David)[300baud]"
+        ]
+      },
+      "Size": 10149442,
+      "Publishers": [
+        "Mannering, David"
+      ],
+      "ReleaseDate": "1/1/1979",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Air Traffic Control"
+      ],
+      "Sha1": "20bad155cc4e57a1cf7c2f95ae069b978de963e6",
+      "Crc32": "304de09d",
+      "SetNames": {
+        "TOSEC": [
+          "Air Traffic Control (1979)(Mannering, David)[300baud][later version]"
+        ]
+      },
+      "Size": 11259814,
+      "Publishers": [
+        "Mannering, David"
+      ],
+      "ReleaseDate": "1/1/1979",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Airmail Pilot"
+      ],
+      "Sha1": "7b4db1ecc30b91a746fcb95a0fd94ee04ef36466",
+      "Crc32": "040924ed",
+      "SetNames": {
+        "TOSEC": [
+          "Airmail Pilot (19xx)(-)[1200baud][BASIC]"
+        ]
+      },
+      "Size": 5503480,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Airmail Pilot"
+      ],
+      "Sha1": "9116504717ba679ce431a846152d6c610e4aa244",
+      "Crc32": "dee75329",
+      "SetNames": {
+        "TOSEC": [
+          "Airmail Pilot (19xx)(-)[300baud][BASIC]"
+        ]
+      },
+      "Size": 20611438,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Amazing Maze, The"
+      ],
+      "Sha1": "390bea75129714241fceed2dbf3946f1ece6209d",
+      "Crc32": "6edab897",
+      "SetNames": {
+        "TOSEC": [
+          "Amazing Maze, The (19xx)(Wyvill, Brian)[1200baud]"
+        ]
+      },
+      "Size": 4064636,
+      "Publishers": [
+        "Wyvill, Brian"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Amazing Maze, The"
+      ],
+      "Sha1": "84370802677260657e36af0b945462a6d11fdc0e",
+      "Crc32": "6ac681fe",
+      "SetNames": {
+        "TOSEC": [
+          "Amazing Maze, The (19xx)(Wyvill, Brian)[300baud]"
+        ]
+      },
+      "Size": 15188004,
+      "Publishers": [
+        "Wyvill, Brian"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Armored Patrol"
+      ],
+      "Sha1": "3b590f470de8f0cc7d604f0b07ddf2bd8290aed8",
+      "Crc32": "db36467d",
+      "SetNames": {
+        "TOSEC": [
+          "Armored Patrol (1981)(Adventure International)[1200baud]"
+        ]
+      },
+      "Size": 13661228,
+      "Publishers": [
+        "Adventure International"
+      ],
+      "ReleaseDate": "1/1/1981",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Armored Patrol"
+      ],
+      "Sha1": "67c201e2eebf70c37f3ebe5e6deac0c8c6c64bf0",
+      "Crc32": "42cac177",
+      "SetNames": {
+        "TOSEC": [
+          "Armored Patrol (1981)(Adventure International)[300baud]"
+        ]
+      },
+      "Size": 52032556,
+      "Publishers": [
+        "Adventure International"
+      ],
+      "ReleaseDate": "1/1/1981",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Arrows and Alleys"
+      ],
+      "Sha1": "592128939309cd5dbff2eabf55efb79466818ce6",
+      "Crc32": "6771bc7c",
+      "SetNames": {
+        "TOSEC": [
+          "Arrows and Alleys (1980)(Quality Software)(US)[16K][300baud]"
+        ]
+      },
+      "Size": 21189370,
+      "Publishers": [
+        "Quality Software"
+      ],
+      "ReleaseDate": "1/1/1980",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Arrows and Alleys"
+      ],
+      "Sha1": "b4bbc0a8d0f329cc8f0aef702bf3c2be609eb70b",
+      "Crc32": "d4cefc67",
+      "SetNames": {
+        "TOSEC": [
+          "Arrows and Alleys (1980)(Quality Software)(US)[8K][1200baud]"
+        ]
+      },
+      "Size": 5519124,
+      "Publishers": [
+        "Quality Software"
+      ],
+      "ReleaseDate": "1/1/1980",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Asteroids"
+      ],
+      "Sha1": "48914afbabfde7adfc866608fbb0005d33468a5d",
+      "Crc32": "788e8cd3",
+      "SetNames": {
+        "TOSEC": [
+          "Asteroids (1980)(Staley, J.T.)[300baud]"
+        ]
+      },
+      "Size": 29330286,
+      "Publishers": [
+        "Staley, J.T."
+      ],
+      "ReleaseDate": "1/1/1980",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Astro Attacker"
+      ],
+      "Sha1": "0a15567643ce49c9422f16c59837680cd0dc1072",
+      "Crc32": "1ac5f71c",
+      "SetNames": {
+        "TOSEC": [
+          "Astro Attacker (1982)(Global Software Network)[1200bad]"
+        ]
+      },
+      "Size": 12298398,
+      "Publishers": [
+        "Global Software Network"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Astro Attacker"
+      ],
+      "Sha1": "c89bfd8168acd093ac36f6a19dff8e69eee2de14",
+      "Crc32": "d2f64933",
+      "SetNames": {
+        "TOSEC": [
+          "Astro Attacker (1982)(Global Software Network)[300baud]"
+        ]
+      },
+      "Size": 48123066,
+      "Publishers": [
+        "Global Software Network"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Blackjack"
+      ],
+      "Sha1": "65f389d7c4b697f7761fbee7bc5b58daa7e1f94d",
+      "Crc32": "68cfd6b0",
+      "SetNames": {
+        "TOSEC": [
+          "Blackjack (1979)(Staley, J.T.)[300baud][BASIC]"
+        ]
+      },
+      "Size": 30662704,
+      "Publishers": [
+        "Staley, J.T."
+      ],
+      "ReleaseDate": "1/1/1979",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Blackjack"
+      ],
+      "Sha1": "061a0a739255f0df4fed702f4f4b13739479a38c",
+      "Crc32": "f5ae3e11",
+      "SetNames": {
+        "TOSEC": [
+          "Blackjack (19xx)(-)[1200baud][BASIC]"
+        ]
+      },
+      "Size": 12261208,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Blackjack"
+      ],
+      "Sha1": "542b8dd3ba26be7eb8c87207979e100d5f44f840",
+      "Crc32": "5cd45d6e",
+      "SetNames": {
+        "TOSEC": [
+          "Blackjack (19xx)(-)[300baud][BASIC]"
+        ]
+      },
+      "Size": 47974310,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Breakout"
+      ],
+      "Sha1": "a38b517e7158f38179a614c933252a1a7bfd65ce",
+      "Crc32": "bf912cc0",
+      "SetNames": {
+        "TOSEC": [
+          "Breakout (1980-06-27)(Bannon, Ray)[1200baud][BASIC]"
+        ]
+      },
+      "Size": 5719636,
+      "Publishers": [
+        "Bannon, Ray"
+      ],
+      "ReleaseDate": "6/27/1980",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Breakout"
+      ],
+      "Sha1": "f477dbb2e3d57a722936a584e53ec97f4811300a",
+      "Crc32": "b432bc43",
+      "SetNames": {
+        "TOSEC": [
+          "Breakout (1980-06-27)(Bannon, Ray)[300baud][BASIC]"
+        ]
+      },
+      "Size": 21808004,
+      "Publishers": [
+        "Bannon, Ray"
+      ],
+      "ReleaseDate": "6/27/1980",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Checkers"
+      ],
+      "Sha1": "27534df1db20bcce15cd7af7e495bc38584b9696",
+      "Crc32": "9b2fdbbd",
+      "SetNames": {
+        "TOSEC": [
+          "Checkers (19xx)(Creative Computing)(US)[300baud][BASIC]"
+        ]
+      },
+      "Size": 21438764,
+      "Publishers": [
+        "Creative Computing"
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Chess"
+      ],
+      "Sha1": "05e9ef0e305ec205cbf01601c1cd85a345fa9718",
+      "Crc32": "77e0bf2c",
+      "SetNames": {
+        "TOSEC": [
+          "Chess (19xx)(-)[1200baud]"
+        ]
+      },
+      "Size": 6350262,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Chess"
+      ],
+      "Sha1": "36898549e9c07fee7e5cbba93a105dcec26eb6bc",
+      "Crc32": "c1f4b2ed",
+      "SetNames": {
+        "TOSEC": [
+          "Chess (19xx)(-)[300baud]"
+        ]
+      },
+      "Size": 24330534,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Chess v1.0"
+      ],
+      "Sha1": "c4e98a0a11ed913d919fe157508ad210f6821d70",
+      "Crc32": "df6fde70",
+      "SetNames": {
+        "TOSEC": [
+          "Chess v1.0 (19xx)(Sorcerer Computer Users Australia)(AU)[1200baud]"
+        ]
+      },
+      "Size": 5936312,
+      "Publishers": [
+        "Sorcerer Computer Users Australia"
+      ],
+      "Regions": [
+        "AU"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Chess v1.0"
+      ],
+      "Sha1": "3bb8f7203e2cca41dea803923f6bbe7d1ea3c1d1",
+      "Crc32": "b25830fe",
+      "SetNames": {
+        "TOSEC": [
+          "Chess v1.0 (19xx)(Sorcerer Computer Users Australia)(AU)[1200baud][BASIC][instructions]"
+        ]
+      },
+      "Size": 11384794,
+      "Publishers": [
+        "Sorcerer Computer Users Australia"
+      ],
+      "Regions": [
+        "AU"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Chess v1.0"
+      ],
+      "Sha1": "531595e8859af738b1f58a8fa3639b7a98f3aafe",
+      "Crc32": "3aa90c94",
+      "SetNames": {
+        "TOSEC": [
+          "Chess v1.0 (19xx)(Sorcerer Computer Users Australia)(AU)[300baud]"
+        ]
+      },
+      "Size": 22674720,
+      "Publishers": [
+        "Sorcerer Computer Users Australia"
+      ],
+      "Regions": [
+        "AU"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Chess v1.0"
+      ],
+      "Sha1": "2530e1f6ea99b2a7360ee0fbb08078d920035451",
+      "Crc32": "c6623758",
+      "SetNames": {
+        "TOSEC": [
+          "Chess v1.0 (19xx)(Sorcerer Computer Users Australia)(AU)[300baud][BASIC][instructions]"
+        ]
+      },
+      "Size": 44468640,
+      "Publishers": [
+        "Sorcerer Computer Users Australia"
+      ],
+      "Regions": [
+        "AU"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Chomp"
+      ],
+      "Sha1": "c7414e4467006f740919f0da471e45b5196ea484",
+      "Crc32": "27869059",
+      "SetNames": {
+        "TOSEC": [
+          "Chomp (1981)(Global Software Network)[1200baud]"
+        ]
+      },
+      "Size": 10921522,
+      "Publishers": [
+        "Global Software Network"
+      ],
+      "ReleaseDate": "1/1/1981",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Chomp"
+      ],
+      "Sha1": "0347041ff054bff8c703c3b14a614619287bf03f",
+      "Crc32": "15effbeb",
+      "SetNames": {
+        "TOSEC": [
+          "Chomp (1981)(Global Software Network)[300baud]"
+        ]
+      },
+      "Size": 42615562,
+      "Publishers": [
+        "Global Software Network"
+      ],
+      "ReleaseDate": "1/1/1981",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cosmic Fighter"
+      ],
+      "Sha1": "5aaa0f01ed86d8db22871fb456c3c795a6495291",
+      "Crc32": "24bd0b6f",
+      "SetNames": {
+        "TOSEC": [
+          "Cosmic Fighter (1980)(Big Five Software)(US)[1200baud]"
+        ]
+      },
+      "Size": 10661932,
+      "Publishers": [
+        "Big Five Software"
+      ],
+      "ReleaseDate": "1/1/1980",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cosmic Fighter"
+      ],
+      "Sha1": "6ad69c7e5b89d3fbf278d727e48139c9c66183d5",
+      "Crc32": "48432beb",
+      "SetNames": {
+        "TOSEC": [
+          "Cosmic Fighter (1980)(Big Five Software)(US)[300baud]"
+        ]
+      },
+      "Size": 39855148,
+      "Publishers": [
+        "Big Five Software"
+      ],
+      "ReleaseDate": "1/1/1980",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross-Up"
+      ],
+      "Sha1": "cca9b55bd344a70a09c7892b713f7c8f6c163b3f",
+      "Crc32": "ac7e13b3",
+      "SetNames": {
+        "TOSEC": [
+          "Cross-Up (19xx)(Crowley, Ted)[300baud][BASIC]"
+        ]
+      },
+      "Size": 23197484,
+      "Publishers": [
+        "Crowley, Ted"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Chase"
+      ],
+      "Sha1": "f251e16500852d5ded716ea943ad36b13bf7ea16",
+      "Crc32": "ee007949",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Chase (2018-07-19)(Caruso, Fabrizio)"
+        ]
+      },
+      "Size": 5776510,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "7/19/2018",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Chase"
+      ],
+      "Sha1": "40e29adc40d8ef8a9eab67fc18a9bb6d067ed832",
+      "Crc32": "0bad29b5",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Chase (2018-08-04)(Caruso, Fabrizio)"
+        ]
+      },
+      "Size": 6424921,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "8/4/2018",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Chase"
+      ],
+      "Sha1": "4b847ab77bb793fb9ef55f44010a292f8bb4bdb8",
+      "Crc32": "3148decc",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Chase (2018-10-29)(Caruso, Fabrizio)[UDG]"
+        ]
+      },
+      "Size": 6233149,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "10/29/2018",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Chase"
+      ],
+      "Sha1": "8fde258b1e4e33743b319ea94fe5bc3e28bd8b65",
+      "Crc32": "ca4283ec",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Chase (2020-04-02)(Caruso, Fabrizio)"
+        ]
+      },
+      "Size": 6145605,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "4/2/2020",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Chase"
+      ],
+      "Sha1": "45379ec746555a6d92be330574ae23c10bdc6c2b",
+      "Crc32": "310fe372",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Chase (2021-05-13)(Caruso, Fabrizio)"
+        ]
+      },
+      "Size": 5973431,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "5/13/2021",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cybernetic Pool"
+      ],
+      "Sha1": "685903f57e46e049783f7a779c3afa9db47622cf",
+      "Crc32": "a8145a49",
+      "SetNames": {
+        "TOSEC": [
+          "Cybernetic Pool (19xx)(P.J.B. Systems)(AU)[1200baud][BASIC]"
+        ]
+      },
+      "Size": 5701284,
+      "Publishers": [
+        "P.J.B. Systems"
+      ],
+      "Regions": [
+        "AU"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cybernetic Pool"
+      ],
+      "Sha1": "fb86b8de49f32b7b8893c8c833a8fbc235cdfbc9",
+      "Crc32": "eb33db0c",
+      "SetNames": {
+        "TOSEC": [
+          "Cybernetic Pool (19xx)(P.J.B. Systems)(AU)[300baud][BASIC]"
+        ]
+      },
+      "Size": 21397302,
+      "Publishers": [
+        "P.J.B. Systems"
+      ],
+      "Regions": [
+        "AU"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Defender v3.2"
+      ],
+      "Sha1": "875f96724b8e1300fcf30670a0dd54e6a741c08d",
+      "Crc32": "ff981abb",
+      "SetNames": {
+        "TOSEC": [
+          "Defender v3.2 (1982)(System Software)(AU)[1200baud]"
+        ]
+      },
+      "Size": 13830504,
+      "Publishers": [
+        "System Software"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Regions": [
+        "AU"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Defender v3.2"
+      ],
+      "Sha1": "40b1ad0c3e4660211c17cfc977b0121c8f2aeaeb",
+      "Crc32": "84d8df83",
+      "SetNames": {
+        "TOSEC": [
+          "Defender v3.2 (1982)(System Software)(AU)[300baud]"
+        ]
+      },
+      "Size": 54251500,
+      "Publishers": [
+        "System Software"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Regions": [
+        "AU"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Defense Command"
+      ],
+      "Sha1": "ca8d58887c6480154bb43827b359f543efc0b3dd",
+      "Crc32": "b082da2c",
+      "SetNames": {
+        "TOSEC": [
+          "Defense Command (1982)(Big Five Software)(US)[1200baud]"
+        ]
+      },
+      "Size": 13703212,
+      "Publishers": [
+        "Big Five Software"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Defense Command"
+      ],
+      "Sha1": "1486d5759e30c3f9d61bee264ff3523850806798",
+      "Crc32": "bcb885d1",
+      "SetNames": {
+        "TOSEC": [
+          "Defense Command (1982)(Big Five Software)(US)[300baud]"
+        ]
+      },
+      "Size": 52014124,
+      "Publishers": [
+        "Big Five Software"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Dodgem"
+      ],
+      "Sha1": "bf58abfb4586d0fb014a8a8c29c8ca4f6a15f31d",
+      "Crc32": "ef63fe43",
+      "SetNames": {
+        "TOSEC": [
+          "Dodgem (19xx)(Creative Computing)(US)[1200baud][BASIC]"
+        ]
+      },
+      "Size": 4497964,
+      "Publishers": [
+        "Creative Computing"
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Dodgem"
+      ],
+      "Sha1": "2550a87ecc988a68eca791967d10aac7b5f64da8",
+      "Crc32": "488ed77d",
+      "SetNames": {
+        "TOSEC": [
+          "Dodgem (19xx)(Creative Computing)(US)[300baud][BASIC]"
+        ]
+      },
+      "Size": 16148524,
+      "Publishers": [
+        "Creative Computing"
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Eastern Australian Truck Driving"
+      ],
+      "Sha1": "223e80aeaf9cab63d7406bf1fdb6fff01434dffa",
+      "Crc32": "93a9d2b1",
+      "SetNames": {
+        "TOSEC": [
+          "Eastern Australian Truck Driving (19xx)(-)[1200baud][BASIC]"
+        ]
+      },
+      "Size": 6481242,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Eastern Australian Truck Driving"
+      ],
+      "Sha1": "669c8e757047bc636395b1c3f9c3347ae05ef270",
+      "Crc32": "0437d968",
+      "SetNames": {
+        "TOSEC": [
+          "Eastern Australian Truck Driving (19xx)(-)[300baud][BASIC]"
+        ]
+      },
+      "Size": 24854446,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Fast Gammon"
+      ],
+      "Sha1": "dbe00fb7f09e80905209573322796009fe6b92ab",
+      "Crc32": "30413e52",
+      "SetNames": {
+        "TOSEC": [
+          "Fast Gammon (1979)(Quality Software)(US)[1200baud]"
+        ]
+      },
+      "Size": 5949248,
+      "Publishers": [
+        "Quality Software"
+      ],
+      "ReleaseDate": "1/1/1979",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Fast Gammon"
+      ],
+      "Sha1": "12475d9e09bd653830540d10dbff5cb9b566e15b",
+      "Crc32": "7a6361dc",
+      "SetNames": {
+        "TOSEC": [
+          "Fast Gammon (1979)(Quality Software)(US)[300baud]"
+        ]
+      },
+      "Size": 22726460,
+      "Publishers": [
+        "Quality Software"
+      ],
+      "ReleaseDate": "1/1/1979",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Flip"
+      ],
+      "Sha1": "1d66a7a077aa939bf52202ae744a860d02b647c6",
+      "Crc32": "37176195",
+      "SetNames": {
+        "TOSEC": [
+          "Flip (1980)(Staley, J.T.)[300baud][BASIC]"
+        ]
+      },
+      "Size": 32383194,
+      "Publishers": [
+        "Staley, J.T."
+      ],
+      "ReleaseDate": "1/1/1980",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Flite"
+      ],
+      "Sha1": "d0806c7ebb0a0911b06d41001b1f3830efe5c2ca",
+      "Crc32": "f5909195",
+      "SetNames": {
+        "TOSEC": [
+          "Flite (19xx)(-)[300baud]"
+        ]
+      },
+      "Size": 51569708,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Galaxians"
+      ],
+      "Sha1": "a0ed223b4fd12ccf716e1205fcf26048c1433ce6",
+      "Crc32": "3d6a845c",
+      "SetNames": {
+        "TOSEC": [
+          "Galaxians (19xx)(-)[1200baud]"
+        ]
+      },
+      "Size": 6959872,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Galaxians"
+      ],
+      "Sha1": "e5419ed1361df887b46623e771ed58c6c421f99a",
+      "Crc32": "2f91f03f",
+      "SetNames": {
+        "TOSEC": [
+          "Galaxians (19xx)(-)[300baud]"
+        ]
+      },
+      "Size": 26768976,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Galaxians"
+      ],
+      "Sha1": "ec1ad3b52e7cb81fdc12712d3d7a32cbeb6a8904",
+      "Crc32": "5d2d011c",
+      "SetNames": {
+        "TOSEC": [
+          "Galaxians (19xx)(-)[a][1200baud]"
+        ]
+      },
+      "Size": 7707934,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Alternate"
+      ]
+    },
+    {
+      "Titles": [
+        "Galaxians"
+      ],
+      "Sha1": "0f3fc9f642da3845f341ef364069df7d6b7581ca",
+      "Crc32": "fc8f95f7",
+      "SetNames": {
+        "TOSEC": [
+          "Galaxians (19xx)(-)[a][300baud]"
+        ]
+      },
+      "Size": 13753228,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Alternate"
+      ]
+    },
+    {
+      "Titles": [
+        "Galaxy Invasion"
+      ],
+      "Sha1": "24ef4346e96caf55e2ba214f56f987b0fa43855f",
+      "Crc32": "27e4c1d0",
+      "SetNames": {
+        "TOSEC": [
+          "Galaxy Invasion (198x)(Big Five Software)(US)[1200baud]"
+        ]
+      },
+      "Size": 9054806,
+      "Publishers": [
+        "Big Five Software"
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Galaxy Invasion"
+      ],
+      "Sha1": "0bcd28e4a34c867567a26773a8c4632f6bcd3269",
+      "Crc32": "7344c5c9",
+      "SetNames": {
+        "TOSEC": [
+          "Galaxy Invasion (198x)(Big Five Software)(US)[300baud]"
+        ]
+      },
+      "Size": 35054470,
+      "Publishers": [
+        "Big Five Software"
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Grotnik Wars"
+      ],
+      "Sha1": "0e3be862dc487a38a2af7460fc46cb5cae55e7c9",
+      "Crc32": "ba7f45d1",
+      "SetNames": {
+        "TOSEC": [
+          "Grotnik Wars (19xx)(Williams, Ross)[1200baud]"
+        ]
+      },
+      "Size": 5558744,
+      "Publishers": [
+        "Williams, Ross"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Grotnik Wars"
+      ],
+      "Sha1": "9662b175361596841c528762a68c349ebf2b1a4d",
+      "Crc32": "6446e6b0",
+      "SetNames": {
+        "TOSEC": [
+          "Grotnik Wars (19xx)(Williams, Ross)[300baud]"
+        ]
+      },
+      "Size": 21719084,
+      "Publishers": [
+        "Williams, Ross"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Grotnik Wars"
+      ],
+      "Sha1": "f51c5fc4ef178c5c0e04036e556fd12bc67d207c",
+      "Crc32": "34277ad0",
+      "SetNames": {
+        "TOSEC": [
+          "Grotnik Wars (19xx)(Williams, Ross)[a continuous fire option][1200baud]"
+        ]
+      },
+      "Size": 2920586,
+      "Publishers": [
+        "Williams, Ross"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Alternate"
+      ]
+    },
+    {
+      "Titles": [
+        "Grotnik Wars"
+      ],
+      "Sha1": "1164f535f2705b63699b4f354969cd13d36b2285",
+      "Crc32": "5b561bbf",
+      "SetNames": {
+        "TOSEC": [
+          "Grotnik Wars (19xx)(Williams, Ross)[a continuous fire option][300baud]"
+        ]
+      },
+      "Size": 10844244,
+      "Publishers": [
+        "Williams, Ross"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Alternate"
+      ]
+    },
+    {
+      "Titles": [
+        "Guess the Animal"
+      ],
+      "Sha1": "72fb5b7a5fcce08d41150251ca85000fb53c7686",
+      "Crc32": "89c12e4c",
+      "SetNames": {
+        "TOSEC": [
+          "Guess the Animal (19xx)(-)[1200baud][BASIC]"
+        ]
+      },
+      "Size": 1890604,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Guess the Animal"
+      ],
+      "Sha1": "d8666027343fc4a4ca8ca6fb0e909d4d95a5db0e",
+      "Crc32": "f2a5b5ac",
+      "SetNames": {
+        "TOSEC": [
+          "Guess the Animal (19xx)(-)[300baud][BASIC]"
+        ]
+      },
+      "Size": 6164524,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Gunner v1.0"
+      ],
+      "Sha1": "5bc7f4b2f4f47aa442741a0b6c368e09ecf60524",
+      "Crc32": "8b83bbf7",
+      "SetNames": {
+        "TOSEC": [
+          "Gunner v1.0 (1980)(-)[1200baud][BASIC]"
+        ]
+      },
+      "Size": 4178634,
+      "Publishers": [
+        "-"
+      ],
+      "ReleaseDate": "1/1/1980",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Gunner v1.0"
+      ],
+      "Sha1": "0875defca42bd9c0eebe10874cd53d86ae8a84d9",
+      "Crc32": "cccb307e",
+      "SetNames": {
+        "TOSEC": [
+          "Gunner v1.0 (1980)(-)[300baud][BASIC]"
+        ]
+      },
+      "Size": 15877164,
+      "Publishers": [
+        "-"
+      ],
+      "ReleaseDate": "1/1/1980",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Hangman"
+      ],
+      "Sha1": "50292a96027dc501191c98a723b3bf43b2473ddd",
+      "Crc32": "c4fe4de2",
+      "SetNames": {
+        "TOSEC": [
+          "Hangman (19xx)(-)[1200baud][BASIC]"
+        ]
+      },
+      "Size": 4043018,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Hangman"
+      ],
+      "Sha1": "3b7cadf04be531d43ee439d129358bbf175c7713",
+      "Crc32": "ea076442",
+      "SetNames": {
+        "TOSEC": [
+          "Hangman (19xx)(-)[300baud][BASIC]"
+        ]
+      },
+      "Size": 6688554,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Hangman"
+      ],
+      "Sha1": "cd790270ca8bce1ea388613b115fc298b79be392",
+      "Crc32": "a0c1003f",
+      "SetNames": {
+        "TOSEC": [
+          "Hangman (19xx)(Morle, Colin)[1200baud][BASIC]"
+        ]
+      },
+      "Size": 5665466,
+      "Publishers": [
+        "Morle, Colin"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Hangman"
+      ],
+      "Sha1": "f6778e6cdd0755f354592e629b7961d6af3ae8b0",
+      "Crc32": "ccc1f4df",
+      "SetNames": {
+        "TOSEC": [
+          "Hangman (19xx)(Morle, Colin)[300baud][BASIC]"
+        ]
+      },
+      "Size": 21780524,
+      "Publishers": [
+        "Morle, Colin"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Head-On Collision"
+      ],
+      "Sha1": "b3aad8a062252c450a42386a1da1047be9ea9cef",
+      "Crc32": "dbf63802",
+      "SetNames": {
+        "TOSEC": [
+          "Head-On Collision (1980)(Quality Software)(US)[1200baud]"
+        ]
+      },
+      "Size": 3959508,
+      "Publishers": [
+        "Quality Software"
+      ],
+      "ReleaseDate": "1/1/1980",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Head-On Collision"
+      ],
+      "Sha1": "46d62c7dd914b9eb9158d15cf4fb1b542e1a7e5a",
+      "Crc32": "836cdfe8",
+      "SetNames": {
+        "TOSEC": [
+          "Head-On Collision (1980)(Quality Software)(US)[1200baud][joystick version]"
+        ]
+      },
+      "Size": 9002028,
+      "Publishers": [
+        "Quality Software"
+      ],
+      "ReleaseDate": "1/1/1980",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Head-On Collision"
+      ],
+      "Sha1": "8e27db20c02fd59ac7ab769a07bad2e5a87834e8",
+      "Crc32": "c8a3e7b5",
+      "SetNames": {
+        "TOSEC": [
+          "Head-On Collision (1980)(Quality Software)(US)[300baud]"
+        ]
+      },
+      "Size": 14999934,
+      "Publishers": [
+        "Quality Software"
+      ],
+      "ReleaseDate": "1/1/1980",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Head-On Collision"
+      ],
+      "Sha1": "65520a94df296951c0943fe19ce318bf4d4c23bd",
+      "Crc32": "1d96ec79",
+      "SetNames": {
+        "TOSEC": [
+          "Head-On Collision (1980)(Quality Software)(US)[300baud][joystick version]"
+        ]
+      },
+      "Size": 30405808,
+      "Publishers": [
+        "Quality Software"
+      ],
+      "ReleaseDate": "1/1/1980",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Home Run"
+      ],
+      "Sha1": "b06db2e69b8f6d5cb079283184e24843d81fc7d6",
+      "Crc32": "e0c407d1",
+      "SetNames": {
+        "TOSEC": [
+          "Home Run (1979)(Staley, J.T. - Sorcerer User's Group Wollongong Branch)(AU)[1200baud][BASIC]"
+        ]
+      },
+      "Size": 8667352,
+      "Publishers": [
+        "Staley, J.T. - Sorcerer User's Group Wollongong Branch"
+      ],
+      "ReleaseDate": "1/1/1979",
+      "Regions": [
+        "AU"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Home Run"
+      ],
+      "Sha1": "631244d667a290e5ecc1cb49094f0e44e2f738d7",
+      "Crc32": "086177c3",
+      "SetNames": {
+        "TOSEC": [
+          "Home Run (1979)(Staley, J.T. - Sorcerer User's Group Wollongong Branch)(AU)[300baud][BASIC]"
+        ]
+      },
+      "Size": 15831072,
+      "Publishers": [
+        "Staley, J.T. - Sorcerer User's Group Wollongong Branch"
+      ],
+      "ReleaseDate": "1/1/1979",
+      "Regions": [
+        "AU"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Home Run"
+      ],
+      "Sha1": "fd7b4c541a020a2e5c9f034544728302a58265ef",
+      "Crc32": "930219a8",
+      "SetNames": {
+        "TOSEC": [
+          "Home Run (1979)(Staley, J.T.)[300baud][BASIC]"
+        ]
+      },
+      "Size": 40731904,
+      "Publishers": [
+        "Staley, J.T."
+      ],
+      "ReleaseDate": "1/1/1979",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Horse Race"
+      ],
+      "Sha1": "adc7bed72b9dfbf5b21fc929ee209ae04bdbd5a2",
+      "Crc32": "dca6c5ae",
+      "SetNames": {
+        "TOSEC": [
+          "Horse Race (19xx)(Neil, Gerard)[1200baud][BASIC][clipped]"
+        ]
+      },
+      "Size": 6558426,
+      "Publishers": [
+        "Neil, Gerard"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Horse Race"
+      ],
+      "Sha1": "c0aa1303373762f014a22a310f25d5dd3892b8b8",
+      "Crc32": "2e549ebc",
+      "SetNames": {
+        "TOSEC": [
+          "Horse Race (19xx)(Neil, Gerard)[300baud][BASIC]"
+        ]
+      },
+      "Size": 24802696,
+      "Publishers": [
+        "Neil, Gerard"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "How the West Was Won"
+      ],
+      "Sha1": "09facbf89ecf43661f7ed9294e111555d8318813",
+      "Crc32": "f2ed7f26",
+      "SetNames": {
+        "TOSEC": [
+          "How the West Was Won (19xx)(Morle, Colin)[300baud][BASIC]"
+        ]
+      },
+      "Size": 24003884,
+      "Publishers": [
+        "Morle, Colin"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Hunt the Wumpus"
+      ],
+      "Sha1": "03a1478b5e845550b0b3daf24a5ab6d05cf9c786",
+      "Crc32": "122511b8",
+      "SetNames": {
+        "TOSEC": [
+          "Hunt the Wumpus (19xx)(Craven, Duncan)[1200baud][BASIC]"
+        ]
+      },
+      "Size": 2586752,
+      "Publishers": [
+        "Craven, Duncan"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Hunt the Wumpus"
+      ],
+      "Sha1": "489ccea8e6dba7815344bec4f87eb7eaad732fde",
+      "Crc32": "3d394bf7",
+      "SetNames": {
+        "TOSEC": [
+          "Hunt the Wumpus (19xx)(Craven, Duncan)[300baud][BASIC]"
+        ]
+      },
+      "Size": 9696526,
+      "Publishers": [
+        "Craven, Duncan"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Interceptor"
+      ],
+      "Sha1": "b08236298e5f28f8c8b85b41165fc456d4d3c568",
+      "Crc32": "75fec1fb",
+      "SetNames": {
+        "TOSEC": [
+          "Interceptor (19xx)(Rideout, Blair)[1200baud]"
+        ]
+      },
+      "Size": 6973620,
+      "Publishers": [
+        "Rideout, Blair"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Interceptor"
+      ],
+      "Sha1": "1b7b85e8687a1724302037c3c21bad042ef7f97e",
+      "Crc32": "9e14c513",
+      "SetNames": {
+        "TOSEC": [
+          "Interceptor (19xx)(Rideout, Blair)[300baud]"
+        ]
+      },
+      "Size": 26823950,
+      "Publishers": [
+        "Rideout, Blair"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Kadath"
+      ],
+      "Sha1": "80dea7aae2ab9c970bc442c118dd55cc81b65fe2",
+      "Crc32": "cf02781e",
+      "SetNames": {
+        "TOSEC": [
+          "Kadath (1985)(Barnes, Reni)[1200baud][48K][BASIC]"
+        ]
+      },
+      "Size": 37697996,
+      "Publishers": [
+        "Barnes, Reni"
+      ],
+      "ReleaseDate": "1/1/1985",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Kadath"
+      ],
+      "Sha1": "61ba103b4e4d59f536a28be58f44a00a23284101",
+      "Crc32": "f8c8814a",
+      "SetNames": {
+        "TOSEC": [
+          "Kadath (1985)(Barnes, Reni)[300baud][BASIC]"
+        ]
+      },
+      "Size": 148519358,
+      "Publishers": [
+        "Barnes, Reni"
+      ],
+      "ReleaseDate": "1/1/1985",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Killer Gorilla"
+      ],
+      "Sha1": "cf22f87b9f494daa19e4175ddbfb25879d75b1e4",
+      "Crc32": "38b7e929",
+      "SetNames": {
+        "TOSEC": [
+          "Killer Gorilla (1983)(Displayed Video)[1200baud]"
+        ]
+      },
+      "Size": 12227628,
+      "Publishers": [
+        "Displayed Video"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Killer Gorilla"
+      ],
+      "Sha1": "8866525f4fc7a1dca23e36fb97821be5b900a45a",
+      "Crc32": "4a8de8d8",
+      "SetNames": {
+        "TOSEC": [
+          "Killer Gorilla (1983)(Displayed Video)[300baud]"
+        ]
+      },
+      "Size": 43633708,
+      "Publishers": [
+        "Displayed Video"
+      ],
+      "ReleaseDate": "1/1/1983",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Killopede"
+      ],
+      "Sha1": "00095672f0f438276beb626f32be0ac8bcef12a3",
+      "Crc32": "e183ed5c",
+      "SetNames": {
+        "TOSEC": [
+          "Killopede (1982)(System Software)(AU)[1200baud]"
+        ]
+      },
+      "Size": 7181402,
+      "Publishers": [
+        "System Software"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Regions": [
+        "AU"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Killopede"
+      ],
+      "Sha1": "22d6d27c3b648974bd5f348fbf6de2592fc2067c",
+      "Crc32": "6a8394a9",
+      "SetNames": {
+        "TOSEC": [
+          "Killopede (1982)(System Software)(AU)[1200baud][sound]"
+        ]
+      },
+      "Size": 9537764,
+      "Publishers": [
+        "System Software"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Regions": [
+        "AU"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Killopede"
+      ],
+      "Sha1": "7d9a14d4fd0b28b651f9328c714ef3b79e1f1c00",
+      "Crc32": "ae69d95b",
+      "SetNames": {
+        "TOSEC": [
+          "Killopede (1982)(System Software)(AU)[300baud]"
+        ]
+      },
+      "Size": 27655090,
+      "Publishers": [
+        "System Software"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Regions": [
+        "AU"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Killopede"
+      ],
+      "Sha1": "31e4cc88b7180911d8d8f8f144f5fb739a190013",
+      "Crc32": "d63a5bdc",
+      "SetNames": {
+        "TOSEC": [
+          "Killopede (1982)(System Software)(AU)[300baud][sound]"
+        ]
+      },
+      "Size": 28440164,
+      "Publishers": [
+        "System Software"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Regions": [
+        "AU"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Labyrinth Maze Generator"
+      ],
+      "Sha1": "8306bc450645ecec8cede84e735cea50aa779b85",
+      "Crc32": "91410e4d",
+      "SetNames": {
+        "TOSEC": [
+          "Labyrinth Maze Generator (1980-02)(Computing Today)[1200baud][BASIC]"
+        ]
+      },
+      "Size": 5110320,
+      "Publishers": [
+        "Computing Today"
+      ],
+      "ReleaseDate": "2/1/1980",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Labyrinth Maze Generator"
+      ],
+      "Sha1": "67d5c858aadc1d22b6833469888a0d4b9e5393ce",
+      "Crc32": "af77848e",
+      "SetNames": {
+        "TOSEC": [
+          "Labyrinth Maze Generator (1980-02)(Computing Today)[300baud][BASIC]"
+        ]
+      },
+      "Size": 19049416,
+      "Publishers": [
+        "Computing Today"
+      ],
+      "ReleaseDate": "2/1/1980",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Labyrinth Maze Generator"
+      ],
+      "Sha1": "7600c57e9e3318631044ed093bdb77456804eecb",
+      "Crc32": "04f20440",
+      "SetNames": {
+        "TOSEC": [
+          "Labyrinth Maze Generator (19xx)(-)[1200baud][BASIC][poss original]"
+        ]
+      },
+      "Size": 4989988,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Labyrinth Maze Generator"
+      ],
+      "Sha1": "ec9ff7f1ebaef2119d77d5c123cf3f67d3126be8",
+      "Crc32": "fc6e888f",
+      "SetNames": {
+        "TOSEC": [
+          "Labyrinth Maze Generator (19xx)(-)[300baud][BASIC][poss original]"
+        ]
+      },
+      "Size": 8350830,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Lander Arcade"
+      ],
+      "Sha1": "23887f044fadb55e7adf1cb9a0f818f85fc2f9f3",
+      "Crc32": "98fad999",
+      "SetNames": {
+        "TOSEC": [
+          "Lander Arcade (1982)(Bell, Jeffrey A.)[300baud]"
+        ]
+      },
+      "Size": 53083862,
+      "Publishers": [
+        "Bell, Jeffrey A."
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Lazer Fire"
+      ],
+      "Sha1": "08e9d9013db08b7cb6d11cccb273f90013251aea",
+      "Crc32": "61dea5d3",
+      "SetNames": {
+        "TOSEC": [
+          "Lazer Fire (19xx)(Yvanovich, Mark)[300baud][BASIC][University Software Vol IV]"
+        ]
+      },
+      "Size": 21984044,
+      "Publishers": [
+        "Yvanovich, Mark"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Lem"
+      ],
+      "Sha1": "115174a434a9ba0ca3ffc9c4c8d395572e96302d",
+      "Crc32": "e580c8fa",
+      "SetNames": {
+        "TOSEC": [
+          "Lem (19xx)(Creative Computing)(US)[1200baud]"
+        ]
+      },
+      "Size": 5149484,
+      "Publishers": [
+        "Creative Computing"
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Lem"
+      ],
+      "Sha1": "bb5d4a6556375899766b76e50e5051b03ade09be",
+      "Crc32": "34578b79",
+      "SetNames": {
+        "TOSEC": [
+          "Lem (19xx)(Creative Computing)(US)[300baud]"
+        ]
+      },
+      "Size": 19572524,
+      "Publishers": [
+        "Creative Computing"
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Lost Dutchman's Gold"
+      ],
+      "Sha1": "f5e6f2e53370b22ffda59d222a46b21967966492",
+      "Crc32": "27881a84",
+      "SetNames": {
+        "TOSEC": [
+          "Lost Dutchman's Gold (1981)(-)[300baud][BASIC]"
+        ]
+      },
+      "Size": 18410560,
+      "Publishers": [
+        "-"
+      ],
+      "ReleaseDate": "1/1/1981",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Lost Dutchman's Gold"
+      ],
+      "Sha1": "606713d9324bda24f3b10bae2b74042559b7156a",
+      "Crc32": "b10f9f9f",
+      "SetNames": {
+        "TOSEC": [
+          "Lost Dutchman's Gold (1981)(-)[b tape crc][1200baud][BASIC]"
+        ]
+      },
+      "Size": 5315338,
+      "Publishers": [
+        "-"
+      ],
+      "ReleaseDate": "1/1/1981",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Magic Maze"
+      ],
+      "Sha1": "02bb73b4f9eb6dfa5fc363415833517fd567c223",
+      "Crc32": "fe3baf29",
+      "SetNames": {
+        "TOSEC": [
+          "Magic Maze (1979)(Quality Software)(US)[8K][300baud][BASIC]"
+        ]
+      },
+      "Size": 20307922,
+      "Publishers": [
+        "Quality Software"
+      ],
+      "ReleaseDate": "1/1/1979",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Martian Invaders"
+      ],
+      "Sha1": "f387b9adb3edcdbc022809208bc607ebb4865b4e",
+      "Crc32": "1c1ac5c0",
+      "SetNames": {
+        "TOSEC": [
+          "Martian Invaders (1980)(Quality Software)(US)[1200baud]"
+        ]
+      },
+      "Size": 3233496,
+      "Publishers": [
+        "Quality Software"
+      ],
+      "ReleaseDate": "1/1/1980",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Martian Invaders"
+      ],
+      "Sha1": "2459e1ce33ca4df4cf07c127ceed9a96fe25849c",
+      "Crc32": "cabe383d",
+      "SetNames": {
+        "TOSEC": [
+          "Martian Invaders (1980)(Quality Software)(US)[300baud]"
+        ]
+      },
+      "Size": 11863458,
+      "Publishers": [
+        "Quality Software"
+      ],
+      "ReleaseDate": "1/1/1980",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Mastermind"
+      ],
+      "Sha1": "31e86c5faad608a8fcca111a2493e0ce0929a9d6",
+      "Crc32": "40515587",
+      "SetNames": {
+        "TOSEC": [
+          "Mastermind (1979)(Warden, M.S.)[300baud][BASIC]"
+        ]
+      },
+      "Size": 44244220,
+      "Publishers": [
+        "Warden, M.S."
+      ],
+      "ReleaseDate": "1/1/1979",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Meteor Mission 2"
+      ],
+      "Sha1": "3739bfa7be4e5fe4386a839f8619ff2a9ebd7acd",
+      "Crc32": "57809f51",
+      "SetNames": {
+        "TOSEC": [
+          "Meteor Mission 2 (1981)(Big Five Software)(US)[1200baud]"
+        ]
+      },
+      "Size": 11160994,
+      "Publishers": [
+        "Big Five Software"
+      ],
+      "ReleaseDate": "1/1/1981",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Meteor Mission 2"
+      ],
+      "Sha1": "d1d3603313a0d3e1df9ce9d0a75734a8c3d81db2",
+      "Crc32": "5b278908",
+      "SetNames": {
+        "TOSEC": [
+          "Meteor Mission 2 (1981)(Big Five Software)(US)[300baud]"
+        ]
+      },
+      "Size": 43573454,
+      "Publishers": [
+        "Big Five Software"
+      ],
+      "ReleaseDate": "1/1/1981",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Military Encounter"
+      ],
+      "Sha1": "443a87aadf4667375ab68182aed6ba17a29c695b",
+      "Crc32": "b8e23df3",
+      "SetNames": {
+        "TOSEC": [
+          "Military Encounter (1981)(Global Software Network)[1200baud][req BASIC ROMPAC]"
+        ]
+      },
+      "Size": 12072020,
+      "Publishers": [
+        "Global Software Network"
+      ],
+      "ReleaseDate": "1/1/1981",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Military Encounter"
+      ],
+      "Sha1": "f6f85a499b10b2c39313589967a824aa91e51336",
+      "Crc32": "8bdba9fd",
+      "SetNames": {
+        "TOSEC": [
+          "Military Encounter (1981)(Global Software Network)[300baud][req BASIC ROMPAC]"
+        ]
+      },
+      "Size": 49273900,
+      "Publishers": [
+        "Global Software Network"
+      ],
+      "ReleaseDate": "1/1/1981",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Mine Field"
+      ],
+      "Sha1": "c5a584c8b9752c5e105b230b39ee9476d9c20e01",
+      "Crc32": "0b144cec",
+      "SetNames": {
+        "TOSEC": [
+          "Mine Field (19xx)(Morle, Colin)[300baud][BASIC][adapted PET listing]"
+        ]
+      },
+      "Size": 10080044,
+      "Publishers": [
+        "Morle, Colin"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Munch!"
+      ],
+      "Sha1": "c00c1c98ef2e2cc8f842bd67830b770a739b0c29",
+      "Crc32": "dc046be4",
+      "SetNames": {
+        "TOSEC": [
+          "Munch! (1982)(System Software)(AU)[300baud]"
+        ]
+      },
+      "Size": 27655084,
+      "Publishers": [
+        "System Software"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Regions": [
+        "AU"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Nike II"
+      ],
+      "Sha1": "61d8dd72f13062af52141f5659b036fa953447f5",
+      "Crc32": "322fa716",
+      "SetNames": {
+        "TOSEC": [
+          "Nike II (1980)(Quality Software)(US)[1200baud]"
+        ]
+      },
+      "Size": 3025714,
+      "Publishers": [
+        "Quality Software"
+      ],
+      "ReleaseDate": "1/1/1980",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Nike II"
+      ],
+      "Sha1": "9bec6e6da8728cebbe1c833c9b4b2c523246de07",
+      "Crc32": "033ae17d",
+      "SetNames": {
+        "TOSEC": [
+          "Nike II (1980)(Quality Software)(US)[300baud]"
+        ]
+      },
+      "Size": 12008492,
+      "Publishers": [
+        "Quality Software"
+      ],
+      "ReleaseDate": "1/1/1980",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Nuclear Reaction"
+      ],
+      "Sha1": "b2e002160fe00bbbbba7345b82f08a8eb0fccb05",
+      "Crc32": "dcd9fb1a",
+      "SetNames": {
+        "TOSEC": [
+          "Nuclear Reaction (19xx)(Creative Computing)(US)[300baud][BASIC]"
+        ]
+      },
+      "Size": 13788204,
+      "Publishers": [
+        "Creative Computing"
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Pie Lob"
+      ],
+      "Sha1": "c408f05ff2f819128a4cb68b17d43bde5f19a81f",
+      "Crc32": "5affd00f",
+      "SetNames": {
+        "TOSEC": [
+          "Pie Lob (19xx)(Creative Computing)(US)[300baud][BASIC]"
+        ]
+      },
+      "Size": 18821164,
+      "Publishers": [
+        "Creative Computing"
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Piranha"
+      ],
+      "Sha1": "427daa922db0e806d4a1383b054158dac4db9161",
+      "Crc32": "8da5bed7",
+      "SetNames": {
+        "TOSEC": [
+          "Piranha (1981)(Interface Age)(US)[1200baud]"
+        ]
+      },
+      "Size": 1818562,
+      "Publishers": [
+        "Interface Age"
+      ],
+      "ReleaseDate": "1/1/1981",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Piranha"
+      ],
+      "Sha1": "5f95ebf9c6a249fa8e41b5388eab9c85de5c671c",
+      "Crc32": "7f2e1aa6",
+      "SetNames": {
+        "TOSEC": [
+          "Piranha (1981)(Interface Age)(US)[300baud]"
+        ]
+      },
+      "Size": 4889476,
+      "Publishers": [
+        "Interface Age"
+      ],
+      "ReleaseDate": "1/1/1981",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Presidents Quiz"
+      ],
+      "Sha1": "596d5613942cafb0730f2eb196090730621557dc",
+      "Crc32": "87d2804a",
+      "SetNames": {
+        "TOSEC": [
+          "Presidents Quiz (19xx)(Stayley, J. & L.)(US)[1200baud][BASIC][Demo 7]"
+        ]
+      },
+      "Size": 11803842,
+      "Publishers": [
+        "Stayley, J. & L."
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Presidents Quiz"
+      ],
+      "Sha1": "d09105cf702d2b8442db6093d7df7d208d94bc92",
+      "Crc32": "68a9b446",
+      "SetNames": {
+        "TOSEC": [
+          "Presidents Quiz (19xx)(Stayley, J. & L.)(US)[300baud][BASIC][Demo 7]"
+        ]
+      },
+      "Size": 45642598,
+      "Publishers": [
+        "Stayley, J. & L."
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Qubic - 3D Noughts & Crosses"
+      ],
+      "Sha1": "927a250c739c858e39badd8503851344a8d584b2",
+      "Crc32": "48b7004a",
+      "SetNames": {
+        "TOSEC": [
+          "Qubic - 3D Noughts & Crosses (1985)(Toowoomba Sorcerer Group)(AU)[1200baud][BASIC]"
+        ]
+      },
+      "Size": 8676452,
+      "Publishers": [
+        "Toowoomba Sorcerer Group"
+      ],
+      "ReleaseDate": "1/1/1985",
+      "Regions": [
+        "AU"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Qubic - 3D Noughts & Crosses"
+      ],
+      "Sha1": "d35b20ff9a231c9812086270ffa6ef254ae41b41",
+      "Crc32": "a6023563",
+      "SetNames": {
+        "TOSEC": [
+          "Qubic - 3D Noughts & Crosses (1985)(Toowoomba Sorcerer Group)(AU)[300baud][BASIC]"
+        ]
+      },
+      "Size": 33217558,
+      "Publishers": [
+        "Toowoomba Sorcerer Group"
+      ],
+      "ReleaseDate": "1/1/1985",
+      "Regions": [
+        "AU"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Racetrack"
+      ],
+      "Sha1": "d43ede4977ba4016c17f1b8ba66731c6912895d9",
+      "Crc32": "e5f78224",
+      "SetNames": {
+        "TOSEC": [
+          "Racetrack (19xx)(Greenwood, R.J. - Hauge, D.S.)[300baud][BASIC]"
+        ]
+      },
+      "Size": 29950764,
+      "Publishers": [
+        "Greenwood, R.J. - Hauge, D.S."
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Reversi"
+      ],
+      "Sha1": "0af994b8b66fdbaaab0e79e4f8bbb94d9b5b5550",
+      "Crc32": "8a3fab31",
+      "SetNames": {
+        "TOSEC": [
+          "Reversi (1979)(Bayer, Kathleen & Terry)[1200baud][BASIC]"
+        ]
+      },
+      "Size": 11356496,
+      "Publishers": [
+        "Bayer, Kathleen & Terry"
+      ],
+      "ReleaseDate": "1/1/1979",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Reversi"
+      ],
+      "Sha1": "d21e4b02e2afae9e96fa72a4f37037e550019299",
+      "Crc32": "723eecbe",
+      "SetNames": {
+        "TOSEC": [
+          "Reversi (1979)(Bayer, Kathleen & Terry)[300baud][BASIC]"
+        ]
+      },
+      "Size": 44609324,
+      "Publishers": [
+        "Bayer, Kathleen & Terry"
+      ],
+      "ReleaseDate": "1/1/1979",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Robot Attack"
+      ],
+      "Sha1": "3916a5a96c57766bcee9aa56a08abe5c2ba8ee57",
+      "Crc32": "2edd199f",
+      "SetNames": {
+        "TOSEC": [
+          "Robot Attack (1981)(Big Five Software)(US)[1200baud]"
+        ]
+      },
+      "Size": 14107692,
+      "Publishers": [
+        "Big Five Software"
+      ],
+      "ReleaseDate": "1/1/1981",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Robot Attack"
+      ],
+      "Sha1": "815e39db52ee4e6d8d7d8056bf502cca41e8c709",
+      "Crc32": "563202eb",
+      "SetNames": {
+        "TOSEC": [
+          "Robot Attack (1981)(Big Five Software)(US)[300baud]"
+        ]
+      },
+      "Size": 52535340,
+      "Publishers": [
+        "Big Five Software"
+      ],
+      "ReleaseDate": "1/1/1981",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Salvo"
+      ],
+      "Sha1": "73143b8bda670a7cdee6b999ba6965cf848e31f6",
+      "Crc32": "156a8078",
+      "SetNames": {
+        "TOSEC": [
+          "Salvo (1979)(Staley, J.T.)[1200baud][BASIC]"
+        ]
+      },
+      "Size": 12207040,
+      "Publishers": [
+        "Staley, J.T."
+      ],
+      "ReleaseDate": "1/1/1979",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Salvo"
+      ],
+      "Sha1": "e14b653919bb9abf1d60bc273f5c6c0e1d833607",
+      "Crc32": "eb2e9315",
+      "SetNames": {
+        "TOSEC": [
+          "Salvo (1979)(Staley, J.T.)[300baud][BASIC]"
+        ]
+      },
+      "Size": 52654544,
+      "Publishers": [
+        "Staley, J.T."
+      ],
+      "ReleaseDate": "1/1/1979",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Sargon v2.0"
+      ],
+      "Sha1": "2818f2bd4db14355d24eb9b7d1f5f91711b1ca78",
+      "Crc32": "fc0609f1",
+      "SetNames": {
+        "TOSEC": [
+          "Sargon v2.0 (19xx)(Sorcerer Users Group)[1200baud]"
+        ]
+      },
+      "Size": 3024478,
+      "Publishers": [
+        "Sorcerer Users Group"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Sargon v2.0"
+      ],
+      "Sha1": "db097a66d8b832944e9b3579f663524aa24b5092",
+      "Crc32": "36de3f0d",
+      "SetNames": {
+        "TOSEC": [
+          "Sargon v2.0 (19xx)(Sorcerer Users Group)[300baud]"
+        ]
+      },
+      "Size": 11259814,
+      "Publishers": [
+        "Sorcerer Users Group"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Smunch - The Number Munching Snake v4"
+      ],
+      "Sha1": "c60a882f83452315f8c953ae3d83149ca7bbc530",
+      "Crc32": "93698974",
+      "SetNames": {
+        "TOSEC": [
+          "Smunch - The Number Munching Snake v4 (19xx)(Gillies, Ian)[1200baud][BASIC][based on Snake]"
+        ]
+      },
+      "Size": 2860794,
+      "Publishers": [
+        "Gillies, Ian"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Smunch - The Number Munching Snake v4"
+      ],
+      "Sha1": "8dc26bf99b3f71946dd86a230a14fea5c7e3fab0",
+      "Crc32": "e82a4b3a",
+      "SetNames": {
+        "TOSEC": [
+          "Smunch - The Number Munching Snake v4 (19xx)(Gillies, Ian)[300baud][BASIC][based on Snake]"
+        ]
+      },
+      "Size": 10428676,
+      "Publishers": [
+        "Gillies, Ian"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Snake"
+      ],
+      "Sha1": "ee73b2680d021864ffee9a18767fc19fdad3bc59",
+      "Crc32": "fc7c582d",
+      "SetNames": {
+        "TOSEC": [
+          "Snake (19xx)(Steve and Pete Enterprises Inc., E103 Chemistry Department)[1200baud][BASIC]"
+        ]
+      },
+      "Size": 3957106,
+      "Publishers": [
+        "Steve and Pete Enterprises Inc., E103 Chemistry Department"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Snake"
+      ],
+      "Sha1": "cfc04034dadafc32236be04fcea5144ed38d6d34",
+      "Crc32": "c4e63a42",
+      "SetNames": {
+        "TOSEC": [
+          "Snake (19xx)(Steve and Pete Enterprises Inc., E103 Chemistry Department)[300baud][BASIC]"
+        ]
+      },
+      "Size": 14757900,
+      "Publishers": [
+        "Steve and Pete Enterprises Inc., E103 Chemistry Department"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Snake"
+      ],
+      "Sha1": "f453b1625047f07365bd110aaefda1cf1fd5b649",
+      "Crc32": "e1a0194f",
+      "SetNames": {
+        "TOSEC": [
+          "Snake (19xx)(Steve and Pete Enterprises Inc., E103 Chemistry Department)[a no credits][1200baud][BASIC]"
+        ]
+      },
+      "Size": 4156806,
+      "Publishers": [
+        "Steve and Pete Enterprises Inc., E103 Chemistry Department"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Alternate"
+      ]
+    },
+    {
+      "Titles": [
+        "Snake"
+      ],
+      "Sha1": "6b6cc53700e49ee17a082c3ba5df91ec12ab2cf4",
+      "Crc32": "45f0148b",
+      "SetNames": {
+        "TOSEC": [
+          "Snake (19xx)(Steve and Pete Enterprises Inc., E103 Chemistry Department)[a no credits][300baud][BASIC]"
+        ]
+      },
+      "Size": 15556682,
+      "Publishers": [
+        "Steve and Pete Enterprises Inc., E103 Chemistry Department"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Alternate"
+      ]
+    },
+    {
+      "Titles": [
+        "Solitaire v6.2"
+      ],
+      "Sha1": "c7f1bbcfcac065fb59519ac39ce6c6feab0513de",
+      "Crc32": "5949721a",
+      "SetNames": {
+        "TOSEC": [
+          "Solitaire v6.2 (1979)(Warden, M.S.)[1200baud][BASIC]"
+        ]
+      },
+      "Size": 11811160,
+      "Publishers": [
+        "Warden, M.S."
+      ],
+      "ReleaseDate": "1/1/1979",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Solitaire v6.2"
+      ],
+      "Sha1": "5152ab85cd167538b4b9ef7f1b5da4201ce8d93d",
+      "Crc32": "e292e70b",
+      "SetNames": {
+        "TOSEC": [
+          "Solitaire v6.2 (1979)(Warden, M.S.)[300baud][BASIC]"
+        ]
+      },
+      "Size": 51419368,
+      "Publishers": [
+        "Warden, M.S."
+      ],
+      "ReleaseDate": "1/1/1979",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Sorcerer Invaders"
+      ],
+      "Sha1": "54555ec44b57c30fbdcd637d6b5ff2cf61403eca",
+      "Crc32": "b450ddfd",
+      "SetNames": {
+        "TOSEC": [
+          "Sorcerer Invaders (1980)(Arrington Software Service)(US)[m DEC-SYS][1200baud][BASIC]"
+        ]
+      },
+      "Size": 6912592,
+      "Publishers": [
+        "Arrington Software Service"
+      ],
+      "ReleaseDate": "1/1/1980",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Modified"
+      ]
+    },
+    {
+      "Titles": [
+        "Sorcerer Invaders"
+      ],
+      "Sha1": "32b7c14e9bb782bbe021c84742c267a69ef71a1f",
+      "Crc32": "efbcd7d2",
+      "SetNames": {
+        "TOSEC": [
+          "Sorcerer Invaders (1980)(Arrington Software Service)(US)[m DEC-SYS][300baud][BASIC]"
+        ]
+      },
+      "Size": 26635866,
+      "Publishers": [
+        "Arrington Software Service"
+      ],
+      "ReleaseDate": "1/1/1980",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Modified"
+      ]
+    },
+    {
+      "Titles": [
+        "Sorcerer Invaders"
+      ],
+      "Sha1": "277f2843ee5e4a86fe8f659312ac3eaecf4a420b",
+      "Crc32": "fffe1c07",
+      "SetNames": {
+        "TOSEC": [
+          "Sorcerer Invaders (1980)(Sevoir, Martin)[1200baud][req BASIC ROMPAC]"
+        ]
+      },
+      "Size": 5934696,
+      "Publishers": [
+        "Sevoir, Martin"
+      ],
+      "ReleaseDate": "1/1/1980",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Sorcerer Invaders"
+      ],
+      "Sha1": "0bffd4801f61fa0ebc8eafd38ffdf543bad52d00",
+      "Crc32": "deefacad",
+      "SetNames": {
+        "TOSEC": [
+          "Sorcerer Invaders (1980)(Sevoir, Martin)[300baud][req BASIC ROMPAC]"
+        ]
+      },
+      "Size": 23263176,
+      "Publishers": [
+        "Sevoir, Martin"
+      ],
+      "ReleaseDate": "1/1/1980",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Sorcerers Fruit Machine, The"
+      ],
+      "Sha1": "4cdae8d522f9fbaf5346030fc1eedab8a5ed3e0f",
+      "Crc32": "73ab4e9a",
+      "SetNames": {
+        "TOSEC": [
+          "Sorcerers Fruit Machine, The (1980)(Winton, David)[300baud][BASIC]"
+        ]
+      },
+      "Size": 26521644,
+      "Publishers": [
+        "Winton, David"
+      ],
+      "ReleaseDate": "1/1/1980",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Space"
+      ],
+      "Sha1": "06043725b44b3b634df5dff2c174de7f7d9b90be",
+      "Crc32": "a50239db",
+      "SetNames": {
+        "TOSEC": [
+          "Space (19xx)(-)[1200baud][BASIC]"
+        ]
+      },
+      "Size": 2133548,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Space"
+      ],
+      "Sha1": "4caf6345e3ade0053eb96314dc5aa43c12150572",
+      "Crc32": "1688fa1b",
+      "SetNames": {
+        "TOSEC": [
+          "Space (19xx)(-)[300baud][BASIC]"
+        ]
+      },
+      "Size": 7519692,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Star Trek"
+      ],
+      "Sha1": "227e045b4bbcd4e184cd25a5b6143ac92e78088b",
+      "Crc32": "550a24bb",
+      "SetNames": {
+        "TOSEC": [
+          "Star Trek (1979)(Staley, J.T.)[1200baud][BASIC]"
+        ]
+      },
+      "Size": 20909238,
+      "Publishers": [
+        "Staley, J.T."
+      ],
+      "ReleaseDate": "1/1/1979",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Star Trek"
+      ],
+      "Sha1": "d851f2643d37df55876b19fdb8ad7beff78fdaad",
+      "Crc32": "229a089f",
+      "SetNames": {
+        "TOSEC": [
+          "Star Trek (1979)(Staley, J.T.)[300baud][BASIC]"
+        ]
+      },
+      "Size": 89329722,
+      "Publishers": [
+        "Staley, J.T."
+      ],
+      "ReleaseDate": "1/1/1979",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Star Trek"
+      ],
+      "Sha1": "68010ca4798c941ab21e6973181b267169677cc2",
+      "Crc32": "0d61ea77",
+      "SetNames": {
+        "TOSEC": [
+          "Star Trek (19xx)(Allen, H.B.)[1200baud][BASIC]"
+        ]
+      },
+      "Size": 8941810,
+      "Publishers": [
+        "Allen, H.B."
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Star Trek"
+      ],
+      "Sha1": "bf81750d67cc0305b82dd83891679989f8ed7596",
+      "Crc32": "6b909c81",
+      "SetNames": {
+        "TOSEC": [
+          "Star Trek (19xx)(Allen, H.B.)[300baud][BASIC]"
+        ]
+      },
+      "Size": 36519482,
+      "Publishers": [
+        "Allen, H.B."
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Star Wars"
+      ],
+      "Sha1": "4a4f4578895287229522b0dc7a65bd7797165b3d",
+      "Crc32": "8c3e876a",
+      "SetNames": {
+        "TOSEC": [
+          "Star Wars (19xx)(-)[300baud][BASIC]"
+        ]
+      },
+      "Size": 29765164,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "StarBase Hyperion"
+      ],
+      "Sha1": "3c4f2adf4c3145953710fe369f7325a951542462",
+      "Crc32": "ab1b746c",
+      "SetNames": {
+        "TOSEC": [
+          "StarBase Hyperion (1980)(Quality Software)(US)[1200baud][BASIC]"
+        ]
+      },
+      "Size": 5873668,
+      "Publishers": [
+        "Quality Software"
+      ],
+      "ReleaseDate": "1/1/1980",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "StarBase Hyperion"
+      ],
+      "Sha1": "1c65e4250fd9754e5eae2a4bce54b40d0501871b",
+      "Crc32": "faa17c05",
+      "SetNames": {
+        "TOSEC": [
+          "StarBase Hyperion (1980)(Quality Software)(US)[300baud][BASIC]"
+        ]
+      },
+      "Size": 22480176,
+      "Publishers": [
+        "Quality Software"
+      ],
+      "ReleaseDate": "1/1/1980",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Starfighter"
+      ],
+      "Sha1": "4b8421b27920a2bdb74c90674038431569d1489f",
+      "Crc32": "461572e5",
+      "SetNames": {
+        "TOSEC": [
+          "Starfighter (19xx)(-)[300baud]"
+        ]
+      },
+      "Size": 65320896,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Starfighter"
+      ],
+      "Sha1": "ff94beff0d2a6b8a67f1dd5cb9eae69ee51058a4",
+      "Crc32": "fe33929e",
+      "SetNames": {
+        "TOSEC": [
+          "Starfighter (19xx)(-)[b tape crc][1200baud]"
+        ]
+      },
+      "Size": 16796306,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Stomper"
+      ],
+      "Sha1": "2b2834c288e0bec4acf6dcfa48389f99f7dac057",
+      "Crc32": "c988c1d7",
+      "SetNames": {
+        "TOSEC": [
+          "Stomper (1980)(-)[300baud][BASIC]"
+        ]
+      },
+      "Size": 8578604,
+      "Publishers": [
+        "-"
+      ],
+      "ReleaseDate": "1/1/1980",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Sub"
+      ],
+      "Sha1": "d86a698d6983dc79c79bdf25b5edbbc70dab187c",
+      "Crc32": "5a70cd59",
+      "SetNames": {
+        "TOSEC": [
+          "Sub (1979)(Staley, J.T.)[1200baud][BASIC]"
+        ]
+      },
+      "Size": 4958094,
+      "Publishers": [
+        "Staley, J.T."
+      ],
+      "ReleaseDate": "1/1/1979",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Sub"
+      ],
+      "Sha1": "622e7b17d0c5c9154f2aad3d0013ec01ef4315df",
+      "Crc32": "652fc50a",
+      "SetNames": {
+        "TOSEC": [
+          "Sub (1979)(Staley, J.T.)[300baud][BASIC]"
+        ]
+      },
+      "Size": 18059798,
+      "Publishers": [
+        "Staley, J.T."
+      ],
+      "ReleaseDate": "1/1/1979",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Submarine Hunt"
+      ],
+      "Sha1": "f26fffd4fe16137f8f536f7f6e927c06c4dc16b8",
+      "Crc32": "85d9e363",
+      "SetNames": {
+        "TOSEC": [
+          "Submarine Hunt (1979-11)(Parkin, G. - Townson, N.)[300baud][BASIC]"
+        ]
+      },
+      "Size": 12770604,
+      "Publishers": [
+        "Parkin, G. - Townson, N."
+      ],
+      "ReleaseDate": "11/1/1979",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Super Asteroids"
+      ],
+      "Sha1": "9e4f5e4be7a4ba736c5e4789ea9155f405bf071e",
+      "Crc32": "dd90d211",
+      "SetNames": {
+        "TOSEC": [
+          "Super Asteroids (1981)(System Software)(AU)[1200baud]"
+        ]
+      },
+      "Size": 7639820,
+      "Publishers": [
+        "System Software"
+      ],
+      "ReleaseDate": "1/1/1981",
+      "Regions": [
+        "AU"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Super Asteroids"
+      ],
+      "Sha1": "c90680c42241f94e0b059004baa625243a754308",
+      "Crc32": "00eceb01",
+      "SetNames": {
+        "TOSEC": [
+          "Super Asteroids (1981)(System Software)(AU)[300baud]"
+        ]
+      },
+      "Size": 29488758,
+      "Publishers": [
+        "System Software"
+      ],
+      "ReleaseDate": "1/1/1981",
+      "Regions": [
+        "AU"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Super Star Trek v2.0"
+      ],
+      "Sha1": "9374dc808cbfde9baf4e775dccc410221cc9f8e7",
+      "Crc32": "57878061",
+      "SetNames": {
+        "TOSEC": [
+          "Super Star Trek v2.0 (1979-07)(-)[1200baud]"
+        ]
+      },
+      "Size": 20139200,
+      "Publishers": [
+        "-"
+      ],
+      "ReleaseDate": "7/1/1979",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Super Star Trek v2.0"
+      ],
+      "Sha1": "81fa75c0362874835f94b30f9e59999224c96c89",
+      "Crc32": "bd5235a8",
+      "SetNames": {
+        "TOSEC": [
+          "Super Star Trek v2.0 (1979-07)(-)[300baud]"
+        ]
+      },
+      "Size": 78758748,
+      "Publishers": [
+        "-"
+      ],
+      "ReleaseDate": "7/1/1979",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Super Star Trek v2.1"
+      ],
+      "Sha1": "cc72ce61dff1520f615a4e48934c6c8924543b12",
+      "Crc32": "e7a489d5",
+      "SetNames": {
+        "TOSEC": [
+          "Super Star Trek v2.1 (1980-01)(Sorcerers User Group - Lister, G.)[1200baud][BASIC]"
+        ]
+      },
+      "Size": 11172174,
+      "Publishers": [
+        "Sorcerers User Group - Lister, G."
+      ],
+      "ReleaseDate": "1/1/1980",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Super Star Trek v2.1"
+      ],
+      "Sha1": "7ed7cb798206dc21c46264dd024d0310e7d79fa2",
+      "Crc32": "7168ffde",
+      "SetNames": {
+        "TOSEC": [
+          "Super Star Trek v2.1 (1980-01)(Sorcerers User Group - Lister, G.)[300baud][BASIC]"
+        ]
+      },
+      "Size": 43674196,
+      "Publishers": [
+        "Sorcerers User Group - Lister, G."
+      ],
+      "ReleaseDate": "1/1/1980",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Tank Trap IV"
+      ],
+      "Sha1": "866b2d8646f3476c80cb0b06536e84f988e590bd",
+      "Crc32": "caf0c4f0",
+      "SetNames": {
+        "TOSEC": [
+          "Tank Trap IV (1979)(Quality Software)(US)[300baud][BASIC]"
+        ]
+      },
+      "Size": 22810544,
+      "Publishers": [
+        "Quality Software"
+      ],
+      "ReleaseDate": "1/1/1979",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Tank Trap IV"
+      ],
+      "Sha1": "8d5532024a3cc23736c657d49aaf1aab939e70da",
+      "Crc32": "e0499023",
+      "SetNames": {
+        "TOSEC": [
+          "Tank Trap IV (1979)(Quality Software)(US)[b tape crc][1200baud][BASIC]"
+        ]
+      },
+      "Size": 5970270,
+      "Publishers": [
+        "Quality Software"
+      ],
+      "ReleaseDate": "1/1/1979",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Touchdown"
+      ],
+      "Sha1": "d1cc83877a02e398f7ddd202b9660cf4c776491c",
+      "Crc32": "80a27c5f",
+      "SetNames": {
+        "TOSEC": [
+          "Touchdown (1979)(Staley, J.T.)[1200baud][BASIC]"
+        ]
+      },
+      "Size": 12656906,
+      "Publishers": [
+        "Staley, J.T."
+      ],
+      "ReleaseDate": "1/1/1979",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Touchdown"
+      ],
+      "Sha1": "a23ac29289ae876521b320acb7bf6bd1c1e481e0",
+      "Crc32": "54bdbb73",
+      "SetNames": {
+        "TOSEC": [
+          "Touchdown (1979)(Staley, J.T.)[300baud][BASIC]"
+        ]
+      },
+      "Size": 52712338,
+      "Publishers": [
+        "Staley, J.T."
+      ],
+      "ReleaseDate": "1/1/1979",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Trots Horse Racing"
+      ],
+      "Sha1": "1f2f4ce051c278409f5adfc02074b53bc5ca59fb",
+      "Crc32": "402715a3",
+      "SetNames": {
+        "TOSEC": [
+          "Trots Horse Racing (19xx)(-)[1200baud][BASIC]"
+        ]
+      },
+      "Size": 2445224,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Trots Horse Racing"
+      ],
+      "Sha1": "ee4e361961e393ba433df0edab9759a4694bba51",
+      "Crc32": "18bbba6d",
+      "SetNames": {
+        "TOSEC": [
+          "Trots Horse Racing (19xx)(-)[300baud][BASIC]"
+        ]
+      },
+      "Size": 8766400,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Wilderness"
+      ],
+      "Sha1": "df4504fe008f7798772360806b5c29fe146fd3b5",
+      "Crc32": "c81bdf24",
+      "SetNames": {
+        "TOSEC": [
+          "Wilderness (19xx)(Dick Smith Electronics)(AU)[300baud][BASIC]"
+        ]
+      },
+      "Size": 31207126,
+      "Publishers": [
+        "Dick Smith Electronics"
+      ],
+      "Regions": [
+        "AU"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Wizard's Castle, The"
+      ],
+      "Sha1": "f692e277c385d21baab6e6d1a9adcc2af2868dd6",
+      "Crc32": "dfdf9b75",
+      "SetNames": {
+        "TOSEC": [
+          "Wizard's Castle, The (1980)(Recreational Computing)(US)[300baud][BASIC]"
+        ]
+      },
+      "Size": 57696228,
+      "Publishers": [
+        "Recreational Computing"
+      ],
+      "ReleaseDate": "1/1/1980",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Wizard's Castle, The"
+      ],
+      "Sha1": "a7700b0756e611d16a67656eddaae9b2bc0f742d",
+      "Crc32": "aec72d1d",
+      "SetNames": {
+        "TOSEC": [
+          "Wizard's Castle, The (1980)(Recreational Computing)(US)[b tape crc][1200baud][BASIC]"
+        ]
+      },
+      "Size": 7972340,
+      "Publishers": [
+        "Recreational Computing"
+      ],
+      "ReleaseDate": "1/1/1980",
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Wordsquares"
+      ],
+      "Sha1": "13712d248c68e89f4f8c157ea8c01ddf0f4fa145",
+      "Crc32": "a66f3c61",
+      "SetNames": {
+        "TOSEC": [
+          "Wordsquares (19xx)(-)[1200baud][BASIC]"
+        ]
+      },
+      "Size": 1925764,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Wordsquares"
+      ],
+      "Sha1": "40c0cd1a5a076849b6883912a368ccdd4cf258e1",
+      "Crc32": "46608243",
+      "SetNames": {
+        "TOSEC": [
+          "Wordsquares (19xx)(-)[300baud][BASIC]"
+        ]
+      },
+      "Size": 6688554,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "X-Nim"
+      ],
+      "Sha1": "f2dea9f3cd8bba8c383156ddc058dace822ba59a",
+      "Crc32": "fc386f9d",
+      "SetNames": {
+        "TOSEC": [
+          "X-Nim (1979)(Staley, J.T.)[1200baud][BASIC]"
+        ]
+      },
+      "Size": 7044376,
+      "Publishers": [
+        "Staley, J.T."
+      ],
+      "ReleaseDate": "1/1/1979",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "X-Nim"
+      ],
+      "Sha1": "e970aec334ea56c36dd2f43763d420ce35da7bb6",
+      "Crc32": "7b54165e",
+      "SetNames": {
+        "TOSEC": [
+          "X-Nim (1979)(Staley, J.T.)[300baud][BASIC]"
+        ]
+      },
+      "Size": 29384864,
+      "Publishers": [
+        "Staley, J.T."
+      ],
+      "ReleaseDate": "1/1/1979",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "X-Nim"
+      ],
+      "Sha1": "99a044b4388b6f1cc8d8983a41a48a8836959606",
+      "Crc32": "51ea0cf8",
+      "SetNames": {
+        "TOSEC": [
+          "X-Nim (1980)(Wollongong Sorcerer Users Group)(AU)[1200baud][BASIC]"
+        ]
+      },
+      "Size": 3068578,
+      "Publishers": [
+        "Wollongong Sorcerer Users Group"
+      ],
+      "ReleaseDate": "1/1/1980",
+      "Regions": [
+        "AU"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "X-Nim"
+      ],
+      "Sha1": "6bbff79e08b3a934b751c21d823aeb7e3202931b",
+      "Crc32": "4d7d28e3",
+      "SetNames": {
+        "TOSEC": [
+          "X-Nim (1980)(Wollongong Sorcerer Users Group)(AU)[300baud][BASIC]"
+        ]
+      },
+      "Size": 11259814,
+      "Publishers": [
+        "Wollongong Sorcerer Users Group"
+      ],
+      "ReleaseDate": "1/1/1980",
+      "Regions": [
+        "AU"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Yahtzee"
+      ],
+      "Sha1": "9e220063b93ccb3aee56c59f048465d45c772db6",
+      "Crc32": "e179e9e8",
+      "SetNames": {
+        "TOSEC": [
+          "Yahtzee (19xx)(Dick Smith Electronics)(AU)[300baud][BASIC]"
+        ]
+      },
+      "Size": 32762924,
+      "Publishers": [
+        "Dick Smith Electronics"
+      ],
+      "Regions": [
+        "AU"
+      ],
+      "Languages": [
+        "en"
+      ]
+    }
+  ],
+  "Overviews": {}
+}

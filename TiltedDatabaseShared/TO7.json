@@ -1,0 +1,2940 @@
+{
+  "PlatformName": "TO7",
+  "LastUpdate": "5/24/2022 3:08:01 AM",
+  "Games": [
+    {
+      "Titles": [
+        "Cross Chase"
+      ],
+      "Sha1": "017533c57c3ffb53a0eb7b3b782cbee5242c84e9",
+      "Crc32": "3118649e",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Chase (2021-05-13)(Caruso, Fabrizio)"
+        ]
+      },
+      "Size": 11604,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "5/13/2021",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "5eme Axe, Le",
+        "Le 5eme Axe"
+      ],
+      "Sha1": "656e3eab469675835b7fe47b42f96e1b9de1c052",
+      "Crc32": "da89a78c",
+      "SetNames": {
+        "TOSEC": [
+          "5eme Axe, Le (1986)(Loriciels)(FR)[LOADM'''',,R]"
+        ],
+        "MESS": [
+          "5emeaxe"
+        ]
+      },
+      "Size": 54965,
+      "Publishers": [
+        "Loriciels"
+      ],
+      "ReleaseDate": "1/1/1986",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Affaire Vera Cruz, L'",
+        "L'Affaire Vera Cruz"
+      ],
+      "Sha1": "5f4aaa180bea37eb1f7b6e5ed0559ba96775755b",
+      "Crc32": "b6571254",
+      "SetNames": {
+        "TOSEC": [
+          "Affaire Vera Cruz, L' (1986)(Infogrames)(FR)[LOADM'''',,R]"
+        ],
+        "MESS": [
+          "veracruz"
+        ]
+      },
+      "Size": 47102,
+      "Publishers": [
+        "Infogrames"
+      ],
+      "ReleaseDate": "1/1/1986",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Aigle d'Or, L'",
+        "L'Aigle d'Or"
+      ],
+      "Sha1": "e787286ae949f76d180cded8f3322d1d0b01b314",
+      "Crc32": "815d8811",
+      "SetNames": {
+        "TOSEC": [
+          "Aigle d'Or, L' (1985-02)(Loriciels)(TO7-70)(FR)"
+        ],
+        "MESS": [
+          "aigleor"
+        ]
+      },
+      "Size": 42943,
+      "Publishers": [
+        "Loriciels"
+      ],
+      "ReleaseDate": "2/1/1985",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Androides"
+      ],
+      "Sha1": "8c493609f87a31984592b6104c414718f1b51b61",
+      "Crc32": "a220159a",
+      "SetNames": {
+        "TOSEC": [
+          "Androides (1985)(Infogrames)(FR)"
+        ],
+        "MESS": [
+          "android"
+        ]
+      },
+      "Size": 23506,
+      "Publishers": [
+        "Infogrames"
+      ],
+      "ReleaseDate": "1/1/1985",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Arkanoid"
+      ],
+      "Sha1": "b16b494c8d92769eebb6aff5c40a9a2b2fc95cf5",
+      "Crc32": "18c86289",
+      "SetNames": {
+        "TOSEC": [
+          "Arkanoid (1987)(FIL)(TO7-70)(FR)"
+        ],
+        "MESS": [
+          "arkanoid"
+        ]
+      },
+      "Size": 28385,
+      "Publishers": [
+        "FIL",
+        "France Image Logiciel (FIL)"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Asteroides"
+      ],
+      "Sha1": "59ae51daedaa783b681c9b395302257f608bf067",
+      "Crc32": "0f4dfb0f",
+      "SetNames": {
+        "TOSEC": [
+          "Asteroides (198x)(-)(FR)(PD)"
+        ],
+        "MESS": [
+          "asteroid"
+        ]
+      },
+      "Size": 1305,
+      "Publishers": [
+        "-"
+      ],
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Banque"
+      ],
+      "Sha1": "52e39bf4a44bfa0dc2bd8266b9452f178a4bd3f7",
+      "Crc32": "b2527306",
+      "SetNames": {
+        "TOSEC": [
+          "Banque (198x)(Huet, Sylvain)(FR)(PD)"
+        ],
+        "MESS": [
+          "bangue"
+        ]
+      },
+      "Size": 2948,
+      "Publishers": [
+        "Huet, Sylvain",
+        "Sylvain Huet"
+      ],
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Black Bart"
+      ],
+      "Sha1": "bb210b64fd19b5c6ac6963bc3717437af238215a",
+      "Crc32": "ffcf0830",
+      "SetNames": {
+        "TOSEC": [
+          "Black Bart (198x)(Huet, Sylvain)(FR)(PD)"
+        ],
+        "MESS": [
+          "blkbart"
+        ]
+      },
+      "Size": 3325,
+      "Publishers": [
+        "Huet, Sylvain",
+        "Sylvain Huet"
+      ],
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Bombardier"
+      ],
+      "Sha1": "c3d8cb9c0371af6f16a23803625035dc060c1718",
+      "Crc32": "39da688c",
+      "SetNames": {
+        "TOSEC": [
+          "Bombardier (198x)(-)(FR)(PD)"
+        ],
+        "MESS": [
+          "bombard"
+        ]
+      },
+      "Size": 2208,
+      "Publishers": [
+        "-"
+      ],
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Bubul"
+      ],
+      "Sha1": "b3e12f723216aa04f425ea6bcd722d155c0326db",
+      "Crc32": "c0d91547",
+      "SetNames": {
+        "TOSEC": [
+          "Bubul (198x)(Huet, Sylvain)(PD)"
+        ],
+        "MESS": [
+          "bubul"
+        ]
+      },
+      "Size": 6656,
+      "Publishers": [
+        "Huet, Sylvain",
+        "Sylvain Huet"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Business+"
+      ],
+      "Sha1": "61ddb7e2d3ef809780a77d0eea453f86ecdf579a",
+      "Crc32": "cb0bb731",
+      "SetNames": {
+        "TOSEC": [
+          "Business+ (1986)(FIL)(TO7-70)(FR)"
+        ],
+        "MESS": [
+          "business"
+        ]
+      },
+      "Size": 23086,
+      "Publishers": [
+        "FIL",
+        "France Image Logiciel (FIL)"
+      ],
+      "ReleaseDate": "1/1/1986",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cartes du Temps, Les",
+        "Les Cartes du Temps"
+      ],
+      "Sha1": "45367aec322ae4d92b0ab1af612aab4650189516",
+      "Crc32": "465c1413",
+      "SetNames": {
+        "TOSEC": [
+          "Cartes du Temps, Les (198x)(Les Vagabonds du Temps)(FR)(PD)"
+        ],
+        "MESS": [
+          "cartetmp"
+        ]
+      },
+      "Size": 6269,
+      "Publishers": [
+        "Les Vagabonds du Temps"
+      ],
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Chateau des Sphinx, Le",
+        "Le Chateau des Sphinx"
+      ],
+      "Sha1": "e43463b82085a9bd2216089a042246e33892ccac",
+      "Crc32": "bd94bd4b",
+      "SetNames": {
+        "TOSEC": [
+          "Chateau des Sphinx, Le (198x)(Huet, Sylvain)(FR)(PD)"
+        ],
+        "MESS": [
+          "sphinx"
+        ]
+      },
+      "Size": 3778,
+      "Publishers": [
+        "Huet, Sylvain",
+        "Sylvain Huet"
+      ],
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Chenille"
+      ],
+      "Sha1": "31ff75aa6d7a0b9e7972f425eea751308dd09b41",
+      "Crc32": "92e1fffd",
+      "SetNames": {
+        "TOSEC": [
+          "Chenille (198x)(Huet, Sylvain)(FR)(PD)"
+        ],
+        "MESS": [
+          "chenill1"
+        ]
+      },
+      "Size": 1970,
+      "Publishers": [
+        "Huet, Sylvain",
+        "Sylvain Huet"
+      ],
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Chenille"
+      ],
+      "Sha1": "f9dab0e42824dce7a4ed32257f0cbc1f353e1dcb",
+      "Crc32": "d43b9b2c",
+      "SetNames": {
+        "TOSEC": [
+          "Chenille (198x)(Huet, Sylvain)(FR)(PD)[password required]"
+        ],
+        "MESS": [
+          "chenill1a"
+        ]
+      },
+      "Size": 2304,
+      "Publishers": [
+        "Huet, Sylvain",
+        "Sylvain Huet"
+      ],
+      "CloneOf": "chenill1",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Coliseum"
+      ],
+      "Sha1": "592572d69465b734d4c787bae7ba0e761e3bf6e0",
+      "Crc32": "54c3738a",
+      "SetNames": {
+        "TOSEC": [
+          "Coliseum (1985)(Loriciels)(TO7-70)(FR)"
+        ],
+        "MESS": [
+          "coliseum"
+        ]
+      },
+      "Size": 50289,
+      "Publishers": [
+        "Loriciels"
+      ],
+      "ReleaseDate": "1/1/1985",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "D&A - Donjon et Aventure"
+      ],
+      "Sha1": "eaabb52f0b93a7aae4b8134cc5b88eb49dcce86d",
+      "Crc32": "57560446",
+      "SetNames": {
+        "TOSEC": [
+          "D&A - Donjon et Aventure (198x)(Huet, Sylvain)(FR)"
+        ],
+        "MESS": [
+          "donjeven"
+        ]
+      },
+      "Size": 6144,
+      "Publishers": [
+        "Huet, Sylvain",
+        "Sylvain Huet"
+      ],
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "DCA"
+      ],
+      "Sha1": "c801a2243bbb61146829bbe5ea908856ca56c51e",
+      "Crc32": "62795d1c",
+      "SetNames": {
+        "TOSEC": [
+          "DCA (198x)(-)(FR)(PD)"
+        ],
+        "MESS": [
+          "dca"
+        ]
+      },
+      "Size": 1980,
+      "Publishers": [
+        "-"
+      ],
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Dieux du Stade, Les",
+        "Les Dieux du Stade"
+      ],
+      "Sha1": "46176aeb47d65f3f9321138b7677f7830c24f2bd",
+      "Crc32": "9c3e5dcd",
+      "SetNames": {
+        "TOSEC": [
+          "Dieux du Stade, Les (1988)(Infogrames)(FR)[LOADM'''',,R]"
+        ],
+        "MESS": [
+          "dieuxsta"
+        ]
+      },
+      "Size": 32768,
+      "Publishers": [
+        "Infogrames"
+      ],
+      "ReleaseDate": "1/1/1988",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Dungeons & Dragons"
+      ],
+      "Sha1": "65b8ff6a9658abf9d434aa76d51318709f500427",
+      "Crc32": "f3a92d41",
+      "SetNames": {
+        "TOSEC": [
+          "Dungeons & Dragons (198x)(Huet, Sylvain)(PD)"
+        ],
+        "MESS": [
+          "dnd"
+        ]
+      },
+      "Size": 4811,
+      "Publishers": [
+        "Huet, Sylvain",
+        "Sylvain Huet"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Eliminator"
+      ],
+      "Sha1": "78a9a1d809c2f123a7f520132b50ca8ff2f69b0d",
+      "Crc32": "5779c7b7",
+      "SetNames": {
+        "TOSEC": [
+          "Eliminator (1984)(Loriciels)(FR)[LOADM'''',,R]"
+        ],
+        "MESS": [
+          "eliminat"
+        ]
+      },
+      "Size": 10752,
+      "Publishers": [
+        "Loriciels"
+      ],
+      "ReleaseDate": "1/1/1984",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Fire"
+      ],
+      "Sha1": "1bcfeb99f21caa7c5ceaec4f9560c19326c5e1a2",
+      "Crc32": "063b393f",
+      "SetNames": {
+        "TOSEC": [
+          "Fire (198x)(Huet, Sylvain)(FR)(PD)"
+        ],
+        "MESS": [
+          "fire"
+        ]
+      },
+      "Size": 2816,
+      "Publishers": [
+        "Huet, Sylvain",
+        "Sylvain Huet"
+      ],
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Flight"
+      ],
+      "Sha1": "d51caec58585556b1bfa4e83ab22042a35e0b35d",
+      "Crc32": "0b7e76bf",
+      "SetNames": {
+        "TOSEC": [
+          "Flight (198x)(Huet, Sylvain)(PD)"
+        ],
+        "MESS": [
+          "flight"
+        ]
+      },
+      "Size": 2426,
+      "Publishers": [
+        "Huet, Sylvain",
+        "Sylvain Huet"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Fox"
+      ],
+      "Sha1": "9f790f9c12810d600b10db58131f0930782c01c0",
+      "Crc32": "8cd5ea61",
+      "SetNames": {
+        "TOSEC": [
+          "Fox (1997)(Pukall, Alexandre)(FR)[b]"
+        ]
+      },
+      "Size": 32768,
+      "Publishers": [
+        "Pukall, Alexandre"
+      ],
+      "ReleaseDate": "1/1/1997",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Gasp 8x8"
+      ],
+      "Sha1": "ad7ea459f5066ac8aa26a6d400a308ef564703a8",
+      "Crc32": "8851a1d7",
+      "SetNames": {
+        "TOSEC": [
+          "Gasp 8x8 (198x)(Huet, Sylvain)(FR)(PD)[b]"
+        ],
+        "MESS": [
+          "gasp8x8"
+        ]
+      },
+      "Size": 1269,
+      "Publishers": [
+        "Huet, Sylvain",
+        "Sylvain Huet"
+      ],
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Gobeur"
+      ],
+      "Sha1": "09c08f3a0007db1824e69feb33529c5c6a935ca8",
+      "Crc32": "ab94a891",
+      "SetNames": {
+        "TOSEC": [
+          "Gobeur (198x)(Huet, Sylvain)(FR)(PD)"
+        ],
+        "MESS": [
+          "gobeur"
+        ]
+      },
+      "Size": 2159,
+      "Publishers": [
+        "Huet, Sylvain",
+        "Sylvain Huet"
+      ],
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Green Beret"
+      ],
+      "Sha1": "07f091bebf80e92a22f77c61dc2ce291f0c69cfe",
+      "Crc32": "4ab433e9",
+      "SetNames": {
+        "TOSEC": [
+          "Green Beret (1986)(FIL)(TO7-70)(FR)"
+        ],
+        "MESS": [
+          "greenber"
+        ]
+      },
+      "Size": 49152,
+      "Publishers": [
+        "FIL",
+        "France Image Logiciel (FIL)"
+      ],
+      "ReleaseDate": "1/1/1986",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Helico"
+      ],
+      "Sha1": "2929b99697be7523c70af9ba3432f43e2ad8e928",
+      "Crc32": "f775200e",
+      "SetNames": {
+        "TOSEC": [
+          "Helico (198x)(Huet, Sylvain)(FR)(PD)"
+        ],
+        "MESS": [
+          "helico"
+        ]
+      },
+      "Size": 4736,
+      "Publishers": [
+        "Huet, Sylvain",
+        "Sylvain Huet"
+      ],
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Helico 4",
+        "Helico"
+      ],
+      "Sha1": "c598297c9bf56bfa3fc6e0602aae379b26ee76d7",
+      "Crc32": "d71ce22e",
+      "SetNames": {
+        "TOSEC": [
+          "Helico 4 (198x)(Huet, Sylvain)(FR)(PD)[b]"
+        ],
+        "MESS": [
+          "helicosr"
+        ]
+      },
+      "Size": 2866,
+      "Publishers": [
+        "Huet, Sylvain",
+        "Sylvain Huet"
+      ],
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Helicoptere, L'",
+        "L'Helicoptere"
+      ],
+      "Sha1": "b0fdac859d654e28b5caef4848ae74f02a8b9aaa",
+      "Crc32": "a30b77bf",
+      "SetNames": {
+        "TOSEC": [
+          "Helicoptere, L' (198x)(-)(FR)(PD)"
+        ],
+        "MESS": [
+          "helicopr"
+        ]
+      },
+      "Size": 2533,
+      "Publishers": [
+        "-"
+      ],
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "James Debug - Le Grand Saut"
+      ],
+      "Sha1": "e5bfaf6d14b3914d870049e65d2ce3086ca02d22",
+      "Crc32": "6472c89b",
+      "SetNames": {
+        "TOSEC": [
+          "James Debug - Le Grand Saut (1987)(Coktel Vision)(TO7-70)(FR)"
+        ],
+        "MESS": [
+          "jdebug"
+        ]
+      },
+      "Size": 45256,
+      "Publishers": [
+        "Coktel Vision"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Jumpman"
+      ],
+      "Sha1": "9ef1e03c8083facb46936002aa239fd3ade257b5",
+      "Crc32": "a916d3ac",
+      "SetNames": {
+        "TOSEC": [
+          "Jumpman (1986)(Pukall, Alexandre)(FR)"
+        ],
+        "MESS": [
+          "jumpman"
+        ]
+      },
+      "Size": 32768,
+      "Publishers": [
+        "Pukall, Alexandre",
+        "Alexandre Pukall"
+      ],
+      "ReleaseDate": "1/1/1986",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Keykong"
+      ],
+      "Sha1": "123e469fd6795838f7dc0e920759704ce21fd354",
+      "Crc32": "3aea2616",
+      "SetNames": {
+        "TOSEC": [
+          "Keykong (198x)(Huet, Sylvain)(PD)(FR)"
+        ],
+        "MESS": [
+          "keykong"
+        ]
+      },
+      "Size": 2483,
+      "Publishers": [
+        "Huet, Sylvain",
+        "Sylvain Huet"
+      ],
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Kingkong"
+      ],
+      "Sha1": "4d42700250c22ebaea0f2238da302994808946de",
+      "Crc32": "f6868114",
+      "SetNames": {
+        "TOSEC": [
+          "Kingkong (198x)(Huet, Sylvain)(FR)(PD)"
+        ],
+        "MESS": [
+          "kingkong"
+        ]
+      },
+      "Size": 6111,
+      "Publishers": [
+        "Huet, Sylvain",
+        "Sylvain Huet"
+      ],
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Laby"
+      ],
+      "Sha1": "d48bafa4d1e01197ff479a099755e8fb2d564289",
+      "Crc32": "7b3108c0",
+      "SetNames": {
+        "TOSEC": [
+          "Laby (198x)(Huet, Sylvain)(FR)(PD)"
+        ],
+        "MESS": [
+          "laby"
+        ]
+      },
+      "Size": 4522,
+      "Publishers": [
+        "Huet, Sylvain",
+        "Sylvain Huet"
+      ],
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Labyrinthe"
+      ],
+      "Sha1": "baea9e55a66072b4b78fce6896623445c4a4ad15",
+      "Crc32": "0dbbb632",
+      "SetNames": {
+        "TOSEC": [
+          "Labyrinthe (198x)(Huet, Sylvain)(FR)(PD)"
+        ],
+        "MESS": [
+          "labyrint"
+        ]
+      },
+      "Size": 1795,
+      "Publishers": [
+        "Huet, Sylvain",
+        "Sylvain Huet"
+      ],
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Labyrinthe Semi 3D"
+      ],
+      "Sha1": "477d9d780fd1ac806a25bf2eb7ae6a7458eee60f",
+      "Crc32": "46655577",
+      "SetNames": {
+        "TOSEC": [
+          "Labyrinthe Semi 3D (198x)(Huet, Sylvain)(FR)(PD)"
+        ],
+        "MESS": [
+          "labys3d"
+        ]
+      },
+      "Size": 4279,
+      "Publishers": [
+        "Huet, Sylvain",
+        "Sylvain Huet"
+      ],
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Longueur"
+      ],
+      "Sha1": "2a5c58008bf9c15d322c52136f2070699d1ebd35",
+      "Crc32": "114ebf8b",
+      "SetNames": {
+        "TOSEC": [
+          "Longueur (198x)(Huet, Sylvain)(FR)(PD)"
+        ],
+        "MESS": [
+          "longueur"
+        ]
+      },
+      "Size": 2280,
+      "Publishers": [
+        "Huet, Sylvain",
+        "Sylvain Huet"
+      ],
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Maison du Pr. Folibus"
+      ],
+      "Sha1": "33a08495d4edb9a1de254bbc8c866608be7d8ae9",
+      "Crc32": "14719d78",
+      "SetNames": {
+        "TOSEC": [
+          "Maison du Pr. Folibus (198x)(Huet, Sylvain)(FR)(PD)"
+        ],
+        "MESS": [
+          "folibus"
+        ]
+      },
+      "Size": 3653,
+      "Publishers": [
+        "Huet, Sylvain",
+        "Sylvain Huet"
+      ],
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Maison du Pr. Folibus"
+      ],
+      "Sha1": "7cc13f720940fa2ccba0aa673efb57f8ebaf9d9b",
+      "Crc32": "acf62a4d",
+      "SetNames": {
+        "TOSEC": [
+          "Maison du Pr. Folibus (198x)(Huet, Sylvain)(FR)(PD)[a]"
+        ],
+        "MESS": [
+          "folibusa"
+        ]
+      },
+      "Size": 3655,
+      "Publishers": [
+        "Huet, Sylvain",
+        "Sylvain Huet"
+      ],
+      "CloneOf": "folibus",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ],
+      "Tags": [
+        "Alternate"
+      ]
+    },
+    {
+      "Titles": [
+        "Malediction de Thaar, La",
+        "La Malediction de Thaar"
+      ],
+      "Sha1": "6fa3795a5c92bbc296f332f765ae07329f705aba",
+      "Crc32": "0eafe078",
+      "SetNames": {
+        "TOSEC": [
+          "Malediction de Thaar, La (1986)(Coktel Vision)(FR)"
+        ],
+        "MESS": [
+          "malthaar"
+        ]
+      },
+      "Size": 38369,
+      "Publishers": [
+        "Coktel Vision"
+      ],
+      "ReleaseDate": "1/1/1986",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Mine aux Diamants, La",
+        "La Mine aux Diamants"
+      ],
+      "Sha1": "d8aca34f1687fa062b3d3efa847873402d589763",
+      "Crc32": "f4c549b2",
+      "SetNames": {
+        "TOSEC": [
+          "Mine aux Diamants, La (1986)(Infogrames)(TO7-70)(FR)"
+        ],
+        "MESS": [
+          "minediam"
+        ]
+      },
+      "Size": 27222,
+      "Publishers": [
+        "Infogrames"
+      ],
+      "ReleaseDate": "1/1/1986",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Miner 2049er"
+      ],
+      "Sha1": "49339a044456f86f644118137c439cdfd5ea7f54",
+      "Crc32": "9003cc2e",
+      "SetNames": {
+        "TOSEC": [
+          "Miner 2049er (198x)(To Tek)(FR)"
+        ],
+        "MESS": [
+          "mine2049"
+        ]
+      },
+      "Size": 32768,
+      "Publishers": [
+        "To Tek",
+        "France Image Logiciel (FIL)"
+      ],
+      "ReleaseDate": "1/1/1985",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Minotaure 3D"
+      ],
+      "Sha1": "6cd489b3c522f5cb4e770ec73d064d75509b3a09",
+      "Crc32": "a1c5b72e",
+      "SetNames": {
+        "TOSEC": [
+          "Minotaure 3D (1985-04)(Loriciels)(TO7-70)(FR)"
+        ],
+        "MESS": [
+          "minota3d"
+        ]
+      },
+      "Size": 17760,
+      "Publishers": [
+        "Loriciels"
+      ],
+      "ReleaseDate": "4/1/1985",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Missiles"
+      ],
+      "Sha1": "8f71e8d983bcfe011edceaf3099cce7cd6585e19",
+      "Crc32": "e9d2dc41",
+      "SetNames": {
+        "TOSEC": [
+          "Missiles (198x)(-)(FR)(PD)"
+        ],
+        "MESS": [
+          "missles"
+        ]
+      },
+      "Size": 1629,
+      "Publishers": [
+        "-"
+      ],
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Missions en Rafale"
+      ],
+      "Sha1": "98676d2c345821a57658be6e98a1d6fdac9b7a77",
+      "Crc32": "7384116e",
+      "SetNames": {
+        "TOSEC": [
+          "Missions en Rafale (1987)(FIL)(TO7-70)(FR)(en-fr)"
+        ],
+        "MESS": [
+          "missrafa"
+        ]
+      },
+      "Size": 30907,
+      "Publishers": [
+        "FIL",
+        "France Image Logiciel (FIL)"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "en",
+        "fr"
+      ]
+    },
+    {
+      "Titles": [
+        "Monopoly"
+      ],
+      "Sha1": "ad39c056aab4aed005a6cafe142fd1edd0997798",
+      "Crc32": "ab140366",
+      "SetNames": {
+        "TOSEC": [
+          "Monopoly (198x)(Leisure Genius)(TO7-70)(FR)"
+        ],
+        "MESS": [
+          "monopoly"
+        ]
+      },
+      "Size": 65536,
+      "Publishers": [
+        "Leisure Genius",
+        "France Image Logiciel (FIL)"
+      ],
+      "ReleaseDate": "1/1/1986",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Mur de Briques"
+      ],
+      "Sha1": "9132db535732a0cfc630b3d90d9c8b714150ea3e",
+      "Crc32": "e1a72e89",
+      "SetNames": {
+        "TOSEC": [
+          "Mur de Briques (198x)(Huet, Sylvain)(FR)(PD)"
+        ],
+        "MESS": [
+          "murdebrq"
+        ]
+      },
+      "Size": 2238,
+      "Publishers": [
+        "Huet, Sylvain",
+        "Sylvain Huet"
+      ],
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Mur7300",
+        "Mur"
+      ],
+      "Sha1": "519d54e27c680fb3c367b4b7da534bc0240b18df",
+      "Crc32": "bb5b6970",
+      "SetNames": {
+        "TOSEC": [
+          "Mur7300 (198x)(-)(FR)(PD)[b][LOADM'''',,R]"
+        ],
+        "MESS": [
+          "mur"
+        ]
+      },
+      "Size": 1372,
+      "Publishers": [
+        "-"
+      ],
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Murs & Briques"
+      ],
+      "Sha1": "ca2acbac14c8219095f5f46ffacafdd061c91f1d",
+      "Crc32": "85e7e36a",
+      "SetNames": {
+        "TOSEC": [
+          "Murs & Briques (198x)(Huet, Sylvain)(FR)(PD)"
+        ],
+        "MESS": [
+          "mursbriq"
+        ]
+      },
+      "Size": 2487,
+      "Publishers": [
+        "Huet, Sylvain",
+        "Sylvain Huet"
+      ],
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Naval"
+      ],
+      "Sha1": "1657afee6b1a9d41d97aace2a1fd1ff611ba5f6c",
+      "Crc32": "2d470987",
+      "SetNames": {
+        "TOSEC": [
+          "Naval (198x)(Huet, Sylvain)(FR)(PD)[password required]"
+        ],
+        "MESS": [
+          "naval"
+        ]
+      },
+      "Size": 1979,
+      "Publishers": [
+        "Huet, Sylvain",
+        "Sylvain Huet"
+      ],
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Nuit des Templiers, La",
+        "La Nuit des Templiers"
+      ],
+      "Sha1": "511d104dc20d8286e16d7ec6526b0460d7b5cf63",
+      "Crc32": "5358eee1",
+      "SetNames": {
+        "TOSEC": [
+          "Nuit des Templiers, La (1986)(FIL)(TO7-70)(FR)"
+        ],
+        "MESS": [
+          "nuittemp"
+        ]
+      },
+      "Size": 32768,
+      "Publishers": [
+        "FIL",
+        "France Image Logiciel (FIL)"
+      ],
+      "ReleaseDate": "1/1/1986",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Nuit des Templiers, La"
+      ],
+      "Sha1": "83062d998afbf567318b3692d4946fba11afb29a",
+      "Crc32": "0fe72a9d",
+      "SetNames": {
+        "TOSEC": [
+          "Nuit des Templiers, La (1986)(FIL)(TO7-70)(FR)[b]"
+        ]
+      },
+      "Size": 32768,
+      "Publishers": [
+        "FIL"
+      ],
+      "ReleaseDate": "1/1/1986",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Numero 10"
+      ],
+      "Sha1": "192f17f43fb0b47afa604a50c2abebb219b165fe",
+      "Crc32": "1f4e10d1",
+      "SetNames": {
+        "TOSEC": [
+          "Numero 10 (1985)(FIL)(FR)[b]"
+        ]
+      },
+      "Size": 32768,
+      "Publishers": [
+        "FIL"
+      ],
+      "ReleaseDate": "1/1/1985",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "OTH-A",
+        "Othello"
+      ],
+      "Sha1": "b552e21f20196b54bf2b8ae504b41413dbfd7423",
+      "Crc32": "0e95b959",
+      "SetNames": {
+        "TOSEC": [
+          "OTH-A (198x)(Huet, Sylvain)(FR)(PD)[b]"
+        ],
+        "MESS": [
+          "othelsrc"
+        ]
+      },
+      "Size": 3928,
+      "Publishers": [
+        "Huet, Sylvain",
+        "Sylvain Huet"
+      ],
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Olympic"
+      ],
+      "Sha1": "0eb055fd54ce7f136c5b3d418cfe0993c8e8ec36",
+      "Crc32": "c1183d9a",
+      "SetNames": {
+        "TOSEC": [
+          "Olympic (198x)(Huet, Sylvain)(TO7-70)(FR)(PD)"
+        ],
+        "MESS": [
+          "olympic"
+        ]
+      },
+      "Size": 6144,
+      "Publishers": [
+        "Huet, Sylvain",
+        "Sylvain Huet"
+      ],
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Othello"
+      ],
+      "Sha1": "1c9c49ad968445ca56e645b7f670565319e1292c",
+      "Crc32": "e60de6a8",
+      "SetNames": {
+        "TOSEC": [
+          "Othello (198x)(Huet, Sylvain)(FR)(PD)"
+        ],
+        "MESS": [
+          "othello"
+        ]
+      },
+      "Size": 5391,
+      "Publishers": [
+        "Huet, Sylvain",
+        "Sylvain Huet"
+      ],
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Othello"
+      ],
+      "Sha1": "18a467885a582906a2e96105d4e735d064db8f86",
+      "Crc32": "3befa3aa",
+      "SetNames": {
+        "TOSEC": [
+          "Othello (198x)(Huet, Sylvain)(FR)(PD)[a2]"
+        ],
+        "MESS": [
+          "othellob"
+        ]
+      },
+      "Size": 4521,
+      "Publishers": [
+        "Huet, Sylvain",
+        "Sylvain Huet"
+      ],
+      "CloneOf": "othello",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Othello"
+      ],
+      "Sha1": "a729a18c2fcb6914cce7205ef67db50c33b7b84d",
+      "Crc32": "d7c2ff5d",
+      "SetNames": {
+        "TOSEC": [
+          "Othello (198x)(Huet, Sylvain)(FR)(PD)[a]"
+        ],
+        "MESS": [
+          "othelloa"
+        ]
+      },
+      "Size": 4367,
+      "Publishers": [
+        "Huet, Sylvain",
+        "Sylvain Huet"
+      ],
+      "CloneOf": "othello",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ],
+      "Tags": [
+        "Alternate"
+      ]
+    },
+    {
+      "Titles": [
+        "Panique Atomique Chez Novasprites"
+      ],
+      "Sha1": "e07c0aa88614fe53925316bb32421fef33f7d1fe",
+      "Crc32": "c02bb7aa",
+      "SetNames": {
+        "TOSEC": [
+          "Panique Atomique Chez Novasprites (1985)(Novasoft)(TO7-70)(FR)[cr Snark Software][b]"
+        ]
+      },
+      "Size": 23796,
+      "Publishers": [
+        "Novasoft"
+      ],
+      "ReleaseDate": "1/1/1985",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ],
+      "Tags": [
+        "Cracked",
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Pilonnage"
+      ],
+      "Sha1": "c7040f22314fe74a2bc15c344c123ea848bbcb8f",
+      "Crc32": "23f26919",
+      "SetNames": {
+        "TOSEC": [
+          "Pilonnage (198x)(-)(FR)(PD)"
+        ],
+        "MESS": [
+          "pilonage"
+        ]
+      },
+      "Size": 4549,
+      "Publishers": [
+        "-"
+      ],
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Pilote"
+      ],
+      "Sha1": "d7844beec1805741e89c54761de4369c73fffef0",
+      "Crc32": "5150a04c",
+      "SetNames": {
+        "TOSEC": [
+          "Pilote (198x)(Huet, Sylvain)(FR)(PD)"
+        ],
+        "MESS": [
+          "pilote"
+        ]
+      },
+      "Size": 539,
+      "Publishers": [
+        "Huet, Sylvain",
+        "Sylvain Huet"
+      ],
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Ping-Pong"
+      ],
+      "Sha1": "e6fe08ed0c36b31b2306d982b215daf71c53ee50",
+      "Crc32": "b45af8b6",
+      "SetNames": {
+        "TOSEC": [
+          "Ping-Pong (198x)(-)(FR)"
+        ],
+        "MESS": [
+          "pingpong"
+        ]
+      },
+      "Size": 1709,
+      "Publishers": [
+        "-"
+      ],
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Pingo"
+      ],
+      "Sha1": "557d5bf952ae078d50d490aaa63f1f17fa56dd04",
+      "Crc32": "9bacee41",
+      "SetNames": {
+        "TOSEC": [
+          "Pingo (198x)(Infogrames)(FR)"
+        ],
+        "MESS": [
+          "pingo"
+        ]
+      },
+      "Size": 10943,
+      "Publishers": [
+        "Infogrames"
+      ],
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Poke & Pac - Jeu"
+      ],
+      "Sha1": "86d23363c04b6493f5496fadf5b9577fbad49c58",
+      "Crc32": "9565341d",
+      "SetNames": {
+        "TOSEC": [
+          "Poke & Pac - Jeu (198x)(Huet, Sylvain)(FR)(PD)"
+        ],
+        "MESS": [
+          "pokepac"
+        ]
+      },
+      "Size": 4884,
+      "Publishers": [
+        "Huet, Sylvain",
+        "Sylvain Huet"
+      ],
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Poker"
+      ],
+      "Sha1": "3b75c478f449a7318bef72bf67f8e5683786ea32",
+      "Crc32": "94924766",
+      "SetNames": {
+        "TOSEC": [
+          "Poker (198x)(-)(FR)"
+        ],
+        "MESS": [
+          "poker1"
+        ]
+      },
+      "Size": 20675,
+      "Publishers": [
+        "-"
+      ],
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Pour 20 Millions de Dollars"
+      ],
+      "Sha1": "575835a9689e6383cb5267abc325c1d11762d005",
+      "Crc32": "437d2474",
+      "SetNames": {
+        "TOSEC": [
+          "Pour 20 Millions de Dollars (198x)(SoftBook)(TO7-70)(FR)"
+        ],
+        "MESS": [
+          "20mildol"
+        ]
+      },
+      "Size": 56529,
+      "Publishers": [
+        "SoftBook"
+      ],
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Pucman"
+      ],
+      "Sha1": "33b2e5d278666e9ec7ab9cb327bbe8a5a852ccf2",
+      "Crc32": "8dc6127a",
+      "SetNames": {
+        "TOSEC": [
+          "Pucman (198x)(Huet, Sylvain)(FR)(PD)"
+        ],
+        "MESS": [
+          "pucman"
+        ]
+      },
+      "Size": 3900,
+      "Publishers": [
+        "Huet, Sylvain",
+        "Sylvain Huet"
+      ],
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Pulsar II"
+      ],
+      "Sha1": "9db362c401b3a61aba6ef82ce3cc4beba7836177",
+      "Crc32": "1774d373",
+      "SetNames": {
+        "TOSEC": [
+          "Pulsar II (1984)(Loriciels)(FR)"
+        ],
+        "MESS": [
+          "pulsar2"
+        ]
+      },
+      "Size": 12240,
+      "Publishers": [
+        "Loriciels"
+      ],
+      "ReleaseDate": "1/1/1984",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Reverse"
+      ],
+      "Sha1": "835c14b170cb88fb84480ad35143dee6ab691ebb",
+      "Crc32": "ac49c704",
+      "SetNames": {
+        "TOSEC": [
+          "Reverse (198x)(Huet, Sylvain - Gasoline Software)(FR)"
+        ],
+        "MESS": [
+          "reverse"
+        ]
+      },
+      "Size": 7307,
+      "Publishers": [
+        "Huet, Sylvain - Gasoline Software",
+        "Gasoline Software"
+      ],
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Runway"
+      ],
+      "Sha1": "33605d562af8c7c4b182f63b5aba7243246abcf1",
+      "Crc32": "4a61ff24",
+      "SetNames": {
+        "TOSEC": [
+          "Runway (1986)(FIL)(FR)[b]"
+        ]
+      },
+      "Size": 16384,
+      "Publishers": [
+        "FIL"
+      ],
+      "ReleaseDate": "1/1/1986",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Scotland"
+      ],
+      "Sha1": "929d051ba04c0a4f7a77c8ef8a920170f9ffc47e",
+      "Crc32": "58a2e92a",
+      "SetNames": {
+        "TOSEC": [
+          "Scotland (198x)(Huet, Sylvain)(FR)(PD)"
+        ],
+        "MESS": [
+          "scotland"
+        ]
+      },
+      "Size": 3584,
+      "Publishers": [
+        "Huet, Sylvain",
+        "Sylvain Huet"
+      ],
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Scrunch"
+      ],
+      "Sha1": "37ad6026523fca769915ee3b7451d4275ef4fdb2",
+      "Crc32": "57e483e3",
+      "SetNames": {
+        "TOSEC": [
+          "Scrunch (198x)(Huet, Sylvain)(FR)(PD)"
+        ],
+        "MESS": [
+          "scrunch"
+        ]
+      },
+      "Size": 2179,
+      "Publishers": [
+        "Huet, Sylvain",
+        "Sylvain Huet"
+      ],
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Simulateur de Vol"
+      ],
+      "Sha1": "b51bc6149ca7c0df347dbbc7c733c4fc27c51624",
+      "Crc32": "1678b930",
+      "SetNames": {
+        "TOSEC": [
+          "Simulateur de Vol (198x)(Huet, Sylvain)(FR)(PD)"
+        ],
+        "MESS": [
+          "simulvol"
+        ]
+      },
+      "Size": 2263,
+      "Publishers": [
+        "Huet, Sylvain",
+        "Sylvain Huet"
+      ],
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Slalom"
+      ],
+      "Sha1": "9b5039846ba99837fe2ddff6dca4a7ad39a8f551",
+      "Crc32": "30771db0",
+      "SetNames": {
+        "TOSEC": [
+          "Slalom (198x)(Huet, Sylvain)(FR)(PD)"
+        ],
+        "MESS": [
+          "slalom"
+        ]
+      },
+      "Size": 5119,
+      "Publishers": [
+        "Huet, Sylvain",
+        "Sylvain Huet"
+      ],
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Slalom 2"
+      ],
+      "Sha1": "9b5354ba632b7a6cbd8348fe2d40df89058d9eb2",
+      "Crc32": "0635fac3",
+      "SetNames": {
+        "TOSEC": [
+          "Slalom 2 (198x)(Huet, Sylvain)(FR)(PD)"
+        ],
+        "MESS": [
+          "slalom2"
+        ]
+      },
+      "Size": 2540,
+      "Publishers": [
+        "Huet, Sylvain",
+        "Sylvain Huet"
+      ],
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Sorcery"
+      ],
+      "Sha1": "f6dc9ebaa7dc77939829c2b65881aa04e4d50e4a",
+      "Crc32": "a36f9750",
+      "SetNames": {
+        "TOSEC": [
+          "Sorcery (1986)(Virgin Games)(TO7-70)(FR)"
+        ],
+        "MESS": [
+          "sorcerya"
+        ]
+      },
+      "Size": 38682,
+      "Publishers": [
+        "Virgin Games",
+        "France Image Logiciel (FIL)"
+      ],
+      "CloneOf": "sorcery",
+      "ReleaseDate": "1/1/1986",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Sortileges"
+      ],
+      "Sha1": "1a611074d5a6d37817e3041be8ab5e4ec25a9696",
+      "Crc32": "f5b532ca",
+      "SetNames": {
+        "TOSEC": [
+          "Sortileges (1986)(Infogrames)(FR)"
+        ],
+        "MESS": [
+          "sortilega"
+        ]
+      },
+      "Size": 45074,
+      "Publishers": [
+        "Infogrames"
+      ],
+      "CloneOf": "sortileg",
+      "ReleaseDate": "1/1/1986",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Space600"
+      ],
+      "Sha1": "091b094a17ba3677ad7cb7ebe05c92f92dd8ee78",
+      "Crc32": "9b89a770",
+      "SetNames": {
+        "TOSEC": [
+          "Space600 (198x)(Huet, Sylvain)(FR)(PD)"
+        ],
+        "MESS": [
+          "space600"
+        ]
+      },
+      "Size": 3587,
+      "Publishers": [
+        "Huet, Sylvain",
+        "Sylvain Huet"
+      ],
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Star Maze"
+      ],
+      "Sha1": "75c48ea601092811f9d47879c4890770904d4682",
+      "Crc32": "086d1667",
+      "SetNames": {
+        "TOSEC": [
+          "Star Maze (198x)(Les Aventuriers des Etoiles)(FR)(PD)"
+        ],
+        "MESS": [
+          "starmaze"
+        ]
+      },
+      "Size": 4959,
+      "Publishers": [
+        "Les Aventuriers des Etoiles"
+      ],
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Stock-Car"
+      ],
+      "Sha1": "6c89a9b351d818189469f00292a21f5b6578e043",
+      "Crc32": "0e537a32",
+      "SetNames": {
+        "TOSEC": [
+          "Stock-Car (198x)(-)(FR)(PD)"
+        ],
+        "MESS": [
+          "stockcar"
+        ]
+      },
+      "Size": 4584,
+      "Publishers": [
+        "-"
+      ],
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "TRON_ASM",
+        "Tron"
+      ],
+      "Sha1": "b50633e7ddd4d16b11cc53852b01803c9492d17b",
+      "Crc32": "06e11def",
+      "SetNames": {
+        "TOSEC": [
+          "TRON_ASM (198x)(Huet, Sylvain)(FR)(PD)[b]"
+        ],
+        "MESS": [
+          "tronsrc"
+        ]
+      },
+      "Size": 2176,
+      "Publishers": [
+        "Huet, Sylvain",
+        "Sylvain Huet"
+      ],
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Temple de Quauthli, Le",
+        "Le Temple de Quauhtli"
+      ],
+      "Sha1": "f3050f1725f876a6a2429d9c3b3ea736ee49e677",
+      "Crc32": "84a5b2a8",
+      "SetNames": {
+        "TOSEC": [
+          "Temple de Quauthli, Le (1986)(Loriciels)(TO7-70)(FR)"
+        ],
+        "MESS": [
+          "quauhtli"
+        ]
+      },
+      "Size": 83049,
+      "Publishers": [
+        "Loriciels"
+      ],
+      "ReleaseDate": "1/1/1986",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Tir"
+      ],
+      "Sha1": "918ebc573c67766e43dddcfa88e5c0a36598828e",
+      "Crc32": "9c3019d5",
+      "SetNames": {
+        "TOSEC": [
+          "Tir (198x)(Huet, Sylvain)(FR)(PD)"
+        ],
+        "MESS": [
+          "tir"
+        ]
+      },
+      "Size": 3014,
+      "Publishers": [
+        "Huet, Sylvain",
+        "Sylvain Huet"
+      ],
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Tours de Hanoi"
+      ],
+      "Sha1": "3defdc6c711dfe1132cf8a839a2c772e8d5ae8d0",
+      "Crc32": "5220727c",
+      "SetNames": {
+        "TOSEC": [
+          "Tours de Hanoi (198x)(CNDP)(FR)"
+        ],
+        "MESS": [
+          "hanoi"
+        ]
+      },
+      "Size": 3714,
+      "Publishers": [
+        "CNDP",
+        "Centre National de Documentation Pedagogique (CNDP)"
+      ],
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Toutankhamon"
+      ],
+      "Sha1": "dbd1ad544245aac8a5f7538751b8e2c89e6e832e",
+      "Crc32": "f529bb55",
+      "SetNames": {
+        "TOSEC": [
+          "Toutankhamon (1986)(No Man's Land)(FR)[b]"
+        ]
+      },
+      "Size": 49152,
+      "Publishers": [
+        "No Man's Land"
+      ],
+      "ReleaseDate": "1/1/1986",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Tron"
+      ],
+      "Sha1": "48fcb006922c5e70f1ef527bced0f9dc3a61c309",
+      "Crc32": "4252581e",
+      "SetNames": {
+        "TOSEC": [
+          "Tron (198x)(Huet, Sylvain)(FR)(PD)[password required]"
+        ],
+        "MESS": [
+          "trona"
+        ]
+      },
+      "Size": 4096,
+      "Publishers": [
+        "Huet, Sylvain",
+        "Sylvain Huet"
+      ],
+      "CloneOf": "tron",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Tron"
+      ],
+      "Sha1": "702dc5836caecf9c590f01c51f81837cf4831b91",
+      "Crc32": "ac7cfaa6",
+      "SetNames": {
+        "TOSEC": [
+          "Tron (198x)(Sylvain, Huet)(FR)(PD)"
+        ],
+        "MESS": [
+          "tron"
+        ]
+      },
+      "Size": 3242,
+      "Publishers": [
+        "Sylvain, Huet",
+        "Sylvain Huet"
+      ],
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Vampire"
+      ],
+      "Sha1": "ce6860fa57ba45ce951be8b14addd91bcd0d2350",
+      "Crc32": "506f00ce",
+      "SetNames": {
+        "TOSEC": [
+          "Vampire (198x)(Infogrames)(TO7-70)(FR)"
+        ],
+        "MESS": [
+          "vampirea"
+        ]
+      },
+      "Size": 40290,
+      "Publishers": [
+        "Infogrames"
+      ],
+      "CloneOf": "vampire",
+      "ReleaseDate": "1/1/1986",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Yeti"
+      ],
+      "Sha1": "d891815d277a4e3273b039c0442df20b0491f567",
+      "Crc32": "ade55ec3",
+      "SetNames": {
+        "TOSEC": [
+          "Yeti (1984)(Loriciels)(FR)"
+        ],
+        "MESS": [
+          "yeti"
+        ]
+      },
+      "Size": 11893,
+      "Publishers": [
+        "Loriciels"
+      ],
+      "ReleaseDate": "1/1/1984",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Yie Ar Kung Fu II"
+      ],
+      "Sha1": "145d2366facbc95b8b97a7d68dc490579d84bc32",
+      "Crc32": "7ffb03f5",
+      "SetNames": {
+        "TOSEC": [
+          "Yie Ar Kung Fu II (1986)(FIL)(TO7-70)(FR)"
+        ],
+        "MESS": [
+          "yiear2"
+        ]
+      },
+      "Size": 32256,
+      "Publishers": [
+        "FIL",
+        "France Image Logiciel (FIL)"
+      ],
+      "ReleaseDate": "1/1/1986",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Airbus"
+      ],
+      "Sha1": "82016f9184d9be49d876bd1c5c9f51af6377598f",
+      "Crc32": "54752fa7",
+      "SetNames": {
+        "TOSEC": [
+          "Airbus (1984)(Vifi-Nathan)(FR)"
+        ],
+        "MESS": [
+          "airbus"
+        ]
+      },
+      "Size": 16384,
+      "Publishers": [
+        "Vifi-Nathan"
+      ],
+      "ReleaseDate": "1/1/1984",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Atomium"
+      ],
+      "Sha1": "a71b15041afb098a9fba69efa8c0bea8894ccbdf",
+      "Crc32": "acf42bf6",
+      "SetNames": {
+        "TOSEC": [
+          "Atomium (1982)(Vifi-Nathan)(FR)"
+        ],
+        "MESS": [
+          "atomium"
+        ]
+      },
+      "Size": 4096,
+      "Publishers": [
+        "Vifi-Nathan"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Blitz",
+        "Blitz!"
+      ],
+      "Sha1": "ea6f03ee868f6b273e928ba85c9328a603a5a622",
+      "Crc32": "768eac04",
+      "SetNames": {
+        "TOSEC": [
+          "Blitz (1984)(Intelligent Software)(FR)"
+        ],
+        "MESS": [
+          "blitz"
+        ]
+      },
+      "Size": 16384,
+      "Publishers": [
+        "Intelligent Software",
+        "TO TEK International"
+      ],
+      "ReleaseDate": "1/1/1984",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Choplifter"
+      ],
+      "Sha1": "d70caf48017639a0d562ca7753dab8d9e83c1cdf",
+      "Crc32": "9fe4cc4c",
+      "SetNames": {
+        "TOSEC": [
+          "Choplifter (1982)(To Tek)(FR)"
+        ],
+        "MESS": [
+          "choplift"
+        ]
+      },
+      "Size": 16384,
+      "Publishers": [
+        "To Tek",
+        "France Image Logiciel (FIL)"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Crypto"
+      ],
+      "Sha1": "7e7367fbc83b52fea4f831d7c84f0acbc9d170d4",
+      "Crc32": "20e454bc",
+      "SetNames": {
+        "TOSEC": [
+          "Crypto (1982)(Vifi-Nathan)(FR)"
+        ],
+        "MESS": [
+          "crypto"
+        ]
+      },
+      "Size": 4096,
+      "Publishers": [
+        "Vifi-Nathan"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Gemini"
+      ],
+      "Sha1": "92ee16ef7d14b241e8df390b0e6192810a8eda40",
+      "Crc32": "c20c1d82",
+      "SetNames": {
+        "TOSEC": [
+          "Gemini (1982)(Vifi-Nathan)(FR)"
+        ],
+        "MESS": [
+          "gemini"
+        ]
+      },
+      "Size": 4096,
+      "Publishers": [
+        "Vifi-Nathan"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Threshold"
+      ],
+      "Sha1": "1724ff4737802acaef479642c7a8d0e8d4c15adc",
+      "Crc32": "21c6fed5",
+      "SetNames": {
+        "TOSEC": [
+          "Threshold (1984)(To Tek)(FR)(en)"
+        ],
+        "MESS": [
+          "threshldea"
+        ]
+      },
+      "Size": 16384,
+      "Publishers": [
+        "To Tek",
+        "TO TEK International"
+      ],
+      "CloneOf": "threshld",
+      "ReleaseDate": "1/1/1984",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Trap"
+      ],
+      "Sha1": "e904c1c73efff216d3a38d0699affbb9266609d8",
+      "Crc32": "4a4d5b6b",
+      "SetNames": {
+        "TOSEC": [
+          "Trap (1982)(Vifi-Nathan)(FR)"
+        ],
+        "MESS": [
+          "trap"
+        ]
+      },
+      "Size": 4096,
+      "Publishers": [
+        "Vifi-Nathan"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Tridi444"
+      ],
+      "Sha1": "c549b35b1d04fe3d51cbd8579671721c5a014001",
+      "Crc32": "7746de9b",
+      "SetNames": {
+        "TOSEC": [
+          "Tridi444 (1982)(Vifi-Nathan)(FR)"
+        ],
+        "MESS": [
+          "tridi444"
+        ]
+      },
+      "Size": 4096,
+      "Publishers": [
+        "Vifi-Nathan"
+      ],
+      "ReleaseDate": "1/1/1982",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Bomber"
+      ],
+      "Sha1": "f929d628c4730197aa8e0ae40fabd7a985743e31",
+      "Crc32": "d017de7f",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Bomber (2020-08-26)(Caruso, Fabrizio)"
+        ]
+      },
+      "Size": 335426,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "8/26/2020",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Bomber"
+      ],
+      "Sha1": "c7b2d9162fb59e1aa3b49f2ef5ca5f39656bd8ef",
+      "Crc32": "027349b1",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Bomber (2021-05-13)(Caruso, Fabrizio)"
+        ]
+      },
+      "Size": 335426,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "5/13/2021",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Chase"
+      ],
+      "Sha1": "ea19f5328ef7f07fbb616a0982f923e2a04af3cf",
+      "Crc32": "0f7ea891",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Chase (2020-04-02)(Caruso, Fabrizio)"
+        ]
+      },
+      "Size": 335426,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "4/2/2020",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Chase"
+      ],
+      "Sha1": "8edff0b77c4f1ed5b514aa34aa9452e58c530049",
+      "Crc32": "74ab4a7d",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Chase (2021-05-13)(Caruso, Fabrizio)"
+        ]
+      },
+      "Size": 335426,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "5/13/2021",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Horde"
+      ],
+      "Sha1": "bcf74bb7b5a847f2a7fbd6b5be955bea49224082",
+      "Crc32": "610c0f54",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Horde (2021-04-16)(Caruso, Fabrizio)"
+        ]
+      },
+      "Size": 335426,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "4/16/2021",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Horde"
+      ],
+      "Sha1": "c4cf25a7eae116b8d0af8e1de4b8b951d78668ce",
+      "Crc32": "5b56bf24",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Horde (2021-04-25)(Caruso, Fabrizio)"
+        ]
+      },
+      "Size": 335426,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "4/25/2021",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Horde v1.0"
+      ],
+      "Sha1": "7c9b6c082dd7d2c8847a60f45df194de48912143",
+      "Crc32": "73c71d8b",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Horde v1.0 (2021-05-01)(Caruso, Fabrizio)"
+        ]
+      },
+      "Size": 335426,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "5/1/2021",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Snake v1.0"
+      ],
+      "Sha1": "e69c39020a1e97a25a8bd35ee28d89945420c5cc",
+      "Crc32": "411c6496",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Snake v1.0 (2020-12-12)(Caruso, Fabrizio)"
+        ]
+      },
+      "Size": 335426,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "12/12/2020",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cross Snake v2.0"
+      ],
+      "Sha1": "cc2cd56def9505ef836ad8db1e177d6e3002c604",
+      "Crc32": "9a708225",
+      "SetNames": {
+        "TOSEC": [
+          "Cross Snake v2.0 (2020-12-31)(Caruso, Fabrizio)"
+        ]
+      },
+      "Size": 335426,
+      "Publishers": [
+        "Caruso, Fabrizio"
+      ],
+      "ReleaseDate": "12/31/2020",
+      "Languages": [
+        "en"
+      ]
+    }
+  ],
+  "Overviews": {}
+}

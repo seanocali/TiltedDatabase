@@ -1,0 +1,7008 @@
+{
+  "PlatformName": "Archimedes",
+  "LastUpdate": "5/25/2022 2:36:58 AM",
+  "Games": [
+    {
+      "Titles": [
+        "2067 BC v2.1",
+        "2067 BC"
+      ],
+      "Sha1": "af1441ef677fb02a864f709dd2c74e154f963511",
+      "Crc32": "11383a74",
+      "SetNames": {
+        "TOSEC": [
+          "2067 BC v2.1 (19xx)(Oregan)"
+        ],
+        "MESS": [
+          "2067bc"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Oregan",
+        "Oregan Software"
+      ],
+      "ReleaseDate": "1/1/1992",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "3D Tanks"
+      ],
+      "Sha1": "b206f4920518206715981ab9203c5474fc0bf060",
+      "Crc32": "910ec273",
+      "SetNames": {
+        "TOSEC": [
+          "3D Tanks (19xx)(-)"
+        ],
+        "MESS": [
+          "3dtanks"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "-",
+        "homebrew"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Agressor",
+        "Aggressor"
+      ],
+      "Sha1": "2114b1ca4ee2575147890056d0328f15d9fcdddf",
+      "Crc32": "746491d7",
+      "SetNames": {
+        "TOSEC": [
+          "Agressor (1992)(Atomic)"
+        ],
+        "MESS": [
+          "aggress"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Atomic",
+        "Atomic Software"
+      ],
+      "ReleaseDate": "1/1/1992",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Air Supremecy",
+        "Air Supremacy"
+      ],
+      "Sha1": "cb89723c1f651827aa36ff80465980840e8deb8a",
+      "Crc32": "b338ef90",
+      "SetNames": {
+        "TOSEC": [
+          "Air Supremecy (19xx)(Acornsoft - Superior Software)"
+        ],
+        "MESS": [
+          "airsuprm"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Acornsoft - Superior Software",
+        "Superior Software",
+        "Acornsoft"
+      ],
+      "ReleaseDate": "1/1/1991",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Alerion"
+      ],
+      "Sha1": "3303889188d1920fc3c2ee29395015143c26a490",
+      "Crc32": "65e7bac5",
+      "SetNames": {
+        "TOSEC": [
+          "Alerion (1994)(Archimedes World)"
+        ],
+        "MESS": [
+          "alerion"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Archimedes World"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Alien Invasion"
+      ],
+      "Sha1": "6c723e1147aa9ad84a88480305c2d04377554ef6",
+      "Crc32": "05508c13",
+      "SetNames": {
+        "TOSEC": [
+          "Alien Invasion (1994)(Archimedes World)"
+        ],
+        "MESS": [
+          "alieninv"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Archimedes World"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Alien Invasion"
+      ],
+      "Sha1": "a22e24c6e32d8e3e3db19ab5eac33c32dc30e37e",
+      "Crc32": "ed2c59b7",
+      "SetNames": {
+        "TOSEC": [
+          "Alien Invasion (1994)(Archimedes World)[a]"
+        ],
+        "MESS": [
+          "alieninva"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Archimedes World"
+      ],
+      "CloneOf": "alieninv",
+      "ReleaseDate": "1/1/1994",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Alternate"
+      ]
+    },
+    {
+      "Titles": [
+        "Aliped"
+      ],
+      "Sha1": "208209f346f89644127f79f3a9a1e7a5db0bd89b",
+      "Crc32": "22ba734a",
+      "SetNames": {
+        "TOSEC": [
+          "Aliped (1990)(Andrew, Felix)"
+        ],
+        "MESS": [
+          "aliped"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Andrew, Felix",
+        "Archimedes World"
+      ],
+      "ReleaseDate": "1/1/1990",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Aliped"
+      ],
+      "Sha1": "9cd1ef595872969a651a1d0a507af8aa0d4fd2b7",
+      "Crc32": "d8ed2cc2",
+      "SetNames": {
+        "TOSEC": [
+          "Aliped (1990)(Andrew, Felix)[a]"
+        ],
+        "MESS": [
+          "alipeda"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Andrew, Felix",
+        "Archimedes World"
+      ],
+      "CloneOf": "aliped",
+      "ReleaseDate": "1/1/1990",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Alternate"
+      ]
+    },
+    {
+      "Titles": [
+        "All-In Boxing"
+      ],
+      "Sha1": "8debd965e8cc3ee8a8675a7379ac141e74059dd0",
+      "Crc32": "f1501841",
+      "SetNames": {
+        "TOSEC": [
+          "All-In Boxing (1994)(Archimedes World)"
+        ],
+        "MESS": [
+          "allinbox"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Archimedes World"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "All-In Boxing"
+      ],
+      "Sha1": "38fcf7b7c1a0b55cab74610c915cde03ad7069f3",
+      "Crc32": "48d74d8b",
+      "SetNames": {
+        "TOSEC": [
+          "All-In Boxing (1994)(Archimedes World)[a]"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Archimedes World"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Alternate"
+      ]
+    },
+    {
+      "Titles": [
+        "Alone in the Dark"
+      ],
+      "Sha1": "cd0da67aee1c26f2fbd231edb84614e01de2fa4c",
+      "Crc32": "d8d9ae66",
+      "SetNames": {
+        "TOSEC": [
+          "Alone in the Dark (demo-playable) (1992)(Infogrames)(GB)"
+        ]
+      },
+      "Size": 1638400,
+      "Publishers": [
+        "Infogrames"
+      ],
+      "ReleaseDate": "1/1/1992",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Amoria",
+        "Arc Moria"
+      ],
+      "Sha1": "670d120249ab6aef67e3b87956637196dbfe9d4f",
+      "Crc32": "e2765983",
+      "SetNames": {
+        "TOSEC": [
+          "Amoria (19xx)(-)"
+        ],
+        "MESS": [
+          "amoria"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "-",
+        "homebrew"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Apocalypse"
+      ],
+      "Sha1": "750bc0a919f155d20ed090478dee29dbce7bd908",
+      "Crc32": "c50b4f37",
+      "SetNames": {
+        "TOSEC": [
+          "Apocalypse (1990)(Fourth Dimension, The)(GB)(Disk 1 of 2)"
+        ],
+        "MESS": [
+          "apocalyp"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 819200,
+      "PartNum": 1,
+      "TotalParts": 2,
+      "Publishers": [
+        "Fourth Dimension, The",
+        "Fourth Dimension"
+      ],
+      "ReleaseDate": "1/1/1990",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Apocalypse"
+      ],
+      "Sha1": "6ee5518fac9991e17c5655fe4585d33a39d83eed",
+      "Crc32": "0fb14aab",
+      "SetNames": {
+        "TOSEC": [
+          "Apocalypse (1990)(Fourth Dimension, The)(GB)(Disk 1 of 2)[a]"
+        ],
+        "MESS": [
+          "apocalypa"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 814080,
+      "PartNum": 1,
+      "TotalParts": 2,
+      "Publishers": [
+        "Fourth Dimension, The",
+        "Fourth Dimension"
+      ],
+      "CloneOf": "apocalyp",
+      "ReleaseDate": "1/1/1990",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Alternate"
+      ]
+    },
+    {
+      "Titles": [
+        "Apocalypse"
+      ],
+      "Sha1": "cf2ba51a077ace7fee78ddeda02623aa2aa19a96",
+      "Crc32": "9ab136f3",
+      "SetNames": {
+        "TOSEC": [
+          "Apocalypse (1990)(Fourth Dimension, The)(GB)(Disk 2 of 2)"
+        ],
+        "MESS": [
+          "apocalyp"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 819200,
+      "PartNum": 2,
+      "TotalParts": 2,
+      "Publishers": [
+        "Fourth Dimension, The",
+        "Fourth Dimension"
+      ],
+      "ReleaseDate": "1/1/1990",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Apocalypse"
+      ],
+      "Sha1": "3aeba194617bf22730ed308f5ce122e7b7d5a78d",
+      "Crc32": "f964c2ad",
+      "SetNames": {
+        "TOSEC": [
+          "Apocalypse (1990)(Fourth Dimension, The)(GB)(Disk 2 of 2)[a]"
+        ],
+        "MESS": [
+          "apocalypa"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 814080,
+      "PartNum": 2,
+      "TotalParts": 2,
+      "Publishers": [
+        "Fourth Dimension, The",
+        "Fourth Dimension"
+      ],
+      "CloneOf": "apocalyp",
+      "ReleaseDate": "1/1/1990",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Alternate"
+      ]
+    },
+    {
+      "Titles": [
+        "Archimedes Elite",
+        "Elite"
+      ],
+      "Sha1": "49c495bc8001141fecce35469c3de976aae8b32b",
+      "Crc32": "156d7bd6",
+      "SetNames": {
+        "TOSEC": [
+          "Archimedes Elite (1991)(Hybrid Technology)"
+        ],
+        "MESS": [
+          "elitea"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Hybrid Technology"
+      ],
+      "CloneOf": "elite",
+      "ReleaseDate": "1/1/1991",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Archimedes Moria"
+      ],
+      "Sha1": "5ae480ff4765575e5fac504e25daeb885a41228d",
+      "Crc32": "e855d09d",
+      "SetNames": {
+        "TOSEC": [
+          "Archimedes Moria (19xx)(-)"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Arcomini"
+      ],
+      "Sha1": "f1f70ad7c124ab863ba9deaca797e09b7c51bb40",
+      "Crc32": "b3028298",
+      "SetNames": {
+        "TOSEC": [
+          "Arcomini (1990)(Fairbrother)[b]"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Fairbrother"
+      ],
+      "ReleaseDate": "1/1/1990",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "ArcOmnibus v1.03",
+        "ArcOmnibus"
+      ],
+      "Sha1": "7c0870b1bb8bf974f7beaa4959dbbe4c1ed8642d",
+      "Crc32": "f3914af5",
+      "SetNames": {
+        "TOSEC": [
+          "ArcOmnibus v1.03 (19xx)(Beebug)"
+        ],
+        "MESS": [
+          "arcomni"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Beebug",
+        "RISC Developments"
+      ],
+      "CloneOf": "arcomini",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "ArcOmnibus v1.03",
+        "ArcOmnibus"
+      ],
+      "Sha1": "b53c9a0a659078f1783db00c2975e2ba5b641f87",
+      "Crc32": "8a55c57f",
+      "SetNames": {
+        "TOSEC": [
+          "ArcOmnibus v1.03 (19xx)(Beebug)[a]"
+        ],
+        "MESS": [
+          "arcomnia"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Beebug",
+        "RISC Developments"
+      ],
+      "CloneOf": "arcomini",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Alternate"
+      ]
+    },
+    {
+      "Titles": [
+        "Arcturus"
+      ],
+      "Sha1": "60f95260f954eefdc82a60f7240eec618d7a9fdf",
+      "Crc32": "7640793e",
+      "SetNames": {
+        "TOSEC": [
+          "Arcturus (demo-playable) (1994)(Oregan Software Developments)(GB)"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Oregan Software Developments"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Asylum"
+      ],
+      "Sha1": "464fb68a465711658bc9b649e39936421598eb32",
+      "Crc32": "39cd1bf0",
+      "SetNames": {
+        "TOSEC": [
+          "Asylum (19xx)(Digital Psychosis)(Disk 1 of 2)"
+        ],
+        "MESS": [
+          "asylum"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 819200,
+      "PartNum": 1,
+      "TotalParts": 2,
+      "Publishers": [
+        "Digital Psychosis"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Asylum"
+      ],
+      "Sha1": "20a5a97df606f17c4d94e43f5c93162639db2a2e",
+      "Crc32": "0d2d01c5",
+      "SetNames": {
+        "TOSEC": [
+          "Asylum (19xx)(Digital Psychosis)(Disk 2 of 2)"
+        ],
+        "MESS": [
+          "asylum"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 819200,
+      "PartNum": 2,
+      "TotalParts": 2,
+      "Publishers": [
+        "Digital Psychosis"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Bambuzle"
+      ],
+      "Sha1": "829a018623c88d237c43c5ea83e68dd87f9e5071",
+      "Crc32": "7a7ce25c",
+      "SetNames": {
+        "TOSEC": [
+          "Bambuzle (demo-playable) (1992)(Arxe Systems)(GB)"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Arxe Systems"
+      ],
+      "ReleaseDate": "1/1/1992",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Big Bang"
+      ],
+      "Sha1": "7ad6e00dc20ab54a5fadd0a71904598074362d1b",
+      "Crc32": "cfcf1278",
+      "SetNames": {
+        "TOSEC": [
+          "Big Bang (19xx)(Psycore)(GB)"
+        ],
+        "MESS": [
+          "bigbang"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Psycore"
+      ],
+      "ReleaseDate": "1/1/1996",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Blitz",
+        "Blitz!"
+      ],
+      "Sha1": "71d5bd09839361743ad3a7bf1d1c896c14da5829",
+      "Crc32": "c835a255",
+      "SetNames": {
+        "TOSEC": [
+          "Blitz (1991)(Arxe Systems)"
+        ],
+        "MESS": [
+          "blitz"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Arxe Systems"
+      ],
+      "ReleaseDate": "1/1/1991",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Blowpipe"
+      ],
+      "Sha1": "252bfde8d602fe171e0657fa3f9dfeba1803e6eb",
+      "Crc32": "30fe3db6",
+      "SetNames": {
+        "TOSEC": [
+          "Blowpipe (19xx)(Eclipse)(Disk 1 of 2)"
+        ],
+        "MESS": [
+          "blowpipe"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 819200,
+      "PartNum": 1,
+      "TotalParts": 2,
+      "Publishers": [
+        "Eclipse"
+      ],
+      "ReleaseDate": "1/1/1990",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Blowpipe"
+      ],
+      "Sha1": "0088bc7f35b3399b8373c81ff5d6b86398d0b6f7",
+      "Crc32": "a753a85e",
+      "SetNames": {
+        "TOSEC": [
+          "Blowpipe (19xx)(Eclipse)(Disk 2 of 2)"
+        ],
+        "MESS": [
+          "blowpipe"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 819200,
+      "PartNum": 2,
+      "TotalParts": 2,
+      "Publishers": [
+        "Eclipse"
+      ],
+      "ReleaseDate": "1/1/1990",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Bloxed v1.09",
+        "Bloxed"
+      ],
+      "Sha1": "f1c1b534ae17d20765862f8776408132e3245d26",
+      "Crc32": "e47bf8f9",
+      "SetNames": {
+        "TOSEC": [
+          "Bloxed v1.09 (1995-02-23)(Singer, Steven)[h]"
+        ],
+        "MESS": [
+          "bloxed"
+        ]
+      },
+      "Size": 814080,
+      "Publishers": [
+        "Singer, Steven",
+        "homebrew"
+      ],
+      "ReleaseDate": "2/23/1995",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Hacked"
+      ]
+    },
+    {
+      "Titles": [
+        "Blue Thunder v1.2",
+        "Blue Thunder"
+      ],
+      "Sha1": "4bd9c317df89246b38b398beddab365b82ca7cc8",
+      "Crc32": "501dc7ec",
+      "SetNames": {
+        "TOSEC": [
+          "Blue Thunder v1.2 (1997)(Birch, D.)(PD)"
+        ],
+        "MESS": [
+          "bluethndr"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Birch, D.",
+        "homebrew"
+      ],
+      "ReleaseDate": "1/1/1997",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Bobby Blockhead vs The Dark Planet"
+      ],
+      "Sha1": "af0b17adf90a63531dc4ae91939b2a9efb8758dc",
+      "Crc32": "13d2d532",
+      "SetNames": {
+        "TOSEC": [
+          "Bobby Blockhead vs The Dark Planet (1991)(Atomic Software)"
+        ],
+        "MESS": [
+          "bobbyblk"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Atomic Software"
+      ],
+      "ReleaseDate": "1/1/1991",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Break 147"
+      ],
+      "Sha1": "2c1c0ecbf70cc8c6562b46644f6a94e989b4d589",
+      "Crc32": "0b2d3654",
+      "SetNames": {
+        "TOSEC": [
+          "Break 147 (1991)(Fourth Dimension, The)(GB)"
+        ],
+        "MESS": [
+          "break147"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Fourth Dimension, The",
+        "Fourth Dimension"
+      ],
+      "ReleaseDate": "1/1/1991",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Bubble Fair"
+      ],
+      "Sha1": "52924827d448385b8088182fc51ad944be49030e",
+      "Crc32": "2f9fa2f1",
+      "SetNames": {
+        "TOSEC": [
+          "Bubble Fair (1991)(Eterna)"
+        ],
+        "MESS": [
+          "bublfair"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Eterna"
+      ],
+      "ReleaseDate": "1/1/1991",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Bug Hunter v3.22 & Moon Dash",
+        "Bug Hunter & Moon Dash"
+      ],
+      "Sha1": "2d3e0c5557bfe780353df75ce43026ec1467a334",
+      "Crc32": "fdca6089",
+      "SetNames": {
+        "TOSEC": [
+          "Bug Hunter v3.22 & Moon Dash (1990)(Minerva)[t +1 Alastair H Montgomery][lives]"
+        ],
+        "MESS": [
+          "bugmoon"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Minerva"
+      ],
+      "ReleaseDate": "1/1/1990",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Trained"
+      ]
+    },
+    {
+      "Titles": [
+        "Bug Hunter 2 v3.22"
+      ],
+      "Sha1": "9b65347ce1445f6c1fcafe2cf3b7fe25c2d9d7bf",
+      "Crc32": "c1df774f",
+      "SetNames": {
+        "TOSEC": [
+          "Bug Hunter 2 v3.22 (1990)(Minerva)[h]"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Minerva"
+      ],
+      "ReleaseDate": "1/1/1990",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Hacked"
+      ]
+    },
+    {
+      "Titles": [
+        "Cannon Fodder"
+      ],
+      "Sha1": "ed71cc7f71bb294d0a35d49377e318fdf564d57a",
+      "Crc32": "4aebfcc5",
+      "SetNames": {
+        "TOSEC": [
+          "Cannon Fodder (1993)(Gamemodes)(Disk 1 of 3)"
+        ],
+        "MESS": [
+          "cfodder"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 819200,
+      "PartNum": 1,
+      "TotalParts": 3,
+      "Publishers": [
+        "Gamemodes",
+        "Krisalis"
+      ],
+      "ReleaseDate": "1/1/1993",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cannon Fodder"
+      ],
+      "Sha1": "c30664a1dd5539b08d6afc5b59ad89e10445e6ef",
+      "Crc32": "4e10b72d",
+      "SetNames": {
+        "TOSEC": [
+          "Cannon Fodder (1993)(Gamemodes)(Disk 2 of 3)"
+        ],
+        "MESS": [
+          "cfodder"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 819200,
+      "PartNum": 2,
+      "TotalParts": 3,
+      "Publishers": [
+        "Gamemodes",
+        "Krisalis"
+      ],
+      "ReleaseDate": "1/1/1993",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cannon Fodder"
+      ],
+      "Sha1": "eeba33855512805908e4c2b2bc23ab404dcc707a",
+      "Crc32": "b7d67762",
+      "SetNames": {
+        "TOSEC": [
+          "Cannon Fodder (1993)(Gamemodes)(Disk 3 of 3)"
+        ],
+        "MESS": [
+          "cfodder"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 819200,
+      "PartNum": 3,
+      "TotalParts": 3,
+      "Publishers": [
+        "Gamemodes",
+        "Krisalis"
+      ],
+      "ReleaseDate": "1/1/1993",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Car Wars"
+      ],
+      "Sha1": "37bb879b964ba9358dc25b2faf797263aee2c47c",
+      "Crc32": "9665e9d0",
+      "SetNames": {
+        "TOSEC": [
+          "Car Wars (1993)(Archimedes World)"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Archimedes World"
+      ],
+      "ReleaseDate": "1/1/1993",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Castle Black Heart"
+      ],
+      "Sha1": "38c61cec58c91843ef1ac91f12c93c52eda57a40",
+      "Crc32": "6917a651",
+      "SetNames": {
+        "TOSEC": [
+          "Castle Black Heart (1991)(Watson, James)"
+        ],
+        "MESS": [
+          "blackhrt"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Watson, James",
+        "homebrew"
+      ],
+      "ReleaseDate": "1/1/1991",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cataclysm"
+      ],
+      "Sha1": "38590ffdbcaea9dc5fcac7b88eecfb675da16704",
+      "Crc32": "a4e4041f",
+      "SetNames": {
+        "TOSEC": [
+          "Cataclysm (1991)(Fourth Dimension, The)(GB)(Disk 1 of 2)"
+        ],
+        "MESS": [
+          "cataclys"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 819200,
+      "PartNum": 1,
+      "TotalParts": 2,
+      "Publishers": [
+        "Fourth Dimension, The",
+        "Fourth Dimension"
+      ],
+      "ReleaseDate": "1/1/1991",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cataclysm"
+      ],
+      "Sha1": "73ff11bd4279ba7505ff99b3a3f454e748ae8081",
+      "Crc32": "3cb0c04a",
+      "SetNames": {
+        "TOSEC": [
+          "Cataclysm (1991)(Fourth Dimension, The)(GB)(Disk 2 of 2)"
+        ],
+        "MESS": [
+          "cataclys"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 819200,
+      "PartNum": 2,
+      "TotalParts": 2,
+      "Publishers": [
+        "Fourth Dimension, The",
+        "Fourth Dimension"
+      ],
+      "ReleaseDate": "1/1/1991",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cheats 1"
+      ],
+      "Sha1": "2c31ebd407544ade56e785cf9340862947a1040a",
+      "Crc32": "eb5dd0a8",
+      "SetNames": {
+        "TOSEC": [
+          "Cheats 1 (19xx)(-)"
+        ],
+        "MESS": [
+          "cheats1"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "-",
+        "homebrew"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Chess 3D"
+      ],
+      "Sha1": "90d3978556577ce09129ddeabcdeda5247692a68",
+      "Crc32": "b2f43c2a",
+      "SetNames": {
+        "TOSEC": [
+          "Chess 3D (19xx)(Micropower)"
+        ]
+      },
+      "Size": 804864,
+      "Publishers": [
+        "Micropower"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Chess 3D v1.33",
+        "Chess 3D"
+      ],
+      "Sha1": "a8ed0b17377dea96098b274b9982998bee070d3c",
+      "Crc32": "dbc0ac1d",
+      "SetNames": {
+        "TOSEC": [
+          "Chess 3D v1.33 (19xx)(Micropower)"
+        ],
+        "MESS": [
+          "chess3d"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Micropower",
+        "Micro Power"
+      ],
+      "ReleaseDate": "1/1/1991",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Chocks Away"
+      ],
+      "Sha1": "fa875db7e19da027d773c1c70e85bbe8932dbbc0",
+      "Crc32": "18c0c339",
+      "SetNames": {
+        "TOSEC": [
+          "Chocks Away (1990)(Fourth Dimension, The)(GB)(Disk 1 of 3)(Game Disk)"
+        ],
+        "MESS": [
+          "chokaway"
+        ],
+        "TGDB": [
+          "32495"
+        ]
+      },
+      "OverviewId": 1,
+      "PartName": "Disk",
+      "Size": 819200,
+      "PartNum": 1,
+      "TotalParts": 3,
+      "Publishers": [
+        "Fourth Dimension, The",
+        "Fourth Dimension",
+        "The Fourth Dimension Team"
+      ],
+      "Developers": [
+        "Andrew Hutchings"
+      ],
+      "ReleaseDate": "1/1/1990",
+      "Genres": [
+        "Flight Simulator"
+      ],
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Co-op"
+      ]
+    },
+    {
+      "Titles": [
+        "Chocks Away"
+      ],
+      "Sha1": "47aeae3891a500955cd430d909a212704047e389",
+      "Crc32": "82d22b23",
+      "SetNames": {
+        "TOSEC": [
+          "Chocks Away (1990)(Fourth Dimension, The)(GB)(Disk 1 of 3)(Game Disk)[a]"
+        ],
+        "MESS": [
+          "chokawaya"
+        ],
+        "TGDB": [
+          "32495"
+        ]
+      },
+      "OverviewId": 1,
+      "PartName": "Disk",
+      "Size": 819200,
+      "PartNum": 1,
+      "TotalParts": 3,
+      "Publishers": [
+        "Fourth Dimension, The",
+        "Fourth Dimension",
+        "The Fourth Dimension Team"
+      ],
+      "Developers": [
+        "Andrew Hutchings"
+      ],
+      "CloneOf": "chokaway",
+      "ReleaseDate": "1/1/1990",
+      "Genres": [
+        "Flight Simulator"
+      ],
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Alternate",
+        "Co-op"
+      ]
+    },
+    {
+      "Titles": [
+        "Chocks Away"
+      ],
+      "Sha1": "71603bd55faf1524cb77c66d61fbad5dc78947a3",
+      "Crc32": "2d40833e",
+      "SetNames": {
+        "TOSEC": [
+          "Chocks Away (1990)(Fourth Dimension, The)(GB)(Disk 2 of 3)(Maps Disk)"
+        ],
+        "MESS": [
+          "chokaway"
+        ],
+        "TGDB": [
+          "32495"
+        ]
+      },
+      "OverviewId": 1,
+      "PartName": "Disk",
+      "Size": 819200,
+      "PartNum": 2,
+      "TotalParts": 3,
+      "Publishers": [
+        "Fourth Dimension, The",
+        "Fourth Dimension",
+        "The Fourth Dimension Team"
+      ],
+      "Developers": [
+        "Andrew Hutchings"
+      ],
+      "ReleaseDate": "1/1/1990",
+      "Genres": [
+        "Flight Simulator"
+      ],
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Co-op"
+      ]
+    },
+    {
+      "Titles": [
+        "Chocks Away"
+      ],
+      "Sha1": "e0d6cdda9a030c0b07fd8387761b7d68e2ff082d",
+      "Crc32": "077368b7",
+      "SetNames": {
+        "TOSEC": [
+          "Chocks Away (1990)(Fourth Dimension, The)(GB)(Disk 2 of 3)(Maps Disk)[a]"
+        ],
+        "MESS": [
+          "chokawaya"
+        ],
+        "TGDB": [
+          "32495"
+        ]
+      },
+      "OverviewId": 1,
+      "PartName": "Disk",
+      "Size": 819200,
+      "PartNum": 2,
+      "TotalParts": 3,
+      "Publishers": [
+        "Fourth Dimension, The",
+        "Fourth Dimension",
+        "The Fourth Dimension Team"
+      ],
+      "Developers": [
+        "Andrew Hutchings"
+      ],
+      "CloneOf": "chokaway",
+      "ReleaseDate": "1/1/1990",
+      "Genres": [
+        "Flight Simulator"
+      ],
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Alternate",
+        "Co-op"
+      ]
+    },
+    {
+      "Titles": [
+        "Chocks Away",
+        "Chocks Away - Extra Missions"
+      ],
+      "Sha1": "3615bcb8a953fbba3d56a956243341a022208101",
+      "Crc32": "170359d5",
+      "SetNames": {
+        "TOSEC": [
+          "Chocks Away (1990)(Fourth Dimension, The)(GB)(Disk 3 of 3)(Mission Addon)"
+        ],
+        "MESS": [
+          "chokawym"
+        ],
+        "TGDB": [
+          "32495"
+        ]
+      },
+      "OverviewId": 1,
+      "PartName": "Disk",
+      "Size": 819200,
+      "PartNum": 3,
+      "TotalParts": 3,
+      "Publishers": [
+        "Fourth Dimension, The",
+        "Fourth Dimension",
+        "The Fourth Dimension Team"
+      ],
+      "Developers": [
+        "Andrew Hutchings"
+      ],
+      "ReleaseDate": "1/1/1990",
+      "Genres": [
+        "Flight Simulator"
+      ],
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Co-op"
+      ]
+    },
+    {
+      "Titles": [
+        "Chocks Away Extra Missions"
+      ],
+      "Sha1": "9da357d456122fbfc78dff53165e828526815216",
+      "Crc32": "b395ba19",
+      "SetNames": {
+        "TOSEC": [
+          "Chocks Away Extra Missions (demo-playable) (1991)(Fourth Dimension, The)(GB)[BBC User exclusive]"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Fourth Dimension, The"
+      ],
+      "ReleaseDate": "1/1/1991",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Chuck Rock"
+      ],
+      "Sha1": "827c1cf0c18e2c5c58379ac8230b570ab3680fe6",
+      "Crc32": "5a00dbe3",
+      "SetNames": {
+        "TOSEC": [
+          "Chuck Rock (1991)(Krisalis)(Disk 1 of 2)"
+        ],
+        "MESS": [
+          "chuckrck"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 819200,
+      "PartNum": 1,
+      "TotalParts": 2,
+      "Publishers": [
+        "Krisalis"
+      ],
+      "ReleaseDate": "1/1/1991",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Chuck Rock"
+      ],
+      "Sha1": "61b6da4dda85f65fad13067082b9e67dabfee566",
+      "Crc32": "a5ec364c",
+      "SetNames": {
+        "TOSEC": [
+          "Chuck Rock (1991)(Krisalis)(Disk 2 of 2)"
+        ],
+        "MESS": [
+          "chuckrck"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 819200,
+      "PartNum": 2,
+      "TotalParts": 2,
+      "Publishers": [
+        "Krisalis"
+      ],
+      "ReleaseDate": "1/1/1991",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Colour UMoria v5.4.0",
+        "Colour UMoria"
+      ],
+      "Sha1": "02a562035c181025f71e4093a87b4db3a38a9941",
+      "Crc32": "0240b966",
+      "SetNames": {
+        "TOSEC": [
+          "Colour UMoria v5.4.0 (1992-02-13)(Poor, Edouard)(NZ)"
+        ],
+        "MESS": [
+          "colourum"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Poor, Edouard",
+        "homebrew"
+      ],
+      "ReleaseDate": "2/13/1992",
+      "Regions": [
+        "NZ"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Conqueror"
+      ],
+      "Sha1": "c7a67d2f7b6095581ba3e19139e5f539c7b89109",
+      "Crc32": "d4935557",
+      "SetNames": {
+        "TOSEC": [
+          "Conqueror (19xx)(-)"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Conqueror"
+      ],
+      "Sha1": "baa5dc8148cdca11753ac61f9c73df83f17f4301",
+      "Crc32": "f6fc9510",
+      "SetNames": {
+        "TOSEC": [
+          "Conqueror (19xx)(-)[a]"
+        ],
+        "MESS": [
+          "conquer"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "-",
+        "Superior Software",
+        "Acornsoft"
+      ],
+      "ReleaseDate": "1/1/1988",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Alternate"
+      ]
+    },
+    {
+      "Titles": [
+        "Corewars",
+        "Core Wars"
+      ],
+      "Sha1": "044183cae7e4bdec0949953d90697af12f8231c5",
+      "Crc32": "5f7538f7",
+      "SetNames": {
+        "TOSEC": [
+          "Corewars (19xx)(-)"
+        ],
+        "MESS": [
+          "corewars"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "-",
+        "homebrew"
+      ],
+      "ReleaseDate": "1/1/1990",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Corruption"
+      ],
+      "Sha1": "7deebf17db394b5ae964324136d91d002a6c4634",
+      "Crc32": "2f8ba19c",
+      "SetNames": {
+        "TOSEC": [
+          "Corruption (19xx)(-)[b]"
+        ]
+      },
+      "Size": 814080,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Creepie Crawlie 1 & 2"
+      ],
+      "Sha1": "68718a2496fe020f916fa59e9c5a78d97d6e8af0",
+      "Crc32": "a524587f",
+      "SetNames": {
+        "TOSEC": [
+          "Creepie Crawlie 1 & 2 (19xx)(Johnson, Mark)"
+        ],
+        "MESS": [
+          "creepie"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Johnson, Mark",
+        "homebrew"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Crystal Maze, The"
+      ],
+      "Sha1": "dc4b2f3543ea3ecf95f9713f27c671d5c83f9c04",
+      "Crc32": "ff81bc79",
+      "SetNames": {
+        "TOSEC": [
+          "Crystal Maze, The (demo) (19xx)(Sherston)[b]"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Sherston"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump",
+        "demo"
+      ]
+    },
+    {
+      "Titles": [
+        "Crystal Maze, The"
+      ],
+      "Sha1": "f0f1190d00f55f6b491efcfd5db24d546f56d49e",
+      "Crc32": "2dd96e66",
+      "SetNames": {
+        "TOSEC": [
+          "Crystal Maze, The (demo-playable) (1990)(Sherston Software)(GB)"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Sherston Software"
+      ],
+      "ReleaseDate": "1/1/1990",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cycloids"
+      ],
+      "Sha1": "0d3b6ad35293671ced8dce40aac185a6f5967f84",
+      "Crc32": "9a2f4f1c",
+      "SetNames": {
+        "TOSEC": [
+          "Cycloids (1993)(Gamesware)(GB)[m highscores]"
+        ]
+      },
+      "Size": 1638400,
+      "Publishers": [
+        "Gamesware"
+      ],
+      "ReleaseDate": "1/1/1993",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Modified"
+      ]
+    },
+    {
+      "Titles": [
+        "Deeva"
+      ],
+      "Sha1": "932e529a7782f8c4288220f9918a1150826fce18",
+      "Crc32": "8fc8d8a2",
+      "SetNames": {
+        "TOSEC": [
+          "Deeva (1990)(Calderglen Computers)"
+        ],
+        "MESS": [
+          "deeva"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Calderglen Computers"
+      ],
+      "ReleaseDate": "1/1/1990",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "DesktopHacker v1.01",
+        "Desktop Hacker"
+      ],
+      "Sha1": "96e92a2af874197470d56aa87f881f77512066f9",
+      "Crc32": "367b4cd5",
+      "SetNames": {
+        "TOSEC": [
+          "DesktopHacker v1.01 (1994)(DoggySoft)"
+        ],
+        "MESS": [
+          "deskhack"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "DoggySoft"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Diggers"
+      ],
+      "Sha1": "44e71d71d0b88a5b9f71c1ff0ccaa1c329e68276",
+      "Crc32": "ce75689f",
+      "SetNames": {
+        "TOSEC": [
+          "Diggers (demo-playable) (1992)(GamesWare)(GB)"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "GamesWare"
+      ],
+      "ReleaseDate": "1/1/1992",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "DinoSaw v1.0",
+        "DinoSaw PD"
+      ],
+      "Sha1": "525f37de06025689e8a33dd37dcfa06bb2ace858",
+      "Crc32": "e8e5787d",
+      "SetNames": {
+        "TOSEC": [
+          "DinoSaw v1.0 (1993-08-28)(Cooper, Tom)(PD)"
+        ],
+        "MESS": [
+          "dinosaw"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Cooper, Tom",
+        "homebrew"
+      ],
+      "ReleaseDate": "8/28/1993",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "E-Type"
+      ],
+      "Sha1": "93d539a6535c21d0843664005e05eb15766abaa2",
+      "Crc32": "42eb6f96",
+      "SetNames": {
+        "TOSEC": [
+          "E-Type (1989)(Fourth Dimension, The)(GB)(Disk 1 of 2)"
+        ],
+        "MESS": [
+          "etype"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 819200,
+      "PartNum": 1,
+      "TotalParts": 2,
+      "Publishers": [
+        "Fourth Dimension, The",
+        "Fourth Dimension"
+      ],
+      "ReleaseDate": "1/1/1989",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "E-Type"
+      ],
+      "Sha1": "f77234e40e9aae0b6c4d16910ddd8dfbd41ba00c",
+      "Crc32": "358868f2",
+      "SetNames": {
+        "TOSEC": [
+          "E-Type (1989)(Fourth Dimension, The)(GB)(Disk 2 of 2)"
+        ],
+        "MESS": [
+          "etype"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 819200,
+      "PartNum": 2,
+      "TotalParts": 2,
+      "Publishers": [
+        "Fourth Dimension, The",
+        "Fourth Dimension"
+      ],
+      "ReleaseDate": "1/1/1989",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "EGO - Repton 4",
+        "EGO: Repton 4"
+      ],
+      "Sha1": "4581c6f40ea3eaaeaa5ea356bb0811c887d0a5ed",
+      "Crc32": "49857651",
+      "SetNames": {
+        "TOSEC": [
+          "EGO - Repton 4 (1992)(Superior Software)"
+        ],
+        "MESS": [
+          "egoc"
+        ]
+      },
+      "Size": 814080,
+      "Publishers": [
+        "Superior Software",
+        "ProAction"
+      ],
+      "CloneOf": "ego",
+      "ReleaseDate": "1/1/1992",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Elite"
+      ],
+      "Sha1": "fde0f540e0d5732646c1eebb54629a162f40db91",
+      "Crc32": "c4c32b35",
+      "SetNames": {
+        "TOSEC": [
+          "Elite (1991)(Hybrid Technology)"
+        ],
+        "MESS": [
+          "elite"
+        ]
+      },
+      "Size": 814080,
+      "Publishers": [
+        "Hybrid Technology"
+      ],
+      "ReleaseDate": "1/1/1991",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Enigma"
+      ],
+      "Sha1": "9651d10b2fea745ef9d9e404ee799c351d55239d",
+      "Crc32": "99524aab",
+      "SetNames": {
+        "TOSEC": [
+          "Enigma (1993)(Archimedes World)"
+        ],
+        "MESS": [
+          "enigma"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Archimedes World"
+      ],
+      "ReleaseDate": "1/1/1993",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Enigma"
+      ],
+      "Sha1": "9228630e3858caed9f108b1a35036957d4efa720",
+      "Crc32": "979f5998",
+      "SetNames": {
+        "TOSEC": [
+          "Enigma (1993)(Archimedes World)[a2]"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Archimedes World"
+      ],
+      "ReleaseDate": "1/1/1993",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Enigma"
+      ],
+      "Sha1": "2bdd2d1f53ee5f359f12adb8b20e915d12978de0",
+      "Crc32": "9277d658",
+      "SetNames": {
+        "TOSEC": [
+          "Enigma (1993)(Archimedes World)[a]"
+        ],
+        "MESS": [
+          "enigmaa"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Archimedes World"
+      ],
+      "CloneOf": "enigma",
+      "ReleaseDate": "1/1/1993",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Alternate"
+      ]
+    },
+    {
+      "Titles": [
+        "Fervour"
+      ],
+      "Sha1": "ff307f7dcd6c65be64931be211d8e1e2541012c8",
+      "Crc32": "318c6e2a",
+      "SetNames": {
+        "TOSEC": [
+          "Fervour (19xx)(-)[b]"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Fireball II",
+        "Fireball II Xtra"
+      ],
+      "Sha1": "fe598ce21fa3b54051a2502ae912ea2b912f654f",
+      "Crc32": "97af596d",
+      "SetNames": {
+        "TOSEC": [
+          "Fireball II (1990)(Cambridge International)"
+        ],
+        "MESS": [
+          "firebal2"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Cambridge International",
+        "CIS"
+      ],
+      "ReleaseDate": "1/1/1990",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Fireball II Extra",
+        "Fireball II Xtra"
+      ],
+      "Sha1": "b6ec13c90a337af31f0cd13525ae743f55e1680f",
+      "Crc32": "c362f435",
+      "SetNames": {
+        "TOSEC": [
+          "Fireball II Extra (1990)(Cambridge International)"
+        ],
+        "MESS": [
+          "firebal2e"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Cambridge International",
+        "CIS"
+      ],
+      "CloneOf": "firebal2",
+      "ReleaseDate": "1/1/1990",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Fish",
+        "Fish!"
+      ],
+      "Sha1": "a7c01cf53c43c3c8a6ae13bde0edfb774226c9bc",
+      "Crc32": "621acc39",
+      "SetNames": {
+        "TOSEC": [
+          "Fish (1990)(Magnetic Scrolls)"
+        ],
+        "MESS": [
+          "fish"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Magnetic Scrolls"
+      ],
+      "ReleaseDate": "1/1/1990",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Flashback v1.0",
+        "Flashback"
+      ],
+      "Sha1": "7153b6b25222be07a47af360407bb0b7828ecc8c",
+      "Crc32": "072f93cd",
+      "SetNames": {
+        "TOSEC": [
+          "Flashback v1.0 (demo) (1992)(Delphine)"
+        ],
+        "MESS": [
+          "flashbd"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Delphine",
+        "U.S. Gold"
+      ],
+      "ReleaseDate": "1/1/1992",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "demo"
+      ]
+    },
+    {
+      "Titles": [
+        "Fruitz"
+      ],
+      "Sha1": "386af18d06bdd1c8cecfc34a94c241c3c1ee9907",
+      "Crc32": "91365bf9",
+      "SetNames": {
+        "TOSEC": [
+          "Fruitz (19xx)(Digital Fantasy)"
+        ],
+        "MESS": [
+          "fruitz"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Digital Fantasy"
+      ],
+      "ReleaseDate": "1/1/1997",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Gorm v1.40",
+        "Gorm"
+      ],
+      "Sha1": "6cfdbce5224ed8acff35b5c7a0cec9c7a2ae14ac",
+      "Crc32": "cac30d02",
+      "SetNames": {
+        "TOSEC": [
+          "Gorm v1.40 (1994)(Archimedes World)"
+        ],
+        "MESS": [
+          "gorm"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Archimedes World"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Guile"
+      ],
+      "Sha1": "62c091132b60974c942a0b11f37b59512cbc3812",
+      "Crc32": "02b2ba66",
+      "SetNames": {
+        "TOSEC": [
+          "Guile (1992)(Dream)(GB)[1600K]"
+        ]
+      },
+      "Size": 1638400,
+      "Publishers": [
+        "Dream"
+      ],
+      "ReleaseDate": "1/1/1992",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Guile"
+      ],
+      "Sha1": "07d171bb3e89ee52f2c88de114a28e239b08ba2a",
+      "Crc32": "94baf4ba",
+      "SetNames": {
+        "TOSEC": [
+          "Guile (1992)(Dream)(GB)[800K]"
+        ],
+        "MESS": [
+          "guile"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Dream",
+        "Dream Software"
+      ],
+      "ReleaseDate": "1/1/1992",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Gyrinus II - Son of Gyrinus"
+      ],
+      "Sha1": "f3170fd9e5177b30689301acdfa6fd326c33c918",
+      "Crc32": "a623bca4",
+      "SetNames": {
+        "TOSEC": [
+          "Gyrinus II - Son of Gyrinus (19xx)(Cooper, Tom)(Disk 1 of 2)"
+        ],
+        "MESS": [
+          "gyrinus2"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 819200,
+      "PartNum": 1,
+      "TotalParts": 2,
+      "Publishers": [
+        "Cooper, Tom",
+        "homebrew"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Gyrinus II - Son of Gyrinus"
+      ],
+      "Sha1": "b17934cbdecbac5ec8144015c4073aa7dcb8af64",
+      "Crc32": "9e7091de",
+      "SetNames": {
+        "TOSEC": [
+          "Gyrinus II - Son of Gyrinus (19xx)(Cooper. Tom)(Disk 2 of 2)"
+        ],
+        "MESS": [
+          "gyrinus2"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 819200,
+      "PartNum": 2,
+      "TotalParts": 2,
+      "Publishers": [
+        "Cooper. Tom",
+        "homebrew"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Hacker, The v3.05",
+        "The Hacker"
+      ],
+      "Sha1": "bed95cbefaa86a2b8d6d87cf3a6cf1f3d1e9808d",
+      "Crc32": "b208c218",
+      "SetNames": {
+        "TOSEC": [
+          "Hacker, The v3.05 (1993)(DoggySoft)"
+        ],
+        "MESS": [
+          "hacker"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "DoggySoft"
+      ],
+      "ReleaseDate": "1/1/1993",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Hacker, The v3.05"
+      ],
+      "Sha1": "8dcc0c2d7074e62d34eb0727d5d4e484117be496",
+      "Crc32": "12864add",
+      "SetNames": {
+        "TOSEC": [
+          "Hacker, The v3.05 (1993)(Doggysoft)[a2]"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Doggysoft"
+      ],
+      "ReleaseDate": "1/1/1993",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Hacker, The v3.05",
+        "The Hacker"
+      ],
+      "Sha1": "b02d6495f6a9a1099cb06cac7d0e0d1756f175a0",
+      "Crc32": "c6a88514",
+      "SetNames": {
+        "TOSEC": [
+          "Hacker, The v3.05 (1993)(Doggysoft)[a]"
+        ],
+        "MESS": [
+          "hackera"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Doggysoft"
+      ],
+      "CloneOf": "hacker",
+      "ReleaseDate": "1/1/1993",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Alternate"
+      ]
+    },
+    {
+      "Titles": [
+        "Hamsters v1.10",
+        "Hamsters"
+      ],
+      "Sha1": "35e62d089cfaf24b981f3212bc71c4ede0f56890",
+      "Crc32": "59aa5db5",
+      "SetNames": {
+        "TOSEC": [
+          "Hamsters v1.10 (demo) (1994)(GamesWare)"
+        ],
+        "MESS": [
+          "hamsters"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "GamesWare",
+        "Eclipse"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "demo"
+      ]
+    },
+    {
+      "Titles": [
+        "Hamsters v1.10"
+      ],
+      "Sha1": "d9563ef272d14d397a522c8d0ad18a0bbfeb83ed",
+      "Crc32": "5e2b405e",
+      "SetNames": {
+        "TOSEC": [
+          "Hamsters v1.10 (1994-04-14)(Berty - Xymox)(GB)"
+        ]
+      },
+      "Size": 1638400,
+      "Publishers": [
+        "Berty - Xymox"
+      ],
+      "ReleaseDate": "4/14/1994",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Hero Quest"
+      ],
+      "Sha1": "4f92efecfc1e3a510a816f570ccb7082f0154e37",
+      "Crc32": "f9ef486d",
+      "SetNames": {
+        "TOSEC": [
+          "Hero Quest (1991)(Krisalis)[h]"
+        ],
+        "MESS": [
+          "heroqst"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Krisalis"
+      ],
+      "ReleaseDate": "1/1/1991",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Hacked"
+      ]
+    },
+    {
+      "Titles": [
+        "Impression Jr"
+      ],
+      "Sha1": "8eacd5856d3e8fcf643ecc575d668fda3fe530ca",
+      "Crc32": "1fe45813",
+      "SetNames": {
+        "TOSEC": [
+          "Impression Jr (19xx)(Computer Concepts)"
+        ]
+      },
+      "Size": 814080,
+      "Publishers": [
+        "Computer Concepts"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Interdictor 2"
+      ],
+      "Sha1": "0be4c7d47da5634b68fda1408daa2c9cfd227e2b",
+      "Crc32": "43c6ca84",
+      "SetNames": {
+        "TOSEC": [
+          "Interdictor 2 (1989)(Microsupplies)"
+        ],
+        "MESS": [
+          "interdc2"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Microsupplies",
+        "Clares Micro Supplies"
+      ],
+      "ReleaseDate": "1/1/1989",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Iron Lord"
+      ],
+      "Sha1": "ca8e9a783ef8d55e8b2a2046f76010d6bbb1675b",
+      "Crc32": "9107f4df",
+      "SetNames": {
+        "TOSEC": [
+          "Iron Lord (1990)(Ubi Soft)"
+        ],
+        "MESS": [
+          "ironlord"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Ubi Soft",
+        "Cygnus"
+      ],
+      "ReleaseDate": "1/1/1990",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Iron Lord"
+      ],
+      "Sha1": "0ab4fe5316b43ddfd5b9eb48eef685cfab747d63",
+      "Crc32": "1f633149",
+      "SetNames": {
+        "TOSEC": [
+          "Iron Lord (1990)(Ubi Soft)[a]"
+        ],
+        "MESS": [
+          "ironlorda"
+        ]
+      },
+      "Size": 814080,
+      "Publishers": [
+        "Ubi Soft"
+      ],
+      "CloneOf": "ironlord",
+      "ReleaseDate": "1/1/1990",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Alternate"
+      ]
+    },
+    {
+      "Titles": [
+        "Ixion"
+      ],
+      "Sha1": "a2336f6cce10384268efd362fce64e8acce5f50f",
+      "Crc32": "731aa8a1",
+      "SetNames": {
+        "TOSEC": [
+          "Ixion (1992)(Software 42)(Disk 1 of 2)"
+        ],
+        "MESS": [
+          "ixion"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 819200,
+      "PartNum": 1,
+      "TotalParts": 2,
+      "Publishers": [
+        "Software 42",
+        "Eclipse"
+      ],
+      "ReleaseDate": "1/1/1992",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Ixion"
+      ],
+      "Sha1": "5fec9daf4499e5161306be9f66c0795aaa0f75cb",
+      "Crc32": "807bf326",
+      "SetNames": {
+        "TOSEC": [
+          "Ixion (1992)(Software 42)(Disk 2 of 2)"
+        ],
+        "MESS": [
+          "ixion"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 819200,
+      "PartNum": 2,
+      "TotalParts": 2,
+      "Publishers": [
+        "Software 42",
+        "Eclipse"
+      ],
+      "ReleaseDate": "1/1/1992",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Ixion"
+      ],
+      "Sha1": "2f4dfac0a2aa4547547c96ce0f0a51a8fea5f090",
+      "Crc32": "37fb990a",
+      "SetNames": {
+        "TOSEC": [
+          "Ixion (2004)(Imparo)(FW)"
+        ]
+      },
+      "Size": 1638400,
+      "Publishers": [
+        "Imparo"
+      ],
+      "ReleaseDate": "1/1/2004",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "James Pond"
+      ],
+      "Sha1": "a35f82587f8141b147c7ff748e4cef427b6cef57",
+      "Crc32": "39adc38b",
+      "SetNames": {
+        "TOSEC": [
+          "James Pond (1990)(Krisalis)"
+        ],
+        "MESS": [
+          "jpond"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Krisalis"
+      ],
+      "ReleaseDate": "1/1/1990",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "James Pond"
+      ],
+      "Sha1": "0f4309c5c54a7447c0f1751c835c82e5fea72fd1",
+      "Crc32": "d3b8aa7c",
+      "SetNames": {
+        "TOSEC": [
+          "James Pond (1990)(Krisalis)[a]"
+        ],
+        "MESS": [
+          "jponda"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Krisalis"
+      ],
+      "CloneOf": "jpond",
+      "ReleaseDate": "1/1/1990",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Alternate"
+      ]
+    },
+    {
+      "Titles": [
+        "Jet Fighter"
+      ],
+      "Sha1": "8ee37be632ec6082367bf31d65e94d8dc23a8d7c",
+      "Crc32": "826d3820",
+      "SetNames": {
+        "TOSEC": [
+          "Jet Fighter (1988)(MB Dixon)"
+        ]
+      },
+      "Size": 809984,
+      "Publishers": [
+        "MB Dixon"
+      ],
+      "ReleaseDate": "1/1/1988",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Last Ninja, The"
+      ],
+      "Sha1": "c8ddee99f42b1e54954a21095313b0c2924afe0c",
+      "Crc32": "d33458b5",
+      "SetNames": {
+        "TOSEC": [
+          "Last Ninja, The (demo-playable) (1992)(Superior Software)(GB)"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Superior Software"
+      ],
+      "ReleaseDate": "1/1/1992",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Leeds Utd - Champions!",
+        "Leeds United Champions!"
+      ],
+      "Sha1": "4ba0835c415bde82742c61328acf711d821619e2",
+      "Crc32": "d4631873",
+      "SetNames": {
+        "TOSEC": [
+          "Leeds Utd - Champions! (19xx)(CDS)"
+        ],
+        "MESS": [
+          "leedsutd"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "CDS"
+      ],
+      "ReleaseDate": "1/1/1993",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Lemings v1.0"
+      ],
+      "Sha1": "17ee4f7eb96a6f53ff761c14fb4dfd88a1c000a1",
+      "Crc32": "85f26261",
+      "SetNames": {
+        "TOSEC": [
+          "Lemings v1.0 (demo) (1991-04-18)(Cooper, Tom)[f Jeffrey Lee]"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Cooper, Tom"
+      ],
+      "ReleaseDate": "4/18/1991",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Fixed",
+        "demo"
+      ]
+    },
+    {
+      "Titles": [
+        "Lemmings"
+      ],
+      "Sha1": "8db181f24881545a73898bb3b924e5b5c98dbc7c",
+      "Crc32": "113fdda5",
+      "SetNames": {
+        "TOSEC": [
+          "Lemmings (1991)(Krisalis)"
+        ],
+        "MESS": [
+          "lemmings"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Krisalis"
+      ],
+      "ReleaseDate": "1/1/1991",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Lemmings"
+      ],
+      "Sha1": "d64ef85d2e70487591fa623c2f4e4e0967c0db12",
+      "Crc32": "22adcaac",
+      "SetNames": {
+        "TOSEC": [
+          "Lemmings (1991)(Krisalis)[a]"
+        ],
+        "MESS": [
+          "lemmingsa"
+        ]
+      },
+      "Size": 814080,
+      "Publishers": [
+        "Krisalis"
+      ],
+      "CloneOf": "lemmings",
+      "ReleaseDate": "1/1/1991",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Alternate"
+      ]
+    },
+    {
+      "Titles": [
+        "Mad Professor Mariarti"
+      ],
+      "Sha1": "0c78593f587476f68e2d7b5742b88a340412ca8b",
+      "Crc32": "cf678898",
+      "SetNames": {
+        "TOSEC": [
+          "Mad Professor Mariarti (1990)(Krisalis)"
+        ],
+        "MESS": [
+          "mariarti"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Krisalis"
+      ],
+      "ReleaseDate": "1/1/1990",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Mad Professor Mariarti"
+      ],
+      "Sha1": "75648b234d04c5d71dc85f581bbdbe6b1de4813e",
+      "Crc32": "2f46e5bc",
+      "SetNames": {
+        "TOSEC": [
+          "Mad Professor Mariarti (1990)(Krisalis)[a2]"
+        ],
+        "MESS": [
+          "mariartib"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Krisalis"
+      ],
+      "CloneOf": "mariarti",
+      "ReleaseDate": "1/1/1990",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Mad Professor Mariarti"
+      ],
+      "Sha1": "e64f832705c6923edcec7e85df4cceafe30b817e",
+      "Crc32": "020e0e93",
+      "SetNames": {
+        "TOSEC": [
+          "Mad Professor Mariarti (1990)(Krisalis)[a]"
+        ],
+        "MESS": [
+          "mariartia"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Krisalis"
+      ],
+      "CloneOf": "mariarti",
+      "ReleaseDate": "1/1/1990",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Alternate"
+      ]
+    },
+    {
+      "Titles": [
+        "MadDash 2"
+      ],
+      "Sha1": "30d431892102a4e5915b095301c2dcd47f7daec2",
+      "Crc32": "82bb1c28",
+      "SetNames": {
+        "TOSEC": [
+          "MadDash 2 (2001)(Hampton, Ian)"
+        ],
+        "MESS": [
+          "maddash2"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Hampton, Ian",
+        "homebrew"
+      ],
+      "ReleaseDate": "1/1/2001",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Magnetoids"
+      ],
+      "Sha1": "502d7f78bf828462a181c62d878dfb812976d2ad",
+      "Crc32": "942f2552",
+      "SetNames": {
+        "TOSEC": [
+          "Magnetoids (demo-playable) (1994)(Oregan Software Developments)(GB)"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Oregan Software Developments"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Manchester United Europe"
+      ],
+      "Sha1": "1a12e36e246fabc6c5c69a1916e561990741c893",
+      "Crc32": "033ad0fc",
+      "SetNames": {
+        "TOSEC": [
+          "Manchester United Europe (1991)(Krisalis)"
+        ],
+        "MESS": [
+          "manchutd"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Krisalis"
+      ],
+      "ReleaseDate": "1/1/1991",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Master Break"
+      ],
+      "Sha1": "219557031bb57a21891f637eb073120befa493fa",
+      "Crc32": "c956b33b",
+      "SetNames": {
+        "TOSEC": [
+          "Master Break (19xx)(Superior Software)"
+        ],
+        "MESS": [
+          "mastrbrk"
+        ]
+      },
+      "Size": 798720,
+      "Publishers": [
+        "Superior Software",
+        "Acornsoft"
+      ],
+      "ReleaseDate": "1/1/1990",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "MicroPower Chess",
+        "Chess 3D"
+      ],
+      "Sha1": "82ede831b3774834b18baaf7f34cc3766946352e",
+      "Crc32": "ca3f7e51",
+      "SetNames": {
+        "TOSEC": [
+          "MicroPower Chess (19xx)(MicroPower)"
+        ],
+        "MESS": [
+          "chess3da"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "MicroPower",
+        "Micro Power"
+      ],
+      "CloneOf": "chess3d",
+      "ReleaseDate": "1/1/1991",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Mig 29 Fulcrum"
+      ],
+      "Sha1": "edc7727d5e1828b2877d9191fddabf54696da035",
+      "Crc32": "951a1eb9",
+      "SetNames": {
+        "TOSEC": [
+          "Mig 29 Fulcrum (1991)(Domark - Krisalis)"
+        ],
+        "MESS": [
+          "mig29"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Domark - Krisalis",
+        "Krisalis"
+      ],
+      "ReleaseDate": "1/1/1991",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Moon Quake"
+      ],
+      "Sha1": "2a96d10af75b315a362145cf9c8d4f6404aa8f07",
+      "Crc32": "8a9009bb",
+      "SetNames": {
+        "TOSEC": [
+          "Moon Quake (1992)(Taylor, Paul)[h]"
+        ],
+        "MESS": [
+          "moonquak"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Taylor, Paul",
+        "Archimedes World"
+      ],
+      "ReleaseDate": "1/1/1992",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Hacked"
+      ]
+    },
+    {
+      "Titles": [
+        "Mr. Doo"
+      ],
+      "Sha1": "1ecad58219bdf04185ba70a3daf52a1a18b66e70",
+      "Crc32": "27090aa4",
+      "SetNames": {
+        "TOSEC": [
+          "Mr. Doo (1994)(Archimedes World)"
+        ],
+        "MESS": [
+          "mrdoo"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Archimedes World"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Mr. Doo"
+      ],
+      "Sha1": "e853255fd56420c7092311d300872aee288acb7d",
+      "Crc32": "6d1e75ba",
+      "SetNames": {
+        "TOSEC": [
+          "Mr. Doo (1994)(Archimedes World)[a]"
+        ],
+        "MESS": [
+          "mrdooa"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Archimedes World"
+      ],
+      "CloneOf": "mrdoo",
+      "ReleaseDate": "1/1/1994",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Alternate"
+      ]
+    },
+    {
+      "Titles": [
+        "Nebulus"
+      ],
+      "Sha1": "d3493850e8ed91ae0a55a53866139781ad65e63d",
+      "Crc32": "06b27097",
+      "SetNames": {
+        "TOSEC": [
+          "Nebulus (1992)(Krisalis)"
+        ],
+        "MESS": [
+          "nebulus"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Krisalis"
+      ],
+      "ReleaseDate": "1/1/1992",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Oddball"
+      ],
+      "Sha1": "961063d2a9206edd2142cb62ff664e322c24f3c7",
+      "Crc32": "80a8cd98",
+      "SetNames": {
+        "TOSEC": [
+          "Oddball (1995)(Amnesia)"
+        ],
+        "MESS": [
+          "oddball"
+        ]
+      },
+      "Size": 814080,
+      "Publishers": [
+        "Amnesia",
+        "Digital Psychosis"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Oh, No! More Lemmings!"
+      ],
+      "Sha1": "a8539dedd80abb6746df70b6ac590dfea655927c",
+      "Crc32": "af17d81c",
+      "SetNames": {
+        "TOSEC": [
+          "Oh, No! More Lemmings! (1992)(Krisalis)"
+        ],
+        "MESS": [
+          "morelemm"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Krisalis"
+      ],
+      "ReleaseDate": "1/1/1992",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Oh, No! More Lemmings!"
+      ],
+      "Sha1": "ad0928ba5625962fff1130d66b612a7143004f9a",
+      "Crc32": "f51f6a00",
+      "SetNames": {
+        "TOSEC": [
+          "Oh, No! More Lemmings! (1992)(Krisalis)[a]"
+        ],
+        "MESS": [
+          "morelemma"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Krisalis"
+      ],
+      "CloneOf": "morelemm",
+      "ReleaseDate": "1/1/1992",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Alternate"
+      ]
+    },
+    {
+      "Titles": [
+        "Pacmania",
+        "Pac-Mania"
+      ],
+      "Sha1": "a84c0bbb6702e7c58de1f109c03cb6f2057a91c7",
+      "Crc32": "97c95a4d",
+      "SetNames": {
+        "TOSEC": [
+          "Pacmania (1991)(Krisalis)"
+        ],
+        "MESS": [
+          "pacmania"
+        ]
+      },
+      "Size": 814080,
+      "Publishers": [
+        "Krisalis",
+        "Domark"
+      ],
+      "ReleaseDate": "1/1/1991",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Paradroid 2000"
+      ],
+      "Sha1": "0f7e51aa38f9568bffd231f324793ffe9475f310",
+      "Crc32": "713366e4",
+      "SetNames": {
+        "TOSEC": [
+          "Paradroid 2000 (19xx)(-)"
+        ],
+        "MESS": [
+          "paradr2k"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "-",
+        "Coin-Age"
+      ],
+      "ReleaseDate": "1/1/1993",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "PD Lemings",
+        "Lemings"
+      ],
+      "Sha1": "41db87bc9d9b0cc7709557a9266ef998440fb45c",
+      "Crc32": "48cf93ab",
+      "SetNames": {
+        "TOSEC": [
+          "PD Lemings (19xx)(Cooper, Tom)"
+        ],
+        "MESS": [
+          "lemings"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Cooper, Tom",
+        "homebrew"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Pen Down v1.72",
+        "Pen Down"
+      ],
+      "Sha1": "51ac647d3934482f8a6aaf72819eba96b2d72bc4",
+      "Crc32": "7fb203fe",
+      "SetNames": {
+        "TOSEC": [
+          "Pen Down v1.72 (1992)(Logotron)"
+        ],
+        "MESS": [
+          "pendown"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Logotron"
+      ],
+      "ReleaseDate": "1/1/1992",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Pipe Mania"
+      ],
+      "Sha1": "a2c189d4c336f1114a5161a6b37b3452ac16c429",
+      "Crc32": "6f935fbd",
+      "SetNames": {
+        "TOSEC": [
+          "Pipe Mania (1988)(Entertainment International)"
+        ],
+        "MESS": [
+          "pipmania"
+        ]
+      },
+      "Size": 814080,
+      "Publishers": [
+        "Entertainment International",
+        "Empire"
+      ],
+      "ReleaseDate": "1/1/1988",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Poizone"
+      ],
+      "Sha1": "affba8e6070150970f5de0ceb4de520794bf3918",
+      "Crc32": "1842f2b1",
+      "SetNames": {
+        "TOSEC": [
+          "Poizone (19xx)(Eterna)"
+        ],
+        "MESS": [
+          "poizone"
+        ]
+      },
+      "Size": 815104,
+      "Publishers": [
+        "Eterna"
+      ],
+      "ReleaseDate": "1/1/1991",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Populous"
+      ],
+      "Sha1": "00b5723f7838fd4562b6d9c1c39f2ca9b17cecae",
+      "Crc32": "85fd411d",
+      "SetNames": {
+        "TOSEC": [
+          "Populous (1989)(Bullfrog)"
+        ],
+        "MESS": [
+          "populousc"
+        ]
+      },
+      "Size": 814080,
+      "Publishers": [
+        "Bullfrog",
+        "Krisalis"
+      ],
+      "CloneOf": "populous",
+      "ReleaseDate": "1/1/1989",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Populous"
+      ],
+      "Sha1": "68c27f6cb1477b71e6e6e0502486e77ca96e7624",
+      "Crc32": "07cc7b41",
+      "SetNames": {
+        "TOSEC": [
+          "Populous (1989)(Bullfrog)[b]"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Bullfrog"
+      ],
+      "ReleaseDate": "1/1/1989",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Punters Predictor, The",
+        "The Punters Predictor"
+      ],
+      "Sha1": "03bf4c37413af1381cfc1e9c4ec9b421200cf24f",
+      "Crc32": "3193aa50",
+      "SetNames": {
+        "TOSEC": [
+          "Punters Predictor, The (19xx)(-)"
+        ],
+        "MESS": [
+          "puntpred"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "-",
+        "homebrew"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Quark"
+      ],
+      "Sha1": "8d9d51cd5283858b968358fc7d9eb6b6f87904ec",
+      "Crc32": "5716b019",
+      "SetNames": {
+        "TOSEC": [
+          "Quark (demo-playable) (1993)(Oregan Software Developments)(GB)"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Oregan Software Developments"
+      ],
+      "ReleaseDate": "1/1/1993",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Repton 3"
+      ],
+      "Sha1": "cc6acf8b65204c314b7e2c8dc764482c7fbd9218",
+      "Crc32": "619c1446",
+      "SetNames": {
+        "TOSEC": [
+          "Repton 3 (1988)(Superior Software)"
+        ],
+        "MESS": [
+          "repton3c"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Superior Software",
+        "Acornsoft"
+      ],
+      "CloneOf": "repton3",
+      "ReleaseDate": "1/1/1988",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Sim City"
+      ],
+      "Sha1": "62baf7ffd2162b58ec7e8b2b611dea830d449caa",
+      "Crc32": "0c9221a9",
+      "SetNames": {
+        "TOSEC": [
+          "Sim City (1993)(Krisalis)"
+        ],
+        "MESS": [
+          "simcity"
+        ]
+      },
+      "Size": 814080,
+      "Publishers": [
+        "Krisalis"
+      ],
+      "ReleaseDate": "1/1/1993",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Simon the Sorcerer"
+      ],
+      "Sha1": "cd9c9fae2ae3133e1e203e24466b5dacb19fb00a",
+      "Crc32": "b7a2be89",
+      "SetNames": {
+        "TOSEC": [
+          "Simon the Sorcerer (1994)(Gamesware)(Disk 01 of 10)"
+        ],
+        "MESS": [
+          "simonsor"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 814080,
+      "PartNum": 1,
+      "TotalParts": 10,
+      "Publishers": [
+        "Gamesware"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Simon the Sorcerer"
+      ],
+      "Sha1": "802f51af7c95ba48c534320b3c743921669c1d27",
+      "Crc32": "0734253a",
+      "SetNames": {
+        "TOSEC": [
+          "Simon the Sorcerer (1994)(Gamesware)(Disk 02 of 10)"
+        ],
+        "MESS": [
+          "simonsor"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 814080,
+      "PartNum": 2,
+      "TotalParts": 10,
+      "Publishers": [
+        "Gamesware"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Simon the Sorcerer"
+      ],
+      "Sha1": "c2fa09dca1f5de94c9f72dfa854fd86014fc1e8b",
+      "Crc32": "8817d100",
+      "SetNames": {
+        "TOSEC": [
+          "Simon the Sorcerer (1994)(Gamesware)(Disk 03 of 10)"
+        ],
+        "MESS": [
+          "simonsor"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 814080,
+      "PartNum": 3,
+      "TotalParts": 10,
+      "Publishers": [
+        "Gamesware"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Simon the Sorcerer"
+      ],
+      "Sha1": "a7ca010caa6d3b1d538d0d0bbd4d0c5708c99c9f",
+      "Crc32": "bcae058f",
+      "SetNames": {
+        "TOSEC": [
+          "Simon the Sorcerer (1994)(Gamesware)(Disk 04 of 10)"
+        ],
+        "MESS": [
+          "simonsor"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 814080,
+      "PartNum": 4,
+      "TotalParts": 10,
+      "Publishers": [
+        "Gamesware"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Simon the Sorcerer"
+      ],
+      "Sha1": "4d80fa5fa2ec081c845f1283d25148bd6db34f72",
+      "Crc32": "a973649c",
+      "SetNames": {
+        "TOSEC": [
+          "Simon the Sorcerer (1994)(Gamesware)(Disk 05 of 10)"
+        ],
+        "MESS": [
+          "simonsor"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 814080,
+      "PartNum": 5,
+      "TotalParts": 10,
+      "Publishers": [
+        "Gamesware"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Simon the Sorcerer"
+      ],
+      "Sha1": "d133c42e2edc0a38e46d47e98601bb7044d4c66f",
+      "Crc32": "4c28314f",
+      "SetNames": {
+        "TOSEC": [
+          "Simon the Sorcerer (1994)(Gamesware)(Disk 06 of 10)"
+        ],
+        "MESS": [
+          "simonsor"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 814080,
+      "PartNum": 6,
+      "TotalParts": 10,
+      "Publishers": [
+        "Gamesware"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Simon the Sorcerer"
+      ],
+      "Sha1": "f84a5e4cc825770607f15c5950449e25e32dd8ca",
+      "Crc32": "c9f92785",
+      "SetNames": {
+        "TOSEC": [
+          "Simon the Sorcerer (1994)(Gamesware)(Disk 07 of 10)"
+        ],
+        "MESS": [
+          "simonsor"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 814080,
+      "PartNum": 7,
+      "TotalParts": 10,
+      "Publishers": [
+        "Gamesware"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Simon the Sorcerer"
+      ],
+      "Sha1": "f8b55a545c0c236c9216f44057bde2dd0dbc0715",
+      "Crc32": "826f9c7d",
+      "SetNames": {
+        "TOSEC": [
+          "Simon the Sorcerer (1994)(Gamesware)(Disk 08 of 10)"
+        ],
+        "MESS": [
+          "simonsor"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 814080,
+      "PartNum": 8,
+      "TotalParts": 10,
+      "Publishers": [
+        "Gamesware"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Simon the Sorcerer"
+      ],
+      "Sha1": "59b5706488a5be5dc7774c142b1f01cd61bcb766",
+      "Crc32": "f3e8f03c",
+      "SetNames": {
+        "TOSEC": [
+          "Simon the Sorcerer (1994)(Gamesware)(Disk 09 of 10)"
+        ],
+        "MESS": [
+          "simonsor"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 814080,
+      "PartNum": 9,
+      "TotalParts": 10,
+      "Publishers": [
+        "Gamesware"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Simon the Sorcerer"
+      ],
+      "Sha1": "26160c06c027f0f491bf5807db6843da1800f6ce",
+      "Crc32": "fdb0c0eb",
+      "SetNames": {
+        "TOSEC": [
+          "Simon the Sorcerer (1994)(Gamesware)(Disk 10 of 10)"
+        ],
+        "MESS": [
+          "simonsor"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 814080,
+      "PartNum": 10,
+      "TotalParts": 10,
+      "Publishers": [
+        "Gamesware"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Son of Gyrinus",
+        "Gyrinus II - Son of Gyrinus"
+      ],
+      "Sha1": "6cb046751a4c7048f3f8a093c58b5d6ffb62af93",
+      "Crc32": "3c634824",
+      "SetNames": {
+        "TOSEC": [
+          "Son of Gyrinus (19xx)(Cooper, Tom)(Disk 1 of 2)"
+        ],
+        "MESS": [
+          "gyrinus"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 815104,
+      "PartNum": 1,
+      "TotalParts": 2,
+      "Publishers": [
+        "Cooper, Tom",
+        "homebrew"
+      ],
+      "CloneOf": "gyrinus2",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Son of Gyrinus",
+        "Gyrinus II - Son of Gyrinus"
+      ],
+      "Sha1": "8fe8175b18062566e50bce0c49d019d3940f655f",
+      "Crc32": "6a1a178e",
+      "SetNames": {
+        "TOSEC": [
+          "Son of Gyrinus (19xx)(Cooper, Tom)(Disk 1 of 2)[a]"
+        ],
+        "MESS": [
+          "gyrinusa"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 815104,
+      "PartNum": 1,
+      "TotalParts": 2,
+      "Publishers": [
+        "Cooper, Tom",
+        "homebrew"
+      ],
+      "CloneOf": "gyrinus2",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Alternate"
+      ]
+    },
+    {
+      "Titles": [
+        "Son of Gyrinus",
+        "Gyrinus II - Son of Gyrinus"
+      ],
+      "Sha1": "6d4bddda0941f21c8e93bd5d138cf492f84239e4",
+      "Crc32": "cd367dc5",
+      "SetNames": {
+        "TOSEC": [
+          "Son of Gyrinus (19xx)(Cooper, Tom)(Disk 2 of 2)"
+        ],
+        "MESS": [
+          "gyrinus",
+          "gyrinusa"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 819200,
+      "PartNum": 2,
+      "TotalParts": 2,
+      "Publishers": [
+        "Cooper, Tom",
+        "homebrew"
+      ],
+      "CloneOf": "gyrinus2",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Speedball 2 - Brutal Deluxe",
+        "Speedball 2"
+      ],
+      "Sha1": "614b8b7c735851697a4b16df916c07e8be7b504f",
+      "Crc32": "bf91eeb5",
+      "SetNames": {
+        "TOSEC": [
+          "Speedball 2 - Brutal Deluxe (1992)(Krisalis)"
+        ],
+        "MESS": [
+          "speedbl2"
+        ]
+      },
+      "Size": 814080,
+      "Publishers": [
+        "Krisalis"
+      ],
+      "ReleaseDate": "1/1/1992",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Speedball 2 - Brutal Deluxe",
+        "Speedball 2"
+      ],
+      "Sha1": "d7e816511a67edf4237138207c5ddf027dd04e60",
+      "Crc32": "29250d5d",
+      "SetNames": {
+        "TOSEC": [
+          "Speedball 2 - Brutal Deluxe (1992)(Krisalis)[a]"
+        ],
+        "MESS": [
+          "speedbl2a"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Krisalis"
+      ],
+      "CloneOf": "speedbl2",
+      "ReleaseDate": "1/1/1992",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Alternate"
+      ]
+    },
+    {
+      "Titles": [
+        "Spheres of Chaos"
+      ],
+      "Sha1": "2b8b70a60ee3427c8e3fc3c7577868e120e21fca",
+      "Crc32": "52b7b1ac",
+      "SetNames": {
+        "TOSEC": [
+          "Spheres of Chaos (1993)(Black, Matt - McLeod, Iain)"
+        ],
+        "MESS": [
+          "spheres"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Black, Matt - McLeod, Iain",
+        "Matt Black"
+      ],
+      "ReleaseDate": "1/1/1993",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Spheres of Chaos"
+      ],
+      "Sha1": "afbab8e7d2512c0d8f217f016ed8aabc53342689",
+      "Crc32": "24683c11",
+      "SetNames": {
+        "TOSEC": [
+          "Spheres of Chaos (1993)(Black, Matt - McLeod, Iain)[a2]"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Black, Matt - McLeod, Iain"
+      ],
+      "ReleaseDate": "1/1/1993",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Spheres of Chaos"
+      ],
+      "Sha1": "eadf13055748205061b82fe008e971c7769c999f",
+      "Crc32": "1490e86a",
+      "SetNames": {
+        "TOSEC": [
+          "Spheres of Chaos (1993)(Black, Matt - McLeod, Iain)[a3]"
+        ],
+        "MESS": [
+          "spheresc"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Black, Matt - McLeod, Iain",
+        "Matt Black"
+      ],
+      "ReleaseDate": "1/1/1993",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Spheres of Chaos"
+      ],
+      "Sha1": "60218e51bc9045906a0ec570d2436b01a26e6a98",
+      "Crc32": "e3dd7901",
+      "SetNames": {
+        "TOSEC": [
+          "Spheres of Chaos (1993)(Black, Matt - McLeod, Iain)[a]"
+        ],
+        "MESS": [
+          "spheresa"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Black, Matt - McLeod, Iain",
+        "Matt Black"
+      ],
+      "CloneOf": "spheres",
+      "ReleaseDate": "1/1/1993",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Alternate"
+      ]
+    },
+    {
+      "Titles": [
+        "Star Fighter 3000"
+      ],
+      "Sha1": "02a548106287f0ea662fe404cb2fcdc7f14089dd",
+      "Crc32": "fa5cad28",
+      "SetNames": {
+        "TOSEC": [
+          "Star Fighter 3000 (demo-playable) (1993)(Fednet)(GB)"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Fednet"
+      ],
+      "ReleaseDate": "1/1/1993",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Star Fighter 3000"
+      ],
+      "Sha1": "6f2c094fd7d1c7eaebb79e8343d52cf6bfb86d1b",
+      "Crc32": "b894e371",
+      "SetNames": {
+        "TOSEC": [
+          "Star Fighter 3000 (1994)(Fednet)"
+        ],
+        "MESS": [
+          "starf3kd"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Fednet"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Starch"
+      ],
+      "Sha1": "58e1e3791a880cdf1544eaccdbe43452f8846ace",
+      "Crc32": "5d734c25",
+      "SetNames": {
+        "TOSEC": [
+          "Starch (1990)(Alien Images)"
+        ],
+        "MESS": [
+          "starch"
+        ]
+      },
+      "Size": 634880,
+      "Publishers": [
+        "Alien Images",
+        "Archimedes World"
+      ],
+      "ReleaseDate": "1/1/1990",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Startwrite"
+      ],
+      "Sha1": "8ca4289ac423d4878129cb17d6177123b321108f",
+      "Crc32": "d915e78c",
+      "SetNames": {
+        "TOSEC": [
+          "Startwrite (1992)(Icon Technology)[b]"
+        ]
+      },
+      "Size": 814080,
+      "Publishers": [
+        "Icon Technology"
+      ],
+      "ReleaseDate": "1/1/1992",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Stunt Racer"
+      ],
+      "Sha1": "e72e65babcd3db339fea0391aa6cad3c70ee2f60",
+      "Crc32": "5434dea2",
+      "SetNames": {
+        "TOSEC": [
+          "Stunt Racer (19xx)(-)(Disk 2 of 2)"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 814080,
+      "PartNum": 2,
+      "TotalParts": 2,
+      "Publishers": [
+        "-"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Super Pool"
+      ],
+      "Sha1": "9d5b0fc6efb984ba8811316e6438e8fce2326d4c",
+      "Crc32": "e3847c77",
+      "SetNames": {
+        "TOSEC": [
+          "Super Pool (1991)(Fourth Dimension, The)(GB)"
+        ],
+        "MESS": [
+          "suprpool"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Fourth Dimension, The",
+        "Fourth Dimension"
+      ],
+      "ReleaseDate": "1/1/1991",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Super Pool"
+      ],
+      "Sha1": "4617e05a275253b3cf859f3012d753f2e92b1523",
+      "Crc32": "ae41840c",
+      "SetNames": {
+        "TOSEC": [
+          "Super Pool (1991)(Fourth Dimension, The)(GB)[a2]"
+        ],
+        "MESS": [
+          "suprpoolb"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Fourth Dimension, The",
+        "Fourth Dimension"
+      ],
+      "CloneOf": "suprpool",
+      "ReleaseDate": "1/1/1991",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Super Pool"
+      ],
+      "Sha1": "10d451076f38ab48e4b9bd754fdcb4c634935c36",
+      "Crc32": "8fa28978",
+      "SetNames": {
+        "TOSEC": [
+          "Super Pool (1991)(Fourth Dimension, The)(GB)[a]"
+        ],
+        "MESS": [
+          "suprpoola"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Fourth Dimension, The",
+        "Fourth Dimension"
+      ],
+      "CloneOf": "suprpool",
+      "ReleaseDate": "1/1/1991",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Alternate"
+      ]
+    },
+    {
+      "Titles": [
+        "Superior Disk 1",
+        "Play It Again Sam 3"
+      ],
+      "Sha1": "416b4b013012115f4ab235b4454d1d7788c6f376",
+      "Crc32": "d69ff5e6",
+      "SetNames": {
+        "TOSEC": [
+          "Superior Disk 1 (1993)(Superior Software)"
+        ],
+        "MESS": [
+          "pias3"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Superior Software"
+      ],
+      "ReleaseDate": "1/1/1993",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Superior Disk 2",
+        "Play It Again Sam 3"
+      ],
+      "Sha1": "8011ee840d5ef371b5c1964c315df3c0fa66e758",
+      "Crc32": "5be128ae",
+      "SetNames": {
+        "TOSEC": [
+          "Superior Disk 2 (1993)(Superior Software)"
+        ],
+        "MESS": [
+          "pias3"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Superior Software"
+      ],
+      "ReleaseDate": "1/1/1993",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Superior Golf"
+      ],
+      "Sha1": "38206d1449478f218e1e1e3567594cd143c42c62",
+      "Crc32": "10b5e57e",
+      "SetNames": {
+        "TOSEC": [
+          "Superior Golf (1990)(Superior Software)"
+        ],
+        "MESS": [
+          "suprgolf"
+        ]
+      },
+      "Size": 808960,
+      "Publishers": [
+        "Superior Software",
+        "Acornsoft"
+      ],
+      "ReleaseDate": "1/1/1990",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "SWIV"
+      ],
+      "Sha1": "32b2341a0671a974112d6a7fcc1c6a72ac6c4cb0",
+      "Crc32": "638dad71",
+      "SetNames": {
+        "TOSEC": [
+          "SWIV (1992)(Krisalis Software)(GB)[h includes TrackRip v0.01]"
+        ],
+        "MESS": [
+          "swiv"
+        ]
+      },
+      "Size": 814080,
+      "Publishers": [
+        "Krisalis Software",
+        "Krisalis"
+      ],
+      "ReleaseDate": "1/1/1992",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Hacked"
+      ]
+    },
+    {
+      "Titles": [
+        "Talisman"
+      ],
+      "Sha1": "3459adef724e2cd6f3681050a9ce47394231b4f9",
+      "Crc32": "774e5426",
+      "SetNames": {
+        "TOSEC": [
+          "Talisman (1989)(Minerva)"
+        ],
+        "MESS": [
+          "talisman"
+        ]
+      },
+      "Size": 460800,
+      "Publishers": [
+        "Minerva"
+      ],
+      "ReleaseDate": "1/1/1989",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Talisman"
+      ],
+      "Sha1": "d6fc041f97f15bbe4b266de595b7bb0204b87ee6",
+      "Crc32": "7c8f5e47",
+      "SetNames": {
+        "TOSEC": [
+          "Talisman (1989)(Minerva)[a]"
+        ],
+        "MESS": [
+          "talismana"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Minerva"
+      ],
+      "CloneOf": "talisman",
+      "ReleaseDate": "1/1/1989",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Alternate"
+      ]
+    },
+    {
+      "Titles": [
+        "Terramex"
+      ],
+      "Sha1": "d41ea1ab6065971a48e82cecd96cb6fb679a07be",
+      "Crc32": "19a649e0",
+      "SetNames": {
+        "TOSEC": [
+          "Terramex (1988)(Grand Slam)"
+        ],
+        "MESS": [
+          "terramex"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Grand Slam",
+        "Krisalis"
+      ],
+      "ReleaseDate": "1/1/1988",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Terramex"
+      ],
+      "Sha1": "c1e62d3846c9c61075226782cd209aa57c1d473d",
+      "Crc32": "08d5f4a9",
+      "SetNames": {
+        "TOSEC": [
+          "Terramex (1988)(Grand Slam)[b]"
+        ]
+      },
+      "Size": 814080,
+      "Publishers": [
+        "Grand Slam"
+      ],
+      "ReleaseDate": "1/1/1988",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Time Zone"
+      ],
+      "Sha1": "371b30787a782cb1fe6cb6ad2217a832a06e1e96",
+      "Crc32": "a21f92e4",
+      "SetNames": {
+        "TOSEC": [
+          "Time Zone (19xx)(Cobra)"
+        ],
+        "MESS": [
+          "timezone"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Cobra",
+        "homebrew"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Top Banana"
+      ],
+      "Sha1": "c86c55cf671d1c899fdabd781442a7a4f63464d2",
+      "Crc32": "9fee315d",
+      "SetNames": {
+        "TOSEC": [
+          "Top Banana (19xx)(-)"
+        ],
+        "MESS": [
+          "topbanan"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "-",
+        "Hex"
+      ],
+      "ReleaseDate": "1/1/1988",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Tower of Babel"
+      ],
+      "Sha1": "9e656be2f1f09d2859cf68200d8f2794fa795e49",
+      "Crc32": "1b918df1",
+      "SetNames": {
+        "TOSEC": [
+          "Tower of Babel (1991)(Cygnus)"
+        ],
+        "MESS": [
+          "towbabel"
+        ]
+      },
+      "Size": 814080,
+      "Publishers": [
+        "Cygnus"
+      ],
+      "ReleaseDate": "1/1/1991",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Trivial Pursuit"
+      ],
+      "Sha1": "15003d4306131905905a834cfc1368c1c88f7405",
+      "Crc32": "9ced825f",
+      "SetNames": {
+        "TOSEC": [
+          "Trivial Pursuit (1989)(Domark)"
+        ],
+        "MESS": [
+          "trivial"
+        ]
+      },
+      "Size": 817152,
+      "Publishers": [
+        "Domark"
+      ],
+      "ReleaseDate": "1/1/1989",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Twinworld",
+        "Twin World"
+      ],
+      "Sha1": "088b9ad03376520821e446a1be89525b502bb025",
+      "Crc32": "3b104116",
+      "SetNames": {
+        "TOSEC": [
+          "Twinworld (1991)(Ubisoft)"
+        ],
+        "MESS": [
+          "twinwrld"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Ubisoft",
+        "Cygnus"
+      ],
+      "ReleaseDate": "1/1/1991",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Warlocks"
+      ],
+      "Sha1": "af5d9ed5829057c4f6bedc8075df5bf091d0298b",
+      "Crc32": "980c95d8",
+      "SetNames": {
+        "TOSEC": [
+          "Warlocks (demo) (1993)(Network XXIII)[b]"
+        ],
+        "TGDB": [
+          "32448"
+        ]
+      },
+      "OverviewId": 2,
+      "Size": 499604,
+      "Publishers": [
+        "Network XXIII",
+        "Network 23"
+      ],
+      "Developers": [
+        "Network 23"
+      ],
+      "ReleaseDate": "10/23/1993",
+      "Genres": [
+        "Action",
+        "Adventure",
+        "Platform"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump",
+        "demo"
+      ]
+    },
+    {
+      "Titles": [
+        "Warlocks"
+      ],
+      "Sha1": "1ac0a6def320f0c391c581a5e8c559c4392d0cc7",
+      "Crc32": "269e0dcb",
+      "SetNames": {
+        "TOSEC": [
+          "Warlocks (demo-playable) (1993)(Network XIII)(GB)"
+        ],
+        "TGDB": [
+          "32448"
+        ]
+      },
+      "OverviewId": 2,
+      "Size": 819200,
+      "Publishers": [
+        "Network XIII",
+        "Network 23"
+      ],
+      "Developers": [
+        "Network 23"
+      ],
+      "ReleaseDate": "10/23/1993",
+      "Genres": [
+        "Action",
+        "Adventure",
+        "Platform"
+      ],
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Wavelength"
+      ],
+      "Sha1": "eba52f1fc19bce85542fc23b00334b2394035b72",
+      "Crc32": "d1867360",
+      "SetNames": {
+        "TOSEC": [
+          "Wavelength (demo-playable) (1995)(GamesWare)(GB)"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "GamesWare"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "White Magic"
+      ],
+      "Sha1": "f90701252647f770f63882dabd61823fc7c59635",
+      "Crc32": "2e14543e",
+      "SetNames": {
+        "TOSEC": [
+          "White Magic (1989)(Fourth Dimension, The)(GB)"
+        ],
+        "MESS": [
+          "whitemag"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Fourth Dimension, The",
+        "Fourth Dimension"
+      ],
+      "ReleaseDate": "1/1/1989",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "White Magic 2"
+      ],
+      "Sha1": "15faf20baad51a439d74a43274500300cffa5090",
+      "Crc32": "8d7799e2",
+      "SetNames": {
+        "TOSEC": [
+          "White Magic 2 (1989)(Fourth Dimension, The)(GB)"
+        ],
+        "MESS": [
+          "whitema2"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Fourth Dimension, The",
+        "Fourth Dimension"
+      ],
+      "ReleaseDate": "1/1/1989",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Wimp Game, The",
+        "The Wimp Game"
+      ],
+      "Sha1": "32c108fae7ba4d4a443f7828b8ebece1bbd0e1c8",
+      "Crc32": "ae4fe051",
+      "SetNames": {
+        "TOSEC": [
+          "Wimp Game, The (1990)(Fourth Dimension, The)(GB)"
+        ],
+        "MESS": [
+          "wimpgamec"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Fourth Dimension, The",
+        "Fourth Dimension"
+      ],
+      "CloneOf": "wimpgame",
+      "ReleaseDate": "1/1/1990",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Wolfenstein 3D v1.00"
+      ],
+      "Sha1": "a6502faf15ddb4acaed2ca859cedc1225e7fa762",
+      "Crc32": "97fc0c5d",
+      "SetNames": {
+        "TOSEC": [
+          "Wolfenstein 3D v1.00 (1994)(Powerslave)(Disk 1 of 3)[b]"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 814080,
+      "PartNum": 1,
+      "TotalParts": 3,
+      "Publishers": [
+        "Powerslave"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Wolfenstein 3D v1.00"
+      ],
+      "Sha1": "81bfd4ab92c538f5b15ad64bba625aac2ffb243d",
+      "Crc32": "6d700df9",
+      "SetNames": {
+        "TOSEC": [
+          "Wolfenstein 3D v1.00 (1994)(Powerslave)(Disk 2 of 3)[b]"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 814080,
+      "PartNum": 2,
+      "TotalParts": 3,
+      "Publishers": [
+        "Powerslave"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "Wolfenstein 3D v1.00"
+      ],
+      "Sha1": "39318695b6e64c9d7270f2b6d8213a7d4b0b0c43",
+      "Crc32": "9147da43",
+      "SetNames": {
+        "TOSEC": [
+          "Wolfenstein 3D v1.00 (1994)(Powerslave)(Disk 3 of 3)[b]"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 814080,
+      "PartNum": 3,
+      "TotalParts": 3,
+      "Publishers": [
+        "Powerslave"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump"
+      ]
+    },
+    {
+      "Titles": [
+        "World Championship Boxing Manager v3.0",
+        "World Championship Boxing Manager"
+      ],
+      "Sha1": "f8cc7192eee3acc74950971d7dd6d4032414dcd7",
+      "Crc32": "d6f66a2f",
+      "SetNames": {
+        "TOSEC": [
+          "World Championship Boxing Manager v3.0 (1991)(Krisalis)"
+        ],
+        "MESS": [
+          "worldbox"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "Krisalis"
+      ],
+      "ReleaseDate": "1/1/1991",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Xenon 2"
+      ],
+      "Sha1": "9d1de071c8cfa311e98a34c548745113a7a3c3e1",
+      "Crc32": "b12b25f5",
+      "SetNames": {
+        "TOSEC": [
+          "Xenon 2 (demo-playable) (1993)(GamesWare)(GB)"
+        ]
+      },
+      "Size": 819200,
+      "Publishers": [
+        "GamesWare"
+      ],
+      "ReleaseDate": "1/1/1993",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Zool"
+      ],
+      "Sha1": "d74da4860607cef8e9eafd87afc0c953f4e51e64",
+      "Crc32": "f6ce22b4",
+      "SetNames": {
+        "TOSEC": [
+          "Zool (1993)(Gremlin)(Disk 1 of 2)"
+        ],
+        "MESS": [
+          "zool"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 819200,
+      "PartNum": 1,
+      "TotalParts": 2,
+      "Publishers": [
+        "Gremlin"
+      ],
+      "ReleaseDate": "1/1/1993",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Zool"
+      ],
+      "Sha1": "d169bde4c9e402a5b864a3d3629066aba4aa8cc7",
+      "Crc32": "c6848013",
+      "SetNames": {
+        "TOSEC": [
+          "Zool (1993)(Gremlin)(Disk 2 of 2)"
+        ],
+        "MESS": [
+          "zool"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 819200,
+      "PartNum": 2,
+      "TotalParts": 2,
+      "Publishers": [
+        "Gremlin"
+      ],
+      "ReleaseDate": "1/1/1993",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Alone In the Dark"
+      ],
+      "Sha1": "b483ff99d2f7d08cbce1e1fef67c32977b3f1122",
+      "Crc32": "29599354",
+      "SetNames": {
+        "TOSEC": [
+          "Alone In the Dark (1995)(Krisalis Software)(GB)(Disk 1 of 8)(Install)[F1001501]"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 736122,
+      "PartNum": 1,
+      "TotalParts": 8,
+      "Publishers": [
+        "Krisalis Software"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Alone In the Dark"
+      ],
+      "Sha1": "f212558f46576d119518c560a20f4f70b7f20e94",
+      "Crc32": "9f9f9823",
+      "SetNames": {
+        "TOSEC": [
+          "Alone In the Dark (1995)(Krisalis Software)(GB)(Disk 2 of 8)[F1001502]"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 790170,
+      "PartNum": 2,
+      "TotalParts": 8,
+      "Publishers": [
+        "Krisalis Software"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Alone In the Dark"
+      ],
+      "Sha1": "7ab6e9ce047f5e4d8a44bb9ec9d5eb9c0deb4dc6",
+      "Crc32": "909552c4",
+      "SetNames": {
+        "TOSEC": [
+          "Alone In the Dark (1995)(Krisalis Software)(GB)(Disk 3 of 8)[F1001503]"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 803753,
+      "PartNum": 3,
+      "TotalParts": 8,
+      "Publishers": [
+        "Krisalis Software"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Alone In the Dark"
+      ],
+      "Sha1": "3030725b55c724ba71d2c4cbe2225f176ec6e80f",
+      "Crc32": "ed6974fc",
+      "SetNames": {
+        "TOSEC": [
+          "Alone In the Dark (1995)(Krisalis Software)(GB)(Disk 4 of 8)[F1001504]"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 807722,
+      "PartNum": 4,
+      "TotalParts": 8,
+      "Publishers": [
+        "Krisalis Software"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Alone In the Dark"
+      ],
+      "Sha1": "cac0c40f8c5672d24056bb89cf8608e4356fbc6f",
+      "Crc32": "a2210b55",
+      "SetNames": {
+        "TOSEC": [
+          "Alone In the Dark (1995)(Krisalis Software)(GB)(Disk 5 of 8)[F1001505]"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 742732,
+      "PartNum": 5,
+      "TotalParts": 8,
+      "Publishers": [
+        "Krisalis Software"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Alone In the Dark"
+      ],
+      "Sha1": "d58e303b58646026196d32ed5073646ca9cf1803",
+      "Crc32": "c2ac34a5",
+      "SetNames": {
+        "TOSEC": [
+          "Alone In the Dark (1995)(Krisalis Software)(GB)(Disk 6 of 8)[F1001506]"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 727196,
+      "PartNum": 6,
+      "TotalParts": 8,
+      "Publishers": [
+        "Krisalis Software"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Alone In the Dark"
+      ],
+      "Sha1": "bf2fe4e8fad3937049e57d0ff7a56329d13c8d5d",
+      "Crc32": "5fd33741",
+      "SetNames": {
+        "TOSEC": [
+          "Alone In the Dark (1995)(Krisalis Software)(GB)(Disk 7 of 8)[F1001507]"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 691592,
+      "PartNum": 7,
+      "TotalParts": 8,
+      "Publishers": [
+        "Krisalis Software"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Alone In the Dark"
+      ],
+      "Sha1": "0f43bc11f770192fbb117fbbfc23acd8570267d3",
+      "Crc32": "c4e8566e",
+      "SetNames": {
+        "TOSEC": [
+          "Alone In the Dark (1995)(Krisalis Software)(GB)(Disk 8 of 8)[F1001508]"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 59634,
+      "PartNum": 8,
+      "TotalParts": 8,
+      "Publishers": [
+        "Krisalis Software"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Ballarena"
+      ],
+      "Sha1": "2141750c859033e6730d22b27ff68c29e6a61f47",
+      "Crc32": "0049306a",
+      "SetNames": {
+        "TOSEC": [
+          "Ballarena (1990)(Sisteme)[F1023101]"
+        ]
+      },
+      "Size": 283699,
+      "Publishers": [
+        "Sisteme"
+      ],
+      "ReleaseDate": "1/1/1990",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Battle Chess"
+      ],
+      "Sha1": "2436a6ccc3794bdd6e8b2c85da99e51915aa219d",
+      "Crc32": "8b9c26e3",
+      "SetNames": {
+        "TOSEC": [
+          "Battle Chess (1993)(Krisalis Software)(GB)(Disk 1 of 2)[F1003801]"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 209670,
+      "PartNum": 1,
+      "TotalParts": 2,
+      "Publishers": [
+        "Krisalis Software"
+      ],
+      "ReleaseDate": "1/1/1993",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Battle Chess"
+      ],
+      "Sha1": "2c847a6dbb72725d77556163f67ff8d3d1136cf0",
+      "Crc32": "d2cff3a4",
+      "SetNames": {
+        "TOSEC": [
+          "Battle Chess (1993)(Krisalis Software)(GB)(Disk 2 of 2)[F1003802]"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 710513,
+      "PartNum": 2,
+      "TotalParts": 2,
+      "Publishers": [
+        "Krisalis Software"
+      ],
+      "ReleaseDate": "1/1/1993",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Battle Tank"
+      ],
+      "Sha1": "f0f44faa3fecd371f63185b45434774040eb7654",
+      "Crc32": "4dc3369c",
+      "SetNames": {
+        "TOSEC": [
+          "Battle Tank (1990)(Minerva)(GB)[F1003901]"
+        ]
+      },
+      "Size": 258301,
+      "Publishers": [
+        "Minerva"
+      ],
+      "ReleaseDate": "1/1/1990",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Blaston"
+      ],
+      "Sha1": "fac982710fda89ece3292fb2dbe8d7604a0004f4",
+      "Crc32": "ca6d4e06",
+      "SetNames": {
+        "TOSEC": [
+          "Blaston (1991)(Eterna)(FR)(en)[F1064001]"
+        ]
+      },
+      "Size": 179026,
+      "Publishers": [
+        "Eterna"
+      ],
+      "ReleaseDate": "1/1/1991",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Bubble Fair"
+      ],
+      "Sha1": "fd8ff2fc1d30e190ce2190e19e54661ee7f5c379",
+      "Crc32": "78188c8e",
+      "SetNames": {
+        "TOSEC": [
+          "Bubble Fair (1991)(Eterna)(FR)(en)[F1005701]"
+        ]
+      },
+      "Size": 633056,
+      "Publishers": [
+        "Eterna"
+      ],
+      "ReleaseDate": "1/1/1991",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Bug Hunter in Space"
+      ],
+      "Sha1": "62e2174ef45fe59e281bcf834c0dd77ebbd142b5",
+      "Crc32": "6398832f",
+      "SetNames": {
+        "TOSEC": [
+          "Bug Hunter in Space (1990)(Minerva)(GB)[F1006001]"
+        ]
+      },
+      "Size": 207822,
+      "Publishers": [
+        "Minerva"
+      ],
+      "ReleaseDate": "1/1/1990",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cannon Fodder"
+      ],
+      "Sha1": "1cfb72e941b3c17a2db19543b6ac43fa07e62483",
+      "Crc32": "80e516eb",
+      "SetNames": {
+        "TOSEC": [
+          "Cannon Fodder (1994)(Krisalis Software)(GB)(Disk 1 of 3)[F1006501 - min 2MB RAM]"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 520831,
+      "PartNum": 1,
+      "TotalParts": 3,
+      "Publishers": [
+        "Krisalis Software"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cannon Fodder"
+      ],
+      "Sha1": "f3fd9b49768902ca748a506b2bbe034d51f24ae5",
+      "Crc32": "9b1db60f",
+      "SetNames": {
+        "TOSEC": [
+          "Cannon Fodder (1994)(Krisalis Software)(GB)(Disk 2 of 3)[F1006502 - min 2MB RAM]"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 678033,
+      "PartNum": 2,
+      "TotalParts": 3,
+      "Publishers": [
+        "Krisalis Software"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cannon Fodder"
+      ],
+      "Sha1": "4055c4559d2c636471ce48c87e9e3c076f2190a9",
+      "Crc32": "3e164401",
+      "SetNames": {
+        "TOSEC": [
+          "Cannon Fodder (1994)(Krisalis Software)(GB)(Disk 3 of 3)[F1006503 - min 2MB RAM]"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 640089,
+      "PartNum": 3,
+      "TotalParts": 3,
+      "Publishers": [
+        "Krisalis Software"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cartoon Line Part One"
+      ],
+      "Sha1": "a1d4503aa8140434ce7de54b023e2f462f1d65a9",
+      "Crc32": "fe279232",
+      "SetNames": {
+        "TOSEC": [
+          "Cartoon Line Part One (1991)(Eterna)(FR)(en)(Disk 1 of 3)[F1019501]"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 595217,
+      "PartNum": 1,
+      "TotalParts": 3,
+      "Publishers": [
+        "Eterna"
+      ],
+      "ReleaseDate": "1/1/1991",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cartoon Line Part One"
+      ],
+      "Sha1": "d90d63eafd1360321d6c6205f65054b82e6406c6",
+      "Crc32": "9a9b788b",
+      "SetNames": {
+        "TOSEC": [
+          "Cartoon Line Part One (1991)(Eterna)(FR)(en)(Disk 2 of 3)[F1019502]"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 703846,
+      "PartNum": 2,
+      "TotalParts": 3,
+      "Publishers": [
+        "Eterna"
+      ],
+      "ReleaseDate": "1/1/1991",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cartoon Line Part One"
+      ],
+      "Sha1": "c744e0634ec69c273ab83db588732c26930c68f7",
+      "Crc32": "3a416522",
+      "SetNames": {
+        "TOSEC": [
+          "Cartoon Line Part One (1991)(Eterna)(FR)(en)(Disk 3 of 3)[F1019503]"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 362140,
+      "PartNum": 3,
+      "TotalParts": 3,
+      "Publishers": [
+        "Eterna"
+      ],
+      "ReleaseDate": "1/1/1991",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Cascade"
+      ],
+      "Sha1": "465879e94ccdebdf4ff4290bb842d3c0ee047de3",
+      "Crc32": "dfbbbe41",
+      "SetNames": {
+        "TOSEC": [
+          "Cascade (1992)(Shaffer, Milo - Norman, Richard)[F1035501]"
+        ]
+      },
+      "Size": 170132,
+      "Publishers": [
+        "Shaffer, Milo - Norman, Richard"
+      ],
+      "ReleaseDate": "1/1/1992",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Casino"
+      ],
+      "Sha1": "b30efedab4fa26751685d05b34d921b1ca4fd25f",
+      "Crc32": "404c7dd1",
+      "SetNames": {
+        "TOSEC": [
+          "Casino (1989)(Minerva)(GB)[F1006801]"
+        ]
+      },
+      "Size": 114723,
+      "Publishers": [
+        "Minerva"
+      ],
+      "ReleaseDate": "1/1/1989",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Caverns"
+      ],
+      "Sha1": "090278741a1fd4f28f41c9ed769f6af259d3e347",
+      "Crc32": "da580208",
+      "SetNames": {
+        "TOSEC": [
+          "Caverns (1991)(Minerva)(GB)[F1007201]"
+        ]
+      },
+      "Size": 110131,
+      "Publishers": [
+        "Minerva"
+      ],
+      "ReleaseDate": "1/1/1991",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Chuck Rock"
+      ],
+      "Sha1": "38d10e49d23f72fba616ece8ed22b00d8866c44e",
+      "Crc32": "2f22a5ca",
+      "SetNames": {
+        "TOSEC": [
+          "Chuck Rock (1991)(Krisalis Software)(GB)(Disk 1 of 2)[F1008101]"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 542129,
+      "PartNum": 1,
+      "TotalParts": 2,
+      "Publishers": [
+        "Krisalis Software"
+      ],
+      "ReleaseDate": "1/1/1991",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Chuck Rock"
+      ],
+      "Sha1": "ad7f3b864feaf2ad714fec5bea8cf28f480ae479",
+      "Crc32": "57c64367",
+      "SetNames": {
+        "TOSEC": [
+          "Chuck Rock (1991)(Krisalis Software)(GB)(Disk 2 of 2)[F1008102]"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 674295,
+      "PartNum": 2,
+      "TotalParts": 2,
+      "Publishers": [
+        "Krisalis Software"
+      ],
+      "ReleaseDate": "1/1/1991",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Chuck Rock"
+      ],
+      "Sha1": "871bc5d66230edd6a92a81e8050e41f200cf286f",
+      "Crc32": "664639c4",
+      "SetNames": {
+        "TOSEC": [
+          "Chuck Rock (2001)(R-Comp Interactive)(GB)[F1060201 - RPC-SA-Kinetic-RO4 Compatible Version]"
+        ]
+      },
+      "Size": 1381961,
+      "Publishers": [
+        "R-Comp Interactive"
+      ],
+      "ReleaseDate": "1/1/2001",
+      "Regions": [
+        "GB",
+        "SA"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Empire Soccer 94"
+      ],
+      "Sha1": "c087c02ff6e10cdeb261ecfbe331bb13a91e42e6",
+      "Crc32": "7250d6a4",
+      "SetNames": {
+        "TOSEC": [
+          "Empire Soccer 94 (1995)(Empire Software)(GB)[F1013201]"
+        ]
+      },
+      "Size": 414781,
+      "Publishers": [
+        "Empire Software"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Exodus"
+      ],
+      "Sha1": "47e22ef17aae82d8b57a98b23d8dd7216a131d14",
+      "Crc32": "df8fe606",
+      "SetNames": {
+        "TOSEC": [
+          "Exodus (1997)(Artex Software)(Disk 1 of 3)[F1014501]"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 1150930,
+      "PartNum": 1,
+      "TotalParts": 3,
+      "Publishers": [
+        "Artex Software"
+      ],
+      "ReleaseDate": "1/1/1997",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Exodus"
+      ],
+      "Sha1": "ad6cbb402bd3143d00d98c271d2b66a0766a3a7c",
+      "Crc32": "497a2ee9",
+      "SetNames": {
+        "TOSEC": [
+          "Exodus (1997)(Artex Software)(Disk 2 of 3)[F1014502]"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 1509391,
+      "PartNum": 2,
+      "TotalParts": 3,
+      "Publishers": [
+        "Artex Software"
+      ],
+      "ReleaseDate": "1/1/1997",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Exodus"
+      ],
+      "Sha1": "c4e6fedcdeb1ea66b97902458fb2b24fce08fbc9",
+      "Crc32": "15f67f78",
+      "SetNames": {
+        "TOSEC": [
+          "Exodus (1997)(Artex Software)(Disk 3 of 3)[F1014503]"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 1403406,
+      "PartNum": 3,
+      "TotalParts": 3,
+      "Publishers": [
+        "Artex Software"
+      ],
+      "ReleaseDate": "1/1/1997",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Fine Racer"
+      ],
+      "Sha1": "515ed18e46067e6a3b3750ad08e81efc1977265c",
+      "Crc32": "146e4da9",
+      "SetNames": {
+        "TOSEC": [
+          "Fine Racer (1991)(Eterna)(FR)(en)[F1015301]"
+        ]
+      },
+      "Size": 222809,
+      "Publishers": [
+        "Eterna"
+      ],
+      "ReleaseDate": "1/1/1991",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Fire & Ice"
+      ],
+      "Sha1": "8463452f4ee4e867762aca425c58eaf6127befa3",
+      "Crc32": "5bfec338",
+      "SetNames": {
+        "TOSEC": [
+          "Fire & Ice (1995)(Warner Interactive Entertainment)(Disc 1 of 2)[F1015401]"
+        ]
+      },
+      "PartName": "Disc",
+      "Size": 271482,
+      "PartNum": 1,
+      "TotalParts": 2,
+      "Publishers": [
+        "Warner Interactive Entertainment"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Fire & Ice"
+      ],
+      "Sha1": "0838b3ea28fde1d2ec44971b4a64d8c65589b5ff",
+      "Crc32": "70121bd9",
+      "SetNames": {
+        "TOSEC": [
+          "Fire & Ice (1995)(Warner Interactive Entertainment)(Disc 2 of 2)[F1015402]"
+        ]
+      },
+      "PartName": "Disc",
+      "Size": 620181,
+      "PartNum": 2,
+      "TotalParts": 2,
+      "Publishers": [
+        "Warner Interactive Entertainment"
+      ],
+      "ReleaseDate": "1/1/1995",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Freddy's Folly"
+      ],
+      "Sha1": "c51a42f511a710c4d20c2398eaffb5bae8dc9c78",
+      "Crc32": "20ab018a",
+      "SetNames": {
+        "TOSEC": [
+          "Freddy's Folly (1988)(Minerva)[F1016701]"
+        ],
+        "TGDB": [
+          "32498"
+        ]
+      },
+      "OverviewId": 3,
+      "Size": 86244,
+      "Publishers": [
+        "Minerva",
+        "Minerva Software"
+      ],
+      "Developers": [
+        "J. Morris"
+      ],
+      "ReleaseDate": "1/1/1988",
+      "Genres": [
+        "Action",
+        "Shooter"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Gods"
+      ],
+      "Sha1": "b42403c8313d170e601d3569e573aaea447909e4",
+      "Crc32": "b994184f",
+      "SetNames": {
+        "TOSEC": [
+          "Gods (1992)(Krisalis Software)(GB)(Disk 1 of 2)[F1017201]"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 521376,
+      "PartNum": 1,
+      "TotalParts": 2,
+      "Publishers": [
+        "Krisalis Software"
+      ],
+      "ReleaseDate": "1/1/1992",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Gods"
+      ],
+      "Sha1": "4c36f115a3d8f27c1c35ab5839d1b6985b7e8ad4",
+      "Crc32": "9ed6ad3f",
+      "SetNames": {
+        "TOSEC": [
+          "Gods (1992)(Krisalis Software)(GB)(Disk 2 of 2)[F1017202]"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 467883,
+      "PartNum": 2,
+      "TotalParts": 2,
+      "Publishers": [
+        "Krisalis Software"
+      ],
+      "ReleaseDate": "1/1/1992",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Gods"
+      ],
+      "Sha1": "bab9355d57b0537d338480436f020ec77621bd71",
+      "Crc32": "70338feb",
+      "SetNames": {
+        "TOSEC": [
+          "Gods (2001)(R-Comp Interactive)[F1054501 - RPC-SA-Kinetic-RO4 Compatible Version]"
+        ]
+      },
+      "Size": 1396862,
+      "Publishers": [
+        "R-Comp Interactive"
+      ],
+      "ReleaseDate": "1/1/2001",
+      "Regions": [
+        "SA"
+      ],
+      "Languages": [
+        "ar",
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Heimdall"
+      ],
+      "Sha1": "5757ca6129520bd0b8aa520f0d7ce1f9eeb20ceb",
+      "Crc32": "4a2cf04f",
+      "SetNames": {
+        "TOSEC": [
+          "Heimdall (1993)(Krisalis Software)(GB)(Disk 1 of 5)(Disk 0)[F1018801]"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 727138,
+      "PartNum": 1,
+      "TotalParts": 5,
+      "Publishers": [
+        "Krisalis Software"
+      ],
+      "ReleaseDate": "1/1/1993",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Heimdall"
+      ],
+      "Sha1": "4a5dbdb4c0cf5025b77f3bacd7d6535b27d5b407",
+      "Crc32": "4c7cab24",
+      "SetNames": {
+        "TOSEC": [
+          "Heimdall (1993)(Krisalis Software)(GB)(Disk 2 of 5)(Disk 1)[F1018802]"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 687742,
+      "PartNum": 2,
+      "TotalParts": 5,
+      "Publishers": [
+        "Krisalis Software"
+      ],
+      "ReleaseDate": "1/1/1993",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Heimdall"
+      ],
+      "Sha1": "f81c86175a70fd0518b0e4496a27c275aede3f34",
+      "Crc32": "28b29d43",
+      "SetNames": {
+        "TOSEC": [
+          "Heimdall (1993)(Krisalis Software)(GB)(Disk 3 of 5)(Disk 2)[F1018803]"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 699459,
+      "PartNum": 3,
+      "TotalParts": 5,
+      "Publishers": [
+        "Krisalis Software"
+      ],
+      "ReleaseDate": "1/1/1993",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Heimdall"
+      ],
+      "Sha1": "f8228733cd6972a1b79a48be66bbbb0bc8cf91f7",
+      "Crc32": "52670a56",
+      "SetNames": {
+        "TOSEC": [
+          "Heimdall (1993)(Krisalis Software)(GB)(Disk 4 of 5)(Disk 3)[F1018801]"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 722897,
+      "PartNum": 4,
+      "TotalParts": 5,
+      "Publishers": [
+        "Krisalis Software"
+      ],
+      "ReleaseDate": "1/1/1993",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Heimdall"
+      ],
+      "Sha1": "218520d8f19a974f0b223f5dc21929975c004284",
+      "Crc32": "7bc8e698",
+      "SetNames": {
+        "TOSEC": [
+          "Heimdall (1993)(Krisalis Software)(GB)(Disk 5 of 5)(Disk 4)[F1018801]"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 676124,
+      "PartNum": 5,
+      "TotalParts": 5,
+      "Publishers": [
+        "Krisalis Software"
+      ],
+      "ReleaseDate": "1/1/1993",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Hero Quest"
+      ],
+      "Sha1": "ee101e6667e82b03283df2a3bbb7024096c6b83f",
+      "Crc32": "8c4841b3",
+      "SetNames": {
+        "TOSEC": [
+          "Hero Quest (1991)(Krisalis Software)(GB)(M4)[F1019201]"
+        ]
+      },
+      "Size": 601858,
+      "Publishers": [
+        "Krisalis Software"
+      ],
+      "ReleaseDate": "1/1/1991",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Hoverbod"
+      ],
+      "Sha1": "e42da1b2e1251810fd35ea58e121663814de981a",
+      "Crc32": "02743cf1",
+      "SetNames": {
+        "TOSEC": [
+          "Hoverbod (1988)(Minerva)(GB)[F1020201]"
+        ]
+      },
+      "Size": 68288,
+      "Publishers": [
+        "Minerva"
+      ],
+      "ReleaseDate": "1/1/1988",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Ibix the Viking"
+      ],
+      "Sha1": "6b7d3e8298409f5502b1ae5f37d8ff24b8c0811e",
+      "Crc32": "cd6d3ce0",
+      "SetNames": {
+        "TOSEC": [
+          "Ibix the Viking (1989)(Minerva)[F1020401]"
+        ]
+      },
+      "Size": 261681,
+      "Publishers": [
+        "Minerva"
+      ],
+      "ReleaseDate": "1/1/1989",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Jahangir Khan World Championship Squash"
+      ],
+      "Sha1": "20e7a4cb7edef7c2d215d1f537dfe75785b9aa4f",
+      "Crc32": "f205ee76",
+      "SetNames": {
+        "TOSEC": [
+          "Jahangir Khan World Championship Squash (1991)(Krisalis Software)(GB)[F1021001]"
+        ]
+      },
+      "Size": 526114,
+      "Publishers": [
+        "Krisalis Software"
+      ],
+      "ReleaseDate": "1/1/1991",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "James Pond"
+      ],
+      "Sha1": "a7ccee85d708a2614ffb4e63c8f6916a208553fd",
+      "Crc32": "45ae63c3",
+      "SetNames": {
+        "TOSEC": [
+          "James Pond (1990)(Krisalis Software)(GB)[F1021101]"
+        ]
+      },
+      "Size": 632089,
+      "Publishers": [
+        "Krisalis Software"
+      ],
+      "ReleaseDate": "1/1/1990",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "James Pond"
+      ],
+      "Sha1": "7bd929272792ab463e6bc9d0eaf6a87371bb3b76",
+      "Crc32": "c8fafcde",
+      "SetNames": {
+        "TOSEC": [
+          "James Pond (2001)(R-Comp Interactive)(GB)[F1060301 - RPC-SA-Kinetic-RO4 Compatible Version]"
+        ]
+      },
+      "Size": 838879,
+      "Publishers": [
+        "R-Comp Interactive"
+      ],
+      "ReleaseDate": "1/1/2001",
+      "Regions": [
+        "GB",
+        "SA"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Jet Fighter"
+      ],
+      "Sha1": "9e7d5b6e17cca187f34681b711a1e4dbe7ba2ec2",
+      "Crc32": "6d187b9e",
+      "SetNames": {
+        "TOSEC": [
+          "Jet Fighter (1988)(Minerva)(GB)[F1021301]"
+        ]
+      },
+      "Size": 32220,
+      "Publishers": [
+        "Minerva"
+      ],
+      "ReleaseDate": "1/1/1988",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Legend of the Lost Temple, The"
+      ],
+      "Sha1": "bf90273d2487499709ec49092942d0a2a09807b3",
+      "Crc32": "bd949a26",
+      "SetNames": {
+        "TOSEC": [
+          "Legend of the Lost Temple, The (1992)(Eterna)(Disc 1 of 2)[F1022501]"
+        ]
+      },
+      "PartName": "Disc",
+      "Size": 231963,
+      "PartNum": 1,
+      "TotalParts": 2,
+      "Publishers": [
+        "Eterna"
+      ],
+      "ReleaseDate": "1/1/1992",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Legend of the Lost Temple, The"
+      ],
+      "Sha1": "362e9ad37d7db7ee544b62573351b5a227e3706b",
+      "Crc32": "4afc64ea",
+      "SetNames": {
+        "TOSEC": [
+          "Legend of the Lost Temple, The (1992)(Eterna)(Disc 2 of 2)[F1022502]"
+        ]
+      },
+      "PartName": "Disc",
+      "Size": 139597,
+      "PartNum": 2,
+      "TotalParts": 2,
+      "Publishers": [
+        "Eterna"
+      ],
+      "ReleaseDate": "1/1/1992",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Lemmings"
+      ],
+      "Sha1": "0b0d5332bf4abb5bd2ca5c37e802f5aa942a3aa6",
+      "Crc32": "4c75f9a0",
+      "SetNames": {
+        "TOSEC": [
+          "Lemmings (1991)(Krisalis Software)(GB)[F1022701]"
+        ]
+      },
+      "Size": 560615,
+      "Publishers": [
+        "Krisalis Software"
+      ],
+      "ReleaseDate": "1/1/1991",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Lemmings"
+      ],
+      "Sha1": "8fa065cd44c9d2b298088f53585f2b9a2faf04e5",
+      "Crc32": "c4d35b0e",
+      "SetNames": {
+        "TOSEC": [
+          "Lemmings (2001)(R-Comp Interactive)(GB)[F1044101 - RPC-SA-Kinetic-RO4 Compatible Version]"
+        ]
+      },
+      "Size": 625465,
+      "Publishers": [
+        "R-Comp Interactive"
+      ],
+      "ReleaseDate": "1/1/2001",
+      "Regions": [
+        "GB",
+        "SA"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Lemmings 2 The Tribes"
+      ],
+      "Sha1": "2b76b9e91ee2a1226198c3bd06d6d7bfa49bdb75",
+      "Crc32": "2e721105",
+      "SetNames": {
+        "TOSEC": [
+          "Lemmings 2 The Tribes (1994)(Krisalis Software)(GB)(Disk 1 of 4)[F1022801 - min 2MB RAM]"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 632890,
+      "PartNum": 1,
+      "TotalParts": 4,
+      "Publishers": [
+        "Krisalis Software"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Lemmings 2 The Tribes"
+      ],
+      "Sha1": "1314f13f9b23e7d20ac9dca0e0978b96aa519596",
+      "Crc32": "57df8cbe",
+      "SetNames": {
+        "TOSEC": [
+          "Lemmings 2 The Tribes (1994)(Krisalis Software)(GB)(Disk 2 of 4)[F1022802 - min 2MB RAM]"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 240980,
+      "PartNum": 2,
+      "TotalParts": 4,
+      "Publishers": [
+        "Krisalis Software"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Lemmings 2 The Tribes"
+      ],
+      "Sha1": "b4e44fbf1110ea14d9c7ac90a485f78bcac36aea",
+      "Crc32": "e6cb2986",
+      "SetNames": {
+        "TOSEC": [
+          "Lemmings 2 The Tribes (1994)(Krisalis Software)(GB)(Disk 3 of 4)[F1022803 - min 2MB RAM]"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 590705,
+      "PartNum": 3,
+      "TotalParts": 4,
+      "Publishers": [
+        "Krisalis Software"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Lemmings 2 The Tribes"
+      ],
+      "Sha1": "3f974cc3804eed9338e7d6dc25be0ff00aedae2a",
+      "Crc32": "19ee692e",
+      "SetNames": {
+        "TOSEC": [
+          "Lemmings 2 The Tribes (1994)(Krisalis Software)(GB)(Disk 4 of 4)(Introduction Disk)[F1022804 - min 2MB RAM]"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 542886,
+      "PartNum": 4,
+      "TotalParts": 4,
+      "Publishers": [
+        "Krisalis Software"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Lotus Turbo Challenge II"
+      ],
+      "Sha1": "4dfeb0c185f6342e1c3725c92b55b97f9a46718c",
+      "Crc32": "f6f1729a",
+      "SetNames": {
+        "TOSEC": [
+          "Lotus Turbo Challenge II (1992)(Krisalis Software)(GB)(Disk 1 of 2)[F1023201]"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 599729,
+      "PartNum": 1,
+      "TotalParts": 2,
+      "Publishers": [
+        "Krisalis Software"
+      ],
+      "ReleaseDate": "1/1/1992",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Lotus Turbo Challenge II"
+      ],
+      "Sha1": "ad07b4a9ab494153e3246476372b02b1d3701a17",
+      "Crc32": "3e78eaf4",
+      "SetNames": {
+        "TOSEC": [
+          "Lotus Turbo Challenge II (1992)(Krisalis Software)(GB)(Disk 2 of 2)[F1023202]"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 601555,
+      "PartNum": 2,
+      "TotalParts": 2,
+      "Publishers": [
+        "Krisalis Software"
+      ],
+      "ReleaseDate": "1/1/1992",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Mad Professor Mariarti"
+      ],
+      "Sha1": "9831743e6bb1e1929c01ede7ef54f1a18405a98e",
+      "Crc32": "62acc647",
+      "SetNames": {
+        "TOSEC": [
+          "Mad Professor Mariarti (1990)(Krisalis Software)(GB)[F1023301]"
+        ]
+      },
+      "Size": 400834,
+      "Publishers": [
+        "Krisalis Software"
+      ],
+      "ReleaseDate": "1/1/1990",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Maddingly Hall"
+      ],
+      "Sha1": "2ca800926c264b11d4716fb634601f6e7fa8b922",
+      "Crc32": "ed68fd2e",
+      "SetNames": {
+        "TOSEC": [
+          "Maddingly Hall (1989)(Minerva)(GB)[F1023501]"
+        ]
+      },
+      "Size": 108227,
+      "Publishers": [
+        "Minerva"
+      ],
+      "ReleaseDate": "1/1/1989",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Magic Pockets"
+      ],
+      "Sha1": "a1376f7d2b063757ffa1b58db3f4ac5282cf402d",
+      "Crc32": "32361190",
+      "SetNames": {
+        "TOSEC": [
+          "Magic Pockets (1993)(Renegade)(GB)[F1023601]"
+        ]
+      },
+      "Size": 724518,
+      "Publishers": [
+        "Renegade"
+      ],
+      "ReleaseDate": "1/1/1993",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Manchester United"
+      ],
+      "Sha1": "ff9e8a87768787e43a8629f67652b5cbc36077a4",
+      "Crc32": "be1484d0",
+      "SetNames": {
+        "TOSEC": [
+          "Manchester United (1990)(Krisalis Software)(GB)(Disk 1 of 2)[F1024201]"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 386651,
+      "PartNum": 1,
+      "TotalParts": 2,
+      "Publishers": [
+        "Krisalis Software"
+      ],
+      "ReleaseDate": "1/1/1990",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Manchester United"
+      ],
+      "Sha1": "4cb9018e0b7691f7f9d4cd9db7115ead5dfbefdc",
+      "Crc32": "1e8f99df",
+      "SetNames": {
+        "TOSEC": [
+          "Manchester United (1990)(Krisalis Software)(GB)(Disk 2 of 2)[F1024202]"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 343279,
+      "PartNum": 2,
+      "TotalParts": 2,
+      "Publishers": [
+        "Krisalis Software"
+      ],
+      "ReleaseDate": "1/1/1990",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Manchester United Europe"
+      ],
+      "Sha1": "22126c9d912d4beb242473c704a588ac7e1cc26d",
+      "Crc32": "9964e6dc",
+      "SetNames": {
+        "TOSEC": [
+          "Manchester United Europe (1991)(Krisalis Software)(GB)[F1049101]"
+        ]
+      },
+      "Size": 566433,
+      "Publishers": [
+        "Krisalis Software"
+      ],
+      "ReleaseDate": "1/1/1991",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Minotaur"
+      ],
+      "Sha1": "60a83b38ec52abf7b57c1d438be49a4c4e89fcc5",
+      "Crc32": "48bc1e6a",
+      "SetNames": {
+        "TOSEC": [
+          "Minotaur (1987)(Minerva)(GB)[F1025101]"
+        ]
+      },
+      "Size": 36203,
+      "Publishers": [
+        "Minerva"
+      ],
+      "ReleaseDate": "1/1/1987",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Missile Control"
+      ],
+      "Sha1": "3a6094a6c90a302076eae1cc2b159aac650437a7",
+      "Crc32": "8acc6759",
+      "SetNames": {
+        "TOSEC": [
+          "Missile Control (1988)(Minerva)(GB)[F1025301]"
+        ]
+      },
+      "Size": 72151,
+      "Publishers": [
+        "Minerva"
+      ],
+      "ReleaseDate": "1/1/1988",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Nebulus"
+      ],
+      "Sha1": "7d43c3adc0dfb7d7005c5628cdc3c7214090d702",
+      "Crc32": "ff39409e",
+      "SetNames": {
+        "TOSEC": [
+          "Nebulus (1992)(Krisalis Software)(GB)[F1026001]"
+        ]
+      },
+      "Size": 253974,
+      "Publishers": [
+        "Krisalis Software"
+      ],
+      "ReleaseDate": "1/1/1992",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Oh No! More Lemmings"
+      ],
+      "Sha1": "2eaaaa5a0ac3015ba7d7ae1ba4bf53b3f5d55042",
+      "Crc32": "e6e6478a",
+      "SetNames": {
+        "TOSEC": [
+          "Oh No! More Lemmings (1992)(Krisalis Software)(GB)[F1026701]"
+        ]
+      },
+      "Size": 442682,
+      "Publishers": [
+        "Krisalis Software"
+      ],
+      "ReleaseDate": "1/1/1992",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Oh, No! More Lemmings"
+      ],
+      "Sha1": "58b61c7171cf944ed1e7a949bb6d1998982bef38",
+      "Crc32": "ea344192",
+      "SetNames": {
+        "TOSEC": [
+          "Oh, No! More Lemmings (2001)(R-Comp Interactive)(GB)[F1059601 - RPC-SA-Kinetic-RO4 Compatible Version]"
+        ]
+      },
+      "Size": 563194,
+      "Publishers": [
+        "R-Comp Interactive"
+      ],
+      "ReleaseDate": "1/1/2001",
+      "Regions": [
+        "GB",
+        "SA"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Orion"
+      ],
+      "Sha1": "83740bcf6bb49f967d11d81c93c7c514d231050b",
+      "Crc32": "45f63509",
+      "SetNames": {
+        "TOSEC": [
+          "Orion (1988)(Minerva)(GB)[F1027001]"
+        ]
+      },
+      "Size": 260405,
+      "Publishers": [
+        "Minerva"
+      ],
+      "ReleaseDate": "1/1/1988",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Pac-mania"
+      ],
+      "Sha1": "9b0192a1efe1637f2972ab25b2264954f9cc073f",
+      "Crc32": "d46d6602",
+      "SetNames": {
+        "TOSEC": [
+          "Pac-mania (1989)(Grandslam Entertainments)(GB)(M3)[F1050701]"
+        ]
+      },
+      "Size": 246131,
+      "Publishers": [
+        "Grandslam Entertainments"
+      ],
+      "ReleaseDate": "1/1/1989",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Pipe Mania"
+      ],
+      "Sha1": "1f6ac34a030aeb956d9517cbad3e34602d145596",
+      "Crc32": "8ae71a11",
+      "SetNames": {
+        "TOSEC": [
+          "Pipe Mania (1989)(Krisalis Software)(GB)[F1028101]"
+        ]
+      },
+      "Size": 321582,
+      "Publishers": [
+        "Krisalis Software"
+      ],
+      "ReleaseDate": "1/1/1989",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Poizone"
+      ],
+      "Sha1": "f9aaf428324fa7852742cc8d9bcbf266bfa46fe2",
+      "Crc32": "d20e0add",
+      "SetNames": {
+        "TOSEC": [
+          "Poizone (1991)(Eterna)(FR)(en)[F1028201]"
+        ]
+      },
+      "Size": 402150,
+      "Publishers": [
+        "Eterna"
+      ],
+      "ReleaseDate": "1/1/1991",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Populous"
+      ],
+      "Sha1": "5a541ea99fd3e143285922799fd33628d8a4830c",
+      "Crc32": "e8d4d3ce",
+      "SetNames": {
+        "TOSEC": [
+          "Populous (1992)(Krisalis Software)(GB)[F1028501]"
+        ]
+      },
+      "Size": 428753,
+      "Publishers": [
+        "Krisalis Software"
+      ],
+      "ReleaseDate": "1/1/1992",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Populous"
+      ],
+      "Sha1": "1113b08a53e8cf4c97e5e6582c95a1e4b40ae78d",
+      "Crc32": "24fb8efc",
+      "SetNames": {
+        "TOSEC": [
+          "Populous (2001)(R-Comp Interactive)(GB)[F1059701 - RPC-SA-Kinetic-RO4 Compatible Version]"
+        ]
+      },
+      "Size": 495365,
+      "Publishers": [
+        "R-Comp Interactive"
+      ],
+      "ReleaseDate": "1/1/2001",
+      "Regions": [
+        "GB",
+        "SA"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Quest For Gold"
+      ],
+      "Sha1": "3c519c4ebbae60543e45881df36782aacb37c931",
+      "Crc32": "cafd550a",
+      "SetNames": {
+        "TOSEC": [
+          "Quest For Gold (1992)(Krisalis Software)(GB)(Disk 1 of 2)[F1029801]"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 346008,
+      "PartNum": 1,
+      "TotalParts": 2,
+      "Publishers": [
+        "Krisalis Software"
+      ],
+      "ReleaseDate": "1/1/1992",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Quest For Gold"
+      ],
+      "Sha1": "bfcd11a5e1bd2e6ad4619a8ddb1ad1c96492a19e",
+      "Crc32": "031b44c0",
+      "SetNames": {
+        "TOSEC": [
+          "Quest For Gold (1992)(Krisalis Software)(GB)(Disk 2 of 2)[F1029802]"
+        ]
+      },
+      "PartName": "Disk",
+      "Size": 331343,
+      "PartNum": 2,
+      "TotalParts": 2,
+      "Publishers": [
+        "Krisalis Software"
+      ],
+      "ReleaseDate": "1/1/1992",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Redshift"
+      ],
+      "Sha1": "1bb1b7a0651e3f5565823e60a6666cd42bd9b1fa",
+      "Crc32": "5dc50866",
+      "SetNames": {
+        "TOSEC": [
+          "Redshift (1990)(Minerva)(GB)[F1030301]"
+        ]
+      },
+      "Size": 470378,
+      "Publishers": [
+        "Minerva"
+      ],
+      "ReleaseDate": "1/1/1990",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Revelation!"
+      ],
+      "Sha1": "c5baa08ebe03d871c18556fd081442c0c4a66403",
+      "Crc32": "2732eef3",
+      "SetNames": {
+        "TOSEC": [
+          "Revelation! (1993)(Krisalis Software)(GB)[F1059501 - BUZZ version]"
+        ]
+      },
+      "Size": 213809,
+      "Publishers": [
+        "Krisalis Software"
+      ],
+      "ReleaseDate": "1/1/1993",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Rockfall"
+      ],
+      "Sha1": "ab1f903b209458bc2d8a74965d87a7bf599c043b",
+      "Crc32": "764566a0",
+      "SetNames": {
+        "TOSEC": [
+          "Rockfall (1991)(Eterna)(FR)(en)[F1031501]"
+        ]
+      },
+      "Size": 437578,
+      "Publishers": [
+        "Eterna"
+      ],
+      "ReleaseDate": "1/1/1991",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "SpeedBall 2"
+      ],
+      "Sha1": "e6e0868803ce961f09680387767eb36fd5982c75",
+      "Crc32": "c3e95b75",
+      "SetNames": {
+        "TOSEC": [
+          "SpeedBall 2 (1994)(Krisalis Software)(GB)[F1033801]"
+        ]
+      },
+      "Size": 523502,
+      "Publishers": [
+        "Krisalis Software"
+      ],
+      "ReleaseDate": "1/1/1994",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "SpeedBall 2"
+      ],
+      "Sha1": "0643ff628d74cbf375e52ff7162e6f18cd4c15a7",
+      "Crc32": "4f1c57cb",
+      "SetNames": {
+        "TOSEC": [
+          "SpeedBall 2 (2001)(R-Comp Interactive)(GB)[F1054601 - RPC-SA-Kinetic-RO4 Compatible Version]"
+        ]
+      },
+      "Size": 874419,
+      "Publishers": [
+        "R-Comp Interactive"
+      ],
+      "ReleaseDate": "1/1/2001",
+      "Regions": [
+        "GB",
+        "SA"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "SWIV"
+      ],
+      "Sha1": "ee4a59a1831f0b33499d7f887ffdf28a52c9368e",
+      "Crc32": "df8ced1e",
+      "SetNames": {
+        "TOSEC": [
+          "SWIV (1993)(Krisalis Software)(GB)[F1056601 -BUZZ version]"
+        ]
+      },
+      "Size": 672491,
+      "Publishers": [
+        "Krisalis Software"
+      ],
+      "ReleaseDate": "1/1/1993",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Tactic"
+      ],
+      "Sha1": "de2a424bb9e33953f063ad73cec89bb9b8831059",
+      "Crc32": "ac112a94",
+      "SetNames": {
+        "TOSEC": [
+          "Tactic (1990)(Eterna)(FR)(en)[F1062901]"
+        ]
+      },
+      "Size": 230946,
+      "Publishers": [
+        "Eterna"
+      ],
+      "ReleaseDate": "1/1/1990",
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Talisman"
+      ],
+      "Sha1": "f11baba32d2062b88fbedc2e108288f6f5d3b680",
+      "Crc32": "2565a8f9",
+      "SetNames": {
+        "TOSEC": [
+          "Talisman (1989)(Minerva)(GB)[F1036201]"
+        ]
+      },
+      "Size": 84042,
+      "Publishers": [
+        "Minerva"
+      ],
+      "ReleaseDate": "1/1/1989",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Terramex"
+      ],
+      "Sha1": "97e5341ef1bb7eaebf7b409e0ce688e2c1617412",
+      "Crc32": "c846269c",
+      "SetNames": {
+        "TOSEC": [
+          "Terramex (1988)(Grandslam Entertainments)(GB)[F1036601]"
+        ]
+      },
+      "Size": 140033,
+      "Publishers": [
+        "Grandslam Entertainments"
+      ],
+      "ReleaseDate": "1/1/1988",
+      "Regions": [
+        "GB"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Thundermonk"
+      ],
+      "Sha1": "c5823d2bd0d6164902fb1ef4c0176e0bd419bbdb",
+      "Crc32": "edffa4b6",
+      "SetNames": {
+        "TOSEC": [
+          "Thundermonk (1989)(Minerva)[F1036701]"
+        ]
+      },
+      "Size": 208727,
+      "Publishers": [
+        "Minerva"
+      ],
+      "ReleaseDate": "1/1/1989",
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Zool - Ninja of the 'Nth' Dimension"
+      ],
+      "Sha1": "e54675569ee5b54394a8a962966894cb7eeed3ad",
+      "Crc32": "7ffe1878",
+      "SetNames": {
+        "TOSEC": [
+          "Zool - Ninja of the 'Nth' Dimension (2002)(Gremlin Graphics)[F1057301 - 32bit version]"
+        ]
+      },
+      "Size": 892737,
+      "Publishers": [
+        "Gremlin Graphics"
+      ],
+      "ReleaseDate": "1/1/2002",
+      "Languages": [
+        "en"
+      ]
+    }
+  ],
+  "Overviews": {
+    "1": {
+      "en": "Chocks Away is a flight simulation game for the Acorn Archimedes. It was written by Andrew Hutchings and published by The Fourth Dimension. The game is loosely set in the First World War, though many elements are simplified and anachronistic."
+    },
+    "2": {
+      "en": "A platform shoot-em-up featuring a reincarnated knight who was tasked with freeing the world of Lylvania from the tyranny of 3 demented Warlocks.  The game set over ten large levels. The early levels are reasonably linear, but they soon become larger, requiring much exploration. Hidden rooms and caves can be found, containing extra lives, magical power-ups and level warps. Other features of this game are smooth parallax scrolling, thunder and lightning, rain, animating backdrops, stunning 256 colour graphics and great sound effects and music.\r\n\r\nThis game has been reviewed in:\r\n\r\nAcorn Computing, Christmas Special December 1993 (with coverdisc demo)\r\nArchimedes World, January 1994\r\nAcorn User, February 1994\r\nAcorn Action, Spring 1994\r\n\r\nThe game requires 1Mb of ram and RiscOS 2 or higher, but as it uses some minor video trickery, it will not work properly on VIDC2 machines without a software VIDC patch. It is compatible with the standard Acorn joysticks.\r\n\r\nTo enter the first hidden room, on level one after the second drop, walk left as far as you can and through the wall. This room continues past the water-fall, where you must stand on a chest and jump into the wall next to it to gain access to the third hidden part. When climbing the ladder out of the hidden room, walk into the far archway to be transported to the next level.\r\n\r\nMany other hidden rooms are spread throughout the levels.\r\n\r\nThe levels are:\r\n\r\n1 - The Forest\r\n2 - The Graveyard\r\n3 - The Waterfall\r\n4 - The First Encounter\r\n5 - The Giant Forest\r\n6 - The Caves\r\n7 - Skull Island\r\n8 - The Volcano\r\n9 - The Second Encounter\r\n10 - The Castle"
+    },
+    "3": {
+      "en": "Sir Freddy is a sneaky and mean man who lives in a castle on an island. He turned green with envy when you built a better and stronger castle across the sea. He got a fleet of balloons so that he didn't get wet and then planned to bomb your castle with ease. What a cad to think of this wheeze! You in turn employed a gun crew to build a battlement with a good view to shoot down Sir Freddy in his balloon. To match your defensive intent, Sir Freddy phoned the Ship Shop and hired several Gun ships to shoot your cannon crew. You must defend your castle and shoot down the balloons and the invading ships."
+    }
+  }
+}

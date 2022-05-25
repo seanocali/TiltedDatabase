@@ -1,0 +1,1412 @@
+{
+  "PlatformName": "Super Cassette Vision",
+  "LastUpdate": "5/25/2022 3:06:39 AM",
+  "Games": [
+    {
+      "Titles": [
+        "Astro Wars - Invaders from Space",
+        "Astro Wars - Invader from Space"
+      ],
+      "Sha1": "53a9a308b6f0bcb2137704f70657698719551b5e",
+      "Crc32": "2dbdb166",
+      "SetNames": {
+        "No-Intro": [
+          "Astro Wars - Invaders from Space (Japan)"
+        ],
+        "TOSEC": [
+          "Astro Wars - Invaders from Space (1984)(Epoch)(JP)(en)"
+        ],
+        "MESS": [
+          "astrwrs"
+        ]
+      },
+      "Size": 8192,
+      "Publishers": [
+        "Epoch"
+      ],
+      "ReleaseDate": "1/1/1984",
+      "Regions": [
+        "JP"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Astro Wars II - Battle in Galaxy",
+        "Astro Wars 2 - Battle in Galaxy",
+        "Astro Wars II: Battle In Galaxy"
+      ],
+      "Sha1": "b419f2fccf3b2fbd360da2833064d2ea8bd6500b",
+      "Crc32": "34781de1",
+      "SetNames": {
+        "No-Intro": [
+          "Astro Wars II - Battle in Galaxy (Japan)"
+        ],
+        "TOSEC": [
+          "Astro Wars 2 - Battle in Galaxy (1984)(Epoch)(JP)(en)"
+        ],
+        "MESS": [
+          "astrwrs2"
+        ],
+        "TGDB": [
+          "40927"
+        ]
+      },
+      "OverviewId": 1,
+      "Size": 8192,
+      "Publishers": [
+        "Epoch",
+        "Epoch Co., Ltd."
+      ],
+      "ReleaseDate": "7/17/1984",
+      "Genres": [
+        "Shooter"
+      ],
+      "Regions": [
+        "JP"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Boulder Dash"
+      ],
+      "Sha1": "55942e5b7824314b072b7b40c6b72db0d5404189",
+      "Crc32": "e045884c",
+      "SetNames": {
+        "No-Intro": [
+          "Boulder Dash (Japan)"
+        ],
+        "TOSEC": [
+          "Boulder Dash (1985)(Epoch)(JP)(en)"
+        ],
+        "MESS": [
+          "bdash"
+        ],
+        "TGDB": [
+          "40936"
+        ]
+      },
+      "OverviewId": 2,
+      "Size": 16384,
+      "Publishers": [
+        "Epoch",
+        "Epoch Co., Ltd."
+      ],
+      "ReleaseDate": "1/1/1985",
+      "ESRB": "E",
+      "Genres": [
+        "Action",
+        "Puzzle"
+      ],
+      "Regions": [
+        "JP"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Comic Circus"
+      ],
+      "Sha1": "2e4ceb2bf68d26c263c3d1c63f7e2143ef2355bc",
+      "Crc32": "ea55faed",
+      "SetNames": {
+        "No-Intro": [
+          "Comic Circus (Japan)"
+        ],
+        "TOSEC": [
+          "Comic Circus (1985)(Epoch)(JP)(en)"
+        ],
+        "MESS": [
+          "comicirc"
+        ],
+        "TGDB": [
+          "40939"
+        ]
+      },
+      "OverviewId": 3,
+      "Size": 16384,
+      "Publishers": [
+        "Epoch",
+        "Epoch Co., Ltd."
+      ],
+      "ReleaseDate": "1/1/1985",
+      "Genres": [
+        "Action"
+      ],
+      "Regions": [
+        "JP"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Doraemon"
+      ],
+      "Sha1": "425eb6ed31faa2afdecc216145616f577f72db9a",
+      "Crc32": "ee0b874d",
+      "SetNames": {
+        "No-Intro": [
+          "Doraemon (Japan)"
+        ],
+        "TOSEC": [
+          "Doraemon (1985)(Epoch)(JP)(en)"
+        ],
+        "MESS": [
+          "doraemon"
+        ],
+        "TGDB": [
+          "40947"
+        ]
+      },
+      "OverviewId": 4,
+      "Size": 65536,
+      "Publishers": [
+        "Epoch"
+      ],
+      "ReleaseDate": "1/1/1985",
+      "Genres": [
+        "Action"
+      ],
+      "Regions": [
+        "JP"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Doraemon"
+      ],
+      "Sha1": "6aba5ee3d08afad222bec9a176c2607829fa5cc6",
+      "Crc32": "d2de91a6",
+      "SetNames": {
+        "No-Intro": [
+          "Doraemon (Japan)"
+        ],
+        "TOSEC": [
+          "Doraemon (1985)(Epoch)(JP)(en)"
+        ],
+        "MESS": [
+          "doraemon"
+        ],
+        "TGDB": [
+          "40947"
+        ]
+      },
+      "OverviewId": 4,
+      "Size": 65536,
+      "Publishers": [
+        "Epoch"
+      ],
+      "ReleaseDate": "1/1/1985",
+      "Genres": [
+        "Action"
+      ],
+      "Regions": [
+        "JP"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Elevator Fight"
+      ],
+      "Sha1": "8b2c185408309ee1e75d40299c003041db17b133",
+      "Crc32": "72dd6031",
+      "SetNames": {
+        "No-Intro": [
+          "Elevator Fight (Japan)"
+        ],
+        "TOSEC": [
+          "Elevator Fight (1984)(Epoch)(JP)(en)"
+        ],
+        "MESS": [
+          "elevfght"
+        ],
+        "TGDB": [
+          "40932"
+        ]
+      },
+      "OverviewId": 5,
+      "Size": 16384,
+      "Publishers": [
+        "Epoch",
+        "Epoch Co., Ltd."
+      ],
+      "ReleaseDate": "7/17/1984",
+      "Genres": [
+        "Action"
+      ],
+      "Regions": [
+        "JP"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Kung Fu Road",
+        "Nekketsu Kung Fu Road"
+      ],
+      "Sha1": "1c34470c1f389db7be755e130db298f6b475c7ce",
+      "Crc32": "9cfc5a67",
+      "SetNames": {
+        "No-Intro": [
+          "Kung Fu Road (Japan)"
+        ],
+        "TOSEC": [
+          "Nekketsu Kung Fu Road (1985)(Epoch)(JP)(en)"
+        ],
+        "MESS": [
+          "kungfurd"
+        ],
+        "TGDB": [
+          "40942"
+        ]
+      },
+      "OverviewId": 6,
+      "Size": 40960,
+      "Publishers": [
+        "Epoch",
+        "Epoch Co., Ltd."
+      ],
+      "ReleaseDate": "1/1/1985",
+      "Genres": [
+        "Action"
+      ],
+      "Regions": [
+        "JP"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Kung Fu Road",
+        "Nekketsu Kung Fu Road"
+      ],
+      "Sha1": "644ab7c7fb85d0d80aa3a416b0a5359d395e48a3",
+      "Crc32": "a895375a",
+      "SetNames": {
+        "No-Intro": [
+          "Kung Fu Road (Japan)"
+        ],
+        "TOSEC": [
+          "Nekketsu Kung Fu Road (1985)(Epoch)(JP)(en)"
+        ],
+        "MESS": [
+          "kungfurd"
+        ],
+        "TGDB": [
+          "40942"
+        ]
+      },
+      "OverviewId": 6,
+      "Size": 40960,
+      "Publishers": [
+        "Epoch",
+        "Epoch Co., Ltd."
+      ],
+      "ReleaseDate": "1/1/1985",
+      "Genres": [
+        "Action"
+      ],
+      "Regions": [
+        "JP"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Lupin Sansei",
+        "Lupin III"
+      ],
+      "Sha1": "62698c7c9d9723f74214626a4211a3c3f34e9dd5",
+      "Crc32": "16d7eb4a",
+      "SetNames": {
+        "No-Intro": [
+          "Lupin Sansei (Japan)"
+        ],
+        "TOSEC": [
+          "Lupin III (1984)(Epoch)(JP)(en)"
+        ],
+        "MESS": [
+          "lupin3"
+        ],
+        "TGDB": [
+          "40933"
+        ]
+      },
+      "OverviewId": 7,
+      "Size": 16384,
+      "Publishers": [
+        "Epoch",
+        "Epoch Co., Ltd."
+      ],
+      "ReleaseDate": "1/1/1984",
+      "Genres": [
+        "Action"
+      ],
+      "Regions": [
+        "JP"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Milky Princess"
+      ],
+      "Sha1": "b6234f99e474abd87a22a4b691b66bcb12e664cb",
+      "Crc32": "b2457990",
+      "SetNames": {
+        "No-Intro": [
+          "Milky Princess (Japan)"
+        ],
+        "TOSEC": [
+          "Milky Princess (1985)(Epoch)(JP)"
+        ],
+        "MESS": [
+          "milkyprn"
+        ],
+        "TGDB": [
+          "40940"
+        ]
+      },
+      "OverviewId": 8,
+      "Size": 32768,
+      "Publishers": [
+        "Epoch",
+        "Epoch Co., Ltd."
+      ],
+      "ReleaseDate": "1/1/1985",
+      "Genres": [
+        "Action"
+      ],
+      "Regions": [
+        "JP"
+      ]
+    },
+    {
+      "Titles": [
+        "Miner 2049er"
+      ],
+      "Sha1": "0414878f4aedade180b273257497c1d11cdccb2f",
+      "Crc32": "b0ffc6e2",
+      "SetNames": {
+        "No-Intro": [
+          "Miner 2049er (Japan)"
+        ],
+        "TOSEC": [
+          "Miner 2049er (1985)(Epoch)(JP)(en)"
+        ],
+        "MESS": [
+          "mine2049"
+        ],
+        "TGDB": [
+          "40937"
+        ]
+      },
+      "OverviewId": 9,
+      "Size": 16384,
+      "Publishers": [
+        "Epoch",
+        "Epoch Co., Ltd."
+      ],
+      "ReleaseDate": "1/1/1985",
+      "ESRB": "E",
+      "Genres": [
+        "Platform"
+      ],
+      "Regions": [
+        "JP"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Nebula"
+      ],
+      "Sha1": "699eaf434e73a42e71adf52426b22f0dd85e2897",
+      "Crc32": "5e6a4caf",
+      "SetNames": {
+        "No-Intro": [
+          "Nebula (Japan)"
+        ],
+        "TOSEC": [
+          "Nebula (1984)(Epoch)(JP)(en)"
+        ],
+        "MESS": [
+          "nebula"
+        ],
+        "TGDB": [
+          "40934"
+        ]
+      },
+      "OverviewId": 10,
+      "Size": 16384,
+      "Publishers": [
+        "Epoch",
+        "Epoch Co., Ltd."
+      ],
+      "ReleaseDate": "7/17/1984",
+      "Genres": [
+        "Shooter"
+      ],
+      "Regions": [
+        "JP"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Nebula"
+      ],
+      "Sha1": "94a4b9a92d6f9a5f4a68721be4cc35920ca32628",
+      "Crc32": "efb4bdcd",
+      "SetNames": {
+        "No-Intro": [
+          "Nebula (Japan) (Alt 1)"
+        ],
+        "TOSEC": [
+          "Nebula (1984)(Epoch)(JP)(en)[a]"
+        ],
+        "MESS": [
+          "nebulaa"
+        ],
+        "TGDB": [
+          "40934"
+        ]
+      },
+      "OverviewId": 10,
+      "Size": 16384,
+      "Publishers": [
+        "Epoch",
+        "Epoch Co., Ltd."
+      ],
+      "CloneOf": "nebula",
+      "ReleaseDate": "7/17/1984",
+      "Genres": [
+        "Shooter"
+      ],
+      "Regions": [
+        "JP"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Alternate"
+      ]
+    },
+    {
+      "Titles": [
+        "Pole Position II"
+      ],
+      "Sha1": "472900d7b7fa6cdf30014731dcc925ef5ca65499",
+      "Crc32": "cb69903d",
+      "SetNames": {
+        "No-Intro": [
+          "Pole Position II (Japan)"
+        ],
+        "TOSEC": [
+          "Pole Position II (1985)(Epoch)(JP)(en)"
+        ],
+        "MESS": [
+          "polepos2"
+        ],
+        "TGDB": [
+          "40955"
+        ]
+      },
+      "OverviewId": 11,
+      "Size": 131072,
+      "Publishers": [
+        "Epoch",
+        "Epoch Co., Ltd."
+      ],
+      "ReleaseDate": "1/1/1986",
+      "ESRB": "E",
+      "Genres": [
+        "Racing"
+      ],
+      "Regions": [
+        "JP"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Pop & Chips"
+      ],
+      "Sha1": "5979abd6051d531eafe1ea3b37c97ce2e3e97f8e",
+      "Crc32": "cc4fb04d",
+      "SetNames": {
+        "No-Intro": [
+          "Pop & Chips (Japan)"
+        ],
+        "TOSEC": [
+          "Pop & Chips (1985)(Epoch)(JP)(en)"
+        ],
+        "MESS": [
+          "popchips"
+        ],
+        "TGDB": [
+          "40941"
+        ]
+      },
+      "OverviewId": 12,
+      "Size": 32768,
+      "Publishers": [
+        "Epoch",
+        "Epoch Co., Ltd."
+      ],
+      "ReleaseDate": "1/1/1985",
+      "Genres": [
+        "Action"
+      ],
+      "Regions": [
+        "JP"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Professional Wrestling"
+      ],
+      "Sha1": "55fe356c04ce3db83cb3148d867cc8b8060cbb48",
+      "Crc32": "5b1fb2a8",
+      "SetNames": {
+        "No-Intro": [
+          "Professional Wrestling (Japan)"
+        ],
+        "TOSEC": [
+          "Professional Wrestling (1986)(Epoch)(JP)(en)"
+        ],
+        "MESS": [
+          "prowrest"
+        ],
+        "TGDB": [
+          "40950"
+        ]
+      },
+      "OverviewId": 13,
+      "Size": 131072,
+      "Publishers": [
+        "Epoch",
+        "Epoch Co., Ltd."
+      ],
+      "ReleaseDate": "1/1/1986",
+      "Genres": [
+        "Action"
+      ],
+      "Regions": [
+        "JP"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Punch Boy"
+      ],
+      "Sha1": "e7391c71ba7deede3db22191ea058ccf429d7bb5",
+      "Crc32": "4107f03a",
+      "SetNames": {
+        "No-Intro": [
+          "Punch Boy (Japan)"
+        ],
+        "TOSEC": [
+          "Punch Boy (1984)(Epoch)(JP)(en)"
+        ],
+        "MESS": [
+          "punchboy"
+        ],
+        "TGDB": [
+          "40931"
+        ]
+      },
+      "OverviewId": 14,
+      "Size": 16384,
+      "Publishers": [
+        "Epoch",
+        "Epoch Co., Ltd."
+      ],
+      "ReleaseDate": "7/17/1984",
+      "Genres": [
+        "Action"
+      ],
+      "Regions": [
+        "JP"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Real Graphic Mahjongg"
+      ],
+      "Sha1": "7190ff2944c1ffbde6866e720417b86b3844ffa2",
+      "Crc32": "d3d9106c",
+      "SetNames": {
+        "No-Intro": [
+          "Real Graphic Mahjongg (Japan)"
+        ],
+        "TOSEC": [
+          "Real Graphic Mahjongg (1984)(Epoch)(JP)(en)"
+        ],
+        "MESS": [
+          "rgmahjon"
+        ]
+      },
+      "Size": 16384,
+      "Publishers": [
+        "Epoch"
+      ],
+      "ReleaseDate": "1/1/1984",
+      "Regions": [
+        "JP"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Sansupyuta",
+        "Super Sansuu Puter"
+      ],
+      "Sha1": "dc05257c831cffa5ec66302c88e1d45a92c6dc9c",
+      "Crc32": "6e7e01b5",
+      "SetNames": {
+        "No-Intro": [
+          "Sansupyuta (Japan)"
+        ],
+        "TOSEC": [
+          "Sansupyuta (1985)(Epoch)(JP)(en)"
+        ],
+        "MESS": [
+          "sansupyu"
+        ]
+      },
+      "Size": 32768,
+      "Publishers": [
+        "Epoch"
+      ],
+      "ReleaseDate": "1/1/1985",
+      "Regions": [
+        "JP"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Shougi Nyuumon",
+        "Shogi Nyuumon"
+      ],
+      "Sha1": "bd6681013dbbae94c03e501932836db07943468e",
+      "Crc32": "84005c4c",
+      "SetNames": {
+        "No-Intro": [
+          "Shougi Nyuumon (Japan)"
+        ],
+        "TOSEC": [
+          "Shogi Nyuumon (1985)(Epoch)(JP)(en)"
+        ],
+        "MESS": [
+          "shogi"
+        ]
+      },
+      "Size": 32768,
+      "Publishers": [
+        "Epoch"
+      ],
+      "ReleaseDate": "1/1/1985",
+      "Regions": [
+        "JP"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Super Baseball"
+      ],
+      "Sha1": "37a1dce6c1921950c588d6492cd1b57feb615175",
+      "Crc32": "56f1c473",
+      "SetNames": {
+        "No-Intro": [
+          "Super Baseball (Japan)"
+        ],
+        "TOSEC": [
+          "Super Baseball (1984)(Epoch)(JP)(en)"
+        ],
+        "MESS": [
+          "baseball"
+        ],
+        "TGDB": [
+          "40930"
+        ]
+      },
+      "OverviewId": 15,
+      "Size": 16384,
+      "Publishers": [
+        "Epoch",
+        "Epoch Co., Ltd."
+      ],
+      "ReleaseDate": "7/17/1984",
+      "Genres": [
+        "Sports"
+      ],
+      "Regions": [
+        "JP"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Super Golf"
+      ],
+      "Sha1": "2d3ab09907a4a9c5d66306f316c7211f498cbcc2",
+      "Crc32": "0c0581c9",
+      "SetNames": {
+        "No-Intro": [
+          "Super Golf (Japan)"
+        ],
+        "TOSEC": [
+          "Super Golf (1984)(Epoch)(JP)(en)"
+        ],
+        "MESS": [
+          "suprgolf"
+        ],
+        "TGDB": [
+          "40928"
+        ]
+      },
+      "OverviewId": 16,
+      "Size": 16384,
+      "Publishers": [
+        "Epoch",
+        "Epoch Co., Ltd."
+      ],
+      "ReleaseDate": "7/17/1984",
+      "Genres": [
+        "Sports"
+      ],
+      "Regions": [
+        "JP"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Super Soccer"
+      ],
+      "Sha1": "61e4b8e43cc593b3a2e838c08f6dad6cca77d712",
+      "Crc32": "8283907c",
+      "SetNames": {
+        "No-Intro": [
+          "Super Soccer (France)"
+        ],
+        "TOSEC": [
+          "Super Soccer (1985)(Epoch)(JP)(en)[a]"
+        ],
+        "MESS": [
+          "soccer"
+        ],
+        "TGDB": [
+          "40938"
+        ]
+      },
+      "OverviewId": 17,
+      "Size": 16384,
+      "Publishers": [
+        "Epoch",
+        "Epoch Co., Ltd."
+      ],
+      "ReleaseDate": "1/1/1985",
+      "Genres": [
+        "Sports"
+      ],
+      "Regions": [
+        "FR",
+        "JP"
+      ],
+      "Languages": [
+        "fr",
+        "en"
+      ],
+      "Tags": [
+        "Alternate"
+      ]
+    },
+    {
+      "Titles": [
+        "Super Soccer"
+      ],
+      "Sha1": "951ecd2a1d2e7d900c13e91ff028723a9df9e60e",
+      "Crc32": "590eeefd",
+      "SetNames": {
+        "No-Intro": [
+          "Super Soccer (Japan)"
+        ],
+        "TOSEC": [
+          "Super Soccer (1985)(Epoch)(JP)(en)"
+        ],
+        "MESS": [
+          "soccera"
+        ],
+        "TGDB": [
+          "40938"
+        ]
+      },
+      "OverviewId": 17,
+      "Size": 16384,
+      "Publishers": [
+        "Epoch",
+        "Epoch Co., Ltd."
+      ],
+      "CloneOf": "soccer",
+      "ReleaseDate": "1/1/1985",
+      "Genres": [
+        "Sports"
+      ],
+      "Regions": [
+        "JP"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Ton Ton Ball"
+      ],
+      "Sha1": "093235ac2234c4c4e78a2addaab780d7a2cbe004",
+      "Crc32": "7f873bfa",
+      "SetNames": {
+        "No-Intro": [
+          "Ton Ton Ball (Japan)"
+        ],
+        "TOSEC": [
+          "Ton Ton Ball (1985)(Epoch)(JP)(en)"
+        ],
+        "MESS": [
+          "ttball"
+        ],
+        "TGDB": [
+          "40944"
+        ]
+      },
+      "OverviewId": 18,
+      "Size": 16384,
+      "Publishers": [
+        "Epoch",
+        "Epoch Co., Ltd."
+      ],
+      "ReleaseDate": "1/1/1985",
+      "Genres": [
+        "Action"
+      ],
+      "Regions": [
+        "JP"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Wheelie Racer"
+      ],
+      "Sha1": "479f767384e7b7bfe58eeadd67dbe642fe8a2fcf",
+      "Crc32": "9d9b29db",
+      "SetNames": {
+        "No-Intro": [
+          "Wheelie Racer (Japan)"
+        ],
+        "TOSEC": [
+          "Wheelie Racer (1985)(Epoch)(JP)(en)"
+        ],
+        "MESS": [
+          "wheelrcr"
+        ],
+        "TGDB": [
+          "40935"
+        ]
+      },
+      "OverviewId": 19,
+      "Size": 16384,
+      "Publishers": [
+        "Epoch",
+        "Epoch Co., Ltd."
+      ],
+      "ReleaseDate": "1/1/1985",
+      "Genres": [
+        "Racing"
+      ],
+      "Regions": [
+        "JP"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "BASIC Nyuumon"
+      ],
+      "Sha1": "c68e2b81dec2c83e2aa5626c8df4011eada45245",
+      "Crc32": "ca965c2b",
+      "SetNames": {
+        "TOSEC": [
+          "BASIC Nyuumon (1985)(Epoch)(JP)(en)"
+        ],
+        "MESS": [
+          "basic"
+        ]
+      },
+      "Size": 32768,
+      "Publishers": [
+        "Epoch"
+      ],
+      "ReleaseDate": "1/1/1985",
+      "Regions": [
+        "JP"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Boulder Dash"
+      ],
+      "Sha1": "c55311ef3e51e29767eba3fb4154283c9c9c7d51",
+      "Crc32": "5db59007",
+      "SetNames": {
+        "TOSEC": [
+          "Boulder Dash (1985)(Epoch)(FR)(en)"
+        ],
+        "TGDB": [
+          "40936"
+        ]
+      },
+      "OverviewId": 2,
+      "Size": 16384,
+      "Publishers": [
+        "Epoch",
+        "Epoch Co., Ltd."
+      ],
+      "ReleaseDate": "1/1/1985",
+      "ESRB": "E",
+      "Genres": [
+        "Action",
+        "Puzzle"
+      ],
+      "Regions": [
+        "FR"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Dragon Ball - Dragon Dai Hikyou"
+      ],
+      "Sha1": "bd3791ed43a2019a255152e3fc0d8a663cb9567a",
+      "Crc32": "ea251664",
+      "SetNames": {
+        "TOSEC": [
+          "Dragon Ball - Dragon Dai Hikyou (1986)(Epoch)(JP)(en)"
+        ],
+        "MESS": [
+          "dball"
+        ]
+      },
+      "Size": 131072,
+      "Publishers": [
+        "Epoch"
+      ],
+      "ReleaseDate": "1/1/1986",
+      "Regions": [
+        "JP"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Dragon Slayer"
+      ],
+      "Sha1": "c6e67e05d365fa81d3d9a3ad66d41bfeb1c3dd0d",
+      "Crc32": "5971940f",
+      "SetNames": {
+        "TOSEC": [
+          "Dragon Slayer (1986)(Epoch)(JP)(en)"
+        ],
+        "MESS": [
+          "dslayer"
+        ],
+        "TGDB": [
+          "40949"
+        ]
+      },
+      "OverviewId": 20,
+      "Size": 32768,
+      "Publishers": [
+        "Epoch",
+        "Epoch Co., Ltd."
+      ],
+      "ReleaseDate": "1/1/1986",
+      "Genres": [
+        "Action"
+      ],
+      "Regions": [
+        "JP"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Mappy"
+      ],
+      "Sha1": "70dc025ab3f32e18fd6f373dc47c9aa7fb9d48f0",
+      "Crc32": "605829bb",
+      "SetNames": {
+        "TOSEC": [
+          "Mappy (1986)(Epoch)(JP)(en)"
+        ],
+        "MESS": [
+          "mappy"
+        ],
+        "TGDB": [
+          "40953"
+        ]
+      },
+      "OverviewId": 21,
+      "Size": 32768,
+      "Publishers": [
+        "Epoch",
+        "Epoch Co., Ltd."
+      ],
+      "ReleaseDate": "1/1/1986",
+      "Genres": [
+        "Action"
+      ],
+      "Regions": [
+        "JP"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Pole Position II"
+      ],
+      "Sha1": "86513bf02dbda7d780f1679994a1cac2b83b0b01",
+      "Crc32": "5b3a04e0",
+      "SetNames": {
+        "TOSEC": [
+          "Pole Position II (1985)(Epoch)(JP)(en)[a]"
+        ],
+        "TGDB": [
+          "40955"
+        ]
+      },
+      "OverviewId": 11,
+      "Size": 32768,
+      "Publishers": [
+        "Epoch",
+        "Epoch Co., Ltd."
+      ],
+      "ReleaseDate": "1/1/1986",
+      "ESRB": "E",
+      "Genres": [
+        "Racing"
+      ],
+      "Regions": [
+        "JP"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Alternate"
+      ]
+    },
+    {
+      "Titles": [
+        "Sky Kid"
+      ],
+      "Sha1": "7342fe10d38c79ed12fbfa94b5fd4bf1266c2571",
+      "Crc32": "f49f2085",
+      "SetNames": {
+        "TOSEC": [
+          "Sky Kid (1986)(Epoch)(JP)(en)"
+        ],
+        "MESS": [
+          "skykid"
+        ],
+        "TGDB": [
+          "40954"
+        ]
+      },
+      "OverviewId": 22,
+      "Size": 65536,
+      "Publishers": [
+        "Epoch",
+        "Epoch Co., Ltd."
+      ],
+      "ReleaseDate": "1/1/1986",
+      "Genres": [
+        "Action"
+      ],
+      "Regions": [
+        "JP"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Star Speeder"
+      ],
+      "Sha1": "1b61132af26dc8d5c1b5e0f72c2e96192bba7e20",
+      "Crc32": "511576ee",
+      "SetNames": {
+        "TOSEC": [
+          "Star Speeder (1985)(Epoch)(JP)(en)"
+        ],
+        "MESS": [
+          "starspdr"
+        ],
+        "TGDB": [
+          "40943"
+        ]
+      },
+      "OverviewId": 23,
+      "Size": 40960,
+      "Publishers": [
+        "Epoch",
+        "Epoch Co., Ltd."
+      ],
+      "ReleaseDate": "1/1/1985",
+      "Genres": [
+        "Action"
+      ],
+      "Regions": [
+        "JP"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Star Speeder"
+      ],
+      "Sha1": "6bb5ff3946867fa7adb6561dc084ef5a7a92c507",
+      "Crc32": "7978c4a6",
+      "SetNames": {
+        "TOSEC": [
+          "Star Speeder (1985)(Epoch)(JP)(en)"
+        ],
+        "MESS": [
+          "starspdr"
+        ],
+        "TGDB": [
+          "40943"
+        ]
+      },
+      "OverviewId": 23,
+      "Size": 40960,
+      "Publishers": [
+        "Epoch",
+        "Epoch Co., Ltd."
+      ],
+      "ReleaseDate": "1/1/1985",
+      "Genres": [
+        "Action"
+      ],
+      "Regions": [
+        "JP"
+      ],
+      "Languages": [
+        "en"
+      ]
+    },
+    {
+      "Titles": [
+        "Wheelie Racer"
+      ],
+      "Sha1": "b060f92719cbce55a87fa9d90fa42192a39ac876",
+      "Crc32": "04860245",
+      "SetNames": {
+        "TOSEC": [
+          "Wheelie Racer (1985)(Epoch)(JP)(en)[a]"
+        ],
+        "TGDB": [
+          "40935"
+        ]
+      },
+      "OverviewId": 19,
+      "Size": 16330,
+      "Publishers": [
+        "Epoch",
+        "Epoch Co., Ltd."
+      ],
+      "ReleaseDate": "1/1/1985",
+      "Genres": [
+        "Racing"
+      ],
+      "Regions": [
+        "JP"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Alternate"
+      ]
+    },
+    {
+      "Titles": [
+        "Y2 Monster Land",
+        "Y² Monster Land"
+      ],
+      "Sha1": "5ae7796ad35a7c537de11ebd3cfe3868d67235a1",
+      "Crc32": "3ac28fe0",
+      "SetNames": {
+        "TOSEC": [
+          "Y2 Monster Land (1986)(Epoch)(JP)(en)"
+        ],
+        "MESS": [
+          "y2mnstld"
+        ]
+      },
+      "Size": 131072,
+      "Publishers": [
+        "Epoch"
+      ],
+      "ReleaseDate": "1/1/1986",
+      "Regions": [
+        "JP"
+      ],
+      "Languages": [
+        "en"
+      ]
+    }
+  ],
+  "Overviews": {
+    "1": {
+      "en": "Game #2"
+    },
+    "2": {
+      "en": "Game #11"
+    },
+    "3": {
+      "en": "Game #14"
+    },
+    "4": {
+      "en": "Game #22"
+    },
+    "5": {
+      "en": "Game #7"
+    },
+    "6": {
+      "en": "Game #17"
+    },
+    "7": {
+      "en": "Game #8"
+    },
+    "8": {
+      "en": "Game #15"
+    },
+    "9": {
+      "en": "Game #12"
+    },
+    "10": {
+      "en": "Game #9"
+    },
+    "11": {
+      "en": "Game #30"
+    },
+    "12": {
+      "en": "Game #16"
+    },
+    "13": {
+      "en": "Game #25"
+    },
+    "14": {
+      "en": "Game #6"
+    },
+    "15": {
+      "en": "Game #5"
+    },
+    "16": {
+      "en": "Game #3"
+    },
+    "17": {
+      "en": "Game #13"
+    },
+    "18": {
+      "en": "Game #19"
+    },
+    "19": {
+      "en": "Game #10"
+    },
+    "20": {
+      "en": "Game #24"
+    },
+    "21": {
+      "en": "Game #28"
+    },
+    "22": {
+      "en": "Game #29"
+    },
+    "23": {
+      "en": "Game #18"
+    }
+  }
+}
