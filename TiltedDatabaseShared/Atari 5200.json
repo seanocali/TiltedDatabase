@@ -1,6 +1,6 @@
 {
   "PlatformName": "Atari 5200",
-  "LastUpdate": "5/25/2022 2:36:59 AM",
+  "LastUpdate": "5/26/2022 1:48:05 AM",
   "Games": [
     {
       "Titles": [
@@ -117,17 +117,22 @@
         ],
         "TGDB": [
           "5150"
+        ],
+        "RAWG": [
+          "52475"
         ]
       },
-      "OverviewId": 2,
+      "OverviewId": 132,
       "Size": 16384,
       "Publishers": [
-        "Activision"
+        "Activision",
+        "Activision Blizzard"
       ],
       "Developers": [
         "Activision"
       ],
-      "ReleaseDate": "3/13/1983",
+      "ReleaseDate": "3/18/1983",
+      "Score": 2.5,
       "Genres": [
         "Sports"
       ],
@@ -137,7 +142,9 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "Singleplayer"
+      ]
     },
     {
       "Titles": [
@@ -169,6 +176,7 @@
         "Atari"
       ],
       "ReleaseDate": "1/1/1983",
+      "Score": 2.833333333333333,
       "Genres": [
         "Shooter"
       ],
@@ -201,17 +209,22 @@
         ],
         "TGDB": [
           "5126"
+        ],
+        "RAWG": [
+          "55199"
         ]
       },
-      "OverviewId": 4,
+      "OverviewId": 122,
       "Size": 16384,
       "Publishers": [
-        "Parker Brothers"
+        "Parker Brothers",
+        "First Star Software"
       ],
       "Developers": [
-        "First Star Software Inc"
+        "First Star Software Inc",
+        "First Star Software"
       ],
-      "ReleaseDate": "1/1/1983",
+      "ReleaseDate": "1/1/1982",
       "Genres": [
         "Shooter"
       ],
@@ -220,6 +233,9 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer"
       ]
     },
     {
@@ -344,18 +360,27 @@
         ],
         "TGDB": [
           "5129"
+        ],
+        "RAWG": [
+          "54576"
         ]
       },
-      "OverviewId": 5,
+      "OverviewId": 136,
       "Size": 32768,
       "Publishers": [
         "Atari - Lucasfilm",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Atari",
+        "Activision Blizzard",
+        "Epyx"
       ],
       "Developers": [
-        "LucasArts Entertainment Company LLC"
+        "LucasArts Entertainment Company LLC",
+        "Lucasfilm",
+        "LucasArts Entertainment"
       ],
-      "ReleaseDate": "1/1/1986",
+      "ReleaseDate": "3/1/1984",
+      "Score": 4.3,
       "Genres": [
         "Action",
         "Sports"
@@ -366,7 +391,11 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer",
+        "2 players"
+      ]
     },
     {
       "Titles": [
@@ -439,6 +468,7 @@
         "Atari"
       ],
       "ReleaseDate": "9/15/1983",
+      "Score": 3.625,
       "Genres": [
         "Action",
         "Shooter"
@@ -471,17 +501,21 @@
         ],
         "TGDB": [
           "5131"
+        ],
+        "RAWG": [
+          "52491"
         ]
       },
-      "OverviewId": 8,
+      "OverviewId": 134,
       "Size": 16384,
       "Publishers": [
-        "Activision"
+        "Activision",
+        "Activision Blizzard"
       ],
       "Developers": [
         "Activision"
       ],
-      "ReleaseDate": "7/15/1983",
+      "ReleaseDate": "1/1/1983",
       "Genres": [
         "Shooter"
       ],
@@ -490,6 +524,9 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer"
       ]
     },
     {
@@ -511,18 +548,25 @@
         ],
         "TGDB": [
           "5133"
+        ],
+        "RAWG": [
+          "52398"
         ]
       },
-      "OverviewId": 9,
+      "OverviewId": 138,
       "Size": 16384,
       "Publishers": [
         "Atari",
-        "Stern Electronics, Inc."
+        "Stern Electronics, Inc.",
+        "Stern Electronics",
+        "Stern"
       ],
       "Developers": [
-        "Stern Electronics"
+        "Stern Electronics",
+        "Stern"
       ],
-      "ReleaseDate": "1/1/1983",
+      "ReleaseDate": "11/12/1980",
+      "Score": 4.6,
       "Genres": [
         "Platform"
       ],
@@ -531,6 +575,10 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "alternating turns",
+        "2 players"
       ]
     },
     {
@@ -639,25 +687,38 @@
         ],
         "TGDB": [
           "5134"
+        ],
+        "RAWG": [
+          "55191"
         ]
       },
-      "OverviewId": 12,
+      "OverviewId": 103,
       "Size": 16384,
       "Publishers": [
         "CBS Electronics - Bally Midway",
         "CBS Electronics",
-        "Bally Midway MFG. Co."
+        "Bally Midway MFG. Co.",
+        "Midway Games",
+        "Bally Midway"
       ],
       "Developers": [
         "Midway",
-        "Bally"
+        "Bally",
+        "Midway Games",
+        "Bally Midway",
+        "Zilec Electronics"
       ],
-      "ReleaseDate": "1/1/1983",
+      "ReleaseDate": "1/1/1982",
+      "Score": 3.7166666666666663,
       "Regions": [
         "US"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -723,9 +784,12 @@
         ],
         "TGDB": [
           "5136"
+        ],
+        "RAWG": [
+          "55200"
         ]
       },
-      "OverviewId": 14,
+      "OverviewId": 115,
       "Size": 40960,
       "Publishers": [
         "Big Five Software"
@@ -733,7 +797,8 @@
       "Developers": [
         "Big Five Software"
       ],
-      "ReleaseDate": "3/1/1984",
+      "ReleaseDate": "1/1/1984",
+      "Score": 4.75,
       "Genres": [
         "Action"
       ],
@@ -742,6 +807,9 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer"
       ]
     },
     {
@@ -775,6 +843,7 @@
       ],
       "ReleaseDate": "11/1/1983",
       "ESRB": "E",
+      "Score": 3.3,
       "Genres": [
         "Action"
       ],
@@ -804,18 +873,23 @@
         ],
         "TGDB": [
           "5209"
+        ],
+        "RAWG": [
+          "52576"
         ]
       },
-      "OverviewId": 16,
+      "OverviewId": 104,
       "Size": 8192,
       "Publishers": [
-        "Activision"
+        "Activision",
+        "Activision Blizzard"
       ],
       "Developers": [
         "Activision"
       ],
-      "ReleaseDate": "11/1/1983",
+      "ReleaseDate": "1/1/1982",
       "ESRB": "E",
+      "Score": 3.8166666666666664,
       "Genres": [
         "Shooter"
       ],
@@ -824,6 +898,9 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer"
       ]
     },
     {
@@ -913,7 +990,8 @@
     },
     {
       "Titles": [
-        "Centipede"
+        "Centipede",
+        "Centipede (1981)"
       ],
       "Sha1": "eb343b90d3de696e69b1f039d4fb2c6afb0d80c0",
       "Crc32": "536a70fe",
@@ -929,19 +1007,26 @@
         ],
         "TGDB": [
           "5141"
+        ],
+        "RAWG": [
+          "52406"
         ]
       },
-      "OverviewId": 19,
+      "OverviewId": 150,
       "Size": 16384,
       "Publishers": [
         "Atari",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Atarisoft",
+        "Superior Software"
       ],
       "Developers": [
-        "Atari"
+        "Atari",
+        "Atari, Inc."
       ],
-      "ReleaseDate": "1/1/1982",
+      "ReleaseDate": "1/1/1981",
       "ESRB": "E",
+      "Score": 3.9799999999999995,
       "Genres": [
         "Shooter"
       ],
@@ -951,7 +1036,10 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "alternating turns",
+        "2 players"
+      ]
     },
     {
       "Titles": [
@@ -972,26 +1060,38 @@
         ],
         "TGDB": [
           "5143"
+        ],
+        "RAWG": [
+          "58026"
         ]
       },
-      "OverviewId": 20,
+      "OverviewId": 106,
       "Size": 16384,
       "Publishers": [
         "Atari",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "SEGA",
+        "Brøderbund",
+        "Ariolasoft",
+        "Europe"
       ],
       "Developers": [
         "Dan Gorlin"
       ],
-      "ReleaseDate": "1/1/1984",
+      "ReleaseDate": "5/1/1982",
+      "Score": 3.875,
       "Genres": [
-        "Action"
+        "Action",
+        "Strategy"
       ],
       "Regions": [
         "US"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer"
       ]
     },
     {
@@ -1012,20 +1112,27 @@
         ],
         "TGDB": [
           "5147"
+        ],
+        "RAWG": [
+          "52502"
         ]
       },
-      "OverviewId": 21,
+      "OverviewId": 116,
       "Size": 16384,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
-      "ReleaseDate": "12/1/1983",
+      "ReleaseDate": "1/1/1983",
       "ESRB": "E",
+      "Score": 3.075,
       "Genres": [
-        "Action"
+        "Action",
+        "Platformer"
       ],
       "Regions": [
         "US"
@@ -1033,7 +1140,10 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "alternating turns",
+        "2 players"
+      ]
     },
     {
       "Titles": [
@@ -1062,6 +1172,7 @@
         "Atari, Inc."
       ],
       "ReleaseDate": "1/1/1982",
+      "Score": 3.625,
       "Regions": [
         "US"
       ],
@@ -1116,19 +1227,27 @@
         ],
         "TGDB": [
           "5151"
+        ],
+        "RAWG": [
+          "52415"
         ]
       },
-      "OverviewId": 23,
+      "OverviewId": 148,
       "Size": 16384,
       "Publishers": [
         "Atari",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Taito",
+        "Williams Electronics"
       ],
       "Developers": [
-        "Williams"
+        "Williams",
+        "Williams Electronics",
+        "WMS Industries"
       ],
-      "ReleaseDate": "12/1/1982",
+      "ReleaseDate": "2/1/1981",
       "ESRB": "E",
+      "Score": 4.208333333333334,
       "Genres": [
         "Shooter"
       ],
@@ -1138,11 +1257,15 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "alternating turns",
+        "2 players"
+      ]
     },
     {
       "Titles": [
-        "Dig Dug"
+        "Dig Dug",
+        "Dig Dug (1982)"
       ],
       "Sha1": "387a76ba5912251e2285b7722004ad75e9ede523",
       "Crc32": "6a687f9c",
@@ -1158,25 +1281,36 @@
         ],
         "TGDB": [
           "5153"
+        ],
+        "RAWG": [
+          "52418"
         ]
       },
-      "OverviewId": 24,
+      "OverviewId": 147,
       "Size": 16384,
       "Publishers": [
-        "Atari"
+        "Atari",
+        "Namco"
       ],
       "Developers": [
-        "Atari"
+        "Atari",
+        "NAMCO"
       ],
-      "ReleaseDate": "5/5/1983",
+      "ReleaseDate": "4/19/1982",
+      "Score": 3.4833333333333334,
       "Genres": [
-        "Strategy"
+        "Strategy",
+        "Action"
       ],
       "Regions": [
         "US"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "2 players"
       ]
     },
     {
@@ -1198,25 +1332,35 @@
         ],
         "TGDB": [
           "5225"
+        ],
+        "RAWG": [
+          "55201"
         ]
       },
-      "OverviewId": 25,
+      "OverviewId": 137,
       "Size": 8192,
       "Publishers": [
-        "Activision"
+        "Activision",
+        "Activision Blizzard"
       ],
       "Developers": [
-        "Cheshire Engineering"
+        "Cheshire Engineering",
+        "Activision"
       ],
-      "ReleaseDate": "4/5/1984",
+      "ReleaseDate": "1/1/1983",
+      "Score": 4.0,
       "Genres": [
-        "Action"
+        "Action",
+        "Shooter"
       ],
       "Regions": [
         "US"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "atari"
       ]
     },
     {
@@ -1249,6 +1393,7 @@
         "Atari"
       ],
       "ReleaseDate": "2/23/1984",
+      "Score": 3.5,
       "Genres": [
         "Strategy",
         "Shooter",
@@ -1309,7 +1454,8 @@
     },
     {
       "Titles": [
-        "Frogger"
+        "Frogger",
+        "Frogger (1981)"
       ],
       "Sha1": "d9a695757f0494aee92a50ab8a49558745e0cedf",
       "Crc32": "ae7e3444",
@@ -1325,30 +1471,50 @@
         ],
         "TGDB": [
           "5156"
+        ],
+        "RAWG": [
+          "52522"
         ]
       },
-      "OverviewId": 28,
+      "OverviewId": 98,
       "Size": 8192,
       "Publishers": [
-        "Parker Brothers"
+        "Parker Brothers",
+        "SEGA",
+        "Hasbro Interactive",
+        "Gremlin"
       ],
-      "ReleaseDate": "1/1/1983",
+      "Developers": [
+        "Konami Digital Entertainment",
+        "SCE Cambridge Studio",
+        "Guerrilla Cambridge"
+      ],
+      "ReleaseDate": "1/1/1981",
       "ESRB": "E",
+      "Score": 3.4625,
       "Genres": [
-        "Action"
+        "Action",
+        "Arcade"
       ],
       "Regions": [
         "US"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer",
+        "alternating turns",
+        "2 players"
       ]
     },
     {
       "Titles": [
         "Frogger II - Threeedeep!",
         "Frogger II: Threeedeep!",
-        "Frogger II"
+        "Frogger II",
+        "Frogger II: ThreeeDeep!"
       ],
       "Sha1": "3d815594cf674694b04bb0ff90bf635d7d402fc2",
       "Crc32": "0af19345",
@@ -1364,18 +1530,23 @@
         ],
         "TGDB": [
           "5157"
+        ],
+        "RAWG": [
+          "52524"
         ]
       },
-      "OverviewId": 29,
+      "OverviewId": 100,
       "Size": 16384,
       "Publishers": [
-        "Parker Brothers"
+        "Parker Brothers",
+        "SEGA"
       ],
       "Developers": [
         "Parker Brothers"
       ],
-      "ReleaseDate": "9/1/1984",
+      "ReleaseDate": "1/1/1984",
       "ESRB": "E",
+      "Score": 4.25,
       "Genres": [
         "Action"
       ],
@@ -1384,6 +1555,10 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -1404,19 +1579,25 @@
         ],
         "TGDB": [
           "5158"
+        ],
+        "RAWG": [
+          "52423"
         ]
       },
-      "OverviewId": 30,
+      "OverviewId": 144,
       "Size": 8192,
       "Publishers": [
         "Atari",
-        "Atari, Inc."
-      ],
-      "Developers": [
+        "Atari, Inc.",
         "Namco"
       ],
-      "ReleaseDate": "1/1/1982",
+      "Developers": [
+        "Namco",
+        "NAMCO"
+      ],
+      "ReleaseDate": "1/1/1979",
       "ESRB": "E",
+      "Score": 3.6625,
       "Genres": [
         "Shooter"
       ],
@@ -1426,7 +1607,10 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "alternating turns",
+        "2 players"
+      ]
     },
     {
       "Titles": [
@@ -1446,21 +1630,31 @@
         ],
         "TGDB": [
           "5160"
+        ],
+        "RAWG": [
+          "52530"
         ]
       },
-      "OverviewId": 31,
+      "OverviewId": 133,
       "Size": 8192,
       "Publishers": [
         "CBS Electronics - Bally Midway",
         "CBS Electronics",
-        "Bally Midway MFG. Co."
+        "Bally Midway MFG. Co.",
+        "Midway Games",
+        "Midway",
+        "Commodore International",
+        "Roklan Corporation"
       ],
       "Developers": [
         "Midway",
-        "Bally"
+        "Bally",
+        "Dave Nutting Associates",
+        "Dave Nutting"
       ],
-      "ReleaseDate": "10/1/1983",
+      "ReleaseDate": "1/1/1981",
       "ESRB": "E",
+      "Score": 2.8833333333333333,
       "Genres": [
         "Shooter"
       ],
@@ -1470,7 +1664,12 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer",
+        "alternating turns",
+        "2 players"
+      ]
     },
     {
       "Titles": [
@@ -1490,9 +1689,12 @@
         ],
         "TGDB": [
           "5161"
+        ],
+        "RAWG": [
+          "52426"
         ]
       },
-      "OverviewId": 32,
+      "OverviewId": 123,
       "Size": 32768,
       "Publishers": [
         "Atari"
@@ -1500,20 +1702,26 @@
       "Developers": [
         "Atari"
       ],
-      "ReleaseDate": "5/1/1986",
+      "ReleaseDate": "1/1/1984",
+      "Score": 4.583333333333334,
       "Genres": [
-        "Adventure"
+        "Adventure",
+        "Action"
       ],
       "Regions": [
         "US"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "2 players"
       ]
     },
     {
       "Titles": [
-        "Gyruss"
+        "Gyruss",
+        "Gyruss (1988)"
       ],
       "Sha1": "d0d8650eb07d1679004d491360c2c041e37c61cd",
       "Crc32": "cfd4a7f9",
@@ -1529,18 +1737,27 @@
         ],
         "TGDB": [
           "5162"
+        ],
+        "RAWG": [
+          "52532"
         ]
       },
-      "OverviewId": 33,
+      "OverviewId": 149,
       "Size": 16384,
       "Publishers": [
-        "Parker Brothers"
+        "Parker Brothers",
+        "Konami",
+        "Centuri (dedicated)",
+        "Parker Bros",
+        "Ultra Games"
       ],
       "Developers": [
-        "Parker Brothers"
+        "Parker Brothers",
+        "Konami Digital Entertainment"
       ],
-      "ReleaseDate": "6/1/1984",
+      "ReleaseDate": "11/18/1988",
       "ESRB": "E",
+      "Score": 4.25,
       "Genres": [
         "Shooter"
       ],
@@ -1550,7 +1767,10 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "alternating turns",
+        "2 players"
+      ]
     },
     {
       "Titles": [
@@ -1567,18 +1787,37 @@
         ],
         "MESS": [
           "hero"
+        ],
+        "RAWG": [
+          "52535"
         ]
       },
+      "OverviewId": 108,
       "Size": 16384,
       "Publishers": [
+        "Activision",
+        "Activision Blizzard"
+      ],
+      "Developers": [
         "Activision"
       ],
       "ReleaseDate": "1/1/1984",
+      "Genres": [
+        "Action"
+      ],
       "Regions": [
         "US"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "japan",
+        "atari",
+        "mine",
+        "jetpack",
+        "helicopter",
+        "console"
       ]
     },
     {
@@ -1600,17 +1839,23 @@
         ],
         "TGDB": [
           "5165"
+        ],
+        "RAWG": [
+          "52537"
         ]
       },
-      "OverviewId": 34,
+      "OverviewId": 105,
       "Size": 16384,
       "Publishers": [
-        "Parker Brothers"
+        "Parker Brothers",
+        "Nintendo"
       ],
       "Developers": [
-        "Parker Brothers"
+        "Parker Brothers",
+        "Saffire Corporation",
+        "Saffire"
       ],
-      "ReleaseDate": "11/2/1984",
+      "ReleaseDate": "1/1/1983",
       "Genres": [
         "Action"
       ],
@@ -1619,6 +1864,9 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer"
       ]
     },
     {
@@ -1639,22 +1887,40 @@
         ],
         "TGDB": [
           "5167"
+        ],
+        "RAWG": [
+          "28279"
         ]
       },
-      "OverviewId": 35,
+      "OverviewId": 97,
       "Size": 16384,
       "Publishers": [
         "Atari",
-        "Williams Electronic Games, Inc."
+        "Williams Electronic Games, Inc.",
+        "Atarisoft",
+        "Williams Electronics",
+        "Game Life Studio"
       ],
       "Developers": [
-        "Williams"
+        "Williams",
+        "Digital Eclipse",
+        "Williams Electronics",
+        "WMS Industries",
+        "Game Life Studio"
       ],
-      "ReleaseDate": "10/1/1983",
+      "ReleaseDate": "7/16/1982",
       "ESRB": "E",
+      "Score": 3.65,
       "Genres": [
         "Action",
-        "Platform"
+        "Platform",
+        "Adventure",
+        "Simulation",
+        "Sports",
+        "Arcade",
+        "Casual",
+        "Massively Multiplayer",
+        "Indie"
       ],
       "Regions": [
         "US"
@@ -1663,7 +1929,20 @@
         "en"
       ],
       "Tags": [
-        "Co-op"
+        "Co-op",
+        "Partial Controller Support",
+        "Early Access",
+        "e-sports",
+        "Fantasy",
+        "Multiplayer",
+        "Open World",
+        "Sandbox",
+        "Singleplayer",
+        "Survival",
+        "Third Person",
+        "Online multiplayer",
+        "cooperative",
+        "2 players"
       ]
     },
     {
@@ -1697,6 +1976,7 @@
         "Atari"
       ],
       "ReleaseDate": "2/28/1984",
+      "Score": 4.916666666666666,
       "Genres": [
         "Action"
       ],
@@ -1728,18 +2008,27 @@
         ],
         "TGDB": [
           "5169"
+        ],
+        "RAWG": [
+          "52432"
         ]
       },
-      "OverviewId": 37,
+      "OverviewId": 129,
       "Size": 16384,
       "Publishers": [
         "Atari",
-        "Taito Corporation"
+        "Taito Corporation",
+        "TAITO Corporation",
+        "Taito"
       ],
       "Developers": [
-        "Taito Corporation"
+        "Taito Corporation",
+        "Atari",
+        "Taito",
+        "TAITO Corporation"
       ],
-      "ReleaseDate": "1/1/1983",
+      "ReleaseDate": "3/18/1982",
+      "Score": 3.7333333333333334,
       "Genres": [
         "Action",
         "Platform"
@@ -1749,6 +2038,9 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "2 players"
       ]
     },
     {
@@ -1771,27 +2063,41 @@
         ],
         "TGDB": [
           "5176"
+        ],
+        "RAWG": [
+          "55202"
         ]
       },
-      "OverviewId": 38,
+      "OverviewId": 143,
       "Size": 8192,
       "Publishers": [
         "CBS Electronics - Kay Enterprizes",
         "CBS Electronics",
-        "Kay Enterprizes Co."
+        "Kay Enterprizes Co.",
+        "CBS Software",
+        "K-Byte"
       ],
       "Developers": [
-        "CBS Electronics"
+        "CBS Electronics",
+        "K-Byte"
       ],
-      "ReleaseDate": "5/4/1983",
+      "ReleaseDate": "10/1/1983",
+      "Score": 2.5,
       "Genres": [
-        "Shooter"
+        "Shooter",
+        "Action"
       ],
       "Regions": [
         "US"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "party",
+        "atari",
+        "shoot",
+        "clone"
       ]
     },
     {
@@ -1812,15 +2118,23 @@
         ],
         "TGDB": [
           "5170"
+        ],
+        "RAWG": [
+          "52540"
         ]
       },
-      "OverviewId": 39,
+      "OverviewId": 130,
       "Size": 4096,
       "Publishers": [
+        "Activision",
+        "Activision Blizzard"
+      ],
+      "Developers": [
         "Activision"
       ],
-      "ReleaseDate": "11/1/1983",
+      "ReleaseDate": "1/1/1981",
       "ESRB": "E",
+      "Score": 3.75,
       "Genres": [
         "Action"
       ],
@@ -1830,7 +2144,9 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "Singleplayer"
+      ]
     },
     {
       "Titles": [
@@ -1850,15 +2166,24 @@
         ],
         "TGDB": [
           "5171"
+        ],
+        "RAWG": [
+          "52431"
         ]
       },
-      "OverviewId": 40,
+      "OverviewId": 121,
       "Size": 16384,
       "Publishers": [
-        "Atari"
+        "Atari",
+        "Sun Electronics"
       ],
-      "ReleaseDate": "5/2/1983",
+      "Developers": [
+        "SunSoft",
+        "Sun Electronics"
+      ],
+      "ReleaseDate": "1/1/1982",
       "ESRB": "E",
+      "Score": 4.25,
       "Genres": [
         "Platform"
       ],
@@ -1868,7 +2193,12 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "Singleplayer",
+        "alternating turns",
+        "cooperative",
+        "2 players"
+      ]
     },
     {
       "Titles": [
@@ -1888,15 +2218,23 @@
         ],
         "TGDB": [
           "5172"
+        ],
+        "RAWG": [
+          "52497"
         ]
       },
-      "OverviewId": 41,
+      "OverviewId": 119,
       "Size": 8192,
       "Publishers": [
+        "Activision",
+        "Activision Blizzard"
+      ],
+      "Developers": [
         "Activision"
       ],
-      "ReleaseDate": "7/1/1984",
+      "ReleaseDate": "1/1/1983",
       "ESRB": "E",
+      "Score": 4.1,
       "Genres": [
         "Platform"
       ],
@@ -1905,6 +2243,9 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer"
       ]
     },
     {
@@ -1931,6 +2272,7 @@
         "unlicensed"
       ],
       "ReleaseDate": "1/1/2002",
+      "Score": 4.725,
       "Regions": [
         "US"
       ],
@@ -2028,7 +2370,8 @@
     },
     {
       "Titles": [
-        "Mario Bros."
+        "Mario Bros.",
+        "Mario Bros. (1983)"
       ],
       "Sha1": "a293b6b06050e11029d97137f2b1b36059567273",
       "Crc32": "873742f1",
@@ -2044,18 +2387,24 @@
         ],
         "TGDB": [
           "5178"
+        ],
+        "RAWG": [
+          "52434"
         ]
       },
-      "OverviewId": 44,
+      "OverviewId": 99,
       "Size": 32768,
       "Publishers": [
         "Atari",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Nintendo"
       ],
       "Developers": [
-        "Atari"
+        "Atari",
+        "Nintendo"
       ],
-      "ReleaseDate": "3/24/1983",
+      "ReleaseDate": "1/1/1983",
+      "Score": 3.25,
       "Genres": [
         "Platform"
       ],
@@ -2065,7 +2414,11 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer",
+        "cooperative"
+      ]
     },
     {
       "Titles": [
@@ -2129,17 +2482,22 @@
         ],
         "TGDB": [
           "5179"
+        ],
+        "RAWG": [
+          "52548"
         ]
       },
-      "OverviewId": 46,
+      "OverviewId": 114,
       "Size": 8192,
       "Publishers": [
-        "Activision"
+        "Activision",
+        "Activision Blizzard"
       ],
       "Developers": [
         "Activision"
       ],
-      "ReleaseDate": "5/2/1983",
+      "ReleaseDate": "9/1/1982",
+      "Score": 4.4,
       "Genres": [
         "Adventure"
       ],
@@ -2148,6 +2506,10 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -2264,6 +2626,7 @@
         "Atari"
       ],
       "ReleaseDate": "1/31/1984",
+      "Score": 4.0,
       "Genres": [
         "Shooter"
       ],
@@ -2296,6 +2659,9 @@
         ],
         "TGDB": [
           "5181"
+        ],
+        "RAWG": [
+          "779740"
         ]
       },
       "OverviewId": 50,
@@ -2305,6 +2671,7 @@
       ],
       "ReleaseDate": "7/1/1983",
       "ESRB": "E",
+      "Score": 4.375,
       "Genres": [
         "Platform"
       ],
@@ -2360,7 +2727,8 @@
     },
     {
       "Titles": [
-        "Missile Command"
+        "Missile Command",
+        "Missile Command (1980)"
       ],
       "Sha1": "5c8ec22e131810ccac08066ca96e9944ccfa4ecb",
       "Crc32": "44d3ff6f",
@@ -2376,18 +2744,23 @@
         ],
         "TGDB": [
           "5182"
+        ],
+        "RAWG": [
+          "52436"
         ]
       },
-      "OverviewId": 52,
+      "OverviewId": 107,
       "Size": 8192,
       "Publishers": [
         "Atari",
         "Atari, Inc."
       ],
       "Developers": [
-        "Atari"
+        "Atari",
+        "Atari, Inc."
       ],
-      "ReleaseDate": "1/1/1982",
+      "ReleaseDate": "1/1/1980",
+      "Score": 4.0,
       "Genres": [
         "Shooter"
       ],
@@ -2397,7 +2770,10 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "alternating turns",
+        "2 players"
+      ]
     },
     {
       "Titles": [
@@ -2418,25 +2794,36 @@
         ],
         "TGDB": [
           "5183"
+        ],
+        "RAWG": [
+          "31501"
         ]
       },
-      "OverviewId": 53,
+      "OverviewId": 140,
       "Size": 16384,
       "Publishers": [
-        "Parker Brothers"
+        "Parker Brothers",
+        "BCI Software"
       ],
       "Developers": [
-        "Utopia Technologies"
+        "Utopia Technologies",
+        "BCI Software",
+        "Utopia Software"
       ],
-      "ReleaseDate": "7/1/1984",
+      "ReleaseDate": "1/1/1984",
+      "Score": 3.25,
       "Genres": [
-        "Platform"
+        "Platform",
+        "Arcade"
       ],
       "Regions": [
         "US"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer"
       ]
     },
     {
@@ -2457,18 +2844,27 @@
         ],
         "TGDB": [
           "5184"
+        ],
+        "RAWG": [
+          "52437"
         ]
       },
-      "OverviewId": 54,
+      "OverviewId": 145,
       "Size": 16384,
       "Publishers": [
         "Atari",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "IREM",
+        "Atarisoft",
+        "Williams Electronics",
+        "WMS Industries"
       ],
       "Developers": [
-        "Atari"
+        "Atari",
+        "Irem"
       ],
-      "ReleaseDate": "1/1/1983",
+      "ReleaseDate": "1/1/1982",
+      "Score": 3.85,
       "Genres": [
         "Action"
       ],
@@ -2478,7 +2874,9 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "2 players"
+      ]
     },
     {
       "Titles": [
@@ -2498,9 +2896,12 @@
         ],
         "TGDB": [
           "5185"
+        ],
+        "RAWG": [
+          "52550"
         ]
       },
-      "OverviewId": 55,
+      "OverviewId": 112,
       "Size": 8192,
       "Publishers": [
         "CBS Electronics"
@@ -2508,7 +2909,8 @@
       "Developers": [
         "E.F. Dreyer"
       ],
-      "ReleaseDate": "7/7/1983",
+      "ReleaseDate": "1/1/1983",
+      "Score": 4.0,
       "Genres": [
         "Action"
       ],
@@ -2517,6 +2919,9 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "atari"
       ]
     },
     {
@@ -2538,17 +2943,26 @@
         ],
         "TGDB": [
           "5187"
+        ],
+        "RAWG": [
+          "52555"
         ]
       },
       "OverviewId": 56,
       "Size": 8192,
       "Publishers": [
-        "Parker Brothers"
+        "Parker Brothers",
+        "Universal"
       ],
-      "ReleaseDate": "11/1/1984",
+      "Developers": [
+        "Universal",
+        "Universal Entertainment Corporation"
+      ],
+      "ReleaseDate": "1/1/1983",
       "ESRB": "E",
       "Genres": [
-        "Platform"
+        "Platform",
+        "Puzzle"
       ],
       "Regions": [
         "US"
@@ -2556,7 +2970,10 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "alternating turns",
+        "2 players"
+      ]
     },
     {
       "Titles": [
@@ -2576,20 +2993,31 @@
         ],
         "TGDB": [
           "5188"
+        ],
+        "RAWG": [
+          "52438"
         ]
       },
-      "OverviewId": 57,
+      "OverviewId": 135,
       "Size": 16384,
       "Publishers": [
         "Atari",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Midway Games",
+        "Namco",
+        "Midway Manufacturing"
       ],
       "Developers": [
-        "Midway"
+        "Midway",
+        "Midway Games",
+        "Midway Manufacturing",
+        "General Computer Corporation"
       ],
-      "ReleaseDate": "5/4/1983",
+      "ReleaseDate": "1/12/1981",
+      "Score": 3.4333333333333336,
       "Genres": [
-        "Action"
+        "Action",
+        "Arcade"
       ],
       "Regions": [
         "US"
@@ -2597,7 +3025,10 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "alternating turns",
+        "2 players"
+      ]
     },
     {
       "Titles": [
@@ -2617,21 +3048,34 @@
         ],
         "TGDB": [
           "5190"
+        ],
+        "RAWG": [
+          "24881"
         ]
       },
-      "OverviewId": 58,
+      "OverviewId": 125,
       "Size": 16384,
       "Publishers": [
         "Atari",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "BANDAI NAMCO Entertainment America",
+        "Bandai Namco Entertainment"
       ],
       "Developers": [
-        "Namco"
+        "Namco",
+        "BANDAI NAMCO Entertainment America Inc.",
+        "Namco Limited",
+        "Atari, Inc.",
+        "Bandai Namco Entertainment"
       ],
-      "ReleaseDate": "5/1/1982",
+      "ReleaseDate": "5/22/1980",
+      "Score": 3.8142857142857145,
       "Genres": [
         "Action",
-        "Puzzle"
+        "Puzzle",
+        "Arcade",
+        "Casual",
+        "Family"
       ],
       "Regions": [
         "US"
@@ -2639,7 +3083,10 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "Singleplayer",
+        "two-player alternating"
+      ]
     },
     {
       "Titles": [
@@ -2659,17 +3106,27 @@
         ],
         "TGDB": [
           "5191"
+        ],
+        "RAWG": [
+          "52442"
         ]
       },
-      "OverviewId": 59,
+      "OverviewId": 110,
       "Size": 32768,
       "Publishers": [
-        "Atari"
+        "Atari",
+        "SEGA"
       ],
-      "ReleaseDate": "12/1/1983",
+      "Developers": [
+        "Banpresto",
+        "Coreland"
+      ],
+      "ReleaseDate": "1/1/1982",
       "ESRB": "E",
+      "Score": 4.25,
       "Genres": [
-        "Action"
+        "Action",
+        "Puzzle"
       ],
       "Regions": [
         "US"
@@ -2677,11 +3134,16 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "Singleplayer",
+        "One or two players",
+        "alternating play"
+      ]
     },
     {
       "Titles": [
-        "Pitfall!"
+        "Pitfall!",
+        "Pitfall! (1982)"
       ],
       "Sha1": "d1c7dc3de097a4bfab82235acec69a97e6e05f18",
       "Crc32": "b2887833",
@@ -2697,17 +3159,22 @@
         ],
         "TGDB": [
           "5192"
+        ],
+        "RAWG": [
+          "52563"
         ]
       },
-      "OverviewId": 60,
+      "OverviewId": 151,
       "Size": 8192,
       "Publishers": [
-        "Activision"
+        "Activision",
+        "Activision Blizzard"
       ],
       "Developers": [
         "Activision"
       ],
-      "ReleaseDate": "1/1/1984",
+      "ReleaseDate": "4/20/1982",
+      "Score": 3.1125,
       "Genres": [
         "Action"
       ],
@@ -2716,11 +3183,15 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer"
       ]
     },
     {
       "Titles": [
-        "Pole Position"
+        "Pole Position",
+        "Pole Position (1982)"
       ],
       "Sha1": "d504764c5894ee99c0b5e2024cbe833ebba3ab17",
       "Crc32": "abc2d1e4",
@@ -2736,18 +3207,25 @@
         ],
         "TGDB": [
           "5194"
+        ],
+        "RAWG": [
+          "52466"
         ]
       },
-      "OverviewId": 61,
+      "OverviewId": 146,
       "Size": 16384,
       "Publishers": [
         "Atari",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Namco",
+        "JP/EU"
       ],
       "Developers": [
-        "Atari"
+        "Atari",
+        "NAMCO"
       ],
-      "ReleaseDate": "9/8/1983",
+      "ReleaseDate": "9/1/1982",
+      "Score": 4.025,
       "Genres": [
         "Racing"
       ],
@@ -2756,6 +3234,9 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer"
       ]
     },
     {
@@ -2776,17 +3257,25 @@
         ],
         "TGDB": [
           "5195"
+        ],
+        "RAWG": [
+          "52567"
         ]
       },
-      "OverviewId": 62,
+      "OverviewId": 139,
       "Size": 16384,
       "Publishers": [
-        "Parker Brothers"
+        "Parker Brothers",
+        "Nintendo",
+        "Sigma Enterprises"
       ],
       "Developers": [
-        "Parker Brothers"
+        "Parker Brothers",
+        "Nintendo",
+        "Sigma Enterprises"
       ],
-      "ReleaseDate": "5/10/1984",
+      "ReleaseDate": "1/1/1982",
+      "Score": 3.3,
       "Genres": [
         "Action"
       ],
@@ -2795,6 +3284,10 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -2816,15 +3309,26 @@
         ],
         "TGDB": [
           "5196"
+        ],
+        "RAWG": [
+          "52571"
         ]
       },
-      "OverviewId": 63,
+      "OverviewId": 124,
       "Size": 8192,
       "Publishers": [
-        "Parker Brothers"
+        "Parker Brothers",
+        "Sony Interactive Entertainment",
+        "Ultra Games",
+        "Gottlieb"
       ],
-      "ReleaseDate": "10/1/1983",
+      "Developers": [
+        "Atari",
+        "Gottlieb"
+      ],
+      "ReleaseDate": "12/31/1982",
       "ESRB": "E",
+      "Score": 3.166666666666667,
       "Genres": [
         "Action",
         "Puzzle"
@@ -2835,11 +3339,14 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "2 players"
+      ]
     },
     {
       "Titles": [
-        "QIX"
+        "QIX",
+        "Qix (1990)"
       ],
       "Sha1": "786cdf54d1625e0d3ea8814506fdeeba5e4ece48",
       "Crc32": "aea6d2c2",
@@ -2855,18 +3362,34 @@
         ],
         "TGDB": [
           "5197"
+        ],
+        "RAWG": [
+          "54003"
         ]
       },
-      "OverviewId": 64,
+      "OverviewId": 118,
       "Size": 16384,
       "Publishers": [
         "Atari",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "TAITO Corporation",
+        "Nintendo",
+        "Taito",
+        "Takara",
+        "Telegames"
       ],
       "Developers": [
-        "Atari"
+        "Atari",
+        "Taito",
+        "TAITO Corporation",
+        "Novotrade",
+        "Takara",
+        "Nintendo",
+        "Alien Technology",
+        "Knight Technologies"
       ],
-      "ReleaseDate": "1/1/1982",
+      "ReleaseDate": "4/13/1990",
+      "Score": 4.328571428571428,
       "Genres": [
         "Action"
       ],
@@ -2876,7 +3399,10 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "alternating turns",
+        "2 players"
+      ]
     },
     {
       "Titles": [
@@ -2946,6 +3472,7 @@
         "Atari"
       ],
       "ReleaseDate": "1/1/1983",
+      "Score": 5.0,
       "Genres": [
         "Sports"
       ],
@@ -3106,15 +3633,22 @@
         ],
         "TGDB": [
           "5205"
+        ],
+        "RAWG": [
+          "52449"
         ]
       },
-      "OverviewId": 68,
+      "OverviewId": 102,
       "Size": 16384,
       "Publishers": [
         "Atari"
       ],
+      "Developers": [
+        "Atari"
+      ],
       "ReleaseDate": "1/1/1982",
       "ESRB": "E",
+      "Score": 3.25,
       "Genres": [
         "Sports"
       ],
@@ -3124,7 +3658,10 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer"
+      ]
     },
     {
       "Titles": [
@@ -3155,6 +3692,7 @@
         "Atari"
       ],
       "ReleaseDate": "1/1/1983",
+      "Score": 3.6166666666666663,
       "Genres": [
         "Sports"
       ],
@@ -3183,17 +3721,22 @@
         ],
         "TGDB": [
           "5207"
+        ],
+        "RAWG": [
+          "52450"
         ]
       },
-      "OverviewId": 70,
+      "OverviewId": 127,
       "Size": 16384,
       "Publishers": [
         "Atari"
       ],
       "Developers": [
-        "Atari"
+        "Atari",
+        "Atari, Inc."
       ],
-      "ReleaseDate": "1/1/1986",
+      "ReleaseDate": "1/1/1983",
+      "Score": 2.9,
       "Genres": [
         "Sports"
       ],
@@ -3202,6 +3745,11 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer",
+        "Two-player"
       ]
     },
     {
@@ -3223,21 +3771,29 @@
         ],
         "TGDB": [
           "5208"
+        ],
+        "RAWG": [
+          "55203"
         ]
       },
-      "OverviewId": 71,
+      "OverviewId": 111,
       "Size": 32768,
       "Publishers": [
         "Atari - Lucasfilm",
         "Atari",
         "Lucasfilm",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Activision Blizzard",
+        "Epyx"
       ],
       "Developers": [
-        "LucasArts Entertainment Company LLC"
+        "LucasArts Entertainment Company LLC",
+        "Lucasfilm",
+        "LucasArts Entertainment"
       ],
-      "ReleaseDate": "1/1/1986",
+      "ReleaseDate": "3/1/1984",
       "ESRB": "E",
+      "Score": 4.6875,
       "Genres": [
         "Action"
       ],
@@ -3246,6 +3802,9 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer"
       ]
     },
     {
@@ -3312,19 +3871,26 @@
         ],
         "TGDB": [
           "5210"
+        ],
+        "RAWG": [
+          "54508"
         ]
       },
-      "OverviewId": 73,
+      "OverviewId": 128,
       "Size": 16384,
       "Publishers": [
         "Atari",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Williams Electronics",
+        "WMS Industries"
       ],
       "Developers": [
-        "Williams"
+        "Williams",
+        "Vid Kidz"
       ],
-      "ReleaseDate": "3/1/1984",
+      "ReleaseDate": "1/1/1982",
       "ESRB": "E",
+      "Score": 4.5,
       "Genres": [
         "Shooter"
       ],
@@ -3334,7 +3900,10 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer"
+      ]
     },
     {
       "Titles": [
@@ -3354,19 +3923,25 @@
         ],
         "TGDB": [
           "5213"
+        ],
+        "RAWG": [
+          "55204"
         ]
       },
-      "OverviewId": 74,
+      "OverviewId": 152,
       "Size": 16384,
       "Publishers": [
         "Atari",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "TAITO Corporation"
       ],
       "Developers": [
-        "Atari"
+        "Atari",
+        "TAITO Corporation"
       ],
-      "ReleaseDate": "9/1/1983",
+      "ReleaseDate": "1/1/1981",
       "ESRB": "E",
+      "Score": 4.833333333333334,
       "Genres": [
         "Shooter"
       ],
@@ -3376,11 +3951,15 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "alternating turns",
+        "2 players"
+      ]
     },
     {
       "Titles": [
-        "Space Invaders"
+        "Space Invaders",
+        "Space Invaders (1978)"
       ],
       "Sha1": "cf411db770217b5af5fcfa32725cc587a8b9e710",
       "Crc32": "de5c354a",
@@ -3396,18 +3975,36 @@
         ],
         "TGDB": [
           "5214"
+        ],
+        "RAWG": [
+          "52444"
         ]
       },
-      "OverviewId": 75,
+      "OverviewId": 117,
       "Size": 8192,
       "Publishers": [
         "Atari",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "TAITO Corporation",
+        "Taito",
+        "Midway Games",
+        "http://flyers.arcade-museum.com/?page=thumbs&amp;db;=videodb&amp;id;=5738",
+        "http://flyers.arcade-museum.com/?page=thumbs&amp;db;=videodb&amp;id;=3306",
+        "[http://flyers.arcade-museum.com/?page=thumbs&amp;db;=videodb&amp;id;=4379 Space Invaders (AU)], The",
+        "Midway and Taito",
+        "Midway",
+        "Leisure &amp; Allied Industries",
+        "AUS",
+        "http://flyers.arcade-museum.com/?page=thumbs&amp;db;=videodb&amp;id;=3887",
+        "European releases:"
       ],
       "Developers": [
-        "Taito Corporation"
+        "Taito Corporation",
+        "Taito",
+        "TAITO Corporation"
       ],
-      "ReleaseDate": "1/1/1982",
+      "ReleaseDate": "6/1/1978",
+      "Score": 3.625,
       "Genres": [
         "Shooter"
       ],
@@ -3417,7 +4014,10 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer"
+      ]
     },
     {
       "Titles": [
@@ -3438,17 +4038,21 @@
         ],
         "TGDB": [
           "5215"
+        ],
+        "RAWG": [
+          "52588"
         ]
       },
-      "OverviewId": 76,
+      "OverviewId": 126,
       "Size": 16384,
       "Publishers": [
-        "Activision"
+        "Activision",
+        "Activision Blizzard"
       ],
       "Developers": [
         "Activision"
       ],
-      "ReleaseDate": "10/1/1984",
+      "ReleaseDate": "1/1/1983",
       "Genres": [
         "Flight Simulator"
       ],
@@ -3457,6 +4061,9 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer"
       ]
     },
     {
@@ -3537,7 +4144,8 @@
     },
     {
       "Titles": [
-        "Star Raiders"
+        "Star Raiders",
+        "Star Raiders (1979)"
       ],
       "Sha1": "57dfc22c9805555f957ed51a2dc7bf35ad00c9d9",
       "Crc32": "7d819a9f",
@@ -3553,19 +4161,24 @@
         ],
         "TGDB": [
           "5217"
+        ],
+        "RAWG": [
+          "52461"
         ]
       },
-      "OverviewId": 78,
+      "OverviewId": 101,
       "Size": 16384,
       "Publishers": [
         "Atari",
         "Atari, Inc."
       ],
       "Developers": [
-        "Atari"
+        "Atari",
+        "Atari, Inc."
       ],
-      "ReleaseDate": "1/1/1982",
+      "ReleaseDate": "1/1/1979",
       "ESRB": "E",
+      "Score": 4.6,
       "Genres": [
         "Shooter"
       ],
@@ -3574,13 +4187,17 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer"
       ]
     },
     {
       "Titles": [
         "Star Trek - Strategic Operations Simulator",
         "Star Trek",
-        "Star Trek: Strategic Operations Simulator"
+        "Star Trek: Strategic Operations Simulator",
+        "Star Trek (1983)"
       ],
       "Sha1": "19801454ab86f2a5cf691fcd577a71ad2b8dc7d5",
       "Crc32": "69f23548",
@@ -3596,18 +4213,24 @@
         ],
         "TGDB": [
           "5218"
+        ],
+        "RAWG": [
+          "52602"
         ]
       },
-      "OverviewId": 79,
+      "OverviewId": 142,
       "Size": 16384,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
-      "ReleaseDate": "10/1/1983",
+      "ReleaseDate": "1/1/1983",
       "ESRB": "E",
+      "Score": 4.2,
       "Genres": [
         "Shooter"
       ],
@@ -3616,6 +4239,9 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer"
       ]
     },
     {
@@ -3649,6 +4275,7 @@
       ],
       "ReleaseDate": "2/1/1984",
       "ESRB": "E",
+      "Score": 3.31,
       "Genres": [
         "Action"
       ],
@@ -3690,6 +4317,7 @@
       ],
       "ReleaseDate": "1/1/1984",
       "ESRB": "E",
+      "Score": 2.9,
       "Genres": [
         "Shooter"
       ],
@@ -3774,6 +4402,7 @@
       ],
       "ReleaseDate": "1/1/1982",
       "ESRB": "E",
+      "Score": 2.9916666666666667,
       "Genres": [
         "Action"
       ],
@@ -3803,17 +4432,27 @@
         ],
         "TGDB": [
           "5222"
+        ],
+        "RAWG": [
+          "52606"
         ]
       },
-      "OverviewId": 84,
+      "OverviewId": 109,
       "Size": 8192,
       "Publishers": [
-        "Parker Brothers"
+        "Parker Brothers",
+        "Konami",
+        "Stern",
+        "Japan",
+        "Entex"
       ],
       "Developers": [
-        "Parker Brothers"
+        "Parker Brothers",
+        "Konami Digital Entertainment",
+        "Entex"
       ],
-      "ReleaseDate": "2/4/1983",
+      "ReleaseDate": "1/1/1981",
+      "Score": 2.2,
       "Genres": [
         "Shooter"
       ],
@@ -3822,6 +4461,11 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "alternating turns",
+        "2 players"
       ]
     },
     {
@@ -3855,6 +4499,7 @@
       ],
       "ReleaseDate": "8/11/1982",
       "ESRB": "E",
+      "Score": 4.35,
       "Genres": [
         "Action"
       ],
@@ -3953,7 +4598,8 @@
     },
     {
       "Titles": [
-        "Vanguard"
+        "Vanguard",
+        "Vanguard (1981)"
       ],
       "Sha1": "6c633de50e6cc0c0c40061cd24e6f78f552a438f",
       "Crc32": "caaea0a4",
@@ -3969,19 +4615,28 @@
         ],
         "TGDB": [
           "5226"
+        ],
+        "RAWG": [
+          "52468"
         ]
       },
-      "OverviewId": 88,
+      "OverviewId": 120,
       "Size": 32768,
       "Publishers": [
         "Atari",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "SNK",
+        "Centuri",
+        "Zaccaria"
       ],
       "Developers": [
-        "Atari"
+        "Atari",
+        "Tose",
+        "Tose Co."
       ],
-      "ReleaseDate": "1/1/1984",
+      "ReleaseDate": "1/1/1981",
       "ESRB": "E",
+      "Score": 3.066666666666667,
       "Genres": [
         "Shooter"
       ],
@@ -3990,6 +4645,9 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer"
       ]
     },
     {
@@ -4010,26 +4668,42 @@
         ],
         "TGDB": [
           "5227"
+        ],
+        "RAWG": [
+          "52619"
         ]
       },
-      "OverviewId": 89,
+      "OverviewId": 113,
       "Size": 16384,
       "Publishers": [
-        "CBS Electronics"
+        "CBS Electronics",
+        "Midway Games",
+        "Midway",
+        "Roklan"
       ],
       "Developers": [
         "Midway",
-        "Bally"
+        "Bally",
+        "Dave Nutting Associates",
+        "Dave Nutting",
+        "Gabriel Industries"
       ],
-      "ReleaseDate": "8/17/1983",
+      "ReleaseDate": "1/1/1981",
+      "Score": 4.1,
       "Genres": [
-        "Shooter"
+        "Shooter",
+        "Action"
       ],
       "Regions": [
         "US"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "cooperative",
+        "2 players"
       ]
     },
     {
@@ -4182,18 +4856,23 @@
         ],
         "TGDB": [
           "5229"
+        ],
+        "RAWG": [
+          "26351"
         ]
       },
-      "OverviewId": 93,
+      "OverviewId": 131,
       "Size": 32768,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
         "Sega"
       ],
-      "ReleaseDate": "1/1/1984",
+      "ReleaseDate": "4/12/2010",
       "ESRB": "E",
+      "Score": 4.0,
       "Genres": [
         "Shooter"
       ],
@@ -4203,7 +4882,19 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "Flight",
+        "Space",
+        "Tanks",
+        "Explosions",
+        "NES",
+        "ship",
+        "sound",
+        "ships",
+        "destroy",
+        "console",
+        "fighter"
+      ]
     },
     {
       "Titles": [
@@ -4223,25 +4914,34 @@
         ],
         "TGDB": [
           "5230"
+        ],
+        "RAWG": [
+          "55206"
         ]
       },
-      "OverviewId": 94,
+      "OverviewId": 141,
       "Size": 8192,
       "Publishers": [
-        "Activision"
+        "Activision",
+        "Activision Value Publishing"
       ],
       "Developers": [
         "Activision"
       ],
-      "ReleaseDate": "4/1/1984",
+      "ReleaseDate": "1/1/1984",
       "Genres": [
-        "Action"
+        "Action",
+        "Puzzle"
       ],
       "Regions": [
         "US"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "maze",
+        "atari"
       ]
     },
     {
@@ -4273,6 +4973,7 @@
         "Activision"
       ],
       "ReleaseDate": "1/1/1984",
+      "Score": 4.8,
       "Genres": [
         "Action"
       ],
@@ -4299,6 +5000,7 @@
         "Activision"
       ],
       "ReleaseDate": "1/1/1983",
+      "Score": 2.5,
       "Regions": [
         "US"
       ],
@@ -4333,6 +5035,7 @@
         "Atari"
       ],
       "ReleaseDate": "1/1/1983",
+      "Score": 2.833333333333333,
       "Genres": [
         "Shooter"
       ],
@@ -4363,20 +5066,28 @@
         ],
         "TGDB": [
           "5129"
+        ],
+        "RAWG": [
+          "54576"
         ]
       },
-      "OverviewId": 5,
+      "OverviewId": 136,
       "Size": 32768,
       "Publishers": [
         "Atari - Lucasfilm",
         "Atari",
         "Lucasfilm",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Activision Blizzard",
+        "Epyx"
       ],
       "Developers": [
-        "LucasArts Entertainment Company LLC"
+        "LucasArts Entertainment Company LLC",
+        "Lucasfilm",
+        "LucasArts Entertainment"
       ],
-      "ReleaseDate": "1/1/1986",
+      "ReleaseDate": "3/1/1984",
+      "Score": 4.3,
       "Genres": [
         "Action",
         "Sports"
@@ -4388,7 +5099,10 @@
         "en"
       ],
       "Tags": [
-        "Alternate"
+        "Alternate",
+        "Multiplayer",
+        "Singleplayer",
+        "2 players"
       ]
     },
     {
@@ -4403,17 +5117,21 @@
         ],
         "TGDB": [
           "5131"
+        ],
+        "RAWG": [
+          "52491"
         ]
       },
-      "OverviewId": 8,
+      "OverviewId": 134,
       "Size": 32768,
       "Publishers": [
-        "Activision"
+        "Activision",
+        "Activision Blizzard"
       ],
       "Developers": [
         "Activision"
       ],
-      "ReleaseDate": "7/15/1983",
+      "ReleaseDate": "1/1/1983",
       "Genres": [
         "Shooter"
       ],
@@ -4424,7 +5142,8 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "Singleplayer"
       ]
     },
     {
@@ -4439,17 +5158,21 @@
         ],
         "TGDB": [
           "5131"
+        ],
+        "RAWG": [
+          "52491"
         ]
       },
-      "OverviewId": 8,
+      "OverviewId": 134,
       "Size": 32768,
       "Publishers": [
-        "Activision"
+        "Activision",
+        "Activision Blizzard"
       ],
       "Developers": [
         "Activision"
       ],
-      "ReleaseDate": "7/15/1983",
+      "ReleaseDate": "1/1/1983",
       "Genres": [
         "Shooter"
       ],
@@ -4460,7 +5183,8 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "Singleplayer"
       ]
     },
     {
@@ -4475,18 +5199,25 @@
         ],
         "TGDB": [
           "5133"
+        ],
+        "RAWG": [
+          "52398"
         ]
       },
-      "OverviewId": 9,
+      "OverviewId": 138,
       "Size": 32767,
       "Publishers": [
         "Atari",
-        "Stern Electronics, Inc."
+        "Stern Electronics, Inc.",
+        "Stern Electronics",
+        "Stern"
       ],
       "Developers": [
-        "Stern Electronics"
+        "Stern Electronics",
+        "Stern"
       ],
-      "ReleaseDate": "1/1/1983",
+      "ReleaseDate": "11/12/1980",
+      "Score": 4.6,
       "Genres": [
         "Platform"
       ],
@@ -4497,7 +5228,9 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "alternating turns",
+        "2 players"
       ]
     },
     {
@@ -4512,18 +5245,25 @@
         ],
         "TGDB": [
           "5133"
+        ],
+        "RAWG": [
+          "52398"
         ]
       },
-      "OverviewId": 9,
+      "OverviewId": 138,
       "Size": 32768,
       "Publishers": [
         "Atari",
-        "Stern Electronics, Inc."
+        "Stern Electronics, Inc.",
+        "Stern Electronics",
+        "Stern"
       ],
       "Developers": [
-        "Stern Electronics"
+        "Stern Electronics",
+        "Stern"
       ],
-      "ReleaseDate": "1/1/1983",
+      "ReleaseDate": "11/12/1980",
+      "Score": 4.6,
       "Genres": [
         "Platform"
       ],
@@ -4534,7 +5274,9 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "alternating turns",
+        "2 players"
       ]
     },
     {
@@ -4546,13 +5288,25 @@
       "SetNames": {
         "TOSEC": [
           "Blue Print (1983)(CBS Electronics - Bally Midway)(US)[a][80033]"
+        ],
+        "RAWG": [
+          "55191"
         ]
       },
+      "OverviewId": 103,
       "Size": 16384,
       "Publishers": [
-        "CBS Electronics - Bally Midway"
+        "CBS Electronics - Bally Midway",
+        "Midway Games",
+        "Bally Midway",
+        "CBS Electronics"
       ],
-      "ReleaseDate": "1/1/1983",
+      "Developers": [
+        "Midway Games",
+        "Bally Midway",
+        "Zilec Electronics"
+      ],
+      "ReleaseDate": "1/1/1982",
       "Regions": [
         "US"
       ],
@@ -4560,7 +5314,9 @@
         "en"
       ],
       "Tags": [
-        "Alternate"
+        "Alternate",
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -4572,18 +5328,34 @@
       "SetNames": {
         "TOSEC": [
           "Blue Print (1983)(CBS Electronics - Bally Midway)(US)[b2][80033]"
+        ],
+        "RAWG": [
+          "55191"
         ]
       },
+      "OverviewId": 103,
       "Size": 32768,
       "Publishers": [
-        "CBS Electronics - Bally Midway"
+        "CBS Electronics - Bally Midway",
+        "Midway Games",
+        "Bally Midway",
+        "CBS Electronics"
       ],
-      "ReleaseDate": "1/1/1983",
+      "Developers": [
+        "Midway Games",
+        "Bally Midway",
+        "Zilec Electronics"
+      ],
+      "ReleaseDate": "1/1/1982",
       "Regions": [
         "US"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -4595,13 +5367,25 @@
       "SetNames": {
         "TOSEC": [
           "Blue Print (1983)(CBS Electronics - Bally Midway)(US)[b][80033]"
+        ],
+        "RAWG": [
+          "55191"
         ]
       },
+      "OverviewId": 103,
       "Size": 32767,
       "Publishers": [
-        "CBS Electronics - Bally Midway"
+        "CBS Electronics - Bally Midway",
+        "Midway Games",
+        "Bally Midway",
+        "CBS Electronics"
       ],
-      "ReleaseDate": "1/1/1983",
+      "Developers": [
+        "Midway Games",
+        "Bally Midway",
+        "Zilec Electronics"
+      ],
+      "ReleaseDate": "1/1/1982",
       "Regions": [
         "US"
       ],
@@ -4609,7 +5393,9 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -4621,13 +5407,25 @@
       "SetNames": {
         "TOSEC": [
           "Blue Print (1983)(CBS Electronics - Bally Midway)(US)[o2][a][80033]"
+        ],
+        "RAWG": [
+          "55191"
         ]
       },
+      "OverviewId": 103,
       "Size": 32768,
       "Publishers": [
-        "CBS Electronics - Bally Midway"
+        "CBS Electronics - Bally Midway",
+        "Midway Games",
+        "Bally Midway",
+        "CBS Electronics"
       ],
-      "ReleaseDate": "1/1/1983",
+      "Developers": [
+        "Midway Games",
+        "Bally Midway",
+        "Zilec Electronics"
+      ],
+      "ReleaseDate": "1/1/1982",
       "Regions": [
         "US"
       ],
@@ -4635,7 +5433,9 @@
         "en"
       ],
       "Tags": [
-        "Alternate"
+        "Alternate",
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -4647,13 +5447,25 @@
       "SetNames": {
         "TOSEC": [
           "Blue Print (1983)(CBS Electronics - Bally Midway)(US)[o][80033]"
+        ],
+        "RAWG": [
+          "55191"
         ]
       },
+      "OverviewId": 103,
       "Size": 32768,
       "Publishers": [
-        "CBS Electronics - Bally Midway"
+        "CBS Electronics - Bally Midway",
+        "Midway Games",
+        "Bally Midway",
+        "CBS Electronics"
       ],
-      "ReleaseDate": "1/1/1983",
+      "Developers": [
+        "Midway Games",
+        "Bally Midway",
+        "Zilec Electronics"
+      ],
+      "ReleaseDate": "1/1/1982",
       "Regions": [
         "US"
       ],
@@ -4661,7 +5473,9 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -4673,13 +5487,25 @@
       "SetNames": {
         "TOSEC": [
           "Blue Print (1983)(CBS Electronics - Bally Midway)(US)[o][a][80033]"
+        ],
+        "RAWG": [
+          "55191"
         ]
       },
+      "OverviewId": 103,
       "Size": 32768,
       "Publishers": [
-        "CBS Electronics - Bally Midway"
+        "CBS Electronics - Bally Midway",
+        "Midway Games",
+        "Bally Midway",
+        "CBS Electronics"
       ],
-      "ReleaseDate": "1/1/1983",
+      "Developers": [
+        "Midway Games",
+        "Bally Midway",
+        "Zilec Electronics"
+      ],
+      "ReleaseDate": "1/1/1982",
       "Regions": [
         "US"
       ],
@@ -4688,7 +5514,9 @@
       ],
       "Tags": [
         "Bad Dump",
-        "Alternate"
+        "Alternate",
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -4780,9 +5608,12 @@
         ],
         "TGDB": [
           "5136"
+        ],
+        "RAWG": [
+          "55200"
         ]
       },
-      "OverviewId": 14,
+      "OverviewId": 115,
       "Size": 16384,
       "Publishers": [
         "Big Five Software"
@@ -4790,7 +5621,8 @@
       "Developers": [
         "Big Five Software"
       ],
-      "ReleaseDate": "3/1/1984",
+      "ReleaseDate": "1/1/1984",
+      "Score": 4.75,
       "Genres": [
         "Action"
       ],
@@ -4799,6 +5631,9 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer"
       ]
     },
     {
@@ -4813,9 +5648,12 @@
         ],
         "TGDB": [
           "5136"
+        ],
+        "RAWG": [
+          "55200"
         ]
       },
-      "OverviewId": 14,
+      "OverviewId": 115,
       "Size": 8192,
       "Publishers": [
         "Big Five Software"
@@ -4823,7 +5661,8 @@
       "Developers": [
         "Big Five Software"
       ],
-      "ReleaseDate": "3/1/1984",
+      "ReleaseDate": "1/1/1984",
+      "Score": 4.75,
       "Genres": [
         "Action"
       ],
@@ -4832,6 +5671,9 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer"
       ]
     },
     {
@@ -4846,9 +5688,12 @@
         ],
         "TGDB": [
           "5136"
+        ],
+        "RAWG": [
+          "55200"
         ]
       },
-      "OverviewId": 14,
+      "OverviewId": 115,
       "Size": 40960,
       "Publishers": [
         "Big Five Software"
@@ -4856,7 +5701,8 @@
       "Developers": [
         "Big Five Software"
       ],
-      "ReleaseDate": "3/1/1984",
+      "ReleaseDate": "1/1/1984",
+      "Score": 4.75,
       "Genres": [
         "Action"
       ],
@@ -4865,6 +5711,9 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer"
       ]
     },
     {
@@ -4879,9 +5728,12 @@
         ],
         "TGDB": [
           "5136"
+        ],
+        "RAWG": [
+          "55200"
         ]
       },
-      "OverviewId": 14,
+      "OverviewId": 115,
       "Size": 16384,
       "Publishers": [
         "Big Five Software"
@@ -4889,7 +5741,8 @@
       "Developers": [
         "Big Five Software"
       ],
-      "ReleaseDate": "3/1/1984",
+      "ReleaseDate": "1/1/1984",
+      "Score": 4.75,
       "Genres": [
         "Action"
       ],
@@ -4900,7 +5753,8 @@
         "en"
       ],
       "Tags": [
-        "Alternate"
+        "Alternate",
+        "Singleplayer"
       ]
     },
     {
@@ -4928,6 +5782,7 @@
       ],
       "ReleaseDate": "11/1/1983",
       "ESRB": "E",
+      "Score": 3.3,
       "Genres": [
         "Action"
       ],
@@ -4966,6 +5821,7 @@
       ],
       "ReleaseDate": "11/1/1983",
       "ESRB": "E",
+      "Score": 3.3,
       "Genres": [
         "Action"
       ],
@@ -5001,6 +5857,7 @@
       ],
       "ReleaseDate": "11/1/1983",
       "ESRB": "E",
+      "Score": 3.3,
       "Genres": [
         "Action"
       ],
@@ -5092,20 +5949,29 @@
         ],
         "TGDB": [
           "5143"
+        ],
+        "RAWG": [
+          "58026"
         ]
       },
-      "OverviewId": 20,
+      "OverviewId": 106,
       "Size": 32768,
       "Publishers": [
         "Atari",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "SEGA",
+        "Brøderbund",
+        "Ariolasoft",
+        "Europe"
       ],
       "Developers": [
         "Dan Gorlin"
       ],
-      "ReleaseDate": "1/1/1984",
+      "ReleaseDate": "5/1/1982",
+      "Score": 3.875,
       "Genres": [
-        "Action"
+        "Action",
+        "Strategy"
       ],
       "Regions": [
         "US"
@@ -5114,7 +5980,8 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "Singleplayer"
       ]
     },
     {
@@ -5129,20 +5996,27 @@
         ],
         "TGDB": [
           "5147"
+        ],
+        "RAWG": [
+          "52502"
         ]
       },
-      "OverviewId": 21,
+      "OverviewId": 116,
       "Size": 16384,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
-      "ReleaseDate": "12/1/1983",
+      "ReleaseDate": "1/1/1983",
       "ESRB": "E",
+      "Score": 3.075,
       "Genres": [
-        "Action"
+        "Action",
+        "Platformer"
       ],
       "Regions": [
         "US"
@@ -5151,7 +6025,9 @@
         "en"
       ],
       "Tags": [
-        "Alternate"
+        "Alternate",
+        "alternating turns",
+        "2 players"
       ]
     },
     {
@@ -5166,20 +6042,27 @@
         ],
         "TGDB": [
           "5147"
+        ],
+        "RAWG": [
+          "52502"
         ]
       },
-      "OverviewId": 21,
+      "OverviewId": 116,
       "Size": 32768,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
-      "ReleaseDate": "12/1/1983",
+      "ReleaseDate": "1/1/1983",
       "ESRB": "E",
+      "Score": 3.075,
       "Genres": [
-        "Action"
+        "Action",
+        "Platformer"
       ],
       "Regions": [
         "US"
@@ -5187,7 +6070,10 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "alternating turns",
+        "2 players"
+      ]
     },
     {
       "Titles": [
@@ -5201,20 +6087,27 @@
         ],
         "TGDB": [
           "5147"
+        ],
+        "RAWG": [
+          "52502"
         ]
       },
-      "OverviewId": 21,
+      "OverviewId": 116,
       "Size": 32768,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
-      "ReleaseDate": "12/1/1983",
+      "ReleaseDate": "1/1/1983",
       "ESRB": "E",
+      "Score": 3.075,
       "Genres": [
-        "Action"
+        "Action",
+        "Platformer"
       ],
       "Regions": [
         "US"
@@ -5223,7 +6116,9 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "alternating turns",
+        "2 players"
       ]
     },
     {
@@ -5247,6 +6142,7 @@
         "Atari, Inc."
       ],
       "ReleaseDate": "1/1/1982",
+      "Score": 3.625,
       "Regions": [
         "US"
       ],
@@ -5716,19 +6612,27 @@
         ],
         "TGDB": [
           "5151"
+        ],
+        "RAWG": [
+          "52415"
         ]
       },
-      "OverviewId": 23,
+      "OverviewId": 148,
       "Size": 32768,
       "Publishers": [
         "Atari",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Taito",
+        "Williams Electronics"
       ],
       "Developers": [
-        "Williams"
+        "Williams",
+        "Williams Electronics",
+        "WMS Industries"
       ],
-      "ReleaseDate": "12/1/1982",
+      "ReleaseDate": "2/1/1981",
       "ESRB": "E",
+      "Score": 4.208333333333334,
       "Genres": [
         "Shooter"
       ],
@@ -5738,7 +6642,10 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "alternating turns",
+        "2 players"
+      ]
     },
     {
       "Titles": [
@@ -5752,19 +6659,27 @@
         ],
         "TGDB": [
           "5151"
+        ],
+        "RAWG": [
+          "52415"
         ]
       },
-      "OverviewId": 23,
+      "OverviewId": 148,
       "Size": 28672,
       "Publishers": [
         "Atari",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Taito",
+        "Williams Electronics"
       ],
       "Developers": [
-        "Williams"
+        "Williams",
+        "Williams Electronics",
+        "WMS Industries"
       ],
-      "ReleaseDate": "12/1/1982",
+      "ReleaseDate": "2/1/1981",
       "ESRB": "E",
+      "Score": 4.208333333333334,
       "Genres": [
         "Shooter"
       ],
@@ -5775,12 +6690,15 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "alternating turns",
+        "2 players"
       ]
     },
     {
       "Titles": [
-        "Dig Dug"
+        "Dig Dug",
+        "Dig Dug (1982)"
       ],
       "Sha1": "1fc1dddf5ab581d3f0b2950723509b23392dd811",
       "Crc32": "d29bb9a9",
@@ -5790,19 +6708,26 @@
         ],
         "TGDB": [
           "5153"
+        ],
+        "RAWG": [
+          "52418"
         ]
       },
-      "OverviewId": 24,
+      "OverviewId": 147,
       "Size": 32768,
       "Publishers": [
-        "Atari"
+        "Atari",
+        "Namco"
       ],
       "Developers": [
-        "Atari"
+        "Atari",
+        "NAMCO"
       ],
-      "ReleaseDate": "5/5/1983",
+      "ReleaseDate": "4/19/1982",
+      "Score": 3.4833333333333334,
       "Genres": [
-        "Strategy"
+        "Strategy",
+        "Action"
       ],
       "Regions": [
         "US"
@@ -5811,7 +6736,9 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "Singleplayer",
+        "2 players"
       ]
     },
     {
@@ -5830,6 +6757,7 @@
         "Activision"
       ],
       "ReleaseDate": "1/1/1983",
+      "Score": 4.0,
       "Regions": [
         "US"
       ],
@@ -5842,7 +6770,8 @@
     },
     {
       "Titles": [
-        "Frogger"
+        "Frogger",
+        "Frogger (1981)"
       ],
       "Sha1": "d3b0f2c2fe712865786633bde5ce80ce53d5cea7",
       "Crc32": "99dc4f40",
@@ -5852,17 +6781,30 @@
         ],
         "TGDB": [
           "5156"
+        ],
+        "RAWG": [
+          "52522"
         ]
       },
-      "OverviewId": 28,
+      "OverviewId": 98,
       "Size": 8192,
       "Publishers": [
-        "Parker Brothers"
+        "Parker Brothers",
+        "SEGA",
+        "Hasbro Interactive",
+        "Gremlin"
       ],
-      "ReleaseDate": "1/1/1983",
+      "Developers": [
+        "Konami Digital Entertainment",
+        "SCE Cambridge Studio",
+        "Guerrilla Cambridge"
+      ],
+      "ReleaseDate": "1/1/1981",
       "ESRB": "E",
+      "Score": 3.4625,
       "Genres": [
-        "Action"
+        "Action",
+        "Arcade"
       ],
       "Regions": [
         "US"
@@ -5871,12 +6813,17 @@
         "en"
       ],
       "Tags": [
-        "Alternate"
+        "Alternate",
+        "Multiplayer",
+        "Singleplayer",
+        "alternating turns",
+        "2 players"
       ]
     },
     {
       "Titles": [
-        "Frogger"
+        "Frogger",
+        "Frogger (1981)"
       ],
       "Sha1": "866bd3740e142e83797d76824345261b25741830",
       "Crc32": "8db0dde4",
@@ -5886,28 +6833,48 @@
         ],
         "TGDB": [
           "5156"
+        ],
+        "RAWG": [
+          "52522"
         ]
       },
-      "OverviewId": 28,
+      "OverviewId": 98,
       "Size": 32768,
       "Publishers": [
-        "Parker Brothers"
+        "Parker Brothers",
+        "SEGA",
+        "Hasbro Interactive",
+        "Gremlin"
       ],
-      "ReleaseDate": "1/1/1983",
+      "Developers": [
+        "Konami Digital Entertainment",
+        "SCE Cambridge Studio",
+        "Guerrilla Cambridge"
+      ],
+      "ReleaseDate": "1/1/1981",
       "ESRB": "E",
+      "Score": 3.4625,
       "Genres": [
-        "Action"
+        "Action",
+        "Arcade"
       ],
       "Regions": [
         "US"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer",
+        "alternating turns",
+        "2 players"
       ]
     },
     {
       "Titles": [
-        "Frogger"
+        "Frogger",
+        "Frogger (1981)"
       ],
       "Sha1": "279211d86c556d90164fb400102dd7ff79feb3b7",
       "Crc32": "1062ef6a",
@@ -5917,17 +6884,30 @@
         ],
         "TGDB": [
           "5156"
+        ],
+        "RAWG": [
+          "52522"
         ]
       },
-      "OverviewId": 28,
+      "OverviewId": 98,
       "Size": 16384,
       "Publishers": [
-        "Parker Brothers"
+        "Parker Brothers",
+        "SEGA",
+        "Hasbro Interactive",
+        "Gremlin"
       ],
-      "ReleaseDate": "1/1/1983",
+      "Developers": [
+        "Konami Digital Entertainment",
+        "SCE Cambridge Studio",
+        "Guerrilla Cambridge"
+      ],
+      "ReleaseDate": "1/1/1981",
       "ESRB": "E",
+      "Score": 3.4625,
       "Genres": [
-        "Action"
+        "Action",
+        "Arcade"
       ],
       "Regions": [
         "US"
@@ -5936,12 +6916,17 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "Multiplayer",
+        "Singleplayer",
+        "alternating turns",
+        "2 players"
       ]
     },
     {
       "Titles": [
-        "Frogger"
+        "Frogger",
+        "Frogger (1981)"
       ],
       "Sha1": "1d92077b4a821cd68eccdbb6201f76f3d0b81634",
       "Crc32": "7936aa92",
@@ -5951,28 +6936,48 @@
         ],
         "TGDB": [
           "5156"
+        ],
+        "RAWG": [
+          "52522"
         ]
       },
-      "OverviewId": 28,
+      "OverviewId": 98,
       "Size": 32768,
       "Publishers": [
-        "Parker Brothers"
+        "Parker Brothers",
+        "SEGA",
+        "Hasbro Interactive",
+        "Gremlin"
       ],
-      "ReleaseDate": "1/1/1983",
+      "Developers": [
+        "Konami Digital Entertainment",
+        "SCE Cambridge Studio",
+        "Guerrilla Cambridge"
+      ],
+      "ReleaseDate": "1/1/1981",
       "ESRB": "E",
+      "Score": 3.4625,
       "Genres": [
-        "Action"
+        "Action",
+        "Arcade"
       ],
       "Regions": [
         "US"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer",
+        "alternating turns",
+        "2 players"
       ]
     },
     {
       "Titles": [
-        "Frogger"
+        "Frogger",
+        "Frogger (1981)"
       ],
       "Sha1": "5dcba2e5791812fa381ea7a192db38b937b19434",
       "Crc32": "0b7e77fc",
@@ -5982,17 +6987,30 @@
         ],
         "TGDB": [
           "5156"
+        ],
+        "RAWG": [
+          "52522"
         ]
       },
-      "OverviewId": 28,
+      "OverviewId": 98,
       "Size": 16384,
       "Publishers": [
-        "Parker Brothers"
+        "Parker Brothers",
+        "SEGA",
+        "Hasbro Interactive",
+        "Gremlin"
       ],
-      "ReleaseDate": "1/1/1983",
+      "Developers": [
+        "Konami Digital Entertainment",
+        "SCE Cambridge Studio",
+        "Guerrilla Cambridge"
+      ],
+      "ReleaseDate": "1/1/1981",
       "ESRB": "E",
+      "Score": 3.4625,
       "Genres": [
-        "Action"
+        "Action",
+        "Arcade"
       ],
       "Regions": [
         "US"
@@ -6001,14 +7019,19 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "Multiplayer",
+        "Singleplayer",
+        "alternating turns",
+        "2 players"
       ]
     },
     {
       "Titles": [
         "Frogger II - Threeedeep!",
         "Frogger II: Threeedeep!",
-        "Frogger II"
+        "Frogger II",
+        "Frogger II: ThreeeDeep!"
       ],
       "Sha1": "0ef069dc39aaa0e440acaf0f04a7123b2b77f2ac",
       "Crc32": "dc1437d0",
@@ -6018,18 +7041,23 @@
         ],
         "TGDB": [
           "5157"
+        ],
+        "RAWG": [
+          "52524"
         ]
       },
-      "OverviewId": 29,
+      "OverviewId": 100,
       "Size": 16384,
       "Publishers": [
-        "Parker Brothers"
+        "Parker Brothers",
+        "SEGA"
       ],
       "Developers": [
         "Parker Brothers"
       ],
-      "ReleaseDate": "9/1/1984",
+      "ReleaseDate": "1/1/1984",
       "ESRB": "E",
+      "Score": 4.25,
       "Genres": [
         "Action"
       ],
@@ -6040,14 +7068,17 @@
         "en"
       ],
       "Tags": [
-        "Alternate"
+        "Alternate",
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
       "Titles": [
         "Frogger II - Threeedeep!",
         "Frogger II: Threeedeep!",
-        "Frogger II"
+        "Frogger II",
+        "Frogger II: ThreeeDeep!"
       ],
       "Sha1": "ed21bfabfc02964192577c4d94f33428482c9310",
       "Crc32": "1418c44a",
@@ -6057,96 +7088,23 @@
         ],
         "TGDB": [
           "5157"
+        ],
+        "RAWG": [
+          "52524"
         ]
       },
-      "OverviewId": 29,
+      "OverviewId": 100,
       "Size": 32768,
       "Publishers": [
-        "Parker Brothers"
+        "Parker Brothers",
+        "SEGA"
       ],
       "Developers": [
         "Parker Brothers"
       ],
-      "ReleaseDate": "9/1/1984",
+      "ReleaseDate": "1/1/1984",
       "ESRB": "E",
-      "Genres": [
-        "Action"
-      ],
-      "Regions": [
-        "US"
-      ],
-      "Languages": [
-        "en"
-      ],
-      "Tags": [
-        "Bad Dump"
-      ]
-    },
-    {
-      "Titles": [
-        "Frogger II - Threeedeep!",
-        "Frogger II: Threeedeep!",
-        "Frogger II"
-      ],
-      "Sha1": "5644f3d7e68379d7162ddec30cfbe160688e660c",
-      "Crc32": "0fe438b3",
-      "SetNames": {
-        "TOSEC": [
-          "Frogger II - Threeedeep! (1984)(Parker Brothers)(US)[o2][a][9090]"
-        ],
-        "TGDB": [
-          "5157"
-        ]
-      },
-      "OverviewId": 29,
-      "Size": 16384,
-      "Publishers": [
-        "Parker Brothers"
-      ],
-      "Developers": [
-        "Parker Brothers"
-      ],
-      "ReleaseDate": "9/1/1984",
-      "ESRB": "E",
-      "Genres": [
-        "Action"
-      ],
-      "Regions": [
-        "US"
-      ],
-      "Languages": [
-        "en"
-      ],
-      "Tags": [
-        "Alternate"
-      ]
-    },
-    {
-      "Titles": [
-        "Frogger II - Threeedeep!",
-        "Frogger II: Threeedeep!",
-        "Frogger II"
-      ],
-      "Sha1": "d5bdb5a33b18421ac330abb0a509655e772e467d",
-      "Crc32": "110d6fbc",
-      "SetNames": {
-        "TOSEC": [
-          "Frogger II - Threeedeep! (1984)(Parker Brothers)(US)[o][a][9090]"
-        ],
-        "TGDB": [
-          "5157"
-        ]
-      },
-      "OverviewId": 29,
-      "Size": 32768,
-      "Publishers": [
-        "Parker Brothers"
-      ],
-      "Developers": [
-        "Parker Brothers"
-      ],
-      "ReleaseDate": "9/1/1984",
-      "ESRB": "E",
+      "Score": 4.25,
       "Genres": [
         "Action"
       ],
@@ -6158,7 +7116,103 @@
       ],
       "Tags": [
         "Bad Dump",
-        "Alternate"
+        "Multiplayer",
+        "Singleplayer"
+      ]
+    },
+    {
+      "Titles": [
+        "Frogger II - Threeedeep!",
+        "Frogger II: Threeedeep!",
+        "Frogger II",
+        "Frogger II: ThreeeDeep!"
+      ],
+      "Sha1": "5644f3d7e68379d7162ddec30cfbe160688e660c",
+      "Crc32": "0fe438b3",
+      "SetNames": {
+        "TOSEC": [
+          "Frogger II - Threeedeep! (1984)(Parker Brothers)(US)[o2][a][9090]"
+        ],
+        "TGDB": [
+          "5157"
+        ],
+        "RAWG": [
+          "52524"
+        ]
+      },
+      "OverviewId": 100,
+      "Size": 16384,
+      "Publishers": [
+        "Parker Brothers",
+        "SEGA"
+      ],
+      "Developers": [
+        "Parker Brothers"
+      ],
+      "ReleaseDate": "1/1/1984",
+      "ESRB": "E",
+      "Score": 4.25,
+      "Genres": [
+        "Action"
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Alternate",
+        "Multiplayer",
+        "Singleplayer"
+      ]
+    },
+    {
+      "Titles": [
+        "Frogger II - Threeedeep!",
+        "Frogger II: Threeedeep!",
+        "Frogger II",
+        "Frogger II: ThreeeDeep!"
+      ],
+      "Sha1": "d5bdb5a33b18421ac330abb0a509655e772e467d",
+      "Crc32": "110d6fbc",
+      "SetNames": {
+        "TOSEC": [
+          "Frogger II - Threeedeep! (1984)(Parker Brothers)(US)[o][a][9090]"
+        ],
+        "TGDB": [
+          "5157"
+        ],
+        "RAWG": [
+          "52524"
+        ]
+      },
+      "OverviewId": 100,
+      "Size": 32768,
+      "Publishers": [
+        "Parker Brothers",
+        "SEGA"
+      ],
+      "Developers": [
+        "Parker Brothers"
+      ],
+      "ReleaseDate": "1/1/1984",
+      "ESRB": "E",
+      "Score": 4.25,
+      "Genres": [
+        "Action"
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump",
+        "Alternate",
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -6173,19 +7227,25 @@
         ],
         "TGDB": [
           "5158"
+        ],
+        "RAWG": [
+          "52423"
         ]
       },
-      "OverviewId": 30,
+      "OverviewId": 144,
       "Size": 32766,
       "Publishers": [
         "Atari",
-        "Atari, Inc."
-      ],
-      "Developers": [
+        "Atari, Inc.",
         "Namco"
       ],
-      "ReleaseDate": "1/1/1982",
+      "Developers": [
+        "Namco",
+        "NAMCO"
+      ],
+      "ReleaseDate": "1/1/1979",
       "ESRB": "E",
+      "Score": 3.6625,
       "Genres": [
         "Shooter"
       ],
@@ -6196,7 +7256,9 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "alternating turns",
+        "2 players"
       ]
     },
     {
@@ -6211,19 +7273,25 @@
         ],
         "TGDB": [
           "5158"
+        ],
+        "RAWG": [
+          "52423"
         ]
       },
-      "OverviewId": 30,
+      "OverviewId": 144,
       "Size": 16384,
       "Publishers": [
         "Atari",
-        "Atari, Inc."
-      ],
-      "Developers": [
+        "Atari, Inc.",
         "Namco"
       ],
-      "ReleaseDate": "1/1/1982",
+      "Developers": [
+        "Namco",
+        "NAMCO"
+      ],
+      "ReleaseDate": "1/1/1979",
       "ESRB": "E",
+      "Score": 3.6625,
       "Genres": [
         "Shooter"
       ],
@@ -6233,7 +7301,10 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "alternating turns",
+        "2 players"
+      ]
     },
     {
       "Titles": [
@@ -6247,19 +7318,25 @@
         ],
         "TGDB": [
           "5158"
+        ],
+        "RAWG": [
+          "52423"
         ]
       },
-      "OverviewId": 30,
+      "OverviewId": 144,
       "Size": 32768,
       "Publishers": [
         "Atari",
-        "Atari, Inc."
-      ],
-      "Developers": [
+        "Atari, Inc.",
         "Namco"
       ],
-      "ReleaseDate": "1/1/1982",
+      "Developers": [
+        "Namco",
+        "NAMCO"
+      ],
+      "ReleaseDate": "1/1/1979",
       "ESRB": "E",
+      "Score": 3.6625,
       "Genres": [
         "Shooter"
       ],
@@ -6270,7 +7347,9 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "alternating turns",
+        "2 players"
       ]
     },
     {
@@ -6285,20 +7364,30 @@
         ],
         "TGDB": [
           "5160"
+        ],
+        "RAWG": [
+          "52530"
         ]
       },
-      "OverviewId": 31,
+      "OverviewId": 133,
       "Size": 16384,
       "Publishers": [
         "CBS Electronics - Bally Midway",
-        "CBS Electronics"
+        "CBS Electronics",
+        "Midway Games",
+        "Midway",
+        "Commodore International",
+        "Roklan Corporation"
       ],
       "Developers": [
         "Midway",
-        "Bally"
+        "Bally",
+        "Dave Nutting Associates",
+        "Dave Nutting"
       ],
-      "ReleaseDate": "10/1/1983",
+      "ReleaseDate": "1/1/1981",
       "ESRB": "E",
+      "Score": 2.8833333333333333,
       "Genres": [
         "Shooter"
       ],
@@ -6306,7 +7395,11 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "Multiplayer",
+        "Singleplayer",
+        "alternating turns",
+        "2 players"
       ]
     },
     {
@@ -6321,9 +7414,12 @@
         ],
         "TGDB": [
           "5161"
+        ],
+        "RAWG": [
+          "52426"
         ]
       },
-      "OverviewId": 32,
+      "OverviewId": 123,
       "Size": 32768,
       "Publishers": [
         "Atari"
@@ -6331,15 +7427,20 @@
       "Developers": [
         "Atari"
       ],
-      "ReleaseDate": "5/1/1986",
+      "ReleaseDate": "1/1/1984",
+      "Score": 4.583333333333334,
       "Genres": [
-        "Adventure"
+        "Adventure",
+        "Action"
       ],
       "Regions": [
         "US"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "2 players"
       ]
     },
     {
@@ -6354,9 +7455,12 @@
         ],
         "TGDB": [
           "5161"
+        ],
+        "RAWG": [
+          "52426"
         ]
       },
-      "OverviewId": 32,
+      "OverviewId": 123,
       "Size": 32768,
       "Publishers": [
         "Atari"
@@ -6364,9 +7468,11 @@
       "Developers": [
         "Atari"
       ],
-      "ReleaseDate": "5/1/1986",
+      "ReleaseDate": "1/1/1984",
+      "Score": 4.583333333333334,
       "Genres": [
-        "Adventure"
+        "Adventure",
+        "Action"
       ],
       "Regions": [
         "US"
@@ -6375,7 +7481,8 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "2 players"
       ]
     },
     {
@@ -6387,13 +7494,24 @@
       "SetNames": {
         "TOSEC": [
           "H.E.R.O. (1984)(Activision)(US)[b][FZ-007]"
+        ],
+        "RAWG": [
+          "52535"
         ]
       },
+      "OverviewId": 108,
       "Size": 32768,
       "Publishers": [
+        "Activision",
+        "Activision Blizzard"
+      ],
+      "Developers": [
         "Activision"
       ],
       "ReleaseDate": "1/1/1984",
+      "Genres": [
+        "Action"
+      ],
       "Regions": [
         "US"
       ],
@@ -6401,7 +7519,13 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "japan",
+        "atari",
+        "mine",
+        "jetpack",
+        "helicopter",
+        "console"
       ]
     },
     {
@@ -6413,13 +7537,24 @@
       "SetNames": {
         "TOSEC": [
           "H.E.R.O. (1984)(Activision)(US)[o][FZ-007]"
+        ],
+        "RAWG": [
+          "52535"
         ]
       },
+      "OverviewId": 108,
       "Size": 32768,
       "Publishers": [
+        "Activision",
+        "Activision Blizzard"
+      ],
+      "Developers": [
         "Activision"
       ],
       "ReleaseDate": "1/1/1984",
+      "Genres": [
+        "Action"
+      ],
       "Regions": [
         "US"
       ],
@@ -6427,7 +7562,13 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "japan",
+        "atari",
+        "mine",
+        "jetpack",
+        "helicopter",
+        "console"
       ]
     },
     {
@@ -6462,17 +7603,23 @@
         ],
         "TGDB": [
           "5165"
+        ],
+        "RAWG": [
+          "52537"
         ]
       },
-      "OverviewId": 34,
+      "OverviewId": 105,
       "Size": 32768,
       "Publishers": [
-        "Parker Brothers"
+        "Parker Brothers",
+        "Nintendo"
       ],
       "Developers": [
-        "Parker Brothers"
+        "Parker Brothers",
+        "Saffire Corporation",
+        "Saffire"
       ],
-      "ReleaseDate": "11/2/1984",
+      "ReleaseDate": "1/1/1983",
       "Genres": [
         "Action"
       ],
@@ -6481,6 +7628,9 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer"
       ]
     },
     {
@@ -6495,17 +7645,23 @@
         ],
         "TGDB": [
           "5165"
+        ],
+        "RAWG": [
+          "52537"
         ]
       },
-      "OverviewId": 34,
+      "OverviewId": 105,
       "Size": 32768,
       "Publishers": [
-        "Parker Brothers"
+        "Parker Brothers",
+        "Nintendo"
       ],
       "Developers": [
-        "Parker Brothers"
+        "Parker Brothers",
+        "Saffire Corporation",
+        "Saffire"
       ],
-      "ReleaseDate": "11/2/1984",
+      "ReleaseDate": "1/1/1983",
       "Genres": [
         "Action"
       ],
@@ -6516,7 +7672,8 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "Singleplayer"
       ]
     },
     {
@@ -6531,22 +7688,40 @@
         ],
         "TGDB": [
           "5167"
+        ],
+        "RAWG": [
+          "28279"
         ]
       },
-      "OverviewId": 35,
+      "OverviewId": 97,
       "Size": 32768,
       "Publishers": [
         "Atari",
-        "Williams Electronic Games, Inc."
+        "Williams Electronic Games, Inc.",
+        "Atarisoft",
+        "Williams Electronics",
+        "Game Life Studio"
       ],
       "Developers": [
-        "Williams"
+        "Williams",
+        "Digital Eclipse",
+        "Williams Electronics",
+        "WMS Industries",
+        "Game Life Studio"
       ],
-      "ReleaseDate": "10/1/1983",
+      "ReleaseDate": "7/16/1982",
       "ESRB": "E",
+      "Score": 3.65,
       "Genres": [
         "Action",
-        "Platform"
+        "Platform",
+        "Adventure",
+        "Simulation",
+        "Sports",
+        "Arcade",
+        "Casual",
+        "Massively Multiplayer",
+        "Indie"
       ],
       "Regions": [
         "US"
@@ -6556,7 +7731,20 @@
       ],
       "Tags": [
         "Bad Dump",
-        "Co-op"
+        "Co-op",
+        "Partial Controller Support",
+        "Early Access",
+        "e-sports",
+        "Fantasy",
+        "Multiplayer",
+        "Open World",
+        "Sandbox",
+        "Singleplayer",
+        "Survival",
+        "Third Person",
+        "Online multiplayer",
+        "cooperative",
+        "2 players"
       ]
     },
     {
@@ -6583,6 +7771,7 @@
         "Atari"
       ],
       "ReleaseDate": "2/28/1984",
+      "Score": 4.916666666666666,
       "Genres": [
         "Action"
       ],
@@ -6621,6 +7810,7 @@
         "Atari"
       ],
       "ReleaseDate": "2/28/1984",
+      "Score": 4.916666666666666,
       "Genres": [
         "Action"
       ],
@@ -6658,6 +7848,7 @@
         "Atari"
       ],
       "ReleaseDate": "2/28/1984",
+      "Score": 4.916666666666666,
       "Genres": [
         "Action"
       ],
@@ -6704,18 +7895,27 @@
         ],
         "TGDB": [
           "5169"
+        ],
+        "RAWG": [
+          "52432"
         ]
       },
-      "OverviewId": 37,
+      "OverviewId": 129,
       "Size": 32768,
       "Publishers": [
         "Atari",
-        "Taito Corporation"
+        "Taito Corporation",
+        "TAITO Corporation",
+        "Taito"
       ],
       "Developers": [
-        "Taito Corporation"
+        "Taito Corporation",
+        "Atari",
+        "Taito",
+        "TAITO Corporation"
       ],
-      "ReleaseDate": "1/1/1983",
+      "ReleaseDate": "3/18/1982",
+      "Score": 3.7333333333333334,
       "Genres": [
         "Action",
         "Platform"
@@ -6727,7 +7927,8 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "2 players"
       ]
     },
     {
@@ -6743,19 +7944,27 @@
         ],
         "TGDB": [
           "5176"
+        ],
+        "RAWG": [
+          "55202"
         ]
       },
-      "OverviewId": 38,
+      "OverviewId": 143,
       "Size": 16384,
       "Publishers": [
-        "CBS Electronics - Kay Enterprizes"
+        "CBS Electronics - Kay Enterprizes",
+        "CBS Software",
+        "K-Byte"
       ],
       "Developers": [
-        "CBS Electronics"
+        "CBS Electronics",
+        "K-Byte"
       ],
-      "ReleaseDate": "5/4/1983",
+      "ReleaseDate": "10/1/1983",
+      "Score": 2.5,
       "Genres": [
-        "Shooter"
+        "Shooter",
+        "Action"
       ],
       "Regions": [
         "US"
@@ -6764,7 +7973,11 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "party",
+        "atari",
+        "shoot",
+        "clone"
       ]
     },
     {
@@ -6779,15 +7992,23 @@
         ],
         "TGDB": [
           "5170"
+        ],
+        "RAWG": [
+          "52540"
         ]
       },
-      "OverviewId": 39,
+      "OverviewId": 130,
       "Size": 16384,
       "Publishers": [
+        "Activision",
+        "Activision Blizzard"
+      ],
+      "Developers": [
         "Activision"
       ],
-      "ReleaseDate": "11/1/1983",
+      "ReleaseDate": "1/1/1981",
       "ESRB": "E",
+      "Score": 3.75,
       "Genres": [
         "Action"
       ],
@@ -6798,7 +8019,8 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "Singleplayer"
       ]
     },
     {
@@ -6813,15 +8035,24 @@
         ],
         "TGDB": [
           "5171"
+        ],
+        "RAWG": [
+          "52431"
         ]
       },
-      "OverviewId": 40,
+      "OverviewId": 121,
       "Size": 16384,
       "Publishers": [
-        "Atari"
+        "Atari",
+        "Sun Electronics"
       ],
-      "ReleaseDate": "5/2/1983",
+      "Developers": [
+        "SunSoft",
+        "Sun Electronics"
+      ],
+      "ReleaseDate": "1/1/1982",
       "ESRB": "E",
+      "Score": 4.25,
       "Genres": [
         "Platform"
       ],
@@ -6831,7 +8062,12 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "Singleplayer",
+        "alternating turns",
+        "cooperative",
+        "2 players"
+      ]
     },
     {
       "Titles": [
@@ -6845,15 +8081,24 @@
         ],
         "TGDB": [
           "5171"
+        ],
+        "RAWG": [
+          "52431"
         ]
       },
-      "OverviewId": 40,
+      "OverviewId": 121,
       "Size": 32768,
       "Publishers": [
-        "Atari"
+        "Atari",
+        "Sun Electronics"
       ],
-      "ReleaseDate": "5/2/1983",
+      "Developers": [
+        "SunSoft",
+        "Sun Electronics"
+      ],
+      "ReleaseDate": "1/1/1982",
       "ESRB": "E",
+      "Score": 4.25,
       "Genres": [
         "Platform"
       ],
@@ -6864,7 +8109,11 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "Singleplayer",
+        "alternating turns",
+        "cooperative",
+        "2 players"
       ]
     },
     {
@@ -6879,15 +8128,24 @@
         ],
         "TGDB": [
           "5171"
+        ],
+        "RAWG": [
+          "52431"
         ]
       },
-      "OverviewId": 40,
+      "OverviewId": 121,
       "Size": 32768,
       "Publishers": [
-        "Atari"
+        "Atari",
+        "Sun Electronics"
       ],
-      "ReleaseDate": "5/2/1983",
+      "Developers": [
+        "SunSoft",
+        "Sun Electronics"
+      ],
+      "ReleaseDate": "1/1/1982",
       "ESRB": "E",
+      "Score": 4.25,
       "Genres": [
         "Platform"
       ],
@@ -6898,7 +8156,11 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "Singleplayer",
+        "alternating turns",
+        "cooperative",
+        "2 players"
       ]
     },
     {
@@ -6913,15 +8175,23 @@
         ],
         "TGDB": [
           "5172"
+        ],
+        "RAWG": [
+          "52497"
         ]
       },
-      "OverviewId": 41,
+      "OverviewId": 119,
       "Size": 32768,
       "Publishers": [
+        "Activision",
+        "Activision Blizzard"
+      ],
+      "Developers": [
         "Activision"
       ],
-      "ReleaseDate": "7/1/1984",
+      "ReleaseDate": "1/1/1983",
       "ESRB": "E",
+      "Score": 4.1,
       "Genres": [
         "Platform"
       ],
@@ -6932,7 +8202,8 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "Singleplayer"
       ]
     },
     {
@@ -6947,15 +8218,23 @@
         ],
         "TGDB": [
           "5172"
+        ],
+        "RAWG": [
+          "52497"
         ]
       },
-      "OverviewId": 41,
+      "OverviewId": 119,
       "Size": 32768,
       "Publishers": [
+        "Activision",
+        "Activision Blizzard"
+      ],
+      "Developers": [
         "Activision"
       ],
-      "ReleaseDate": "7/1/1984",
+      "ReleaseDate": "1/1/1983",
       "ESRB": "E",
+      "Score": 4.1,
       "Genres": [
         "Platform"
       ],
@@ -6966,7 +8245,8 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "Singleplayer"
       ]
     },
     {
@@ -6985,6 +8265,7 @@
         "Lloyd, Ron"
       ],
       "ReleaseDate": "1/1/2002",
+      "Score": 4.725,
       "Regions": [
         "US"
       ],
@@ -7156,7 +8437,8 @@
     },
     {
       "Titles": [
-        "Mario Bros."
+        "Mario Bros.",
+        "Mario Bros. (1983)"
       ],
       "Sha1": "39cd2d87c4fefd2fe12a4d6485101235fe55b070",
       "Crc32": "6b3f1179",
@@ -7166,18 +8448,24 @@
         ],
         "TGDB": [
           "5178"
+        ],
+        "RAWG": [
+          "52434"
         ]
       },
-      "OverviewId": 44,
+      "OverviewId": 99,
       "Size": 32768,
       "Publishers": [
         "Atari",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Nintendo"
       ],
       "Developers": [
-        "Atari"
+        "Atari",
+        "Nintendo"
       ],
-      "ReleaseDate": "3/24/1983",
+      "ReleaseDate": "1/1/1983",
+      "Score": 3.25,
       "Genres": [
         "Platform"
       ],
@@ -7188,12 +8476,16 @@
         "en"
       ],
       "Tags": [
-        "Alternate"
+        "Alternate",
+        "Multiplayer",
+        "Singleplayer",
+        "cooperative"
       ]
     },
     {
       "Titles": [
-        "Mario Bros."
+        "Mario Bros.",
+        "Mario Bros. (1983)"
       ],
       "Sha1": "518d3409b07840547a3d731ddea85e42e7dabb4a",
       "Crc32": "d90f8119",
@@ -7203,18 +8495,24 @@
         ],
         "TGDB": [
           "5178"
+        ],
+        "RAWG": [
+          "52434"
         ]
       },
-      "OverviewId": 44,
+      "OverviewId": 99,
       "Size": 32768,
       "Publishers": [
         "Atari",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Nintendo"
       ],
       "Developers": [
-        "Atari"
+        "Atari",
+        "Nintendo"
       ],
-      "ReleaseDate": "3/24/1983",
+      "ReleaseDate": "1/1/1983",
+      "Score": 3.25,
       "Genres": [
         "Platform"
       ],
@@ -7225,7 +8523,10 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "Multiplayer",
+        "Singleplayer",
+        "cooperative"
       ]
     },
     {
@@ -7240,17 +8541,22 @@
         ],
         "TGDB": [
           "5179"
+        ],
+        "RAWG": [
+          "52548"
         ]
       },
-      "OverviewId": 46,
+      "OverviewId": 114,
       "Size": 16384,
       "Publishers": [
-        "Activision"
+        "Activision",
+        "Activision Blizzard"
       ],
       "Developers": [
         "Activision"
       ],
-      "ReleaseDate": "5/2/1983",
+      "ReleaseDate": "9/1/1982",
+      "Score": 4.4,
       "Genres": [
         "Adventure"
       ],
@@ -7261,7 +8567,9 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -7364,6 +8672,7 @@
         "Atari"
       ],
       "ReleaseDate": "1/31/1984",
+      "Score": 4.0,
       "Genres": [
         "Shooter"
       ],
@@ -7390,6 +8699,9 @@
         ],
         "TGDB": [
           "5181"
+        ],
+        "RAWG": [
+          "779740"
         ]
       },
       "OverviewId": 50,
@@ -7399,6 +8711,7 @@
       ],
       "ReleaseDate": "7/1/1983",
       "ESRB": "E",
+      "Score": 4.375,
       "Genres": [
         "Platform"
       ],
@@ -7452,7 +8765,8 @@
     },
     {
       "Titles": [
-        "Missile Command"
+        "Missile Command",
+        "Missile Command (1980)"
       ],
       "Sha1": "4af5825b38cfc49f55e4ca03e0ae7bd3b8f46c9c",
       "Crc32": "915d6952",
@@ -7462,88 +8776,23 @@
         ],
         "TGDB": [
           "5182"
-        ]
-      },
-      "OverviewId": 52,
-      "Size": 32768,
-      "Publishers": [
-        "Atari",
-        "Atari, Inc."
-      ],
-      "Developers": [
-        "Atari"
-      ],
-      "ReleaseDate": "1/1/1982",
-      "Genres": [
-        "Shooter"
-      ],
-      "Regions": [
-        "US"
-      ],
-      "Languages": [
-        "en"
-      ],
-      "Tags": []
-    },
-    {
-      "Titles": [
-        "Missile Command"
-      ],
-      "Sha1": "b5e8a8af06c401cde5770fd5bece4006764c0898",
-      "Crc32": "d3f15631",
-      "SetNames": {
-        "TOSEC": [
-          "Missile Command (1982)(Atari)(US)[b3][CX5202]"
         ],
-        "TGDB": [
-          "5182"
+        "RAWG": [
+          "52436"
         ]
       },
-      "OverviewId": 52,
+      "OverviewId": 107,
       "Size": 32768,
       "Publishers": [
         "Atari",
         "Atari, Inc."
       ],
       "Developers": [
-        "Atari"
-      ],
-      "ReleaseDate": "1/1/1982",
-      "Genres": [
-        "Shooter"
-      ],
-      "Regions": [
-        "US"
-      ],
-      "Languages": [
-        "en"
-      ],
-      "Tags": []
-    },
-    {
-      "Titles": [
-        "Missile Command"
-      ],
-      "Sha1": "b7677e3faa6cc5e4d53a7afa930a00d761d86347",
-      "Crc32": "8de027d5",
-      "SetNames": {
-        "TOSEC": [
-          "Missile Command (1982)(Atari)(US)[b][CX5202]"
-        ],
-        "TGDB": [
-          "5182"
-        ]
-      },
-      "OverviewId": 52,
-      "Size": 32768,
-      "Publishers": [
         "Atari",
         "Atari, Inc."
       ],
-      "Developers": [
-        "Atari"
-      ],
-      "ReleaseDate": "1/1/1982",
+      "ReleaseDate": "1/1/1980",
+      "Score": 4.0,
       "Genres": [
         "Shooter"
       ],
@@ -7554,7 +8803,97 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "alternating turns",
+        "2 players"
+      ]
+    },
+    {
+      "Titles": [
+        "Missile Command",
+        "Missile Command (1980)"
+      ],
+      "Sha1": "b5e8a8af06c401cde5770fd5bece4006764c0898",
+      "Crc32": "d3f15631",
+      "SetNames": {
+        "TOSEC": [
+          "Missile Command (1982)(Atari)(US)[b3][CX5202]"
+        ],
+        "TGDB": [
+          "5182"
+        ],
+        "RAWG": [
+          "52436"
+        ]
+      },
+      "OverviewId": 107,
+      "Size": 32768,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "ReleaseDate": "1/1/1980",
+      "Score": 4.0,
+      "Genres": [
+        "Shooter"
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "alternating turns",
+        "2 players"
+      ]
+    },
+    {
+      "Titles": [
+        "Missile Command",
+        "Missile Command (1980)"
+      ],
+      "Sha1": "b7677e3faa6cc5e4d53a7afa930a00d761d86347",
+      "Crc32": "8de027d5",
+      "SetNames": {
+        "TOSEC": [
+          "Missile Command (1982)(Atari)(US)[b][CX5202]"
+        ],
+        "TGDB": [
+          "5182"
+        ],
+        "RAWG": [
+          "52436"
+        ]
+      },
+      "OverviewId": 107,
+      "Size": 32768,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "ReleaseDate": "1/1/1980",
+      "Score": 4.0,
+      "Genres": [
+        "Shooter"
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump",
+        "alternating turns",
+        "2 players"
       ]
     },
     {
@@ -7569,19 +8908,27 @@
         ],
         "TGDB": [
           "5183"
+        ],
+        "RAWG": [
+          "31501"
         ]
       },
-      "OverviewId": 53,
+      "OverviewId": 140,
       "Size": 32768,
       "Publishers": [
-        "Parker Brothers"
+        "Parker Brothers",
+        "BCI Software"
       ],
       "Developers": [
-        "Utopia Technologies"
+        "Utopia Technologies",
+        "BCI Software",
+        "Utopia Software"
       ],
-      "ReleaseDate": "7/1/1984",
+      "ReleaseDate": "1/1/1984",
+      "Score": 3.25,
       "Genres": [
-        "Platform"
+        "Platform",
+        "Arcade"
       ],
       "Regions": [
         "US"
@@ -7590,7 +8937,8 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "Singleplayer"
       ]
     },
     {
@@ -7605,18 +8953,27 @@
         ],
         "TGDB": [
           "5184"
+        ],
+        "RAWG": [
+          "52437"
         ]
       },
-      "OverviewId": 54,
+      "OverviewId": 145,
       "Size": 32768,
       "Publishers": [
         "Atari",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "IREM",
+        "Atarisoft",
+        "Williams Electronics",
+        "WMS Industries"
       ],
       "Developers": [
-        "Atari"
+        "Atari",
+        "Irem"
       ],
-      "ReleaseDate": "1/1/1983",
+      "ReleaseDate": "1/1/1982",
+      "Score": 3.85,
       "Genres": [
         "Action"
       ],
@@ -7627,7 +8984,8 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "2 players"
       ]
     },
     {
@@ -7642,9 +9000,12 @@
         ],
         "TGDB": [
           "5185"
+        ],
+        "RAWG": [
+          "52550"
         ]
       },
-      "OverviewId": 55,
+      "OverviewId": 112,
       "Size": 16384,
       "Publishers": [
         "CBS Electronics"
@@ -7652,7 +9013,8 @@
       "Developers": [
         "E.F. Dreyer"
       ],
-      "ReleaseDate": "7/7/1983",
+      "ReleaseDate": "1/1/1983",
+      "Score": 4.0,
       "Genres": [
         "Action"
       ],
@@ -7661,6 +9023,9 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "atari"
       ]
     },
     {
@@ -7675,9 +9040,12 @@
         ],
         "TGDB": [
           "5185"
+        ],
+        "RAWG": [
+          "52550"
         ]
       },
-      "OverviewId": 55,
+      "OverviewId": 112,
       "Size": 32768,
       "Publishers": [
         "CBS Electronics"
@@ -7685,7 +9053,8 @@
       "Developers": [
         "E.F. Dreyer"
       ],
-      "ReleaseDate": "7/7/1983",
+      "ReleaseDate": "1/1/1983",
+      "Score": 4.0,
       "Genres": [
         "Action"
       ],
@@ -7696,7 +9065,8 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "atari"
       ]
     },
     {
@@ -7712,17 +9082,26 @@
         ],
         "TGDB": [
           "5187"
+        ],
+        "RAWG": [
+          "52555"
         ]
       },
       "OverviewId": 56,
       "Size": 32768,
       "Publishers": [
-        "Parker Brothers"
+        "Parker Brothers",
+        "Universal"
       ],
-      "ReleaseDate": "11/1/1984",
+      "Developers": [
+        "Universal",
+        "Universal Entertainment Corporation"
+      ],
+      "ReleaseDate": "1/1/1983",
       "ESRB": "E",
       "Genres": [
-        "Platform"
+        "Platform",
+        "Puzzle"
       ],
       "Regions": [
         "US"
@@ -7730,7 +9109,10 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "alternating turns",
+        "2 players"
+      ]
     },
     {
       "Titles": [
@@ -7745,17 +9127,26 @@
         ],
         "TGDB": [
           "5187"
+        ],
+        "RAWG": [
+          "52555"
         ]
       },
       "OverviewId": 56,
       "Size": 16384,
       "Publishers": [
-        "Parker Brothers"
+        "Parker Brothers",
+        "Universal"
       ],
-      "ReleaseDate": "11/1/1984",
+      "Developers": [
+        "Universal",
+        "Universal Entertainment Corporation"
+      ],
+      "ReleaseDate": "1/1/1983",
       "ESRB": "E",
       "Genres": [
-        "Platform"
+        "Platform",
+        "Puzzle"
       ],
       "Regions": [
         "US"
@@ -7764,7 +9155,9 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "alternating turns",
+        "2 players"
       ]
     },
     {
@@ -7780,17 +9173,26 @@
         ],
         "TGDB": [
           "5187"
+        ],
+        "RAWG": [
+          "52555"
         ]
       },
       "OverviewId": 56,
       "Size": 16384,
       "Publishers": [
-        "Parker Brothers"
+        "Parker Brothers",
+        "Universal"
       ],
-      "ReleaseDate": "11/1/1984",
+      "Developers": [
+        "Universal",
+        "Universal Entertainment Corporation"
+      ],
+      "ReleaseDate": "1/1/1983",
       "ESRB": "E",
       "Genres": [
-        "Platform"
+        "Platform",
+        "Puzzle"
       ],
       "Regions": [
         "US"
@@ -7799,7 +9201,9 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "alternating turns",
+        "2 players"
       ]
     },
     {
@@ -7814,20 +9218,31 @@
         ],
         "TGDB": [
           "5188"
+        ],
+        "RAWG": [
+          "52438"
         ]
       },
-      "OverviewId": 57,
+      "OverviewId": 135,
       "Size": 32768,
       "Publishers": [
         "Atari",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Midway Games",
+        "Namco",
+        "Midway Manufacturing"
       ],
       "Developers": [
-        "Midway"
+        "Midway",
+        "Midway Games",
+        "Midway Manufacturing",
+        "General Computer Corporation"
       ],
-      "ReleaseDate": "5/4/1983",
+      "ReleaseDate": "1/12/1981",
+      "Score": 3.4333333333333336,
       "Genres": [
-        "Action"
+        "Action",
+        "Arcade"
       ],
       "Regions": [
         "US"
@@ -7835,7 +9250,10 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "alternating turns",
+        "2 players"
+      ]
     },
     {
       "Titles": [
@@ -7849,20 +9267,31 @@
         ],
         "TGDB": [
           "5188"
+        ],
+        "RAWG": [
+          "52438"
         ]
       },
-      "OverviewId": 57,
+      "OverviewId": 135,
       "Size": 32768,
       "Publishers": [
         "Atari",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Midway Games",
+        "Namco",
+        "Midway Manufacturing"
       ],
       "Developers": [
-        "Midway"
+        "Midway",
+        "Midway Games",
+        "Midway Manufacturing",
+        "General Computer Corporation"
       ],
-      "ReleaseDate": "5/4/1983",
+      "ReleaseDate": "1/12/1981",
+      "Score": 3.4333333333333336,
       "Genres": [
-        "Action"
+        "Action",
+        "Arcade"
       ],
       "Regions": [
         "US"
@@ -7871,7 +9300,9 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "alternating turns",
+        "2 players"
       ]
     },
     {
@@ -7886,21 +9317,34 @@
         ],
         "TGDB": [
           "5190"
+        ],
+        "RAWG": [
+          "24881"
         ]
       },
-      "OverviewId": 58,
+      "OverviewId": 125,
       "Size": 16383,
       "Publishers": [
         "Atari",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "BANDAI NAMCO Entertainment America",
+        "Bandai Namco Entertainment"
       ],
       "Developers": [
-        "Namco"
+        "Namco",
+        "BANDAI NAMCO Entertainment America Inc.",
+        "Namco Limited",
+        "Atari, Inc.",
+        "Bandai Namco Entertainment"
       ],
-      "ReleaseDate": "5/1/1982",
+      "ReleaseDate": "5/22/1980",
+      "Score": 3.8142857142857145,
       "Genres": [
         "Action",
-        "Puzzle"
+        "Puzzle",
+        "Arcade",
+        "Casual",
+        "Family"
       ],
       "Regions": [
         "US"
@@ -7908,7 +9352,10 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "Singleplayer",
+        "two-player alternating"
+      ]
     },
     {
       "Titles": [
@@ -7922,21 +9369,34 @@
         ],
         "TGDB": [
           "5190"
+        ],
+        "RAWG": [
+          "24881"
         ]
       },
-      "OverviewId": 58,
+      "OverviewId": 125,
       "Size": 32768,
       "Publishers": [
         "Atari",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "BANDAI NAMCO Entertainment America",
+        "Bandai Namco Entertainment"
       ],
       "Developers": [
-        "Namco"
+        "Namco",
+        "BANDAI NAMCO Entertainment America Inc.",
+        "Namco Limited",
+        "Atari, Inc.",
+        "Bandai Namco Entertainment"
       ],
-      "ReleaseDate": "5/1/1982",
+      "ReleaseDate": "5/22/1980",
+      "Score": 3.8142857142857145,
       "Genres": [
         "Action",
-        "Puzzle"
+        "Puzzle",
+        "Arcade",
+        "Casual",
+        "Family"
       ],
       "Regions": [
         "US"
@@ -7944,7 +9404,10 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "Singleplayer",
+        "two-player alternating"
+      ]
     },
     {
       "Titles": [
@@ -7958,21 +9421,34 @@
         ],
         "TGDB": [
           "5190"
+        ],
+        "RAWG": [
+          "24881"
         ]
       },
-      "OverviewId": 58,
+      "OverviewId": 125,
       "Size": 32766,
       "Publishers": [
         "Atari",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "BANDAI NAMCO Entertainment America",
+        "Bandai Namco Entertainment"
       ],
       "Developers": [
-        "Namco"
+        "Namco",
+        "BANDAI NAMCO Entertainment America Inc.",
+        "Namco Limited",
+        "Atari, Inc.",
+        "Bandai Namco Entertainment"
       ],
-      "ReleaseDate": "5/1/1982",
+      "ReleaseDate": "5/22/1980",
+      "Score": 3.8142857142857145,
       "Genres": [
         "Action",
-        "Puzzle"
+        "Puzzle",
+        "Arcade",
+        "Casual",
+        "Family"
       ],
       "Regions": [
         "US"
@@ -7981,7 +9457,9 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "Singleplayer",
+        "two-player alternating"
       ]
     },
     {
@@ -7996,17 +9474,27 @@
         ],
         "TGDB": [
           "5191"
+        ],
+        "RAWG": [
+          "52442"
         ]
       },
-      "OverviewId": 59,
+      "OverviewId": 110,
       "Size": 32768,
       "Publishers": [
-        "Atari"
+        "Atari",
+        "SEGA"
       ],
-      "ReleaseDate": "12/1/1983",
+      "Developers": [
+        "Banpresto",
+        "Coreland"
+      ],
+      "ReleaseDate": "1/1/1982",
       "ESRB": "E",
+      "Score": 4.25,
       "Genres": [
-        "Action"
+        "Action",
+        "Puzzle"
       ],
       "Regions": [
         "US"
@@ -8015,12 +9503,16 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "Singleplayer",
+        "One or two players",
+        "alternating play"
       ]
     },
     {
       "Titles": [
-        "Pitfall!"
+        "Pitfall!",
+        "Pitfall! (1982)"
       ],
       "Sha1": "0f355115ee9217bbdfbbb4b2bd4e1366c21654b9",
       "Crc32": "72066f45",
@@ -8030,17 +9522,22 @@
         ],
         "TGDB": [
           "5192"
+        ],
+        "RAWG": [
+          "52563"
         ]
       },
-      "OverviewId": 60,
+      "OverviewId": 151,
       "Size": 16384,
       "Publishers": [
-        "Activision"
+        "Activision",
+        "Activision Blizzard"
       ],
       "Developers": [
         "Activision"
       ],
-      "ReleaseDate": "1/1/1984",
+      "ReleaseDate": "4/20/1982",
+      "Score": 3.1125,
       "Genres": [
         "Action"
       ],
@@ -8051,7 +9548,8 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "Singleplayer"
       ]
     },
     {
@@ -8066,17 +9564,25 @@
         ],
         "TGDB": [
           "5195"
+        ],
+        "RAWG": [
+          "52567"
         ]
       },
-      "OverviewId": 62,
+      "OverviewId": 139,
       "Size": 32768,
       "Publishers": [
-        "Parker Brothers"
+        "Parker Brothers",
+        "Nintendo",
+        "Sigma Enterprises"
       ],
       "Developers": [
-        "Parker Brothers"
+        "Parker Brothers",
+        "Nintendo",
+        "Sigma Enterprises"
       ],
-      "ReleaseDate": "5/10/1984",
+      "ReleaseDate": "1/1/1982",
+      "Score": 3.3,
       "Genres": [
         "Action"
       ],
@@ -8087,7 +9593,9 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -8103,15 +9611,26 @@
         ],
         "TGDB": [
           "5196"
+        ],
+        "RAWG": [
+          "52571"
         ]
       },
-      "OverviewId": 63,
+      "OverviewId": 124,
       "Size": 32768,
       "Publishers": [
-        "Parker Brothers"
+        "Parker Brothers",
+        "Sony Interactive Entertainment",
+        "Ultra Games",
+        "Gottlieb"
       ],
-      "ReleaseDate": "10/1/1983",
+      "Developers": [
+        "Atari",
+        "Gottlieb"
+      ],
+      "ReleaseDate": "12/31/1982",
       "ESRB": "E",
+      "Score": 3.166666666666667,
       "Genres": [
         "Action",
         "Puzzle"
@@ -8123,7 +9642,8 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "2 players"
       ]
     },
     {
@@ -8139,15 +9659,26 @@
         ],
         "TGDB": [
           "5196"
+        ],
+        "RAWG": [
+          "52571"
         ]
       },
-      "OverviewId": 63,
+      "OverviewId": 124,
       "Size": 16384,
       "Publishers": [
-        "Parker Brothers"
+        "Parker Brothers",
+        "Sony Interactive Entertainment",
+        "Ultra Games",
+        "Gottlieb"
       ],
-      "ReleaseDate": "10/1/1983",
+      "Developers": [
+        "Atari",
+        "Gottlieb"
+      ],
+      "ReleaseDate": "12/31/1982",
       "ESRB": "E",
+      "Score": 3.166666666666667,
       "Genres": [
         "Action",
         "Puzzle"
@@ -8159,13 +9690,15 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "2 players"
       ]
     },
     {
       "Titles": [
         "Qix",
-        "QIX"
+        "QIX",
+        "Qix (1990)"
       ],
       "Sha1": "79c83e3c5c61ab95c11efc389d38089ffe47aab5",
       "Crc32": "85f750d4",
@@ -8175,54 +9708,34 @@
         ],
         "TGDB": [
           "5197"
-        ]
-      },
-      "OverviewId": 64,
-      "Size": 32768,
-      "Publishers": [
-        "Atari",
-        "Atari, Inc."
-      ],
-      "Developers": [
-        "Atari"
-      ],
-      "ReleaseDate": "1/1/1982",
-      "Genres": [
-        "Action"
-      ],
-      "Regions": [
-        "US"
-      ],
-      "Languages": [
-        "en"
-      ],
-      "Tags": []
-    },
-    {
-      "Titles": [
-        "Qix",
-        "QIX"
-      ],
-      "Sha1": "fc5927c5f84fffaa43e603b9eef5300e9bd16af3",
-      "Crc32": "b346d4ab",
-      "SetNames": {
-        "TOSEC": [
-          "Qix (1982)(Atari)(US)[b][CX5221]"
         ],
-        "TGDB": [
-          "5197"
+        "RAWG": [
+          "54003"
         ]
       },
-      "OverviewId": 64,
+      "OverviewId": 118,
       "Size": 32768,
       "Publishers": [
         "Atari",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "TAITO Corporation",
+        "Nintendo",
+        "Taito",
+        "Takara",
+        "Telegames"
       ],
       "Developers": [
-        "Atari"
+        "Atari",
+        "Taito",
+        "TAITO Corporation",
+        "Novotrade",
+        "Takara",
+        "Nintendo",
+        "Alien Technology",
+        "Knight Technologies"
       ],
-      "ReleaseDate": "1/1/1982",
+      "ReleaseDate": "4/13/1990",
+      "Score": 4.328571428571428,
       "Genres": [
         "Action"
       ],
@@ -8233,7 +9746,65 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "alternating turns",
+        "2 players"
+      ]
+    },
+    {
+      "Titles": [
+        "Qix",
+        "QIX",
+        "Qix (1990)"
+      ],
+      "Sha1": "fc5927c5f84fffaa43e603b9eef5300e9bd16af3",
+      "Crc32": "b346d4ab",
+      "SetNames": {
+        "TOSEC": [
+          "Qix (1982)(Atari)(US)[b][CX5221]"
+        ],
+        "TGDB": [
+          "5197"
+        ],
+        "RAWG": [
+          "54003"
+        ]
+      },
+      "OverviewId": 118,
+      "Size": 32768,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc.",
+        "TAITO Corporation",
+        "Nintendo",
+        "Taito",
+        "Takara",
+        "Telegames"
+      ],
+      "Developers": [
+        "Atari",
+        "Taito",
+        "TAITO Corporation",
+        "Novotrade",
+        "Takara",
+        "Nintendo",
+        "Alien Technology",
+        "Knight Technologies"
+      ],
+      "ReleaseDate": "4/13/1990",
+      "Score": 4.328571428571428,
+      "Genres": [
+        "Action"
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump",
+        "alternating turns",
+        "2 players"
       ]
     },
     {
@@ -8315,6 +9886,7 @@
         "Atari"
       ],
       "ReleaseDate": "1/1/1983",
+      "Score": 5.0,
       "Genres": [
         "Sports"
       ],
@@ -8399,15 +9971,22 @@
         ],
         "TGDB": [
           "5205"
+        ],
+        "RAWG": [
+          "52449"
         ]
       },
-      "OverviewId": 68,
+      "OverviewId": 102,
       "Size": 32768,
       "Publishers": [
         "Atari"
       ],
+      "Developers": [
+        "Atari"
+      ],
       "ReleaseDate": "1/1/1982",
       "ESRB": "E",
+      "Score": 3.25,
       "Genres": [
         "Sports"
       ],
@@ -8418,7 +9997,9 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -8444,6 +10025,7 @@
         "Atari"
       ],
       "ReleaseDate": "1/1/1983",
+      "Score": 3.6166666666666663,
       "Genres": [
         "Sports"
       ],
@@ -8480,6 +10062,7 @@
         "Atari"
       ],
       "ReleaseDate": "1/1/1983",
+      "Score": 3.6166666666666663,
       "Genres": [
         "Sports"
       ],
@@ -8513,6 +10096,7 @@
         "Atari"
       ],
       "ReleaseDate": "1/1/1983",
+      "Score": 3.6166666666666663,
       "Genres": [
         "Sports"
       ],
@@ -8538,18 +10122,23 @@
         ],
         "TGDB": [
           "5209"
+        ],
+        "RAWG": [
+          "52576"
         ]
       },
-      "OverviewId": 16,
+      "OverviewId": 104,
       "Size": 32768,
       "Publishers": [
-        "Activision"
+        "Activision",
+        "Activision Blizzard"
       ],
       "Developers": [
         "Activision"
       ],
-      "ReleaseDate": "11/1/1983",
+      "ReleaseDate": "1/1/1982",
       "ESRB": "E",
+      "Score": 3.8166666666666664,
       "Genres": [
         "Shooter"
       ],
@@ -8558,6 +10147,9 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer"
       ]
     },
     {
@@ -8572,18 +10164,23 @@
         ],
         "TGDB": [
           "5209"
+        ],
+        "RAWG": [
+          "52576"
         ]
       },
-      "OverviewId": 16,
+      "OverviewId": 104,
       "Size": 32768,
       "Publishers": [
-        "Activision"
+        "Activision",
+        "Activision Blizzard"
       ],
       "Developers": [
         "Activision"
       ],
-      "ReleaseDate": "11/1/1983",
+      "ReleaseDate": "1/1/1982",
       "ESRB": "E",
+      "Score": 3.8166666666666664,
       "Genres": [
         "Shooter"
       ],
@@ -8594,7 +10191,8 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "Singleplayer"
       ]
     },
     {
@@ -8609,18 +10207,23 @@
         ],
         "TGDB": [
           "5209"
+        ],
+        "RAWG": [
+          "52576"
         ]
       },
-      "OverviewId": 16,
+      "OverviewId": 104,
       "Size": 16384,
       "Publishers": [
-        "Activision"
+        "Activision",
+        "Activision Blizzard"
       ],
       "Developers": [
         "Activision"
       ],
-      "ReleaseDate": "11/1/1983",
+      "ReleaseDate": "1/1/1982",
       "ESRB": "E",
+      "Score": 3.8166666666666664,
       "Genres": [
         "Shooter"
       ],
@@ -8631,7 +10234,8 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "Singleplayer"
       ]
     },
     {
@@ -8686,19 +10290,26 @@
         ],
         "TGDB": [
           "5210"
+        ],
+        "RAWG": [
+          "54508"
         ]
       },
-      "OverviewId": 73,
+      "OverviewId": 128,
       "Size": 32767,
       "Publishers": [
         "Atari",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Williams Electronics",
+        "WMS Industries"
       ],
       "Developers": [
-        "Williams"
+        "Williams",
+        "Vid Kidz"
       ],
-      "ReleaseDate": "3/1/1984",
+      "ReleaseDate": "1/1/1982",
       "ESRB": "E",
+      "Score": 4.5,
       "Genres": [
         "Shooter"
       ],
@@ -8709,7 +10320,9 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -8725,19 +10338,26 @@
         ],
         "TGDB": [
           "5210"
+        ],
+        "RAWG": [
+          "54508"
         ]
       },
-      "OverviewId": 73,
+      "OverviewId": 128,
       "Size": 32768,
       "Publishers": [
         "Atari",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Williams Electronics",
+        "WMS Industries"
       ],
       "Developers": [
-        "Williams"
+        "Williams",
+        "Vid Kidz"
       ],
-      "ReleaseDate": "3/1/1984",
+      "ReleaseDate": "1/1/1982",
       "ESRB": "E",
+      "Score": 4.5,
       "Genres": [
         "Shooter"
       ],
@@ -8747,7 +10367,10 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer"
+      ]
     },
     {
       "Titles": [
@@ -8762,19 +10385,26 @@
         ],
         "TGDB": [
           "5210"
+        ],
+        "RAWG": [
+          "54508"
         ]
       },
-      "OverviewId": 73,
+      "OverviewId": 128,
       "Size": 32768,
       "Publishers": [
         "Atari",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Williams Electronics",
+        "WMS Industries"
       ],
       "Developers": [
-        "Williams"
+        "Williams",
+        "Vid Kidz"
       ],
-      "ReleaseDate": "3/1/1984",
+      "ReleaseDate": "1/1/1982",
       "ESRB": "E",
+      "Score": 4.5,
       "Genres": [
         "Shooter"
       ],
@@ -8785,7 +10415,9 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -8823,7 +10455,8 @@
     },
     {
       "Titles": [
-        "Space Invaders"
+        "Space Invaders",
+        "Space Invaders (1978)"
       ],
       "Sha1": "051a6c394128e7c36ac7332f9be87143bada980a",
       "Crc32": "91fae605",
@@ -8833,18 +10466,36 @@
         ],
         "TGDB": [
           "5214"
+        ],
+        "RAWG": [
+          "52444"
         ]
       },
-      "OverviewId": 75,
+      "OverviewId": 117,
       "Size": 32768,
       "Publishers": [
         "Atari",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "TAITO Corporation",
+        "Taito",
+        "Midway Games",
+        "http://flyers.arcade-museum.com/?page=thumbs&amp;db;=videodb&amp;id;=5738",
+        "http://flyers.arcade-museum.com/?page=thumbs&amp;db;=videodb&amp;id;=3306",
+        "[http://flyers.arcade-museum.com/?page=thumbs&amp;db;=videodb&amp;id;=4379 Space Invaders (AU)], The",
+        "Midway and Taito",
+        "Midway",
+        "Leisure &amp; Allied Industries",
+        "AUS",
+        "http://flyers.arcade-museum.com/?page=thumbs&amp;db;=videodb&amp;id;=3887",
+        "European releases:"
       ],
       "Developers": [
-        "Taito Corporation"
+        "Taito Corporation",
+        "Taito",
+        "TAITO Corporation"
       ],
-      "ReleaseDate": "1/1/1982",
+      "ReleaseDate": "6/1/1978",
+      "Score": 3.625,
       "Genres": [
         "Shooter"
       ],
@@ -8855,12 +10506,15 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
       "Titles": [
-        "Space Invaders"
+        "Space Invaders",
+        "Space Invaders (1978)"
       ],
       "Sha1": "38690f7335fa1c6a61d4fedc5b834c3e50adf015",
       "Crc32": "53c6c68a",
@@ -8870,53 +10524,36 @@
         ],
         "TGDB": [
           "5214"
+        ],
+        "RAWG": [
+          "52444"
         ]
       },
-      "OverviewId": 75,
+      "OverviewId": 117,
       "Size": 16384,
       "Publishers": [
         "Atari",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "TAITO Corporation",
+        "Taito",
+        "Midway Games",
+        "http://flyers.arcade-museum.com/?page=thumbs&amp;db;=videodb&amp;id;=5738",
+        "http://flyers.arcade-museum.com/?page=thumbs&amp;db;=videodb&amp;id;=3306",
+        "[http://flyers.arcade-museum.com/?page=thumbs&amp;db;=videodb&amp;id;=4379 Space Invaders (AU)], The",
+        "Midway and Taito",
+        "Midway",
+        "Leisure &amp; Allied Industries",
+        "AUS",
+        "http://flyers.arcade-museum.com/?page=thumbs&amp;db;=videodb&amp;id;=3887",
+        "European releases:"
       ],
       "Developers": [
-        "Taito Corporation"
+        "Taito Corporation",
+        "Taito",
+        "TAITO Corporation"
       ],
-      "ReleaseDate": "1/1/1982",
-      "Genres": [
-        "Shooter"
-      ],
-      "Regions": [
-        "US"
-      ],
-      "Languages": [
-        "en"
-      ],
-      "Tags": []
-    },
-    {
-      "Titles": [
-        "Space Invaders"
-      ],
-      "Sha1": "1daae2688fefb079b1f95efb3efb10385017426c",
-      "Crc32": "218e1be4",
-      "SetNames": {
-        "TOSEC": [
-          "Space Invaders (1982)(Atari)(US)[o][CX5204]"
-        ],
-        "TGDB": [
-          "5214"
-        ]
-      },
-      "OverviewId": 75,
-      "Size": 32768,
-      "Publishers": [
-        "Atari",
-        "Atari, Inc."
-      ],
-      "Developers": [
-        "Taito Corporation"
-      ],
-      "ReleaseDate": "1/1/1982",
+      "ReleaseDate": "6/1/1978",
+      "Score": 3.625,
       "Genres": [
         "Shooter"
       ],
@@ -8927,7 +10564,66 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Multiplayer",
+        "Singleplayer"
+      ]
+    },
+    {
+      "Titles": [
+        "Space Invaders",
+        "Space Invaders (1978)"
+      ],
+      "Sha1": "1daae2688fefb079b1f95efb3efb10385017426c",
+      "Crc32": "218e1be4",
+      "SetNames": {
+        "TOSEC": [
+          "Space Invaders (1982)(Atari)(US)[o][CX5204]"
+        ],
+        "TGDB": [
+          "5214"
+        ],
+        "RAWG": [
+          "52444"
+        ]
+      },
+      "OverviewId": 117,
+      "Size": 32768,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc.",
+        "TAITO Corporation",
+        "Taito",
+        "Midway Games",
+        "http://flyers.arcade-museum.com/?page=thumbs&amp;db;=videodb&amp;id;=5738",
+        "http://flyers.arcade-museum.com/?page=thumbs&amp;db;=videodb&amp;id;=3306",
+        "[http://flyers.arcade-museum.com/?page=thumbs&amp;db;=videodb&amp;id;=4379 Space Invaders (AU)], The",
+        "Midway and Taito",
+        "Midway",
+        "Leisure &amp; Allied Industries",
+        "AUS",
+        "http://flyers.arcade-museum.com/?page=thumbs&amp;db;=videodb&amp;id;=3887",
+        "European releases:"
+      ],
+      "Developers": [
+        "Taito Corporation",
+        "Taito",
+        "TAITO Corporation"
+      ],
+      "ReleaseDate": "6/1/1978",
+      "Score": 3.625,
+      "Genres": [
+        "Shooter"
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump",
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -8943,17 +10639,21 @@
         ],
         "TGDB": [
           "5215"
+        ],
+        "RAWG": [
+          "52588"
         ]
       },
-      "OverviewId": 76,
+      "OverviewId": 126,
       "Size": 32768,
       "Publishers": [
-        "Activision"
+        "Activision",
+        "Activision Blizzard"
       ],
       "Developers": [
         "Activision"
       ],
-      "ReleaseDate": "10/1/1984",
+      "ReleaseDate": "1/1/1983",
       "Genres": [
         "Flight Simulator"
       ],
@@ -8964,7 +10664,8 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "Singleplayer"
       ]
     },
     {
@@ -9087,7 +10788,8 @@
     },
     {
       "Titles": [
-        "Star Raiders"
+        "Star Raiders",
+        "Star Raiders (1979)"
       ],
       "Sha1": "c97f0fad01b26031c71a9bd91182feccb43bc870",
       "Crc32": "bf574b31",
@@ -9097,89 +10799,24 @@
         ],
         "TGDB": [
           "5217"
+        ],
+        "RAWG": [
+          "52461"
         ]
       },
-      "OverviewId": 78,
+      "OverviewId": 101,
       "Size": 32768,
       "Publishers": [
         "Atari",
         "Atari, Inc."
       ],
       "Developers": [
-        "Atari"
-      ],
-      "ReleaseDate": "1/1/1982",
-      "ESRB": "E",
-      "Genres": [
-        "Shooter"
-      ],
-      "Regions": [
-        "US"
-      ],
-      "Languages": [
-        "en"
-      ]
-    },
-    {
-      "Titles": [
-        "Star Raiders"
-      ],
-      "Sha1": "05d7a6ec49a57ad41b5e1e50645f24a4263ad2f9",
-      "Crc32": "19aa7a20",
-      "SetNames": {
-        "TOSEC": [
-          "Star Raiders (1982)(Atari)(US)[b3][CX5202]"
-        ],
-        "TGDB": [
-          "5217"
-        ]
-      },
-      "OverviewId": 78,
-      "Size": 32764,
-      "Publishers": [
         "Atari",
         "Atari, Inc."
       ],
-      "Developers": [
-        "Atari"
-      ],
-      "ReleaseDate": "1/1/1982",
+      "ReleaseDate": "1/1/1979",
       "ESRB": "E",
-      "Genres": [
-        "Shooter"
-      ],
-      "Regions": [
-        "US"
-      ],
-      "Languages": [
-        "en"
-      ]
-    },
-    {
-      "Titles": [
-        "Star Raiders"
-      ],
-      "Sha1": "b016c3fe613dc7db2b125d94fb9ca8f0aaf3aad5",
-      "Crc32": "78d28196",
-      "SetNames": {
-        "TOSEC": [
-          "Star Raiders (1982)(Atari)(US)[b][CX5202]"
-        ],
-        "TGDB": [
-          "5217"
-        ]
-      },
-      "OverviewId": 78,
-      "Size": 16382,
-      "Publishers": [
-        "Atari",
-        "Atari, Inc."
-      ],
-      "Developers": [
-        "Atari"
-      ],
-      "ReleaseDate": "1/1/1982",
-      "ESRB": "E",
+      "Score": 4.6,
       "Genres": [
         "Shooter"
       ],
@@ -9190,7 +10827,96 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Singleplayer"
+      ]
+    },
+    {
+      "Titles": [
+        "Star Raiders",
+        "Star Raiders (1979)"
+      ],
+      "Sha1": "05d7a6ec49a57ad41b5e1e50645f24a4263ad2f9",
+      "Crc32": "19aa7a20",
+      "SetNames": {
+        "TOSEC": [
+          "Star Raiders (1982)(Atari)(US)[b3][CX5202]"
+        ],
+        "TGDB": [
+          "5217"
+        ],
+        "RAWG": [
+          "52461"
+        ]
+      },
+      "OverviewId": 101,
+      "Size": 32764,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "ReleaseDate": "1/1/1979",
+      "ESRB": "E",
+      "Score": 4.6,
+      "Genres": [
+        "Shooter"
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Singleplayer"
+      ]
+    },
+    {
+      "Titles": [
+        "Star Raiders",
+        "Star Raiders (1979)"
+      ],
+      "Sha1": "b016c3fe613dc7db2b125d94fb9ca8f0aaf3aad5",
+      "Crc32": "78d28196",
+      "SetNames": {
+        "TOSEC": [
+          "Star Raiders (1982)(Atari)(US)[b][CX5202]"
+        ],
+        "TGDB": [
+          "5217"
+        ],
+        "RAWG": [
+          "52461"
+        ]
+      },
+      "OverviewId": 101,
+      "Size": 16382,
+      "Publishers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "Developers": [
+        "Atari",
+        "Atari, Inc."
+      ],
+      "ReleaseDate": "1/1/1979",
+      "ESRB": "E",
+      "Score": 4.6,
+      "Genres": [
+        "Shooter"
+      ],
+      "Regions": [
+        "US"
+      ],
+      "Languages": [
+        "en"
+      ],
+      "Tags": [
+        "Bad Dump",
+        "Singleplayer"
       ]
     },
     {
@@ -9218,6 +10944,7 @@
       ],
       "ReleaseDate": "10/1/1983",
       "ESRB": "E",
+      "Score": 4.2,
       "Genres": [
         "Shooter"
       ],
@@ -9256,6 +10983,7 @@
       ],
       "ReleaseDate": "2/1/1984",
       "ESRB": "E",
+      "Score": 3.31,
       "Genres": [
         "Action"
       ],
@@ -9332,6 +11060,7 @@
       ],
       "ReleaseDate": "1/1/1982",
       "ESRB": "E",
+      "Score": 2.9916666666666667,
       "Genres": [
         "Action"
       ],
@@ -9370,6 +11099,7 @@
       ],
       "ReleaseDate": "1/1/1982",
       "ESRB": "E",
+      "Score": 2.9916666666666667,
       "Genres": [
         "Action"
       ],
@@ -9406,6 +11136,7 @@
       ],
       "ReleaseDate": "1/1/1982",
       "ESRB": "E",
+      "Score": 2.9916666666666667,
       "Genres": [
         "Action"
       ],
@@ -9431,17 +11162,27 @@
         ],
         "TGDB": [
           "5222"
+        ],
+        "RAWG": [
+          "52606"
         ]
       },
-      "OverviewId": 84,
+      "OverviewId": 109,
       "Size": 32768,
       "Publishers": [
-        "Parker Brothers"
+        "Parker Brothers",
+        "Konami",
+        "Stern",
+        "Japan",
+        "Entex"
       ],
       "Developers": [
-        "Parker Brothers"
+        "Parker Brothers",
+        "Konami Digital Entertainment",
+        "Entex"
       ],
-      "ReleaseDate": "2/4/1983",
+      "ReleaseDate": "1/1/1981",
+      "Score": 2.2,
       "Genres": [
         "Shooter"
       ],
@@ -9452,7 +11193,10 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "Singleplayer",
+        "alternating turns",
+        "2 players"
       ]
     },
     {
@@ -9467,17 +11211,27 @@
         ],
         "TGDB": [
           "5222"
+        ],
+        "RAWG": [
+          "52606"
         ]
       },
-      "OverviewId": 84,
+      "OverviewId": 109,
       "Size": 16384,
       "Publishers": [
-        "Parker Brothers"
+        "Parker Brothers",
+        "Konami",
+        "Stern",
+        "Japan",
+        "Entex"
       ],
       "Developers": [
-        "Parker Brothers"
+        "Parker Brothers",
+        "Konami Digital Entertainment",
+        "Entex"
       ],
-      "ReleaseDate": "2/4/1983",
+      "ReleaseDate": "1/1/1981",
+      "Score": 2.2,
       "Genres": [
         "Shooter"
       ],
@@ -9486,6 +11240,11 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "alternating turns",
+        "2 players"
       ]
     },
     {
@@ -9500,17 +11259,27 @@
         ],
         "TGDB": [
           "5222"
+        ],
+        "RAWG": [
+          "52606"
         ]
       },
-      "OverviewId": 84,
+      "OverviewId": 109,
       "Size": 32768,
       "Publishers": [
-        "Parker Brothers"
+        "Parker Brothers",
+        "Konami",
+        "Stern",
+        "Japan",
+        "Entex"
       ],
       "Developers": [
-        "Parker Brothers"
+        "Parker Brothers",
+        "Konami Digital Entertainment",
+        "Entex"
       ],
-      "ReleaseDate": "2/4/1983",
+      "ReleaseDate": "1/1/1981",
+      "Score": 2.2,
       "Genres": [
         "Shooter"
       ],
@@ -9521,7 +11290,10 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "Singleplayer",
+        "alternating turns",
+        "2 players"
       ]
     },
     {
@@ -9564,7 +11336,8 @@
     },
     {
       "Titles": [
-        "Vanguard"
+        "Vanguard",
+        "Vanguard (1981)"
       ],
       "Sha1": "ea3278688eb9f910ff54259b51e33f50714edeb7",
       "Crc32": "98b3123a",
@@ -9574,19 +11347,28 @@
         ],
         "TGDB": [
           "5226"
+        ],
+        "RAWG": [
+          "52468"
         ]
       },
-      "OverviewId": 88,
+      "OverviewId": 120,
       "Size": 32767,
       "Publishers": [
         "Atari",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "SNK",
+        "Centuri",
+        "Zaccaria"
       ],
       "Developers": [
-        "Atari"
+        "Atari",
+        "Tose",
+        "Tose Co."
       ],
-      "ReleaseDate": "1/1/1984",
+      "ReleaseDate": "1/1/1981",
       "ESRB": "E",
+      "Score": 3.066666666666667,
       "Genres": [
         "Shooter"
       ],
@@ -9597,7 +11379,8 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "Singleplayer"
       ]
     },
     {
@@ -9612,20 +11395,31 @@
         ],
         "TGDB": [
           "5227"
+        ],
+        "RAWG": [
+          "52619"
         ]
       },
-      "OverviewId": 89,
+      "OverviewId": 113,
       "Size": 32768,
       "Publishers": [
-        "CBS Electronics"
+        "CBS Electronics",
+        "Midway Games",
+        "Midway",
+        "Roklan"
       ],
       "Developers": [
         "Midway",
-        "Bally"
+        "Bally",
+        "Dave Nutting Associates",
+        "Dave Nutting",
+        "Gabriel Industries"
       ],
-      "ReleaseDate": "8/17/1983",
+      "ReleaseDate": "1/1/1981",
+      "Score": 4.1,
       "Genres": [
-        "Shooter"
+        "Shooter",
+        "Action"
       ],
       "Regions": [
         "US"
@@ -9634,7 +11428,10 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "Singleplayer",
+        "cooperative",
+        "2 players"
       ]
     },
     {
@@ -9649,20 +11446,31 @@
         ],
         "TGDB": [
           "5227"
+        ],
+        "RAWG": [
+          "52619"
         ]
       },
-      "OverviewId": 89,
+      "OverviewId": 113,
       "Size": 32768,
       "Publishers": [
-        "CBS Electronics"
+        "CBS Electronics",
+        "Midway Games",
+        "Midway",
+        "Roklan"
       ],
       "Developers": [
         "Midway",
-        "Bally"
+        "Bally",
+        "Dave Nutting Associates",
+        "Dave Nutting",
+        "Gabriel Industries"
       ],
-      "ReleaseDate": "8/17/1983",
+      "ReleaseDate": "1/1/1981",
+      "Score": 4.1,
       "Genres": [
-        "Shooter"
+        "Shooter",
+        "Action"
       ],
       "Regions": [
         "US"
@@ -9671,7 +11479,10 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "Singleplayer",
+        "cooperative",
+        "2 players"
       ]
     },
     {
@@ -9877,18 +11688,23 @@
         ],
         "TGDB": [
           "5229"
+        ],
+        "RAWG": [
+          "26351"
         ]
       },
-      "OverviewId": 93,
+      "OverviewId": 131,
       "Size": 32768,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
         "Sega"
       ],
-      "ReleaseDate": "1/1/1984",
+      "ReleaseDate": "4/12/2010",
       "ESRB": "E",
+      "Score": 4.0,
       "Genres": [
         "Shooter"
       ],
@@ -9899,7 +11715,18 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "Flight",
+        "Space",
+        "Tanks",
+        "Explosions",
+        "NES",
+        "ship",
+        "sound",
+        "ships",
+        "destroy",
+        "console",
+        "fighter"
       ]
     },
     {
@@ -9914,19 +11741,24 @@
         ],
         "TGDB": [
           "5230"
+        ],
+        "RAWG": [
+          "55206"
         ]
       },
-      "OverviewId": 94,
+      "OverviewId": 141,
       "Size": 32768,
       "Publishers": [
-        "Activision"
+        "Activision",
+        "Activision Value Publishing"
       ],
       "Developers": [
         "Activision"
       ],
-      "ReleaseDate": "4/1/1984",
+      "ReleaseDate": "1/1/1984",
       "Genres": [
-        "Action"
+        "Action",
+        "Puzzle"
       ],
       "Regions": [
         "US"
@@ -9935,7 +11767,9 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "maze",
+        "atari"
       ]
     },
     {
@@ -9950,19 +11784,24 @@
         ],
         "TGDB": [
           "5230"
+        ],
+        "RAWG": [
+          "55206"
         ]
       },
-      "OverviewId": 94,
+      "OverviewId": 141,
       "Size": 16384,
       "Publishers": [
-        "Activision"
+        "Activision",
+        "Activision Value Publishing"
       ],
       "Developers": [
         "Activision"
       ],
-      "ReleaseDate": "4/1/1984",
+      "ReleaseDate": "1/1/1984",
       "Genres": [
-        "Action"
+        "Action",
+        "Puzzle"
       ],
       "Regions": [
         "US"
@@ -9971,7 +11810,9 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "maze",
+        "atari"
       ]
     },
     {
@@ -9997,6 +11838,7 @@
         "Activision"
       ],
       "ReleaseDate": "1/1/1984",
+      "Score": 4.8,
       "Genres": [
         "Action"
       ],
@@ -10299,6 +12141,174 @@
     },
     "96": {
       "en": "The player pilots a lone spacecraft, and must create \"Sinibombs\" by shooting at drifting planetoids and catching the crystals that are thereby released. Sinibombs are needed to defeat the game boss, Sinistar, an animated spacecraft with a demonic skull face. Sinistar does not exist at the start of the game, and is continuously under construction by enemy worker ships. Though time is crucial, attempting to mine too quickly will destroy a planetoid without releasing any crystals. At the same time, enemy worker ships are also gathering crystals (often stealing them from the player) which they use to construct the Sinistar. Meanwhile, enemy warrior ships can also directly attack the player's ship. The player is given a head-start before the enemy ships have enough crystals to begin construction. Game ends when the player's ships are all destroyed."
+    },
+    "97": {
+      "en": "Description\n\r\nSolo development and the first game of the studio “Game Life” - “Joust” is an arcade simulator of knightly tournaments. Competition among players for the maximum passage of levels. PVP and PVE  tournaments for the title of \"Best Fighter.\"\n\r\nSpecifications:\n\r\n• Choose your character type\r\n• Character development\r\n• Receiving Various Weapons\r\n• Various bosses\r\n• Restriction on revival\r\n• Unlimited levels\r\n \r\nEach level gives you a chance to get a new weapon or revival point.\n\r\nGame development plans:\n\r\n1. Alfa - PVE arena battles, boss fights.\r\n2. Beta - Open world (partially), PVE and the start of testing the PVP game mode.\r\n3. Release - Fully open world, PVE and PVP game modes."
+    },
+    "98": {
+      "en": "Frogger (フロッガー (Furoggā)) is a 1981 arcade game developed by Konami. It was licensed for North American distribution by Sega-Gremlin and worldwide by Sega itself. It is regarded as a classic from the golden age of video arcade games, noted for its novel gameplay and theme. The object of the game is to direct frogs to their homes one by one by crossing a busy road and navigating a river full of hazards.\nFrogger was positively received and followed by several clones and sequels. By 2005, Frogger in its various home video game incarnations had sold 20 million copies worldwide, including 5 million in the United States. The game found its way into many areas of popular culture, such as television and music, as well as sparked healthy competition in the video game world."
+    },
+    "99": {
+      "en": "Mario Bros. (マリオブラザーズ, Mario Burazāzu) is a platform game published and developed for arcades by Nintendo in 1983. It was created by Shigeru Miyamoto. It has been featured as a minigame in the Super Mario Advance series and numerous other games. Mario Bros. has been re-released for the Wii&#39;s, Nintendo 3DS&#39;s, and Wii U&#39;s Virtual Console services in Japan, North America, Europe and Australia.\nIn the game, Mario is portrayed as an Italian-American plumber who, along with his brother Luigi, has to defeat creatures that have been coming from the sewers. The gameplay focuses on Mario and Luigi exterminating the creatures by flipping them on their backs and kicking them away. The original versions of Mario Bros.—the arcade version and the Family Computer/Nintendo Entertainment System (FC/NES) version—were received positively by critics."
+    },
+    "100": {
+      "en": "Frogger II: ThreeeDeep!  is a console and computer game released in 1984 by Parker Brothers. It is a sequel to the original Frogger arcade game from 1981 and features similar gameplay.\nThe goal of Frogger II is to maneuver each frog to a berth at the top of the screen. Once all of the berths are filled the player progresses to the next level. Unlike its predecessor, the game features three consecutive screens for each level rather than one screen per level, with berths at the top of each of the three screens that need to be filled."
+    },
+    "101": {
+      "en": "Star Raiders is a first-person shooter space combat simulator video game for the Atari 8-bit family of computers. It was written by Doug Neubauer, an Atari employee, and released in cartridge form by Atari in 1979. It was later ported to other Atari computer and game platforms.\nThe game simulates 3D space combat between the player's ship and an invading fleet of alien \"Zylon\" vessels. Star Raiders was distinctive for its graphics, which, in addition to various map and long range scan views, provided forward and aft first-person views, with movement conveyed by a streaming 3D starfield as the player engaged enemy spacecraft. The game's attract mode, a simple streaming star field, was a common sight in computer stores of the early-1980s to show off the Atari computers' graphics capabilities. The game is commonly referred to as the platform's killer app.\nWhile there had already been simple target-shooting games using the first person perspective (including 1977's Starhawk), Star Raiders had considerably higher quality graphics and more complex game play. As a result it inspired imitators throughout the 1980s as well as later-generation space combat simulation games. Notably, it is one of the games that inspired the seminal title Elite, and thus the Wing Commander series. It is also one in a string of first person space shooters (including 1977's Starhawk and 1979's Star Fire) that appeared in the late-1970s and were arguably predecessors of the later seen first-person shooter genre.\nIn 2007, Star Raiders was included as #2 in a list of the 10 most important video games of all time, as compiled by Stanford University's History of Science and Technology Collections."
+    },
+    "102": {
+      "en": "RealSports Football is a 1982 football video game made by Atari for the Atari 2600, Atari 5200 and Atari 8-bit computer platforms.\nRealSports Football presents a greatly simplified version of football for play. Players in the game cannot go out of bounds or fumble the football, and there are no penalties in the game. Also, touchdowns automatically score 7 points; there is no kicking for extra points."
+    },
+    "103": {
+      "en": "Blue Print, is an arcade maze game released in June 1982. It was developed by Zilec Electronics Limited and licensed to Bally Midway. The player controls J.J., a man whose girlfriend Daisy is being chased by Ollie Ogre. To defeat him, J.J. must find the pieces of a machine based on a blueprint. Home ports of Blue Print were published by CBS Electronics for the Atari 2600, Atari 5200, and Commodore 64."
+    },
+    "104": {
+      "en": "River Raid is a vertically scrolling shooter designed and developed by Carol Shaw and published by Activision in 1982 for the Atari 2600 video game console. Over a million game cartridges were sold. Activision later ported the title to the Atari 5200, ColecoVision, and Intellivision consoles, as well as to the Commodore 64, IBM PCjr, MSX, ZX Spectrum, and Atari 8-bit family. Shaw did the Atari 8-bit and Atari 5200 ports herself.\nActivision published the less successful River Raid II in 1988. This sequel, programmed by David Lubar, has similar gameplay, but with a different landscape and increased difficulty. In 1995 River Raid was published for Microsoft Windows as part of Activision's Atari 2600 Action Pack."
+    },
+    "105": {
+      "en": "James Bond 007 is a 1983 side-scrolling video game developed and published by Parker Brothers for the Atari 2600, Atari 5200, Atari 8-bit computers, Commodore 64, ColecoVision and distributed in Japan by Tsukuda Original for the Sega SG-1000."
+    },
+    "106": {
+      "en": "Choplifter (stylized as Choplifter!) is a 1982 Apple II game developed by Dan Gorlin and published by Brøderbund. It was ported to Atari 5200, Atari 8-bit family, ColecoVision, Commodore 64, Commodore VIC-20, and MSX. Graphically enhanced versions for the Atari 7800 and Atari XEGS were published in 1988 by Atari.\nIn 1985, Sega released a coin-operated arcade game remake, which in turn was ported to the Nintendo Entertainment System and Sega Master System in 1986. Choplifter is one of the few games that first appeared on a home system and was ported to the arcade."
+    },
+    "107": {
+      "en": "Missile Command is a 1980 arcade game developed and published by Atari, Inc. and licensed to Sega for European release. It was designed by Dave Theurer, who also designed Atari's vector graphics game Tempest from the same year. The 1981 Atari 2600 port of Missile Command by Rob Fulop sold over 2.5 million copies and became the third most popular cartridge for the system."
+    },
+    "108": {
+      "en": "H.E.R.O. (standing for Helicopter Emergency Rescue Operation) is a video game written by John Van Ryzin and published by Activision for the Atari 2600 in March 1984. It was ported to the Apple II, Atari 5200, Atari 8-bit family, ColecoVision, Commodore 64, MSX, and ZX Spectrum. Sega released a version of the game for its SG-1000 console in Japan in 1985. While the gameplay was identical, Sega changed the backpack from a helicopter to a jetpack.\nThe player uses a helicopter backpack and other tools to rescue victims trapped deep in a mine. The mine is made up of multiple screens using a flip screen style."
+    },
+    "109": {
+      "en": "Super Cobra (スーパーコブラ, Sūpā Kobura) is a 1981 arcade game, the sequel to popular horizontally scrolling shooter Scramble, Super Cobra was developed by Konami and manufactured and distributed by Stern in North America. It is similar in concept to its predecessor, but much more difficult.\nThe game was a success, selling 12,337 video game arcade cabinets in the United States in four months, by October 2, 1981, becoming Stern's third best-selling arcade classic after Berzerk and Scramble. Scramble sold 15,136 cabinets in the U.S. in five months earlier that year, adding up to 27,473 U.S. cabinet sales for both.\nSuper Cobra was widely ported by Parker Brothers, and there are Adventure Vision and standalone versions from Entex."
+    },
+    "110": {
+      "en": "Pengo (ペンゴ) is an arcade game developed by Coreland and published by Sega in 1982. The player controls Pengo, a red penguin that resides in the Antarctic. The game takes place in an overhead maze made of ice blocks, where Pengo fights the trolling, blob-like Sno-Bees. The objective of the game is for Pengo to survive a series of rounds by eliminating all Sno-Bees, while amassing bonuses by bringing together the three diamonds dispersed in the maze.\nThere are two versions of the arcade game, each with different music. The first uses \"Popcorn\" as the theme, and the second has original music. There are other small differences as well.\nPengo was ported to the Atari 2600, Atari 5200, Atari 8-bit family, and Sega Game Gear."
+    },
+    "111": {
+      "en": "Rescue On Fractalus! is a March 1984 first-person shooter computer game created by Lucasfilm Games (later LucasArts Entertainment). It was originally released for the Atari 8-bit family and the Atari 5200 games console. It was also ported to other popular platforms of the day, such as the Apple II, ZX Spectrum (by Dalali Software Ltd), Amstrad CPC, Tandy Color Computer 3 and Commodore 64. The game was one of the first two products from the fledgling Lucasfilm Computer Division Games Group led by Peter Langston. David Fox was the project leader and designer. Music was mainly composed by Charlie Kellner."
+    },
+    "112": {
+      "en": "Mountain King is a scrolling platform video game released by CBS Electronics in 1983. It was available on the Atari 2600, Atari 5200, Atari 8-bit family, ColecoVision, Commodore 64, and VIC-20."
+    },
+    "113": {
+      "en": "Wizard of Wor is an arcade game released in 1980 by Midway. Up to two players fight together in a series of monster-infested mazes, clearing each maze by shooting the creatures. The game was ported to the Atari 8-bit family, Commodore 64, Atari 2600, and Atari 5200 and renamed to The Incredible Wizard for the Bally Astrocade.\nThe game was later released as part of the compilations Midway Arcade Treasures 2 (2004) and Midway Arcade Origins (2012)."
+    },
+    "114": {
+      "en": "Megamania is an Atari 2600 game designed by Steve Cartwright and published by Activision in 1982. It took six months to develop the concept and another three months to fine-tune the game. It was released for the Atari 5200 and Atari 8-bit family in 1983, ported by Glyn Anderson.\nMegamania is similar to Sega's 1981 arcade title Astro Blaster. Both games have nearly identical patterns of approaching enemies with the player relying on an \"energy\" meter. Also, the player's ships are remarkably similar in both games."
+    },
+    "115": {
+      "en": "Bounty Bob Strikes Back! is the sequel to Miner 2049er and was initially released in 1984 for the Atari 8-bit family. The game added a pseudo-3D look to the platforms and increased the level count from 10 to 25. It was ported to the Atari 5200, Commodore 64, Amstrad CPC and ZX Spectrum in 1985."
+    },
+    "116": {
+      "en": "Congo Bongo (コンゴボンゴ, Kongo Bongo), also known as Tip Top (ティップタップ, Tippu Tappu), is an isometric platform arcade game released by Sega in 1983. The player takes the role of a red-nosed safari hunter who tries to catch an ape named Bongo. The hunter seeks Bongo to exact revenge for an apparent practical joke in which Bongo set fire to the hunter's tent, giving him a literal \"hot foot.\" The game was named by Peter W. Gorrie who was the CFO of Sega at that time.\nThe game's ROM contains a message indicating it was likely coded at least in part by the company Ikegami Tsushinki."
+    },
+    "117": {
+      "en": "Space Invaders (Japanese: スペースインベーダー, Hepburn: Supēsu Inbēdā) is an arcade video game created by Tomohiro Nishikado and released in 1978. It was originally manufactured and sold by Taito in Japan, and was later licensed for production in the United States by the Midway division of Bally. Space Invaders is one of the earliest shooting games and the aim is to defeat waves of aliens with a laser cannon to earn as many points as possible. In designing the game, Nishikado drew inspiration from popular media: Breakout, The War of the Worlds, and Star Wars. To complete it, he had to design custom hardware and development tools.\nIt was one of the forerunners of modern video gaming and helped expand the video game industry from a novelty to a global industry (see Golden age of arcade video games). When first released, Space Invaders was very successful.\nThe game has been the inspiration for other video games, re-released on numerous platforms, and led to several sequels. The 1980 Atari 2600 version quadrupled the system's sales and became the first \"killer app\" for video game consoles. Space Invaders has been referenced and parodied in multiple television shows, and been a part of several video game and cultural exhibitions. The pixelated enemy alien has become a pop culture icon, often used as a synecdoche representing video games as a whole."
+    },
+    "118": {
+      "en": "Qix (pronounced \"kicks\") is an arcade game released by Taito America Corporation in October 1981. The objective of Qix is to fence off, or claim, a supermajority of the playfield. At the start of each level, the playing field is a large, empty rectangle, containing the \"Qix\"—a stick-like entity that performs graceful but unpredictable motions within the confines of the rectangle.\nQix was ported to the contemporary Atari 5200 (1982), Atari 8-bit family (1983), and Commodore 64 (1983), then was brought to a wide variety of systems in the late 1980s and early 1990s: MS-DOS (1989), Amiga (1989), another version for the C64 (1989), Apple IIgs (1990), Game Boy (1990), Nintendo Entertainment System (1991), and Atari Lynx (1991)."
+    },
+    "119": {
+      "en": "Keystone Kapers is a video game published by Activision for the Atari 2600 in April 1983, and later ported to the Atari 5200, Atari 8-bit family, ColecoVision, and MSX in 1984. Inspired by Mack Sennett's slapstick Keystone Cops series of silent films, the object of the game is for Officer Keystone Kelly (the player) to catch Harry Hooligan before he can escape from a department store. Keystone Kapers was written by Activision designer Garry Kitchen."
+    },
+    "120": {
+      "en": "For the 2007 MMORPG, see Vanguard: Saga of Heroes\nVanguard (ヴァンガード) is a 1981 arcade game developed by TOSE, and published by SNK in Japan in 1981 and later during the same year in Germany by the same publisher, while it was licensed to Centuri for manufacture in North America in October 1981 and by Zaccaria in Italy during the same year, putting SNK on the map in those regions. The game was also licensed to Cinematronics for conversion to cocktail arcade cabinets in North America.\nThe game is one of the first shooters with scrolling in multiple directions. It is also the first color game released by SNK and an early example of a dual-control game, similar to the later Robotron: 2084, but using four directional buttons rather than a second joystick."
+    },
+    "121": {
+      "en": "Kangaroo (Japanese: カンガルー) is an arcade platform game that was released in 1982. It was manufactured by Sun Electronics and distributed by Atari. Kangaroo is one of the first arcade games similar in style to Donkey Kong without being a direct knock-off. The player takes the role of a mother kangaroo wearing boxing gloves, who is trying to rescue her son from fruit-throwing monkeys.\nUnusually for a game with jumping, there is no jump button. Instead, the player pushes up—or up and diagonally—to jump."
+    },
+    "122": {
+      "en": "Astro Chase is a scrolling shoot 'em up game originally released by First Star Software in 1982 for the Atari 8-bit family. The company later licensed certain platform rights to Parker Brothers for release on several home computers, and to Exidy for use with their Max-A-Flex arcade cabinet.\nGameplay takes place on a 2D scrolling map of space around Earth, which the player has to defend from an alien force. The primary target is a number of Mega-Mines, which approach the Earth and must be destroyed. The game is level-based (there are 36), and after all the Mega-Mines are destroyed the game progresses to the next level where players encounter a growing variety of enemy attack ships, with different speeds and offensive capabilities. An animated cut-scene is played every four levels."
+    },
+    "123": {
+      "en": "Gremlins is a 1984 video game developed and published by Atari for the Atari 2600 system. It is a tie-in to the 1984 film Gremlins. Atari released another, substantially different game based on the film for the Atari 5200."
+    },
+    "124": {
+      "en": "Q*bert  is an arcade game developed and published by Gottlieb in 1982. It is a 2D action game with puzzle elements that uses isometric graphics to create a pseudo-3D effect. The objective is to change the color of every cube in a pyramid by making the on-screen character hop on top of the cube while avoiding obstacles and enemies. Players use a joystick to control the character.\nThe game was conceived by Warren Davis and Jeff Lee. Lee designed the title character and original concept, which was then further developed and implemented by Davis. Q*bert was developed under the project name Cubes.\nQ*bert was well received in arcades and among critics. The game was Gottlieb's most successful video game and among the most recognized brands from the golden age of arcade video games. It has been ported to numerous platforms. The success resulted in sequels and the use of the character's likeness in merchandising, such as appearances on lunch boxes, toys, and an animated television show. The character Q*bert became known for his \"swearing\", an incoherent phrase of synthesized speech generated by the sound chip and a speech balloon of nonsensical characters that appear when he collides with an enemy.\nBecause the game was developed during the period when Columbia Pictures owned Gottlieb, the intellectual rights to Q*bert remained with Columbia even after they divested themselves of Gottlieb's assets in 1984. Therefore, the rights have been owned by Sony Pictures Entertainment since its parent Sony acquired Columbia in 1989. Q*bert appeared in Disney's computer-animated film Wreck-It Ralph under license from Sony, and later appeared in Columbia's live-action film Pixels in 2015."
+    },
+    "125": {
+      "en": "You control everyone&#39;s favorite iconic Pac-Man as you navigate through\nmazes, eating Power Dots while simultaneously avoiding the devious\nGhosts. Warp from one edge of the maze to the other using the Warp\nTunnels, or eat a Power Pellet to turn the tables and make the Ghosts\nvulnerable! In order to clear the stage, you&#39;ll need to eat all the\nPac-Dots! See just how far you can get through the stages before losing\nall your lives! Fruits, such as cherries and strawberries, will give you\nextra points to help you reach the highest score!\nThis classic game is part of the Virtual Console service, which brings you great games created for consoles such as NES™, Super NES™ and Game Boy™ Advance. We hope you&#39;ll enjoy the new features (including off-TV play) that have been added to this title. See more Virtual Console games for Wii U."
+    },
+    "126": {
+      "en": "Space Shuttle: A Journey into Space is a space flight simulator game designed by Steve Kitchen for the Atari 2600 and published by Activision in 1983. It is one of the first realistic spacecraft simulations available for home systems. Space Shuttle was adapted to the Atari 8-bit family and Atari 5200 by Bob Henderson (1984), then ported to the ZX Spectrum (1984), Commodore 64 (1984), Amstrad CPC (1986), and MSX (1986). The 1984 Activision Software catalog also mentions an Apple II version.\nThe player controls the most critical flight phases such as Launch, Stabilizing Orbit, Docking, Deorbit Burn, Reentry, and Landing, each with its own set of instructions to follow. The original Atari 2600 version came with an overlay since it made use of all the switches."
+    },
+    "127": {
+      "en": "RealSports Tennis is a tennis simulation video game developed by Atari, Inc. for the Atari 2600 and Atari 5200, and published in 1983.\nAtari republished RealSports Tennis via Microsoft's Game Room service on March 24, 2010."
+    },
+    "128": {
+      "en": "Robotron: 2084 (also referred to as Robotron) is an arcade video game developed by Eugene Jarvis and Larry DeMar of Vid Kidz and released by Williams Electronics (part of WMS Industries) in 1982. It is a shoot 'em up with two-dimensional graphics. The game is set in the year 2084 in a fictional world where robots have turned against humans in a cybernetic revolt. The aim is to defeat endless waves of robots, rescue surviving humans, and earn as many points as possible.\nRobotron popularized the twin joystick control scheme, one that had previously been used in Taito's Space Dungeon.\nRobotron: 2084 was critically and commercially successful. Praise among critics focused on the game's intense action and control scheme. The game is frequently listed as one of Jarvis's best contributions to the video game industry. Robotron: 2084 arcade cabinets have since become a sought-after collector's item. It was ported to numerous platforms."
+    },
+    "129": {
+      "en": "Jungle Hunt (ジヤングル・ハン卜) is a right-to-left side-scrolling arcade game produced and released by Taito in 1982. It was initially released as Jungle King. Jungle Hunt is one of the first video games to use parallax scrolling.\nThe player controls an unnamed explorer, sporting a pith helmet and safari suit, attempting to rescue his girl from a tribe of cannibals by swinging from vine to vine, swimming a crocodile-infested river, and avoiding rolling rocks. Taito released a re-skinned version of the game as Pirate Pete.\nAtari published home ports under their own brand for the Atari 2600, Atari 5200, and Atari 8-bit family. The rest were released under the Atarisoft label: Apple II, ColecoVision, Commodore 64, VIC-20, IBM PC (as a PC booter), and TI-99/4A. It was re-released, via emulation, as part of Taito Legends for Windows, PlayStation 2, and Xbox.\nIn the Atari-ported versions the hero is named Sir Dudley, and the girl, married to Sir Dudley, is Lady Penelope."
+    },
+    "130": {
+      "en": "Kaboom! is an Activision video game published in 1981 for Atari 2600 that was designed by Larry Kaplan. David Crane coded the overlaid sprites. It was well-received and successful commercially, selling over one million cartridges by 1983.\nKaboom! is an unauthorized adaptation of the 1978 Atari coin-op Avalanche. The gameplay of both games is fundamentally the same, but Kaboom! was re-themed to be about a mad bomber instead of falling rocks. As an ex-Atari programmer, Larry Kaplan, originally wanted to port Avalanche to the Atari 2600. In Avalanche all the boulders are lined up at the top which is difficult to accomplish on the 2600, hence the shift to the Mad Bomber."
+    },
+    "131": {
+      "en": "\n      Travel back to a time when a lovable alien phoned home, gas cost a mere \n      90 cents a gallon, and everyone was wearing high-tops, leg warmers and \n      had big hair. This was the early 80s, and this was when video gamers \n      nationwide were wowed by the cutting edge graphics and sound effects of \n      the first three-dimensional-like intergalactic arcade shooter: Zaxxon. \n      Touted as the first game to put video display in perspective, Zaxxon \n      featured “looks” and “sounds” like actual aircraft flight, allowing the \n      player to command his ship just like a real fighter pilot. Dive, bank, \n      fly left and right, and up and down—Zaxxon had it all. Fly through \n      heavily armored space fortresses, strafing fuel tanks, dodging walls, \n      and blowing up enemy missiles and gunnery. This game is littered with \n      explosions. Then take the fight to the enemy fighter fleet and destroy \n      the aggressor ships with extreme prejudice. Blasting pixels has never \n      been so fun.\n    This classic game is part of the Virtual Console service, which brings you great games created for consoles such as NES™, Super NES™ and Game Boy™ Advance. See more Virtual Console games for Wii."
+    },
+    "132": {
+      "en": "The Activision Decathlon is a sports game written by David Crane for the Atari 2600 and published by Activision in 1983. It was ported to the Atari 8-bit family, Atari 5200, Commodore 64, ColecoVision and MSX platforms. Up to four players compete in the ten different events of a real-life decathlon, either in sequence or individually.\nThe game became somewhat notorious for the amount of wear or damage inflicted upon console controllers, namely the Atari 2600 version where rapid back-and-forth movement of the joystick propels the athlete down the track.\nThe game was later reissued simply as Decathlon by the UK budget label Firebird. It was subsequently featured on the PlayStation 2 compilation Activision Anthology."
+    },
+    "133": {
+      "en": "Gorf is an arcade game released in 1981 by Midway Mfg., whose name was advertised as an acronym for \"Galactic Orbiting Robot Force\". It is a multiple-mission fixed shooter with five distinct modes of play, essentially making it five games in one. It is well known for its use of synthesized speech, a new feature at the time.\nGorf's most notable feature is its robotic synthesised speech, powered by the Votrax speech chip. One of the first games to allow the player to buy additional lives before starting the game, Gorf allows the player to insert extra coins to buy up to seven starting lives.\nThe underlying hardware platform for Gorf allowed arcade operators to easily swap the pattern, CPU, and RAM boards with other similar games, such as Wizard of Wor. Only the game logic and ROM boards are specific to each game."
+    },
+    "134": {
+      "en": "Beamrider is a fixed shooter designed for the Intellivision by David Rolfe and published by Activision in 1983. The game was then ported to the Atari 2600 (with a slightly reduced feature set), Atari 5200, Atari 8-bit family, ColecoVision, Commodore 64, ZX Spectrum and MSX platforms."
+    },
+    "135": {
+      "en": "Ms. Pac-Man is an arcade video game from the Golden Age. It was produced by Illinois-based Midway Manufacturing corporation, the North American publisher of Pac-Man. Ms. Pac-Man was released in North America in January 1982, and is one of the most popular arcade video games of all time. This popularity led to its adoption as an official title by Namco, the creator of Pac-Man, which was released in the United States in late 1980. Ms. Pac-Man introduced a female protagonist, new maze designs, and several other improved gameplay changes over the original Pac-Man. Ms. Pac-Man became the most successful American-produced arcade game of 1982, selling 115,000 arcade cabinets."
+    },
+    "136": {
+      "en": "Ballblazer is a 1984 futuristic sports game created by Lucasfilm Games. It was originally released for the Atari 8-bit family, then ported to the Atari 5200, Apple II, ZX Spectrum, Amstrad CPC, Commodore 64, MSX. and later the Atari 7800 and the Nintendo Famicom. The game was called Ballblaster during development; pirated versions of the game went by this name as well. The principal creator and programmer of Ballblazer was David Levine.\nIn 1990, LucasArts and Rainbow Arts released a remake and follow-up to this game, called Masterblazer. This game was released for the Amiga, Atari ST, and MS-DOS. On March 31, 1997, a remake of the original titled Ballblazer Champions was released for the Sony PlayStation."
+    },
+    "137": {
+      "en": "The Dreadnaught Factor is a video game written by Tom Loughry for the Mattel Intellivision and published by Activision in 1983. Atari 5200 and Atari 8-bit family ports followed in 1984."
+    },
+    "138": {
+      "en": "Berzerk is a multi-directional shooter video arcade game, released in 1980 by Stern Electronics of Chicago. It is a canonical example of a maze game, in which the player has to navigate around a maze-like building while shooting enemies."
+    },
+    "139": {
+      "en": "Popeye (ポパイ, Popai) is a 1983 arcade platform game developed and released by Nintendo based on the Popeye characters licensed from King Features Syndicate strips and animated shorts. Unlike most platform games, the player cannot jump; the only button is &quot;punch.&quot; The game was licensed by Atari for exclusive release in the United Kingdom and Ireland, and featured in an Atari designed and manufactured cabinet. Some sources claim that Ikegami Tsushinki also did design work on Popeye.\nThe Popeye characters were originally going to be used in the game that later became Donkey Kong. However at that time on the development of the game, Nintendo could not get the licenses to use the characters.\nBen Falls holds the world record score of 3,023,060 earned on December 20, 2011, according to Twin Galaxies International Scoreboard.\nThe Family Computer (Famicom) saw an educational sequel on November 22, 1983: Popeye no Eigo Asobi, an English teaching game akin to the later Donkey Kong Jr. Math."
+    },
+    "140": {
+      "en": "Montezuma's Revenge is an arcade game developed by BCI Software and Utopia Software. It came out on 01-01-1984. It was published by Parker Brothers. The game is rated as \"Recommended\" on RAWG. You can play Montezuma's Revenge on SEGA Master System, Apple II, Atari 8-bit and Atari 5200. \n\n"
+    },
+    "141": {
+      "en": "Zenji is a puzzle game designed by Matthew Hubbard and published by Activision in 1984. It was released for the Atari 5200, Atari 8-bit family, ColecoVision, Commodore 64, MSX, and ZX Spectrum. Hubbard previously wrote Dolphin for the Atari 2600.\nThe player controls a rolling face throughout a maze. The goal is to turn the maze green by connecting each section while avoiding obstacles and completing the task before the timer ran out. As the levels progress there are more obstacles and less time."
+    },
+    "142": {
+      "en": "Star Trek: Strategic Operations Simulator (also known as Star Trek: SOS and Star Trek Arcade) is a space combat simulation arcade game based on the original Star Trek television program and movie series, and released by Sega in 1983. It is a vector game, with both a two-dimensional display and a three-dimensional first-person perspective. The player controls the Starship Enterprise, and must defend sectors from invading Klingon ships.\nThe game was presented in two styles of cabinets: an upright standup, and a sit-down/semi-enclosed deluxe cabinet with the player's chair modeled after the Star Trek Motion Picture's bridge chairs with controls integrated into the chair's arms.\nStar Trek: SOS was ported to the Commodore 64, TI-99/4A, Atari 8-bit family, Atari 5200, Atari 2600, VIC-20, ColecoVision and Apple II."
+    },
+    "143": {
+      "en": "K-Razy Shoot-Out is a clone of the arcade game Berzerk developed by K-Byte, a division of Kay Enterprises, and released for the Atari 8-bit family in 1981. The game was written by Torre Meeder and Dr. Keith Dreyer, and was the first Atari 8-bit cartridge from a third-party developer. An Atari 5200 version followed in 1983.\nThe game is part of a series of titles with the \"K-\" prefix, including K-Razy Kritters and K-Star Patrol. All of them were published on cartridge. The K-Byte games were later published by CBS Software, including the Atari 5200 port of K-Razy Shoot-Out."
+    },
+    "144": {
+      "en": "Galaxian (ギャラクシアン, Gyarakushian) is an arcade game that was developed by Namco and released in October 1979. It was published by Namco in Japan and imported to North America by Midway that December. A fixed-shooter game in which the player controls a spaceship at the bottom of the screen, and shoots enemies descending in various directions, it was designed to compete with Taito Corporation&#39;s successful earlier game Space Invaders (which was released in the previous year, and also imported to the US by Midway Games).\nThe game was highly popular for Namco upon its release, and has been a focus of competitive gaming ever since. It spawned a successful sequel, Galaga, in 1981, and the lesser-known Gaplus and Galaga &#39;88 in 1984 and 1987 respectively, as well as many later ports and adaptations. Along with its immediate sequel, it was one of the most popular games during the golden age of arcade video games."
+    },
+    "145": {
+      "en": "Moon Patrol (ムーンパトロール, Mūn Patorōru) is an arcade game by Irem released in 1982. It was licensed to Williams for distribution in North America. Moon Patrol is widely credited for the introduction of parallax scrolling in side-scrolling video games. Taito's Jungle Hunt side-scroller, released the same year as Moon Patrol, also features parallax scrolling."
+    },
+    "146": {
+      "en": "Pole Position (ポールポジション, Pōru Pojishon) is an arcade racing video game which was released by Namco in 1982 and licensed to Atari, Inc. for US manufacture and distribution, running on the Namco Pole Position arcade system board. The game was designed by Tōru Iwatani, who had also designed the Gee Bee games and Pac-Man. It was the most popular coin-operated arcade game of 1983, and is considered one of the most important titles from the video arcade's golden age. Pole Position was released in two configurations: a standard upright cabinet, and an environmental/cockpit cabinet. Both versions feature a steering wheel and a gear shifter for low and high gears, but the environmental/cockpit cabinet featured both an accelerator and a brake pedal, while the standard upright one only featured an accelerator pedal.\nBy 1983, it had become the highest-grossing arcade game that year in North America, where it had sold over 21,000 machines for $61 million ($155 million in 2018), in addition to earning $450 ($1141 in 2018) weekly revenues per machine. It was the most successful racing game of the classic era, spawning ports, sequels, and a Saturday morning cartoon, although the cartoon had nothing in common with the game. The game established the conventions of the racing game genre and its success inspired numerous imitators. Pole Position is regarded as one of the most influential video games of all time and \"arguably the most important racing game ever made.\""
+    },
+    "147": {
+      "en": "Dig Dug (ディグダグ, Digu Dagu) is an arcade game developed and published by Namco in Japan in 1982. It runs on Namco Galaga hardware, and was published outside Japan by Atari, Inc..\nAtari also obtained the license for home versions of Dig Dug, and released it for the Atari 2600, Atari 5200, Atari 7800, Intellivision, Apple II, Atari 8-bit family, VIC-20, Commodore 64, IBM PC and TI-99/4A. Namco ported Dig Dug to the Nintendo Family Computer in 1985.\nGakken made a table top handheld game of Dig Dug in 1982. It was one of a series of 3 flip-top games with VFD screen and magnifying Fresnel lens."
+    },
+    "148": {
+      "en": "Defender is an arcade video game developed and released by Williams Electronics in February 1981. A horizontally scrolling shoot 'em up, the game is set on an unnamed planet where the player must defeat waves of invading aliens while protecting astronauts. Development was led by Eugene Jarvis, a pinball programmer at Williams; Defender was Jarvis' first video game project and drew inspiration from Space Invaders and Asteroids.\nDefender was one of the most important titles of the Golden Age of Video Arcade Games, selling over 55,000 units to become the company's best selling game and one of the highest-grossing arcade games ever. Praise among critics focused on the game's audio-visuals and gameplay. It is frequently listed as one of Jarvis' best contributions to the video game industry, as well as one of the most difficult video games. Though not the first game to scroll horizontally, it created the genre of purely horizontal scrolling shooters. It inspired the development of other games and was followed by sequels and many imitations.\nThere were many ports to contemporary systems, most of them by either Atari, Inc. or its software label for non-Atari platforms, Atarisoft."
+    },
+    "149": {
+      "en": "Gyruss (ジャイラス, Jairasu) is a fixed shooter arcade game designed by Yoshiki Okamoto and released by Konami in 1983. Gyruss was initially licensed to Centuri in the United States for dedicated machines, before Konami released their own self-distributed conversion kits for the game. Parker Brothers released contemporary ports for the Atari 2600, Atari 5200, Atari 8-bit family, ColecoVision, and Commodore 64. An enhanced version for the Family Computer Disk System was released in 1988, which was released to the North American Nintendo Entertainment System in early 1989.\nThe gameplay is similar to that of Galaga and Tempest, presented in a forced 3D perspective, with the player's ship facing into the screen and able to move around the perimeter of an implicit circle. Stars come into view at the centre of the screen and fly outward, giving the impression of the player's ship moving through space.\nGyruss is the second and last game Yoshiki Okamoto designed for Konami, after Time Pilot. Due to pay disputes, he was fired after the release of this game, and soon joined Capcom, where he would write 1942 and produce Street Fighter II.\nThe game's background music is an electronic, uptempo arrangement of J. S. Bach's Toccata and Fugue in D minor, BWV 565; this particular track is similar to \"Toccata,\" a rock arrangement by the UK-based instrumentalist group Sky. Gyruss is notable for using stereo sound, which according to the bonus material for Konami Arcade Classics, was achieved by utilizing discrete audio circuits.\nGyruss was released in both upright and cocktail cabinets."
+    },
+    "150": {
+      "en": "Centipede is a vertically oriented fixed shooter arcade game produced by Atari, Inc. in 1980. The game was designed by Ed Logg and Dona Bailey. It was one of the most commercially successful games from the video arcade's golden age. The player fights off centipedes, spiders, scorpions and fleas, completing a round after eliminating the centipede that winds down the playing field.\nCentipede was ported to Atari's own Atari 2600, Atari 5200, Atari 7800, and Atari 8-bit family. Under the Atarisoft label, the game was sold for the Apple II, Commodore 64, ColecoVision, VIC-20, IBM PC (as a PC booter), Intellivision, and TI-99/4A. Superior Software published the port for the BBC Micro."
+    },
+    "151": {
+      "en": "Pitfall! is a video game designed by David Crane for the Atari 2600 and released by Activision in 1982. The player controls Pitfall Harry and is tasked with collecting all the treasures in a jungle within 20 minutes while avoiding obstacles and hazards.\nPitfall! received positive reviews upon release, and is one of the best-selling games on the Atari 2600, with over four million copies sold. It was the top video game on the Billboard charts for more than a year, and inspired numerous sequels and ports across a variety of gaming consoles, also being viewed as helping define the side-scrolling platformer game genre."
+    },
+    "152": {
+      "en": "Space Dungeon is a shoot 'em up arcade game released by Taito Corporation in 1981 and designed and programmed by Rex Battenberg. It was available both as a conversion kit and as a full arcade cabinet.\nLike Robotron: 2084 (1982), but preceding the release of that game, the controls for Space Dungeon are a pair of 8-directional joysticks: one for moving, one for shooting. Space Dungeon is one of the first twin-stick shooters, after Taito's earlier games Gun Fight and Boot Hill."
     }
   }
 }

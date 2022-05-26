@@ -1,6 +1,6 @@
 {
   "PlatformName": "Sega 32X",
-  "LastUpdate": "5/25/2022 3:06:23 AM",
+  "LastUpdate": "5/26/2022 1:51:22 AM",
   "Games": [
     {
       "Titles": [
@@ -107,17 +107,22 @@
         ],
         "TGDB": [
           "26762"
+        ],
+        "RAWG": [
+          "54174"
         ]
       },
-      "OverviewId": 1,
+      "OverviewId": 59,
       "Size": 2097152,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
-      "ReleaseDate": "1/13/1995",
+      "ReleaseDate": "7/1/1987",
       "ESRB": "E",
       "Genres": [
         "Action"
@@ -127,6 +132,9 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer"
       ]
     },
     {
@@ -150,18 +158,23 @@
         ],
         "TGDB": [
           "26762"
+        ],
+        "RAWG": [
+          "54174"
         ]
       },
-      "OverviewId": 1,
+      "OverviewId": 59,
       "Size": 2097152,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "CloneOf": "aburner",
-      "ReleaseDate": "1/13/1995",
+      "ReleaseDate": "7/1/1987",
       "ESRB": "E",
       "Genres": [
         "Action"
@@ -172,6 +185,9 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer"
       ]
     },
     {
@@ -195,19 +211,23 @@
         ],
         "TGDB": [
           "4925"
+        ],
+        "RAWG": [
+          "55186"
         ]
       },
-      "OverviewId": 2,
+      "OverviewId": 68,
       "Size": 3145728,
       "Publishers": [
         "Sega",
-        "Sega of America, Inc."
+        "Sega of America, Inc.",
+        "SEGA"
       ],
       "Developers": [
         "BlueSky Software",
         "Blue Sky Software"
       ],
-      "ReleaseDate": "3/1/1996",
+      "ReleaseDate": "1/1/1996",
       "ESRB": "E",
       "Genres": [
         "Action",
@@ -219,6 +239,11 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -239,18 +264,24 @@
         ],
         "TGDB": [
           "4913"
+        ],
+        "RAWG": [
+          "54238"
         ]
       },
-      "OverviewId": 3,
+      "OverviewId": 52,
       "Size": 3145728,
       "Publishers": [
         "Core Design",
-        "Front Street Publishing"
+        "Front Street Publishing",
+        "GoldStar",
+        "LG Electronics"
       ],
       "Developers": [
-        "Core Design Ltd."
+        "Core Design Ltd.",
+        "Core Design"
       ],
-      "ReleaseDate": "10/19/1995",
+      "ReleaseDate": "1/1/1994",
       "Genres": [
         "Racing"
       ],
@@ -260,7 +291,10 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "Singleplayer",
+        "2 players"
+      ]
     },
     {
       "Titles": [
@@ -280,29 +314,46 @@
         ],
         "TGDB": [
           "9074"
+        ],
+        "RAWG": [
+          "32252"
         ]
       },
-      "OverviewId": 4,
+      "OverviewId": 40,
       "Size": 3145728,
       "Publishers": [
         "Blizzard Entertainment - Interplay",
         "Sega",
-        "Interplay Entertainment Corp."
+        "Interplay Entertainment Corp.",
+        "Interplay Productions",
+        "Interplay Entertainment",
+        "MacPlay",
+        "Mac OS",
+        "GBA"
       ],
       "Developers": [
-        "Blizzard"
+        "Blizzard",
+        "Blizzard Entertainment, Inc.",
+        "Mass Media",
+        "GBA",
+        "32X",
+        "Paradox"
       ],
-      "ReleaseDate": "8/24/1995",
+      "ReleaseDate": "1/1/1994",
       "ESRB": "T",
       "Genres": [
         "Action",
-        "Platform"
+        "Platform",
+        "Arcade"
       ],
       "Regions": [
         "US"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer"
       ]
     },
     {
@@ -368,20 +419,38 @@
         ],
         "MESS": [
           "chaotixju"
+        ],
+        "RAWG": [
+          "55179"
         ]
       },
+      "OverviewId": 63,
       "Size": 3145728,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
+      ],
+      "Developers": [
+        "SEGA"
       ],
       "CloneOf": "chaotix",
-      "ReleaseDate": "1/1/1995",
+      "ReleaseDate": "4/20/1995",
+      "Genres": [
+        "Action"
+      ],
       "Regions": [
         "JP",
         "US"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer",
+        "cooperative",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -432,17 +501,22 @@
         ],
         "TGDB": [
           "4914"
+        ],
+        "RAWG": [
+          "55177"
         ]
       },
-      "OverviewId": 6,
+      "OverviewId": 38,
       "Size": 3145728,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Almanic Corp."
+        "Almanic Corp.",
+        "Givro"
       ],
-      "ReleaseDate": "3/2/1994",
+      "ReleaseDate": "1/1/1994",
       "ESRB": "T",
       "Genres": [
         "Fighting"
@@ -453,7 +527,12 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
+      ]
     },
     {
       "Titles": [
@@ -474,18 +553,23 @@
         ],
         "TGDB": [
           "4914"
+        ],
+        "RAWG": [
+          "55177"
         ]
       },
-      "OverviewId": 6,
+      "OverviewId": 38,
       "Size": 3145728,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Almanic Corp."
+        "Almanic Corp.",
+        "Givro"
       ],
       "CloneOf": "cosmicc",
-      "ReleaseDate": "3/2/1994",
+      "ReleaseDate": "1/1/1994",
       "ESRB": "T",
       "Genres": [
         "Fighting"
@@ -498,7 +582,11 @@
       ],
       "Tags": [
         "proto",
-        "beta"
+        "beta",
+        "Multiplayer",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -520,18 +608,23 @@
         ],
         "TGDB": [
           "4914"
+        ],
+        "RAWG": [
+          "55177"
         ]
       },
-      "OverviewId": 6,
+      "OverviewId": 38,
       "Size": 4194304,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Almanic Corp."
+        "Almanic Corp.",
+        "Givro"
       ],
       "CloneOf": "cosmicc",
-      "ReleaseDate": "9/21/1994",
+      "ReleaseDate": "1/1/1994",
       "ESRB": "T",
       "Genres": [
         "Fighting"
@@ -544,7 +637,11 @@
       ],
       "Tags": [
         "proto",
-        "beta"
+        "beta",
+        "Multiplayer",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -566,18 +663,23 @@
         ],
         "TGDB": [
           "4914"
+        ],
+        "RAWG": [
+          "55177"
         ]
       },
-      "OverviewId": 6,
+      "OverviewId": 38,
       "Size": 3145728,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Almanic Corp."
+        "Almanic Corp.",
+        "Givro"
       ],
       "CloneOf": "cosmicc",
-      "ReleaseDate": "10/7/1994",
+      "ReleaseDate": "1/1/1994",
       "ESRB": "T",
       "Genres": [
         "Fighting"
@@ -587,7 +689,11 @@
       ],
       "Tags": [
         "proto",
-        "beta"
+        "beta",
+        "Multiplayer",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -609,18 +715,23 @@
         ],
         "TGDB": [
           "4914"
+        ],
+        "RAWG": [
+          "55177"
         ]
       },
-      "OverviewId": 6,
+      "OverviewId": 38,
       "Size": 3145728,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Almanic Corp."
+        "Almanic Corp.",
+        "Givro"
       ],
       "CloneOf": "cosmicc",
-      "ReleaseDate": "10/11/1994",
+      "ReleaseDate": "1/1/1994",
       "ESRB": "T",
       "Genres": [
         "Fighting"
@@ -630,7 +741,11 @@
       ],
       "Tags": [
         "proto",
-        "beta"
+        "beta",
+        "Multiplayer",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -652,18 +767,23 @@
         ],
         "TGDB": [
           "4914"
+        ],
+        "RAWG": [
+          "55177"
         ]
       },
-      "OverviewId": 6,
+      "OverviewId": 38,
       "Size": 3145728,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Almanic Corp."
+        "Almanic Corp.",
+        "Givro"
       ],
       "CloneOf": "cosmicc",
-      "ReleaseDate": "10/4/1994",
+      "ReleaseDate": "1/1/1994",
       "ESRB": "T",
       "Genres": [
         "Fighting"
@@ -673,7 +793,11 @@
       ],
       "Tags": [
         "proto",
-        "beta"
+        "beta",
+        "Multiplayer",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -695,18 +819,23 @@
         ],
         "TGDB": [
           "4914"
+        ],
+        "RAWG": [
+          "55177"
         ]
       },
-      "OverviewId": 6,
+      "OverviewId": 38,
       "Size": 3145728,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Almanic Corp."
+        "Almanic Corp.",
+        "Givro"
       ],
       "CloneOf": "cosmicc",
-      "ReleaseDate": "10/5/1994",
+      "ReleaseDate": "1/1/1994",
       "ESRB": "T",
       "Genres": [
         "Fighting"
@@ -716,7 +845,11 @@
       ],
       "Tags": [
         "proto",
-        "beta"
+        "beta",
+        "Multiplayer",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -738,18 +871,23 @@
         ],
         "TGDB": [
           "4914"
+        ],
+        "RAWG": [
+          "55177"
         ]
       },
-      "OverviewId": 6,
+      "OverviewId": 38,
       "Size": 3145728,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Almanic Corp."
+        "Almanic Corp.",
+        "Givro"
       ],
       "CloneOf": "cosmicc",
-      "ReleaseDate": "9/26/1994",
+      "ReleaseDate": "1/1/1994",
       "ESRB": "T",
       "Genres": [
         "Fighting"
@@ -759,7 +897,11 @@
       ],
       "Tags": [
         "proto",
-        "beta"
+        "beta",
+        "Multiplayer",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -781,18 +923,23 @@
         ],
         "TGDB": [
           "4914"
+        ],
+        "RAWG": [
+          "55177"
         ]
       },
-      "OverviewId": 6,
+      "OverviewId": 38,
       "Size": 3145728,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Almanic Corp."
+        "Almanic Corp.",
+        "Givro"
       ],
       "CloneOf": "cosmicc",
-      "ReleaseDate": "9/28/1994",
+      "ReleaseDate": "1/1/1994",
       "ESRB": "T",
       "Genres": [
         "Fighting"
@@ -802,7 +949,11 @@
       ],
       "Tags": [
         "proto",
-        "beta"
+        "beta",
+        "Multiplayer",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -825,18 +976,23 @@
         ],
         "TGDB": [
           "4914"
+        ],
+        "RAWG": [
+          "55177"
         ]
       },
-      "OverviewId": 6,
+      "OverviewId": 38,
       "Size": 3145728,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Almanic Corp."
+        "Almanic Corp.",
+        "Givro"
       ],
       "CloneOf": "cosmicc",
-      "ReleaseDate": "3/2/1994",
+      "ReleaseDate": "1/1/1994",
       "ESRB": "T",
       "Genres": [
         "Fighting"
@@ -848,7 +1004,12 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
+      ]
     },
     {
       "Titles": [
@@ -869,18 +1030,23 @@
         ],
         "TGDB": [
           "9075"
+        ],
+        "RAWG": [
+          "55180"
         ]
       },
-      "OverviewId": 7,
+      "OverviewId": 51,
       "Size": 2097152,
       "Publishers": [
         "Frontier Developments",
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Frontier Developments Ltd."
+        "Frontier Developments Ltd.",
+        "Frontier Developments"
       ],
-      "ReleaseDate": "12/1/1995",
+      "ReleaseDate": "1/1/1995",
       "Genres": [
         "Shooter"
       ],
@@ -892,6 +1058,11 @@
         "fr",
         "de",
         "es"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -909,19 +1080,40 @@
         ],
         "TGDB": [
           "4917"
+        ],
+        "RAWG": [
+          "52884"
         ]
       },
-      "OverviewId": 8,
+      "OverviewId": 41,
       "Size": 3145728,
       "Publishers": [
         "id Software - Sega",
         "Sega",
-        "Sega of America, Inc."
+        "Sega of America, Inc.",
+        "Atari",
+        "Bethesda Softworks",
+        "SEGA",
+        "Valve",
+        "Activision Blizzard",
+        "GT Interactive Software",
+        "Ocean Software",
+        "Williams Entertainment",
+        "WMS Industries",
+        "Imagineer",
+        "GT Interactive",
+        "'''Genesis'''",
+        "'''PlayStation",
+        "'''SNES (Europe)'''",
+        "SNES (North America)'''",
+        "'''Game Boy Advance",
+        "'''SNES (Japan)'''"
       ],
       "Developers": [
-        "id Software"
+        "id Software",
+        "Nerve Software"
       ],
-      "ReleaseDate": "11/21/1994",
+      "ReleaseDate": "12/10/1993",
       "ESRB": "M",
       "Genres": [
         "Action",
@@ -933,6 +1125,16 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Classic",
+        "First-Person",
+        "FPS",
+        "Gore",
+        "Multiplayer",
+        "Singleplayer",
+        "cooperative",
+        "violance"
       ]
     },
     {
@@ -953,20 +1155,41 @@
         ],
         "TGDB": [
           "4917"
+        ],
+        "RAWG": [
+          "52884"
         ]
       },
-      "OverviewId": 8,
+      "OverviewId": 41,
       "Size": 3145728,
       "Publishers": [
         "id Software - Sega",
         "Sega",
-        "Sega of America, Inc."
+        "Sega of America, Inc.",
+        "Atari",
+        "Bethesda Softworks",
+        "SEGA",
+        "Valve",
+        "Activision Blizzard",
+        "GT Interactive Software",
+        "Ocean Software",
+        "Williams Entertainment",
+        "WMS Industries",
+        "Imagineer",
+        "GT Interactive",
+        "'''Genesis'''",
+        "'''PlayStation",
+        "'''SNES (Europe)'''",
+        "SNES (North America)'''",
+        "'''Game Boy Advance",
+        "'''SNES (Japan)'''"
       ],
       "Developers": [
-        "id Software"
+        "id Software",
+        "Nerve Software"
       ],
       "CloneOf": "doom",
-      "ReleaseDate": "11/21/1994",
+      "ReleaseDate": "12/10/1993",
       "ESRB": "M",
       "Genres": [
         "Action",
@@ -979,6 +1202,16 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Classic",
+        "First-Person",
+        "FPS",
+        "Gore",
+        "Multiplayer",
+        "Singleplayer",
+        "cooperative",
+        "violance"
       ]
     },
     {
@@ -999,19 +1232,40 @@
         ],
         "TGDB": [
           "4917"
+        ],
+        "RAWG": [
+          "52884"
         ]
       },
-      "OverviewId": 8,
+      "OverviewId": 41,
       "Size": 3894824,
       "Publishers": [
         "Sega",
-        "Sega of America, Inc."
+        "Sega of America, Inc.",
+        "Atari",
+        "Bethesda Softworks",
+        "SEGA",
+        "Valve",
+        "Activision Blizzard",
+        "GT Interactive Software",
+        "Ocean Software",
+        "Williams Entertainment",
+        "WMS Industries",
+        "Imagineer",
+        "GT Interactive",
+        "'''Genesis'''",
+        "'''PlayStation",
+        "'''SNES (Europe)'''",
+        "SNES (North America)'''",
+        "'''Game Boy Advance",
+        "'''SNES (Japan)'''"
       ],
       "Developers": [
-        "id Software"
+        "id Software",
+        "Nerve Software"
       ],
       "CloneOf": "doom",
-      "ReleaseDate": "11/21/1994",
+      "ReleaseDate": "12/10/1993",
       "ESRB": "M",
       "Genres": [
         "Action",
@@ -1026,7 +1280,15 @@
         "en"
       ],
       "Tags": [
-        "proto"
+        "proto",
+        "Classic",
+        "First-Person",
+        "FPS",
+        "Gore",
+        "Multiplayer",
+        "Singleplayer",
+        "cooperative",
+        "violance"
       ]
     },
     {
@@ -1047,19 +1309,40 @@
         ],
         "TGDB": [
           "4917"
+        ],
+        "RAWG": [
+          "52884"
         ]
       },
-      "OverviewId": 8,
+      "OverviewId": 41,
       "Size": 3145728,
       "Publishers": [
         "Sega",
-        "Sega of America, Inc."
+        "Sega of America, Inc.",
+        "Atari",
+        "Bethesda Softworks",
+        "SEGA",
+        "Valve",
+        "Activision Blizzard",
+        "GT Interactive Software",
+        "Ocean Software",
+        "Williams Entertainment",
+        "WMS Industries",
+        "Imagineer",
+        "GT Interactive",
+        "'''Genesis'''",
+        "'''PlayStation",
+        "'''SNES (Europe)'''",
+        "SNES (North America)'''",
+        "'''Game Boy Advance",
+        "'''SNES (Japan)'''"
       ],
       "Developers": [
-        "id Software"
+        "id Software",
+        "Nerve Software"
       ],
       "CloneOf": "doom",
-      "ReleaseDate": "11/21/1994",
+      "ReleaseDate": "12/10/1993",
       "ESRB": "M",
       "Genres": [
         "Action",
@@ -1073,7 +1356,15 @@
         "en"
       ],
       "Tags": [
-        "proto"
+        "proto",
+        "Classic",
+        "First-Person",
+        "FPS",
+        "Gore",
+        "Multiplayer",
+        "Singleplayer",
+        "cooperative",
+        "violance"
       ]
     },
     {
@@ -1094,19 +1385,40 @@
         ],
         "TGDB": [
           "4917"
+        ],
+        "RAWG": [
+          "52884"
         ]
       },
-      "OverviewId": 8,
+      "OverviewId": 41,
       "Size": 3145728,
       "Publishers": [
         "Sega",
-        "Sega of America, Inc."
+        "Sega of America, Inc.",
+        "Atari",
+        "Bethesda Softworks",
+        "SEGA",
+        "Valve",
+        "Activision Blizzard",
+        "GT Interactive Software",
+        "Ocean Software",
+        "Williams Entertainment",
+        "WMS Industries",
+        "Imagineer",
+        "GT Interactive",
+        "'''Genesis'''",
+        "'''PlayStation",
+        "'''SNES (Europe)'''",
+        "SNES (North America)'''",
+        "'''Game Boy Advance",
+        "'''SNES (Japan)'''"
       ],
       "Developers": [
-        "id Software"
+        "id Software",
+        "Nerve Software"
       ],
       "CloneOf": "doom",
-      "ReleaseDate": "11/21/1994",
+      "ReleaseDate": "12/10/1993",
       "ESRB": "M",
       "Genres": [
         "Action",
@@ -1120,7 +1432,15 @@
         "en"
       ],
       "Tags": [
-        "proto"
+        "proto",
+        "Classic",
+        "First-Person",
+        "FPS",
+        "Gore",
+        "Multiplayer",
+        "Singleplayer",
+        "cooperative",
+        "violance"
       ]
     },
     {
@@ -1141,19 +1461,40 @@
         ],
         "TGDB": [
           "4917"
+        ],
+        "RAWG": [
+          "52884"
         ]
       },
-      "OverviewId": 8,
+      "OverviewId": 41,
       "Size": 3145728,
       "Publishers": [
         "Sega",
-        "Sega of America, Inc."
+        "Sega of America, Inc.",
+        "Atari",
+        "Bethesda Softworks",
+        "SEGA",
+        "Valve",
+        "Activision Blizzard",
+        "GT Interactive Software",
+        "Ocean Software",
+        "Williams Entertainment",
+        "WMS Industries",
+        "Imagineer",
+        "GT Interactive",
+        "'''Genesis'''",
+        "'''PlayStation",
+        "'''SNES (Europe)'''",
+        "SNES (North America)'''",
+        "'''Game Boy Advance",
+        "'''SNES (Japan)'''"
       ],
       "Developers": [
-        "id Software"
+        "id Software",
+        "Nerve Software"
       ],
       "CloneOf": "doom",
-      "ReleaseDate": "11/21/1994",
+      "ReleaseDate": "12/10/1993",
       "ESRB": "M",
       "Genres": [
         "Action",
@@ -1167,7 +1508,15 @@
         "en"
       ],
       "Tags": [
-        "proto"
+        "proto",
+        "Classic",
+        "First-Person",
+        "FPS",
+        "Gore",
+        "Multiplayer",
+        "Singleplayer",
+        "cooperative",
+        "violance"
       ]
     },
     {
@@ -1188,19 +1537,40 @@
         ],
         "TGDB": [
           "4917"
+        ],
+        "RAWG": [
+          "52884"
         ]
       },
-      "OverviewId": 8,
+      "OverviewId": 41,
       "Size": 4194304,
       "Publishers": [
         "Sega",
-        "Sega of America, Inc."
+        "Sega of America, Inc.",
+        "Atari",
+        "Bethesda Softworks",
+        "SEGA",
+        "Valve",
+        "Activision Blizzard",
+        "GT Interactive Software",
+        "Ocean Software",
+        "Williams Entertainment",
+        "WMS Industries",
+        "Imagineer",
+        "GT Interactive",
+        "'''Genesis'''",
+        "'''PlayStation",
+        "'''SNES (Europe)'''",
+        "SNES (North America)'''",
+        "'''Game Boy Advance",
+        "'''SNES (Japan)'''"
       ],
       "Developers": [
-        "id Software"
+        "id Software",
+        "Nerve Software"
       ],
       "CloneOf": "doom",
-      "ReleaseDate": "11/21/1994",
+      "ReleaseDate": "12/10/1993",
       "ESRB": "M",
       "Genres": [
         "Action",
@@ -1215,7 +1585,15 @@
         "en"
       ],
       "Tags": [
-        "proto"
+        "proto",
+        "Classic",
+        "First-Person",
+        "FPS",
+        "Gore",
+        "Multiplayer",
+        "Singleplayer",
+        "cooperative",
+        "violance"
       ]
     },
     {
@@ -1236,19 +1614,40 @@
         ],
         "TGDB": [
           "4917"
+        ],
+        "RAWG": [
+          "52884"
         ]
       },
-      "OverviewId": 8,
+      "OverviewId": 41,
       "Size": 3760828,
       "Publishers": [
         "Sega",
-        "Sega of America, Inc."
+        "Sega of America, Inc.",
+        "Atari",
+        "Bethesda Softworks",
+        "SEGA",
+        "Valve",
+        "Activision Blizzard",
+        "GT Interactive Software",
+        "Ocean Software",
+        "Williams Entertainment",
+        "WMS Industries",
+        "Imagineer",
+        "GT Interactive",
+        "'''Genesis'''",
+        "'''PlayStation",
+        "'''SNES (Europe)'''",
+        "SNES (North America)'''",
+        "'''Game Boy Advance",
+        "'''SNES (Japan)'''"
       ],
       "Developers": [
-        "id Software"
+        "id Software",
+        "Nerve Software"
       ],
       "CloneOf": "doom",
-      "ReleaseDate": "11/21/1994",
+      "ReleaseDate": "12/10/1993",
       "ESRB": "M",
       "Genres": [
         "Action",
@@ -1263,7 +1662,15 @@
         "en"
       ],
       "Tags": [
-        "proto"
+        "proto",
+        "Classic",
+        "First-Person",
+        "FPS",
+        "Gore",
+        "Multiplayer",
+        "Singleplayer",
+        "cooperative",
+        "violance"
       ]
     },
     {
@@ -1284,19 +1691,40 @@
         ],
         "TGDB": [
           "4917"
+        ],
+        "RAWG": [
+          "52884"
         ]
       },
-      "OverviewId": 8,
+      "OverviewId": 41,
       "Size": 4194304,
       "Publishers": [
         "Sega",
-        "Sega of America, Inc."
+        "Sega of America, Inc.",
+        "Atari",
+        "Bethesda Softworks",
+        "SEGA",
+        "Valve",
+        "Activision Blizzard",
+        "GT Interactive Software",
+        "Ocean Software",
+        "Williams Entertainment",
+        "WMS Industries",
+        "Imagineer",
+        "GT Interactive",
+        "'''Genesis'''",
+        "'''PlayStation",
+        "'''SNES (Europe)'''",
+        "SNES (North America)'''",
+        "'''Game Boy Advance",
+        "'''SNES (Japan)'''"
       ],
       "Developers": [
-        "id Software"
+        "id Software",
+        "Nerve Software"
       ],
       "CloneOf": "doom",
-      "ReleaseDate": "11/21/1994",
+      "ReleaseDate": "12/10/1993",
       "ESRB": "M",
       "Genres": [
         "Action",
@@ -1307,7 +1735,15 @@
         "EU"
       ],
       "Tags": [
-        "proto"
+        "proto",
+        "Classic",
+        "First-Person",
+        "FPS",
+        "Gore",
+        "Multiplayer",
+        "Singleplayer",
+        "cooperative",
+        "violance"
       ]
     },
     {
@@ -1328,19 +1764,40 @@
         ],
         "TGDB": [
           "4917"
+        ],
+        "RAWG": [
+          "52884"
         ]
       },
-      "OverviewId": 8,
+      "OverviewId": 41,
       "Size": 4194304,
       "Publishers": [
         "Sega",
-        "Sega of America, Inc."
+        "Sega of America, Inc.",
+        "Atari",
+        "Bethesda Softworks",
+        "SEGA",
+        "Valve",
+        "Activision Blizzard",
+        "GT Interactive Software",
+        "Ocean Software",
+        "Williams Entertainment",
+        "WMS Industries",
+        "Imagineer",
+        "GT Interactive",
+        "'''Genesis'''",
+        "'''PlayStation",
+        "'''SNES (Europe)'''",
+        "SNES (North America)'''",
+        "'''Game Boy Advance",
+        "'''SNES (Japan)'''"
       ],
       "Developers": [
-        "id Software"
+        "id Software",
+        "Nerve Software"
       ],
       "CloneOf": "doom",
-      "ReleaseDate": "11/21/1994",
+      "ReleaseDate": "12/10/1993",
       "ESRB": "M",
       "Genres": [
         "Action",
@@ -1351,7 +1808,15 @@
         "en"
       ],
       "Tags": [
-        "proto"
+        "proto",
+        "Classic",
+        "First-Person",
+        "FPS",
+        "Gore",
+        "Multiplayer",
+        "Singleplayer",
+        "cooperative",
+        "violance"
       ]
     },
     {
@@ -1372,19 +1837,40 @@
         ],
         "TGDB": [
           "4917"
+        ],
+        "RAWG": [
+          "52884"
         ]
       },
-      "OverviewId": 8,
+      "OverviewId": 41,
       "Size": 3102248,
       "Publishers": [
         "Sega",
-        "Sega of America, Inc."
+        "Sega of America, Inc.",
+        "Atari",
+        "Bethesda Softworks",
+        "SEGA",
+        "Valve",
+        "Activision Blizzard",
+        "GT Interactive Software",
+        "Ocean Software",
+        "Williams Entertainment",
+        "WMS Industries",
+        "Imagineer",
+        "GT Interactive",
+        "'''Genesis'''",
+        "'''PlayStation",
+        "'''SNES (Europe)'''",
+        "SNES (North America)'''",
+        "'''Game Boy Advance",
+        "'''SNES (Japan)'''"
       ],
       "Developers": [
-        "id Software"
+        "id Software",
+        "Nerve Software"
       ],
       "CloneOf": "doom",
-      "ReleaseDate": "12/1/1994",
+      "ReleaseDate": "12/10/1993",
       "ESRB": "M",
       "Genres": [
         "Action",
@@ -1398,7 +1884,15 @@
         "en"
       ],
       "Tags": [
-        "proto"
+        "proto",
+        "Classic",
+        "First-Person",
+        "FPS",
+        "Gore",
+        "Multiplayer",
+        "Singleplayer",
+        "cooperative",
+        "violance"
       ]
     },
     {
@@ -1419,19 +1913,40 @@
         ],
         "TGDB": [
           "4917"
+        ],
+        "RAWG": [
+          "52884"
         ]
       },
-      "OverviewId": 8,
+      "OverviewId": 41,
       "Size": 3507720,
       "Publishers": [
         "Sega",
-        "Sega of America, Inc."
+        "Sega of America, Inc.",
+        "Atari",
+        "Bethesda Softworks",
+        "SEGA",
+        "Valve",
+        "Activision Blizzard",
+        "GT Interactive Software",
+        "Ocean Software",
+        "Williams Entertainment",
+        "WMS Industries",
+        "Imagineer",
+        "GT Interactive",
+        "'''Genesis'''",
+        "'''PlayStation",
+        "'''SNES (Europe)'''",
+        "SNES (North America)'''",
+        "'''Game Boy Advance",
+        "'''SNES (Japan)'''"
       ],
       "Developers": [
-        "id Software"
+        "id Software",
+        "Nerve Software"
       ],
       "CloneOf": "doom",
-      "ReleaseDate": "11/21/1994",
+      "ReleaseDate": "12/10/1993",
       "ESRB": "M",
       "Genres": [
         "Action",
@@ -1445,7 +1960,15 @@
         "en"
       ],
       "Tags": [
-        "proto"
+        "proto",
+        "Classic",
+        "First-Person",
+        "FPS",
+        "Gore",
+        "Multiplayer",
+        "Singleplayer",
+        "cooperative",
+        "violance"
       ]
     },
     {
@@ -1603,17 +2126,26 @@
         ],
         "TGDB": [
           "20522"
+        ],
+        "RAWG": [
+          "52925"
         ]
       },
-      "OverviewId": 10,
+      "OverviewId": 62,
       "Size": 3145728,
       "Publishers": [
-        "Electronic Arts"
+        "Electronic Arts",
+        "EA SPORTS",
+        "Black Pearl Software"
       ],
       "Developers": [
-        "Electronic Arts"
+        "Electronic Arts",
+        "Acclaim Cheltenham",
+        "Electronic Arts Canada",
+        "Probe Entertainment",
+        "Extended Play Productions"
       ],
-      "ReleaseDate": "11/30/1995",
+      "ReleaseDate": "1/1/1995",
       "Genres": [
         "Sports"
       ],
@@ -1630,7 +2162,9 @@
         "sv"
       ],
       "Tags": [
-        "Co-op"
+        "Co-op",
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -1654,15 +2188,20 @@
         ],
         "TGDB": [
           "4911"
+        ],
+        "RAWG": [
+          "55173"
         ]
       },
-      "OverviewId": 11,
+      "OverviewId": 42,
       "Size": 3145728,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Flashpoint Productions"
+        "Flashpoint Productions",
+        "SEGA"
       ],
       "CloneOf": "36great",
       "ReleaseDate": "1/1/1994",
@@ -1677,7 +2216,11 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
+      ]
     },
     {
       "Titles": [
@@ -1700,15 +2243,20 @@
         ],
         "TGDB": [
           "4911"
+        ],
+        "RAWG": [
+          "55173"
         ]
       },
-      "OverviewId": 11,
+      "OverviewId": 42,
       "Size": 3145728,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Flashpoint Productions"
+        "Flashpoint Productions",
+        "SEGA"
       ],
       "ReleaseDate": "1/1/1994",
       "ESRB": "E",
@@ -1721,7 +2269,11 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
+      ]
     },
     {
       "Titles": [
@@ -1740,18 +2292,36 @@
         ],
         "MESS": [
           "chaotix"
+        ],
+        "RAWG": [
+          "55179"
         ]
       },
+      "OverviewId": 63,
       "Size": 3145728,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
-      "ReleaseDate": "1/1/1995",
+      "Developers": [
+        "SEGA"
+      ],
+      "ReleaseDate": "4/20/1995",
+      "Genres": [
+        "Action"
+      ],
       "Regions": [
         "EU"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer",
+        "cooperative",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -1772,17 +2342,22 @@
         ],
         "TGDB": [
           "2609"
+        ],
+        "RAWG": [
+          "55181"
         ]
       },
-      "OverviewId": 12,
+      "OverviewId": 49,
       "Size": 3145728,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Novotrade International"
+        "Novotrade International",
+        "Appaloosa Interactive"
       ],
-      "ReleaseDate": "9/8/1995",
+      "ReleaseDate": "11/30/1995",
       "ESRB": "E",
       "Genres": [
         "Shooter"
@@ -1793,6 +2368,12 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -1949,15 +2530,20 @@
         ],
         "TGDB": [
           "4918"
+        ],
+        "RAWG": [
+          "55183"
         ]
       },
-      "OverviewId": 13,
+      "OverviewId": 39,
       "Size": 3145728,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "CloneOf": "metalhd",
       "ReleaseDate": "2/24/1995",
@@ -1972,6 +2558,12 @@
       "Languages": [
         "en",
         "ja"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "One player",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -1992,15 +2584,20 @@
         ],
         "TGDB": [
           "4918"
+        ],
+        "RAWG": [
+          "55183"
         ]
       },
-      "OverviewId": 13,
+      "OverviewId": 39,
       "Size": 3145728,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "ReleaseDate": "2/24/1995",
       "ESRB": "E",
@@ -2013,11 +2610,18 @@
       "Languages": [
         "en",
         "ja"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "One player",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
       "Titles": [
-        "Mortal Kombat II"
+        "Mortal Kombat II",
+        "Mortal Kombat 2"
       ],
       "Sha1": "f75698de887d0ef980f73e35fc4615887a9ad58f",
       "Crc32": "211085ce",
@@ -2033,37 +2637,50 @@
         ],
         "TGDB": [
           "4919"
+        ],
+        "RAWG": [
+          "29426"
         ]
       },
-      "OverviewId": 14,
+      "OverviewId": 53,
       "Size": 4194304,
       "Publishers": [
         "Acclaim - Midway - Probe",
         "Acclaim Entertainment",
         "Acclaim Entertainment, Inc.",
-        "Acclaim Japan"
+        "Acclaim Japan",
+        "Midway",
+        "home versions"
       ],
       "Developers": [
         "Acclaim Entertainment",
         "Acclaim Entertainment, Inc.",
         "Midway Manufacturing Co.",
-        "Probe Entertainment"
+        "Probe Entertainment",
+        "Sculptured Software",
+        "Midway Games",
+        "Midway"
       ],
-      "ReleaseDate": "3/1/1995",
+      "ReleaseDate": "6/25/1993",
       "ESRB": "M",
       "Genres": [
         "Action",
-        "Fighting"
+        "Fighting",
+        "Arcade"
       ],
       "Regions": [
         "EU"
       ],
-      "Tags": []
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer"
+      ]
     },
     {
       "Titles": [
         "Mortal Kombat II",
-        "Mortal Kombat II - Kyuukyoku Shinken  ~ Mortal Kombat II"
+        "Mortal Kombat II - Kyuukyoku Shinken  ~ Mortal Kombat II",
+        "Mortal Kombat 2"
       ],
       "Sha1": "d55964bd935110ac2d9cbd3b085b7e8b71b11df2",
       "Crc32": "773c0a85",
@@ -2079,28 +2696,37 @@
         ],
         "TGDB": [
           "4919"
+        ],
+        "RAWG": [
+          "29426"
         ]
       },
-      "OverviewId": 14,
+      "OverviewId": 53,
       "Size": 4194304,
       "Publishers": [
         "Acclaim - Midway - Probe",
         "Acclaim Entertainment",
         "Acclaim Entertainment, Inc.",
-        "Acclaim Japan"
+        "Acclaim Japan",
+        "Midway",
+        "home versions"
       ],
       "Developers": [
         "Acclaim Entertainment",
         "Acclaim Entertainment, Inc.",
         "Midway Manufacturing Co.",
-        "Probe Entertainment"
+        "Probe Entertainment",
+        "Sculptured Software",
+        "Midway Games",
+        "Midway"
       ],
       "CloneOf": "mk2",
-      "ReleaseDate": "3/1/1995",
+      "ReleaseDate": "6/25/1993",
       "ESRB": "M",
       "Genres": [
         "Action",
-        "Fighting"
+        "Fighting",
+        "Arcade"
       ],
       "Regions": [
         "JP",
@@ -2109,7 +2735,10 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer"
+      ]
     },
     {
       "Titles": [
@@ -2129,9 +2758,12 @@
         ],
         "TGDB": [
           "9076"
+        ],
+        "RAWG": [
+          "369067"
         ]
       },
-      "OverviewId": 15,
+      "OverviewId": 46,
       "Size": 2097152,
       "Publishers": [
         "Sega"
@@ -2143,7 +2775,8 @@
       "ReleaseDate": "1/1/1994",
       "ESRB": "E",
       "Genres": [
-        "Racing"
+        "Racing",
+        "Action"
       ],
       "Regions": [
         "US",
@@ -2152,7 +2785,10 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "exclusive",
+        "true exclusive"
+      ]
     },
     {
       "Titles": [
@@ -2172,9 +2808,12 @@
         ],
         "TGDB": [
           "9076"
+        ],
+        "RAWG": [
+          "369067"
         ]
       },
-      "OverviewId": 15,
+      "OverviewId": 46,
       "Size": 2097152,
       "Publishers": [
         "Sega"
@@ -2185,7 +2824,8 @@
       "ReleaseDate": "1/1/1994",
       "ESRB": "E",
       "Genres": [
-        "Racing"
+        "Racing",
+        "Action"
       ],
       "Regions": [
         "EU"
@@ -2193,7 +2833,10 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "exclusive",
+        "true exclusive"
+      ]
     },
     {
       "Titles": [
@@ -2256,9 +2899,12 @@
         ],
         "TGDB": [
           "14262"
+        ],
+        "RAWG": [
+          "55184"
         ]
       },
-      "OverviewId": 17,
+      "OverviewId": 67,
       "Size": 3145728,
       "Publishers": [
         "Acclaim - Iguana Entertainment",
@@ -2266,9 +2912,10 @@
         "Acclaim Entertainment, Inc."
       ],
       "Developers": [
-        "Iguana Entertainment"
+        "Iguana Entertainment",
+        "Acclaim Studios Austin"
       ],
-      "ReleaseDate": "1/1/1995",
+      "ReleaseDate": "2/24/1995",
       "ESRB": "E",
       "Genres": [
         "Sports"
@@ -2276,7 +2923,10 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer"
+      ]
     },
     {
       "Titles": [
@@ -2299,17 +2949,22 @@
         ],
         "TGDB": [
           "9083"
+        ],
+        "RAWG": [
+          "55197"
         ]
       },
-      "OverviewId": 18,
+      "OverviewId": 45,
       "Size": 2097152,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "CSK Research Institute Corp."
+        "CSK Research Institute Corp.",
+        "SEGA"
       ],
-      "ReleaseDate": "1/1/1995",
+      "ReleaseDate": "7/14/1995",
       "ESRB": "E",
       "Genres": [
         "Shooter"
@@ -2321,7 +2976,12 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
+      ]
     },
     {
       "Titles": [
@@ -2370,26 +3030,41 @@
         ],
         "TGDB": [
           "9079"
+        ],
+        "RAWG": [
+          "25886"
         ]
       },
-      "OverviewId": 19,
+      "OverviewId": 44,
       "Size": 3145728,
       "Publishers": [
-        "Activision"
+        "Activision",
+        "Activision Blizzard",
+        "Gamebank Corp."
       ],
       "Developers": [
-        "Activision"
+        "Activision",
+        "Imagitec Design",
+        "Kinesoft",
+        "Kroyer Films",
+        "Redline Games",
+        "Soundelux"
       ],
-      "ReleaseDate": "10/1/1995",
+      "ReleaseDate": "1/1/1995",
       "ESRB": "T",
       "Genres": [
-        "Platform"
+        "Platform",
+        "Arcade",
+        "Platformer"
       ],
       "Regions": [
         "US"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer"
       ]
     },
     {
@@ -2410,22 +3085,31 @@
         ],
         "TGDB": [
           "4922"
+        ],
+        "RAWG": [
+          "30645"
         ]
       },
-      "OverviewId": 20,
+      "OverviewId": 61,
       "Size": 4194304,
       "Publishers": [
         "Probe - Time Warner Interactive",
         "Sega",
-        "Time Warner Interactive, Inc."
+        "Time Warner Interactive, Inc.",
+        "Atari",
+        "Time Warner Interactive"
       ],
       "Developers": [
-        "Atari"
+        "Atari",
+        "Atari Games",
+        "Teeny Weeny Games",
+        "Probe Software"
       ],
       "ReleaseDate": "1/1/1995",
       "ESRB": "T",
       "Genres": [
-        "Fighting"
+        "Fighting",
+        "Arcade"
       ],
       "Regions": [
         "US",
@@ -2434,7 +3118,10 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer"
+      ]
     },
     {
       "Titles": [
@@ -2455,9 +3142,12 @@
         ],
         "TGDB": [
           "9080"
+        ],
+        "RAWG": [
+          "369066"
         ]
       },
-      "OverviewId": 21,
+      "OverviewId": 54,
       "Size": 2097152,
       "Publishers": [
         "Atari - Time Warner Interactive",
@@ -2470,19 +3160,25 @@
       "ReleaseDate": "1/1/1995",
       "ESRB": "E",
       "Genres": [
-        "Sports"
+        "Sports",
+        "Action"
       ],
       "Regions": [
         "US"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
       "Titles": [
         "Sangokushi IV",
-        "Romance of the Three Kingdoms IV: Wall of Fire"
+        "Romance of the Three Kingdoms IV: Wall of Fire",
+        "Romance of the Three Kingdoms IV: Wall of Fire (1994)"
       ],
       "Sha1": "74a3ba27c55cff12409bf6c9324ece6247abbad1",
       "Crc32": "e4de7625",
@@ -2498,9 +3194,12 @@
         ],
         "TGDB": [
           "30674"
+        ],
+        "RAWG": [
+          "54736"
         ]
       },
-      "OverviewId": 22,
+      "OverviewId": 58,
       "Size": 4194304,
       "Publishers": [
         "Koei - Sega",
@@ -2508,14 +3207,19 @@
         "Koei Co., Ltd."
       ],
       "Developers": [
-        "Koei"
+        "Koei",
+        "KOEI"
       ],
-      "ReleaseDate": "7/28/1995",
+      "ReleaseDate": "12/9/1994",
       "Genres": [
         "Strategy"
       ],
       "Regions": [
         "JP"
+      ],
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -2538,17 +3242,22 @@
         ],
         "TGDB": [
           "4923"
+        ],
+        "RAWG": [
+          "55185"
         ]
       },
-      "OverviewId": 23,
+      "OverviewId": 43,
       "Size": 2097152,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
-      "ReleaseDate": "5/25/1995",
+      "ReleaseDate": "4/26/1995",
       "Genres": [
         "Shooter"
       ],
@@ -2560,7 +3269,11 @@
         "en"
       ],
       "Tags": [
-        "Co-op"
+        "Co-op",
+        "Multiplayer",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -2610,7 +3323,8 @@
     },
     {
       "Titles": [
-        "Space Harrier"
+        "Space Harrier",
+        "Space Harrier (1986)"
       ],
       "Sha1": "8b0495257fa5392ef9ddcc9c3ba1860ae58f4f3d",
       "Crc32": "5cac3587",
@@ -2626,17 +3340,30 @@
         ],
         "TGDB": [
           "117"
+        ],
+        "RAWG": [
+          "55117"
         ]
       },
-      "OverviewId": 25,
+      "OverviewId": 47,
       "Size": 2097152,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA",
+        "Elite Systems",
+        "Takara",
+        "NEC",
+        "Micomsoft",
+        "Dempa"
       ],
       "Developers": [
-        "Sega"
+        "Sega",
+        "SEGA",
+        "Elite Systems",
+        "Dempa",
+        "Rutubo Games"
       ],
-      "ReleaseDate": "12/3/1994",
+      "ReleaseDate": "12/12/1986",
       "ESRB": "E10+",
       "Genres": [
         "Shooter"
@@ -2646,11 +3373,15 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer"
       ]
     },
     {
       "Titles": [
-        "Space Harrier"
+        "Space Harrier",
+        "Space Harrier (1986)"
       ],
       "Sha1": "f32a52a7082761982024e40291dbd962a835b231",
       "Crc32": "86e7f989",
@@ -2666,18 +3397,31 @@
         ],
         "TGDB": [
           "117"
+        ],
+        "RAWG": [
+          "55117"
         ]
       },
-      "OverviewId": 25,
+      "OverviewId": 47,
       "Size": 2097152,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA",
+        "Elite Systems",
+        "Takara",
+        "NEC",
+        "Micomsoft",
+        "Dempa"
       ],
       "Developers": [
-        "Sega"
+        "Sega",
+        "SEGA",
+        "Elite Systems",
+        "Dempa",
+        "Rutubo Games"
       ],
       "CloneOf": "sharrier",
-      "ReleaseDate": "12/3/1994",
+      "ReleaseDate": "12/12/1986",
       "ESRB": "E10+",
       "Genres": [
         "Shooter"
@@ -2688,11 +3432,15 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer"
       ]
     },
     {
       "Titles": [
-        "Space Harrier"
+        "Space Harrier",
+        "Space Harrier (1986)"
       ],
       "Sha1": "05d24d6f6c645866b8b1fde96746e27d0a19bbc6",
       "Crc32": "2c65fa40",
@@ -2708,18 +3456,31 @@
         ],
         "TGDB": [
           "117"
+        ],
+        "RAWG": [
+          "55117"
         ]
       },
-      "OverviewId": 25,
+      "OverviewId": 47,
       "Size": 2097152,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA",
+        "Elite Systems",
+        "Takara",
+        "NEC",
+        "Micomsoft",
+        "Dempa"
       ],
       "Developers": [
-        "Sega"
+        "Sega",
+        "SEGA",
+        "Elite Systems",
+        "Dempa",
+        "Rutubo Games"
       ],
       "CloneOf": "sharrier",
-      "ReleaseDate": "12/3/1994",
+      "ReleaseDate": "12/12/1986",
       "ESRB": "E10+",
       "Genres": [
         "Shooter"
@@ -2732,7 +3493,8 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Singleplayer"
       ]
     },
     {
@@ -2754,23 +3516,30 @@
         ],
         "TGDB": [
           "5970"
+        ],
+        "RAWG": [
+          "55188"
         ]
       },
-      "OverviewId": 26,
+      "OverviewId": 60,
       "Size": 2097152,
       "Publishers": [
         "Interplay",
         "Sega",
-        "Interplay Entertainment Corp."
+        "Interplay Entertainment Corp.",
+        "Interplay Entertainment"
       ],
       "Developers": [
-        "Interplay Entertainment Corp."
+        "Interplay Entertainment Corp.",
+        "High Voltage Software",
+        "Interplay Entertainment"
       ],
-      "ReleaseDate": "1/1/1995",
+      "ReleaseDate": "12/1/1994",
       "ESRB": "E",
       "Genres": [
         "Strategy",
-        "Flight Simulator"
+        "Flight Simulator",
+        "Simulation"
       ],
       "Regions": [
         "US"
@@ -2778,7 +3547,10 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer"
+      ]
     },
     {
       "Titles": [
@@ -2799,19 +3571,24 @@
         ],
         "TGDB": [
           "4926"
+        ],
+        "RAWG": [
+          "55187"
         ]
       },
-      "OverviewId": 27,
+      "OverviewId": 50,
       "Size": 2621440,
       "Publishers": [
         "LucasArts - Sega",
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "CloneOf": "swa",
-      "ReleaseDate": "12/2/1994",
+      "ReleaseDate": "1/1/1993",
       "ESRB": "E",
       "Genres": [
         "Action"
@@ -2822,7 +3599,10 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer"
+      ]
     },
     {
       "Titles": [
@@ -2840,18 +3620,23 @@
         ],
         "TGDB": [
           "4926"
+        ],
+        "RAWG": [
+          "55187"
         ]
       },
-      "OverviewId": 27,
+      "OverviewId": 50,
       "Size": 2621440,
       "Publishers": [
         "LucasArts - Sega",
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
-      "ReleaseDate": "12/2/1994",
+      "ReleaseDate": "1/1/1993",
       "ESRB": "E",
       "Genres": [
         "Action"
@@ -2862,7 +3647,10 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer"
+      ]
     },
     {
       "Titles": [
@@ -2883,19 +3671,24 @@
         ],
         "TGDB": [
           "4926"
+        ],
+        "RAWG": [
+          "55187"
         ]
       },
-      "OverviewId": 27,
+      "OverviewId": 50,
       "Size": 2621440,
       "Publishers": [
         "LucasArts - Sega",
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "CloneOf": "swa",
-      "ReleaseDate": "12/2/1994",
+      "ReleaseDate": "1/1/1993",
       "ESRB": "E",
       "Genres": [
         "Action"
@@ -2907,7 +3700,10 @@
         "en",
         "ja"
       ],
-      "Tags": []
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer"
+      ]
     },
     {
       "Titles": [
@@ -2928,18 +3724,23 @@
         ],
         "TGDB": [
           "4923"
+        ],
+        "RAWG": [
+          "55185"
         ]
       },
-      "OverviewId": 23,
+      "OverviewId": 43,
       "Size": 2097152,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "CloneOf": "stellar",
-      "ReleaseDate": "5/25/1995",
+      "ReleaseDate": "4/26/1995",
       "Genres": [
         "Shooter"
       ],
@@ -2947,7 +3748,11 @@
         "JP"
       ],
       "Tags": [
-        "Co-op"
+        "Co-op",
+        "Multiplayer",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -2969,19 +3774,23 @@
         ],
         "TGDB": [
           "9081"
+        ],
+        "RAWG": [
+          "55189"
         ]
       },
-      "OverviewId": 28,
+      "OverviewId": 65,
       "Size": 3145728,
       "Publishers": [
         "Atari - Time Warner Interactive",
         "Sega",
-        "Time Warner Interactive, Inc."
+        "Time Warner Interactive, Inc.",
+        "Atari"
       ],
       "Developers": [
         "Atari"
       ],
-      "ReleaseDate": "1/1/1995",
+      "ReleaseDate": "1/1/1994",
       "ESRB": "E",
       "Genres": [
         "Action"
@@ -2993,7 +3802,9 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "Singleplayer"
+      ]
     },
     {
       "Titles": [
@@ -3013,15 +3824,22 @@
         ],
         "TGDB": [
           "4927"
+        ],
+        "RAWG": [
+          "55190"
         ]
       },
-      "OverviewId": 29,
+      "OverviewId": 48,
       "Size": 3145728,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA",
+        "Tec Toy"
       ],
       "Developers": [
-        "Red Company"
+        "Red Company",
+        "SEGA",
+        "RED Company"
       ],
       "ReleaseDate": "3/24/1995",
       "ESRB": "E",
@@ -3035,6 +3853,11 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -3052,18 +3875,22 @@
         ],
         "TGDB": [
           "9082"
+        ],
+        "RAWG": [
+          "55192"
         ]
       },
-      "OverviewId": 30,
+      "OverviewId": 66,
       "Size": 4194304,
       "Publishers": [
-        "Electronic Arts"
+        "Electronic Arts",
+        "EA SPORTS"
       ],
       "Developers": [
         "High Score Productions",
         "Visual Concepts"
       ],
-      "ReleaseDate": "6/6/1995",
+      "ReleaseDate": "1/1/1995",
       "ESRB": "T",
       "Genres": [
         "Sports"
@@ -3075,7 +3902,11 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "character",
+        "challenge",
+        "boss"
+      ]
     },
     {
       "Titles": [
@@ -3095,16 +3926,22 @@
         ],
         "TGDB": [
           "4928"
+        ],
+        "RAWG": [
+          "55193"
         ]
       },
-      "OverviewId": 31,
+      "OverviewId": 56,
       "Size": 4194304,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
-      "Developers": [],
+      "Developers": [
+        "SEGA"
+      ],
       "CloneOf": "vf",
-      "ReleaseDate": "1/1/1995",
+      "ReleaseDate": "10/21/1993",
       "ESRB": "T",
       "Genres": [
         "Fighting"
@@ -3116,7 +3953,10 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer"
+      ]
     },
     {
       "Titles": [
@@ -3136,15 +3976,21 @@
         ],
         "TGDB": [
           "4928"
+        ],
+        "RAWG": [
+          "55193"
         ]
       },
-      "OverviewId": 31,
+      "OverviewId": 56,
       "Size": 4194304,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
-      "Developers": [],
-      "ReleaseDate": "1/1/1995",
+      "Developers": [
+        "SEGA"
+      ],
+      "ReleaseDate": "10/21/1993",
       "ESRB": "T",
       "Genres": [
         "Fighting"
@@ -3155,7 +4001,10 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer"
+      ]
     },
     {
       "Titles": [
@@ -3341,25 +4190,37 @@
         ],
         "TGDB": [
           "20521"
+        ],
+        "RAWG": [
+          "55195"
         ]
       },
-      "OverviewId": 34,
+      "OverviewId": 64,
       "Size": 3145728,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "BlueSky Software"
+        "BlueSky Software",
+        "Blue Sky Software"
       ],
       "ReleaseDate": "1/1/1995",
       "Genres": [
-        "Sports"
+        "Sports",
+        "Simulation"
       ],
       "Regions": [
         "US"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -3382,30 +4243,39 @@
         ],
         "TGDB": [
           "38401"
+        ],
+        "RAWG": [
+          "55196"
         ]
       },
-      "OverviewId": 35,
+      "OverviewId": 57,
       "Size": 4194304,
       "Publishers": [
         "Acclaim",
         "Acclaim Entertainment",
-        "Acclaim Entertainment, Inc."
+        "Acclaim Entertainment, Inc.",
+        "LJN"
       ],
       "Developers": [
         "Sculptured Software",
-        "Sculptured Software, Inc."
+        "Sculptured Software, Inc.",
+        "Realtime Associates",
+        "Acclaim Black Team (32X version)"
       ],
-      "ReleaseDate": "1/31/1995",
+      "ReleaseDate": "12/22/1994",
       "ESRB": "E",
       "Genres": [
         "Action",
-        "Sports"
+        "Sports",
+        "Fighting"
       ],
       "Languages": [
         "en"
       ],
       "Tags": [
-        "Co-op"
+        "Co-op",
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -3428,24 +4298,32 @@
         ],
         "TGDB": [
           "14263"
+        ],
+        "RAWG": [
+          "32519"
         ]
       },
-      "OverviewId": 36,
+      "OverviewId": 69,
       "Size": 4194304,
       "Publishers": [
         "Acclaim - Midway - Sculptured Software",
         "Acclaim Entertainment",
-        "Acclaim Entertainment, Inc."
-      ],
-      "Developers": [
+        "Acclaim Entertainment, Inc.",
         "Midway",
         "Sculptured Software"
       ],
-      "ReleaseDate": "11/1/1995",
+      "Developers": [
+        "Midway",
+        "Sculptured Software",
+        "Midway Games"
+      ],
+      "ReleaseDate": "1/1/1995",
       "ESRB": "E",
       "Genres": [
         "Action",
-        "Sports"
+        "Sports",
+        "Arcade",
+        "Fighting"
       ],
       "Regions": [
         "US"
@@ -3454,7 +4332,10 @@
         "en"
       ],
       "Tags": [
-        "Co-op"
+        "Co-op",
+        "Singleplayer",
+        "simultaneous",
+        "2 players"
       ]
     },
     {
@@ -3514,15 +4395,20 @@
         ],
         "TGDB": [
           "4911"
+        ],
+        "RAWG": [
+          "55173"
         ]
       },
-      "OverviewId": 11,
+      "OverviewId": 42,
       "Size": 262144,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Flashpoint Productions"
+        "Flashpoint Productions",
+        "SEGA"
       ],
       "ReleaseDate": "1/1/1994",
       "ESRB": "E",
@@ -3536,7 +4422,10 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -3553,15 +4442,20 @@
         ],
         "TGDB": [
           "4911"
+        ],
+        "RAWG": [
+          "55173"
         ]
       },
-      "OverviewId": 11,
+      "OverviewId": 42,
       "Size": 3145728,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Flashpoint Productions"
+        "Flashpoint Productions",
+        "SEGA"
       ],
       "ReleaseDate": "1/1/1994",
       "ESRB": "E",
@@ -3575,7 +4469,10 @@
         "en"
       ],
       "Tags": [
-        "Fixed"
+        "Fixed",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -3595,18 +4492,23 @@
         ],
         "TGDB": [
           "4911"
+        ],
+        "RAWG": [
+          "55173"
         ]
       },
-      "OverviewId": 11,
+      "OverviewId": 42,
       "Size": 1057122,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Flashpoint Productions"
+        "Flashpoint Productions",
+        "SEGA"
       ],
       "CloneOf": "36great",
-      "ReleaseDate": "7/6/1994",
+      "ReleaseDate": "1/1/1994",
       "ESRB": "E",
       "Genres": [
         "Sports"
@@ -3615,7 +4517,10 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -3635,18 +4540,23 @@
         ],
         "TGDB": [
           "4911"
+        ],
+        "RAWG": [
+          "55173"
         ]
       },
-      "OverviewId": 11,
+      "OverviewId": 42,
       "Size": 3001124,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Flashpoint Productions"
+        "Flashpoint Productions",
+        "SEGA"
       ],
       "CloneOf": "36great",
-      "ReleaseDate": "10/11/1994",
+      "ReleaseDate": "1/1/1994",
       "ESRB": "E",
       "Genres": [
         "Sports"
@@ -3655,7 +4565,10 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -3675,18 +4588,23 @@
         ],
         "TGDB": [
           "4911"
+        ],
+        "RAWG": [
+          "55173"
         ]
       },
-      "OverviewId": 11,
+      "OverviewId": 42,
       "Size": 3001124,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Flashpoint Productions"
+        "Flashpoint Productions",
+        "SEGA"
       ],
       "CloneOf": "36great",
-      "ReleaseDate": "10/17/1994",
+      "ReleaseDate": "1/1/1994",
       "ESRB": "E",
       "Genres": [
         "Sports"
@@ -3695,7 +4613,10 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -3715,18 +4636,23 @@
         ],
         "TGDB": [
           "4911"
+        ],
+        "RAWG": [
+          "55173"
         ]
       },
-      "OverviewId": 11,
+      "OverviewId": 42,
       "Size": 4194304,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Flashpoint Productions"
+        "Flashpoint Productions",
+        "SEGA"
       ],
       "CloneOf": "36great",
-      "ReleaseDate": "10/18/1994",
+      "ReleaseDate": "1/1/1994",
       "ESRB": "E",
       "Genres": [
         "Sports"
@@ -3735,7 +4661,10 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -3755,18 +4684,23 @@
         ],
         "TGDB": [
           "4911"
+        ],
+        "RAWG": [
+          "55173"
         ]
       },
-      "OverviewId": 11,
+      "OverviewId": 42,
       "Size": 3090536,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Flashpoint Productions"
+        "Flashpoint Productions",
+        "SEGA"
       ],
       "CloneOf": "36great",
-      "ReleaseDate": "10/24/1994",
+      "ReleaseDate": "1/1/1994",
       "ESRB": "E",
       "Genres": [
         "Sports"
@@ -3775,7 +4709,10 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -3795,18 +4732,23 @@
         ],
         "TGDB": [
           "4911"
+        ],
+        "RAWG": [
+          "55173"
         ]
       },
-      "OverviewId": 11,
+      "OverviewId": 42,
       "Size": 3090528,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Flashpoint Productions"
+        "Flashpoint Productions",
+        "SEGA"
       ],
       "CloneOf": "36great",
-      "ReleaseDate": "10/26/1994",
+      "ReleaseDate": "1/1/1994",
       "ESRB": "E",
       "Genres": [
         "Sports"
@@ -3815,7 +4757,10 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -3835,18 +4780,23 @@
         ],
         "TGDB": [
           "4911"
+        ],
+        "RAWG": [
+          "55173"
         ]
       },
-      "OverviewId": 11,
+      "OverviewId": 42,
       "Size": 3136928,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Flashpoint Productions"
+        "Flashpoint Productions",
+        "SEGA"
       ],
       "CloneOf": "36great",
-      "ReleaseDate": "11/1/1994",
+      "ReleaseDate": "1/1/1994",
       "ESRB": "E",
       "Genres": [
         "Sports"
@@ -3855,7 +4805,10 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -3875,18 +4828,23 @@
         ],
         "TGDB": [
           "4911"
+        ],
+        "RAWG": [
+          "55173"
         ]
       },
-      "OverviewId": 11,
+      "OverviewId": 42,
       "Size": 3136712,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Flashpoint Productions"
+        "Flashpoint Productions",
+        "SEGA"
       ],
       "CloneOf": "36great",
-      "ReleaseDate": "11/3/1994",
+      "ReleaseDate": "1/1/1994",
       "ESRB": "E",
       "Genres": [
         "Sports"
@@ -3895,7 +4853,10 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -3915,18 +4876,23 @@
         ],
         "TGDB": [
           "4911"
+        ],
+        "RAWG": [
+          "55173"
         ]
       },
-      "OverviewId": 11,
+      "OverviewId": 42,
       "Size": 3136712,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Flashpoint Productions"
+        "Flashpoint Productions",
+        "SEGA"
       ],
       "CloneOf": "36great",
-      "ReleaseDate": "11/5/1994",
+      "ReleaseDate": "1/1/1994",
       "ESRB": "E",
       "Genres": [
         "Sports"
@@ -3935,7 +4901,10 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -3955,18 +4924,23 @@
         ],
         "TGDB": [
           "4911"
+        ],
+        "RAWG": [
+          "55173"
         ]
       },
-      "OverviewId": 11,
+      "OverviewId": 42,
       "Size": 3136712,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Flashpoint Productions"
+        "Flashpoint Productions",
+        "SEGA"
       ],
       "CloneOf": "36great",
-      "ReleaseDate": "11/7/1994",
+      "ReleaseDate": "1/1/1994",
       "ESRB": "E",
       "Genres": [
         "Sports"
@@ -3975,7 +4949,10 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -3995,18 +4972,23 @@
         ],
         "TGDB": [
           "4911"
+        ],
+        "RAWG": [
+          "55173"
         ]
       },
-      "OverviewId": 11,
+      "OverviewId": 42,
       "Size": 3136712,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Flashpoint Productions"
+        "Flashpoint Productions",
+        "SEGA"
       ],
       "CloneOf": "36great",
-      "ReleaseDate": "11/8/1994",
+      "ReleaseDate": "1/1/1994",
       "ESRB": "E",
       "Genres": [
         "Sports"
@@ -4015,7 +4997,10 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -4035,18 +5020,23 @@
         ],
         "TGDB": [
           "4911"
+        ],
+        "RAWG": [
+          "55173"
         ]
       },
-      "OverviewId": 11,
+      "OverviewId": 42,
       "Size": 3136712,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Flashpoint Productions"
+        "Flashpoint Productions",
+        "SEGA"
       ],
       "CloneOf": "36great",
-      "ReleaseDate": "11/10/1994",
+      "ReleaseDate": "1/1/1994",
       "ESRB": "E",
       "Genres": [
         "Sports"
@@ -4055,7 +5045,10 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -4075,18 +5068,23 @@
         ],
         "TGDB": [
           "4911"
+        ],
+        "RAWG": [
+          "55173"
         ]
       },
-      "OverviewId": 11,
+      "OverviewId": 42,
       "Size": 3136712,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Flashpoint Productions"
+        "Flashpoint Productions",
+        "SEGA"
       ],
       "CloneOf": "36great",
-      "ReleaseDate": "11/16/1994",
+      "ReleaseDate": "1/1/1994",
       "ESRB": "E",
       "Genres": [
         "Sports"
@@ -4095,7 +5093,10 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -4115,18 +5116,23 @@
         ],
         "TGDB": [
           "4911"
+        ],
+        "RAWG": [
+          "55173"
         ]
       },
-      "OverviewId": 11,
+      "OverviewId": 42,
       "Size": 3136712,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Flashpoint Productions"
+        "Flashpoint Productions",
+        "SEGA"
       ],
       "CloneOf": "36great",
-      "ReleaseDate": "11/18/1994",
+      "ReleaseDate": "1/1/1994",
       "ESRB": "E",
       "Genres": [
         "Sports"
@@ -4135,7 +5141,10 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -4155,18 +5164,23 @@
         ],
         "TGDB": [
           "4911"
+        ],
+        "RAWG": [
+          "55173"
         ]
       },
-      "OverviewId": 11,
+      "OverviewId": 42,
       "Size": 3136736,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Flashpoint Productions"
+        "Flashpoint Productions",
+        "SEGA"
       ],
       "CloneOf": "36great",
-      "ReleaseDate": "11/19/1994",
+      "ReleaseDate": "1/1/1994",
       "ESRB": "E",
       "Genres": [
         "Sports"
@@ -4175,7 +5189,10 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -4195,18 +5212,23 @@
         ],
         "TGDB": [
           "4911"
+        ],
+        "RAWG": [
+          "55173"
         ]
       },
-      "OverviewId": 11,
+      "OverviewId": 42,
       "Size": 3145728,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Flashpoint Productions"
+        "Flashpoint Productions",
+        "SEGA"
       ],
       "CloneOf": "36great",
-      "ReleaseDate": "11/19/1994",
+      "ReleaseDate": "1/1/1994",
       "ESRB": "E",
       "Genres": [
         "Sports"
@@ -4215,7 +5237,10 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -4235,18 +5260,23 @@
         ],
         "TGDB": [
           "4911"
+        ],
+        "RAWG": [
+          "55173"
         ]
       },
-      "OverviewId": 11,
+      "OverviewId": 42,
       "Size": 3136724,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Flashpoint Productions"
+        "Flashpoint Productions",
+        "SEGA"
       ],
       "CloneOf": "36great",
-      "ReleaseDate": "11/21/1994",
+      "ReleaseDate": "1/1/1994",
       "ESRB": "E",
       "Genres": [
         "Sports"
@@ -4255,7 +5285,10 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -4275,18 +5308,23 @@
         ],
         "TGDB": [
           "4911"
+        ],
+        "RAWG": [
+          "55173"
         ]
       },
-      "OverviewId": 11,
+      "OverviewId": 42,
       "Size": 3136724,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Flashpoint Productions"
+        "Flashpoint Productions",
+        "SEGA"
       ],
       "CloneOf": "36great",
-      "ReleaseDate": "11/22/1994",
+      "ReleaseDate": "1/1/1994",
       "ESRB": "E",
       "Genres": [
         "Sports"
@@ -4295,7 +5333,10 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -4315,18 +5356,23 @@
         ],
         "TGDB": [
           "4911"
+        ],
+        "RAWG": [
+          "55173"
         ]
       },
-      "OverviewId": 11,
+      "OverviewId": 42,
       "Size": 3136724,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Flashpoint Productions"
+        "Flashpoint Productions",
+        "SEGA"
       ],
       "CloneOf": "36great",
-      "ReleaseDate": "11/22/1994",
+      "ReleaseDate": "1/1/1994",
       "ESRB": "E",
       "Genres": [
         "Sports"
@@ -4335,7 +5381,10 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -4355,18 +5404,23 @@
         ],
         "TGDB": [
           "4911"
+        ],
+        "RAWG": [
+          "55173"
         ]
       },
-      "OverviewId": 11,
+      "OverviewId": 42,
       "Size": 3136724,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Flashpoint Productions"
+        "Flashpoint Productions",
+        "SEGA"
       ],
       "CloneOf": "36great",
-      "ReleaseDate": "11/23/1994",
+      "ReleaseDate": "1/1/1994",
       "ESRB": "E",
       "Genres": [
         "Sports"
@@ -4375,7 +5429,10 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -4395,18 +5452,23 @@
         ],
         "TGDB": [
           "4911"
+        ],
+        "RAWG": [
+          "55173"
         ]
       },
-      "OverviewId": 11,
+      "OverviewId": 42,
       "Size": 3145728,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Flashpoint Productions"
+        "Flashpoint Productions",
+        "SEGA"
       ],
       "CloneOf": "36great",
-      "ReleaseDate": "11/26/1994",
+      "ReleaseDate": "1/1/1994",
       "ESRB": "E",
       "Genres": [
         "Sports"
@@ -4415,7 +5477,10 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -4435,18 +5500,23 @@
         ],
         "TGDB": [
           "4911"
+        ],
+        "RAWG": [
+          "55173"
         ]
       },
-      "OverviewId": 11,
+      "OverviewId": 42,
       "Size": 3145728,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Flashpoint Productions"
+        "Flashpoint Productions",
+        "SEGA"
       ],
       "CloneOf": "36great",
-      "ReleaseDate": "11/27/1994",
+      "ReleaseDate": "1/1/1994",
       "ESRB": "E",
       "Genres": [
         "Sports"
@@ -4455,7 +5525,10 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -4475,18 +5548,23 @@
         ],
         "TGDB": [
           "4911"
+        ],
+        "RAWG": [
+          "55173"
         ]
       },
-      "OverviewId": 11,
+      "OverviewId": 42,
       "Size": 3145728,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Flashpoint Productions"
+        "Flashpoint Productions",
+        "SEGA"
       ],
       "CloneOf": "36great",
-      "ReleaseDate": "11/28/1994",
+      "ReleaseDate": "1/1/1994",
       "ESRB": "E",
       "Genres": [
         "Sports"
@@ -4495,7 +5573,10 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -4515,18 +5596,23 @@
         ],
         "TGDB": [
           "4911"
+        ],
+        "RAWG": [
+          "55173"
         ]
       },
-      "OverviewId": 11,
+      "OverviewId": 42,
       "Size": 3145728,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Flashpoint Productions"
+        "Flashpoint Productions",
+        "SEGA"
       ],
       "CloneOf": "36great",
-      "ReleaseDate": "11/28/1994",
+      "ReleaseDate": "1/1/1994",
       "ESRB": "E",
       "Genres": [
         "Sports"
@@ -4535,7 +5621,10 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -4555,18 +5644,23 @@
         ],
         "TGDB": [
           "4911"
+        ],
+        "RAWG": [
+          "55173"
         ]
       },
-      "OverviewId": 11,
+      "OverviewId": 42,
       "Size": 3145728,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Flashpoint Productions"
+        "Flashpoint Productions",
+        "SEGA"
       ],
       "CloneOf": "36great",
-      "ReleaseDate": "11/29/1994",
+      "ReleaseDate": "1/1/1994",
       "ESRB": "E",
       "Genres": [
         "Sports"
@@ -4575,7 +5669,10 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -4595,18 +5692,23 @@
         ],
         "TGDB": [
           "4911"
+        ],
+        "RAWG": [
+          "55173"
         ]
       },
-      "OverviewId": 11,
+      "OverviewId": 42,
       "Size": 3145728,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Flashpoint Productions"
+        "Flashpoint Productions",
+        "SEGA"
       ],
       "CloneOf": "36great",
-      "ReleaseDate": "11/30/1994",
+      "ReleaseDate": "1/1/1994",
       "ESRB": "E",
       "Genres": [
         "Sports"
@@ -4615,7 +5717,10 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -4635,18 +5740,23 @@
         ],
         "TGDB": [
           "4911"
+        ],
+        "RAWG": [
+          "55173"
         ]
       },
-      "OverviewId": 11,
+      "OverviewId": 42,
       "Size": 3145728,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Flashpoint Productions"
+        "Flashpoint Productions",
+        "SEGA"
       ],
       "CloneOf": "36great",
-      "ReleaseDate": "12/2/1994",
+      "ReleaseDate": "1/1/1994",
       "ESRB": "E",
       "Genres": [
         "Sports"
@@ -4655,7 +5765,10 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -4675,18 +5788,23 @@
         ],
         "TGDB": [
           "4911"
+        ],
+        "RAWG": [
+          "55173"
         ]
       },
-      "OverviewId": 11,
+      "OverviewId": 42,
       "Size": 3145728,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Flashpoint Productions"
+        "Flashpoint Productions",
+        "SEGA"
       ],
       "CloneOf": "36great",
-      "ReleaseDate": "12/3/1994",
+      "ReleaseDate": "1/1/1994",
       "ESRB": "E",
       "Genres": [
         "Sports"
@@ -4695,7 +5813,10 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -4715,18 +5836,23 @@
         ],
         "TGDB": [
           "4911"
+        ],
+        "RAWG": [
+          "55173"
         ]
       },
-      "OverviewId": 11,
+      "OverviewId": 42,
       "Size": 3145728,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Flashpoint Productions"
+        "Flashpoint Productions",
+        "SEGA"
       ],
       "CloneOf": "36great",
-      "ReleaseDate": "12/6/1994",
+      "ReleaseDate": "1/1/1994",
       "ESRB": "E",
       "Genres": [
         "Sports"
@@ -4735,7 +5861,10 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -4755,18 +5884,23 @@
         ],
         "TGDB": [
           "4911"
+        ],
+        "RAWG": [
+          "55173"
         ]
       },
-      "OverviewId": 11,
+      "OverviewId": 42,
       "Size": 3145728,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Flashpoint Productions"
+        "Flashpoint Productions",
+        "SEGA"
       ],
       "CloneOf": "36great",
-      "ReleaseDate": "12/13/1994",
+      "ReleaseDate": "1/1/1994",
       "ESRB": "E",
       "Genres": [
         "Sports"
@@ -4775,7 +5909,10 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -4795,18 +5932,23 @@
         ],
         "TGDB": [
           "4911"
+        ],
+        "RAWG": [
+          "55173"
         ]
       },
-      "OverviewId": 11,
+      "OverviewId": 42,
       "Size": 3145728,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Flashpoint Productions"
+        "Flashpoint Productions",
+        "SEGA"
       ],
       "CloneOf": "36great",
-      "ReleaseDate": "12/14/1994",
+      "ReleaseDate": "1/1/1994",
       "ESRB": "E",
       "Genres": [
         "Sports"
@@ -4815,7 +5957,10 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -4835,18 +5980,23 @@
         ],
         "TGDB": [
           "4911"
+        ],
+        "RAWG": [
+          "55173"
         ]
       },
-      "OverviewId": 11,
+      "OverviewId": 42,
       "Size": 3145728,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Flashpoint Productions"
+        "Flashpoint Productions",
+        "SEGA"
       ],
       "CloneOf": "36great",
-      "ReleaseDate": "12/19/1994",
+      "ReleaseDate": "1/1/1994",
       "ESRB": "E",
       "Genres": [
         "Sports"
@@ -4855,7 +6005,10 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -4875,18 +6028,23 @@
         ],
         "TGDB": [
           "4911"
+        ],
+        "RAWG": [
+          "55173"
         ]
       },
-      "OverviewId": 11,
+      "OverviewId": 42,
       "Size": 3145728,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Flashpoint Productions"
+        "Flashpoint Productions",
+        "SEGA"
       ],
       "CloneOf": "36great",
-      "ReleaseDate": "12/21/1994",
+      "ReleaseDate": "1/1/1994",
       "ESRB": "E",
       "Genres": [
         "Sports"
@@ -4895,7 +6053,10 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -4915,18 +6076,23 @@
         ],
         "TGDB": [
           "4911"
+        ],
+        "RAWG": [
+          "55173"
         ]
       },
-      "OverviewId": 11,
+      "OverviewId": 42,
       "Size": 3145728,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Flashpoint Productions"
+        "Flashpoint Productions",
+        "SEGA"
       ],
       "CloneOf": "36great",
-      "ReleaseDate": "12/21/1994",
+      "ReleaseDate": "1/1/1994",
       "ESRB": "E",
       "Genres": [
         "Sports"
@@ -4935,7 +6101,10 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -4952,17 +6121,22 @@
         ],
         "TGDB": [
           "26762"
+        ],
+        "RAWG": [
+          "54174"
         ]
       },
-      "OverviewId": 1,
+      "OverviewId": 59,
       "Size": 2097152,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
-      "ReleaseDate": "1/13/1995",
+      "ReleaseDate": "7/1/1987",
       "ESRB": "E",
       "Genres": [
         "Action"
@@ -4974,7 +6148,8 @@
         "en"
       ],
       "Tags": [
-        "Alternate"
+        "Alternate",
+        "Singleplayer"
       ]
     },
     {
@@ -4991,17 +6166,22 @@
         ],
         "TGDB": [
           "26762"
+        ],
+        "RAWG": [
+          "54174"
         ]
       },
-      "OverviewId": 1,
+      "OverviewId": 59,
       "Size": 2097152,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
-      "ReleaseDate": "1/13/1995",
+      "ReleaseDate": "7/1/1987",
       "ESRB": "E",
       "Genres": [
         "Action"
@@ -5013,7 +6193,8 @@
         "en"
       ],
       "Tags": [
-        "Translated"
+        "Translated",
+        "Singleplayer"
       ]
     },
     {
@@ -5028,18 +6209,24 @@
         ],
         "TGDB": [
           "4913"
+        ],
+        "RAWG": [
+          "54238"
         ]
       },
-      "OverviewId": 3,
+      "OverviewId": 52,
       "Size": 3145728,
       "Publishers": [
         "Core Design",
-        "Front Street Publishing"
+        "Front Street Publishing",
+        "GoldStar",
+        "LG Electronics"
       ],
       "Developers": [
-        "Core Design Ltd."
+        "Core Design Ltd.",
+        "Core Design"
       ],
-      "ReleaseDate": "10/19/1995",
+      "ReleaseDate": "1/1/1994",
       "Genres": [
         "Racing"
       ],
@@ -5047,7 +6234,9 @@
         "en"
       ],
       "Tags": [
-        "Translated"
+        "Translated",
+        "Singleplayer",
+        "2 players"
       ]
     },
     {
@@ -5062,22 +6251,36 @@
         ],
         "TGDB": [
           "9074"
+        ],
+        "RAWG": [
+          "32252"
         ]
       },
-      "OverviewId": 4,
+      "OverviewId": 40,
       "Size": 3145728,
       "Publishers": [
         "Blizzard Entertainment - Interplay",
-        "Interplay Entertainment Corp."
+        "Interplay Entertainment Corp.",
+        "Interplay Productions",
+        "Interplay Entertainment",
+        "MacPlay",
+        "Mac OS",
+        "GBA"
       ],
       "Developers": [
-        "Blizzard"
+        "Blizzard",
+        "Blizzard Entertainment, Inc.",
+        "Mass Media",
+        "GBA",
+        "32X",
+        "Paradox"
       ],
-      "ReleaseDate": "8/24/1995",
+      "ReleaseDate": "1/1/1994",
       "ESRB": "T",
       "Genres": [
         "Action",
-        "Platform"
+        "Platform",
+        "Arcade"
       ],
       "Regions": [
         "US"
@@ -5086,7 +6289,8 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "Singleplayer"
       ]
     },
     {
@@ -5540,18 +6744,23 @@
         ],
         "TGDB": [
           "9075"
+        ],
+        "RAWG": [
+          "55180"
         ]
       },
-      "OverviewId": 7,
+      "OverviewId": 51,
       "Size": 2097152,
       "Publishers": [
         "Frontier Developments",
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Frontier Developments Ltd."
+        "Frontier Developments Ltd.",
+        "Frontier Developments"
       ],
-      "ReleaseDate": "12/1/1995",
+      "ReleaseDate": "1/1/1995",
       "Genres": [
         "Shooter"
       ],
@@ -5559,7 +6768,10 @@
         "EU"
       ],
       "Tags": [
-        "Fixed"
+        "Fixed",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -5575,18 +6787,23 @@
         ],
         "TGDB": [
           "9075"
+        ],
+        "RAWG": [
+          "55180"
         ]
       },
-      "OverviewId": 7,
+      "OverviewId": 51,
       "Size": 2097152,
       "Publishers": [
         "Frontier Developments",
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Frontier Developments Ltd."
+        "Frontier Developments Ltd.",
+        "Frontier Developments"
       ],
-      "ReleaseDate": "12/1/1995",
+      "ReleaseDate": "1/1/1995",
       "Genres": [
         "Shooter"
       ],
@@ -5594,7 +6811,10 @@
         "EU"
       ],
       "Tags": [
-        "Hacked"
+        "Hacked",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -5609,19 +6829,40 @@
         ],
         "TGDB": [
           "4917"
+        ],
+        "RAWG": [
+          "52884"
         ]
       },
-      "OverviewId": 8,
+      "OverviewId": 41,
       "Size": 3145728,
       "Publishers": [
         "id Software - Sega",
         "Sega",
-        "Sega of America, Inc."
+        "Sega of America, Inc.",
+        "Atari",
+        "Bethesda Softworks",
+        "SEGA",
+        "Valve",
+        "Activision Blizzard",
+        "GT Interactive Software",
+        "Ocean Software",
+        "Williams Entertainment",
+        "WMS Industries",
+        "Imagineer",
+        "GT Interactive",
+        "'''Genesis'''",
+        "'''PlayStation",
+        "'''SNES (Europe)'''",
+        "SNES (North America)'''",
+        "'''Game Boy Advance",
+        "'''SNES (Japan)'''"
       ],
       "Developers": [
-        "id Software"
+        "id Software",
+        "Nerve Software"
       ],
-      "ReleaseDate": "11/21/1994",
+      "ReleaseDate": "12/10/1993",
       "ESRB": "M",
       "Genres": [
         "Action",
@@ -5635,7 +6876,15 @@
         "en"
       ],
       "Tags": [
-        "Fixed"
+        "Fixed",
+        "Classic",
+        "First-Person",
+        "FPS",
+        "Gore",
+        "Multiplayer",
+        "Singleplayer",
+        "cooperative",
+        "violance"
       ]
     },
     {
@@ -5696,17 +6945,26 @@
         ],
         "TGDB": [
           "20522"
+        ],
+        "RAWG": [
+          "52925"
         ]
       },
-      "OverviewId": 10,
+      "OverviewId": 62,
       "Size": 3145728,
       "Publishers": [
-        "Electronic Arts"
+        "Electronic Arts",
+        "EA SPORTS",
+        "Black Pearl Software"
       ],
       "Developers": [
-        "Electronic Arts"
+        "Electronic Arts",
+        "Acclaim Cheltenham",
+        "Electronic Arts Canada",
+        "Probe Entertainment",
+        "Extended Play Productions"
       ],
-      "ReleaseDate": "11/30/1995",
+      "ReleaseDate": "1/1/1995",
       "Genres": [
         "Sports"
       ],
@@ -5719,7 +6977,9 @@
       ],
       "Tags": [
         "Fixed",
-        "Co-op"
+        "Co-op",
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -5754,17 +7014,22 @@
         ],
         "TGDB": [
           "2609"
+        ],
+        "RAWG": [
+          "55181"
         ]
       },
-      "OverviewId": 12,
+      "OverviewId": 49,
       "Size": 3145924,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Novotrade International"
+        "Novotrade International",
+        "Appaloosa Interactive"
       ],
-      "ReleaseDate": "9/8/1995",
+      "ReleaseDate": "11/30/1995",
       "ESRB": "E",
       "Genres": [
         "Shooter"
@@ -5773,7 +7038,11 @@
         "en"
       ],
       "Tags": [
-        "Translated"
+        "Translated",
+        "Multiplayer",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -5788,15 +7057,20 @@
         ],
         "TGDB": [
           "4918"
+        ],
+        "RAWG": [
+          "55183"
         ]
       },
-      "OverviewId": 13,
+      "OverviewId": 39,
       "Size": 3145728,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "ReleaseDate": "2/24/1995",
       "ESRB": "E",
@@ -5811,7 +7085,11 @@
         "ja"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "Singleplayer",
+        "One player",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -5829,15 +7107,20 @@
         ],
         "TGDB": [
           "4918"
+        ],
+        "RAWG": [
+          "55183"
         ]
       },
-      "OverviewId": 13,
+      "OverviewId": 39,
       "Size": 3145728,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "CloneOf": "metalhd",
       "ReleaseDate": "2/24/1995",
@@ -5849,7 +7132,11 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Singleplayer",
+        "One player",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -5867,15 +7154,20 @@
         ],
         "TGDB": [
           "4918"
+        ],
+        "RAWG": [
+          "55183"
         ]
       },
-      "OverviewId": 13,
+      "OverviewId": 39,
       "Size": 3145728,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "CloneOf": "metalhd",
       "ReleaseDate": "2/24/1995",
@@ -5887,7 +7179,11 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Singleplayer",
+        "One player",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -5905,15 +7201,20 @@
         ],
         "TGDB": [
           "4918"
+        ],
+        "RAWG": [
+          "55183"
         ]
       },
-      "OverviewId": 13,
+      "OverviewId": 39,
       "Size": 3145728,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "CloneOf": "metalhd",
       "ReleaseDate": "2/24/1995",
@@ -5925,7 +7226,11 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Singleplayer",
+        "One player",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -5943,15 +7248,20 @@
         ],
         "TGDB": [
           "4918"
+        ],
+        "RAWG": [
+          "55183"
         ]
       },
-      "OverviewId": 13,
+      "OverviewId": 39,
       "Size": 3145728,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "CloneOf": "metalhd",
       "ReleaseDate": "2/24/1995",
@@ -5964,7 +7274,11 @@
         "ja"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Singleplayer",
+        "One player",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -5982,15 +7296,20 @@
         ],
         "TGDB": [
           "4918"
+        ],
+        "RAWG": [
+          "55183"
         ]
       },
-      "OverviewId": 13,
+      "OverviewId": 39,
       "Size": 3145728,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "CloneOf": "metalhd",
       "ReleaseDate": "2/24/1995",
@@ -6003,7 +7322,11 @@
         "ja"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Singleplayer",
+        "One player",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -6021,15 +7344,20 @@
         ],
         "TGDB": [
           "4918"
+        ],
+        "RAWG": [
+          "55183"
         ]
       },
-      "OverviewId": 13,
+      "OverviewId": 39,
       "Size": 3145728,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "CloneOf": "metalhd",
       "ReleaseDate": "2/24/1995",
@@ -6042,7 +7370,11 @@
         "ja"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Singleplayer",
+        "One player",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -6060,15 +7392,20 @@
         ],
         "TGDB": [
           "4918"
+        ],
+        "RAWG": [
+          "55183"
         ]
       },
-      "OverviewId": 13,
+      "OverviewId": 39,
       "Size": 3145728,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "CloneOf": "metalhd",
       "ReleaseDate": "2/24/1995",
@@ -6081,7 +7418,11 @@
         "ja"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Singleplayer",
+        "One player",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -6099,15 +7440,20 @@
         ],
         "TGDB": [
           "4918"
+        ],
+        "RAWG": [
+          "55183"
         ]
       },
-      "OverviewId": 13,
+      "OverviewId": 39,
       "Size": 3145728,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "CloneOf": "metalhd",
       "ReleaseDate": "2/24/1995",
@@ -6120,7 +7466,11 @@
         "ja"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Singleplayer",
+        "One player",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -6138,15 +7488,20 @@
         ],
         "TGDB": [
           "4918"
+        ],
+        "RAWG": [
+          "55183"
         ]
       },
-      "OverviewId": 13,
+      "OverviewId": 39,
       "Size": 3145728,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "CloneOf": "metalhd",
       "ReleaseDate": "2/24/1995",
@@ -6159,12 +7514,17 @@
         "ja"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Singleplayer",
+        "One player",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
       "Titles": [
-        "Mortal Kombat II"
+        "Mortal Kombat II",
+        "Mortal Kombat 2"
       ],
       "Sha1": "bc58d02b791124db434455f2e89d7673e33b17a5",
       "Crc32": "527a6fea",
@@ -6174,32 +7534,44 @@
         ],
         "TGDB": [
           "4919"
+        ],
+        "RAWG": [
+          "29426"
         ]
       },
-      "OverviewId": 14,
+      "OverviewId": 53,
       "Size": 4194304,
       "Publishers": [
         "Acclaim - Midway - Probe",
         "Acclaim Entertainment, Inc.",
-        "Acclaim Japan"
+        "Acclaim Japan",
+        "Acclaim Entertainment",
+        "Midway",
+        "home versions"
       ],
       "Developers": [
         "Acclaim Entertainment",
         "Acclaim Entertainment, Inc.",
         "Midway Manufacturing Co.",
-        "Probe Entertainment"
+        "Probe Entertainment",
+        "Sculptured Software",
+        "Midway Games",
+        "Midway"
       ],
-      "ReleaseDate": "3/1/1995",
+      "ReleaseDate": "6/25/1993",
       "ESRB": "M",
       "Genres": [
         "Action",
-        "Fighting"
+        "Fighting",
+        "Arcade"
       ],
       "Languages": [
         "en"
       ],
       "Tags": [
-        "Fixed"
+        "Fixed",
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -6215,17 +7587,22 @@
         ],
         "TGDB": [
           "9083"
+        ],
+        "RAWG": [
+          "55197"
         ]
       },
-      "OverviewId": 18,
+      "OverviewId": 45,
       "Size": 2097152,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "CSK Research Institute Corp."
+        "CSK Research Institute Corp.",
+        "SEGA"
       ],
-      "ReleaseDate": "6/1/1995",
+      "ReleaseDate": "7/14/1995",
       "ESRB": "E",
       "Genres": [
         "Shooter"
@@ -6233,7 +7610,12 @@
       "Regions": [
         "EU"
       ],
-      "Tags": []
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
+      ]
     },
     {
       "Titles": [
@@ -6247,9 +7629,12 @@
         ],
         "TGDB": [
           "9076"
+        ],
+        "RAWG": [
+          "369067"
         ]
       },
-      "OverviewId": 15,
+      "OverviewId": 46,
       "Size": 2097152,
       "Publishers": [
         "Sega"
@@ -6260,7 +7645,8 @@
       "ReleaseDate": "1/1/1994",
       "ESRB": "E",
       "Genres": [
-        "Racing"
+        "Racing",
+        "Action"
       ],
       "Regions": [
         "EU"
@@ -6269,7 +7655,9 @@
         "en"
       ],
       "Tags": [
-        "Fixed"
+        "Fixed",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -6287,9 +7675,12 @@
         ],
         "TGDB": [
           "9076"
+        ],
+        "RAWG": [
+          "369067"
         ]
       },
-      "OverviewId": 15,
+      "OverviewId": 46,
       "Size": 1690952,
       "Publishers": [
         "Sega"
@@ -6301,13 +7692,16 @@
       "ReleaseDate": "1/1/1994",
       "ESRB": "E",
       "Genres": [
-        "Racing"
+        "Racing",
+        "Action"
       ],
       "Languages": [
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -6325,9 +7719,12 @@
         ],
         "TGDB": [
           "9076"
+        ],
+        "RAWG": [
+          "369067"
         ]
       },
-      "OverviewId": 15,
+      "OverviewId": 46,
       "Size": 1608792,
       "Publishers": [
         "Sega"
@@ -6339,13 +7736,16 @@
       "ReleaseDate": "1/1/1994",
       "ESRB": "E",
       "Genres": [
-        "Racing"
+        "Racing",
+        "Action"
       ],
       "Languages": [
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -6363,9 +7763,12 @@
         ],
         "TGDB": [
           "9076"
+        ],
+        "RAWG": [
+          "369067"
         ]
       },
-      "OverviewId": 15,
+      "OverviewId": 46,
       "Size": 1624764,
       "Publishers": [
         "Sega"
@@ -6377,13 +7780,16 @@
       "ReleaseDate": "1/1/1994",
       "ESRB": "E",
       "Genres": [
-        "Racing"
+        "Racing",
+        "Action"
       ],
       "Languages": [
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -6401,9 +7807,12 @@
         ],
         "TGDB": [
           "9076"
+        ],
+        "RAWG": [
+          "369067"
         ]
       },
-      "OverviewId": 15,
+      "OverviewId": 46,
       "Size": 1644464,
       "Publishers": [
         "Sega"
@@ -6415,13 +7824,16 @@
       "ReleaseDate": "1/1/1994",
       "ESRB": "E",
       "Genres": [
-        "Racing"
+        "Racing",
+        "Action"
       ],
       "Languages": [
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -6439,9 +7851,12 @@
         ],
         "TGDB": [
           "9076"
+        ],
+        "RAWG": [
+          "369067"
         ]
       },
-      "OverviewId": 15,
+      "OverviewId": 46,
       "Size": 1661296,
       "Publishers": [
         "Sega"
@@ -6453,13 +7868,16 @@
       "ReleaseDate": "1/1/1994",
       "ESRB": "E",
       "Genres": [
-        "Racing"
+        "Racing",
+        "Action"
       ],
       "Languages": [
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -6477,9 +7895,12 @@
         ],
         "TGDB": [
           "9076"
+        ],
+        "RAWG": [
+          "369067"
         ]
       },
-      "OverviewId": 15,
+      "OverviewId": 46,
       "Size": 1736076,
       "Publishers": [
         "Sega"
@@ -6491,13 +7912,16 @@
       "ReleaseDate": "1/1/1994",
       "ESRB": "E",
       "Genres": [
-        "Racing"
+        "Racing",
+        "Action"
       ],
       "Languages": [
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -6515,9 +7939,12 @@
         ],
         "TGDB": [
           "9076"
+        ],
+        "RAWG": [
+          "369067"
         ]
       },
-      "OverviewId": 15,
+      "OverviewId": 46,
       "Size": 1843436,
       "Publishers": [
         "Sega"
@@ -6529,13 +7956,16 @@
       "ReleaseDate": "1/1/1994",
       "ESRB": "E",
       "Genres": [
-        "Racing"
+        "Racing",
+        "Action"
       ],
       "Languages": [
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -6553,9 +7983,12 @@
         ],
         "TGDB": [
           "9076"
+        ],
+        "RAWG": [
+          "369067"
         ]
       },
-      "OverviewId": 15,
+      "OverviewId": 46,
       "Size": 2045468,
       "Publishers": [
         "Sega"
@@ -6567,13 +8000,16 @@
       "ReleaseDate": "1/1/1994",
       "ESRB": "E",
       "Genres": [
-        "Racing"
+        "Racing",
+        "Action"
       ],
       "Languages": [
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -6591,9 +8027,12 @@
         ],
         "TGDB": [
           "9076"
+        ],
+        "RAWG": [
+          "369067"
         ]
       },
-      "OverviewId": 15,
+      "OverviewId": 46,
       "Size": 2045684,
       "Publishers": [
         "Sega"
@@ -6605,13 +8044,16 @@
       "ReleaseDate": "1/1/1994",
       "ESRB": "E",
       "Genres": [
-        "Racing"
+        "Racing",
+        "Action"
       ],
       "Languages": [
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -6629,9 +8071,12 @@
         ],
         "TGDB": [
           "9076"
+        ],
+        "RAWG": [
+          "369067"
         ]
       },
-      "OverviewId": 15,
+      "OverviewId": 46,
       "Size": 2045684,
       "Publishers": [
         "Sega"
@@ -6643,13 +8088,16 @@
       "ReleaseDate": "1/1/1994",
       "ESRB": "E",
       "Genres": [
-        "Racing"
+        "Racing",
+        "Action"
       ],
       "Languages": [
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -6667,9 +8115,12 @@
         ],
         "TGDB": [
           "9076"
+        ],
+        "RAWG": [
+          "369067"
         ]
       },
-      "OverviewId": 15,
+      "OverviewId": 46,
       "Size": 2045120,
       "Publishers": [
         "Sega"
@@ -6681,13 +8132,16 @@
       "ReleaseDate": "1/1/1994",
       "ESRB": "E",
       "Genres": [
-        "Racing"
+        "Racing",
+        "Action"
       ],
       "Languages": [
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -6705,9 +8159,12 @@
         ],
         "TGDB": [
           "9076"
+        ],
+        "RAWG": [
+          "369067"
         ]
       },
-      "OverviewId": 15,
+      "OverviewId": 46,
       "Size": 2045624,
       "Publishers": [
         "Sega"
@@ -6719,13 +8176,16 @@
       "ReleaseDate": "1/1/1994",
       "ESRB": "E",
       "Genres": [
-        "Racing"
+        "Racing",
+        "Action"
       ],
       "Languages": [
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -6743,9 +8203,12 @@
         ],
         "TGDB": [
           "9076"
+        ],
+        "RAWG": [
+          "369067"
         ]
       },
-      "OverviewId": 15,
+      "OverviewId": 46,
       "Size": 2097152,
       "Publishers": [
         "Sega"
@@ -6757,13 +8220,16 @@
       "ReleaseDate": "1/1/1994",
       "ESRB": "E",
       "Genres": [
-        "Racing"
+        "Racing",
+        "Action"
       ],
       "Languages": [
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -6781,9 +8247,12 @@
         ],
         "TGDB": [
           "9076"
+        ],
+        "RAWG": [
+          "369067"
         ]
       },
-      "OverviewId": 15,
+      "OverviewId": 46,
       "Size": 2097152,
       "Publishers": [
         "Sega"
@@ -6795,13 +8264,16 @@
       "ReleaseDate": "1/1/1994",
       "ESRB": "E",
       "Genres": [
-        "Racing"
+        "Racing",
+        "Action"
       ],
       "Languages": [
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -6819,9 +8291,12 @@
         ],
         "TGDB": [
           "9076"
+        ],
+        "RAWG": [
+          "369067"
         ]
       },
-      "OverviewId": 15,
+      "OverviewId": 46,
       "Size": 2097152,
       "Publishers": [
         "Sega"
@@ -6833,13 +8308,16 @@
       "ReleaseDate": "1/1/1994",
       "ESRB": "E",
       "Genres": [
-        "Racing"
+        "Racing",
+        "Action"
       ],
       "Languages": [
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -6890,18 +8368,23 @@
         ],
         "TGDB": [
           "14262"
+        ],
+        "RAWG": [
+          "55184"
         ]
       },
-      "OverviewId": 17,
+      "OverviewId": 67,
       "Size": 3145728,
       "Publishers": [
         "Acclaim - Iguana Entertainment",
-        "Acclaim Entertainment, Inc."
+        "Acclaim Entertainment, Inc.",
+        "Acclaim Entertainment"
       ],
       "Developers": [
-        "Iguana Entertainment"
+        "Iguana Entertainment",
+        "Acclaim Studios Austin"
       ],
-      "ReleaseDate": "1/1/1995",
+      "ReleaseDate": "2/24/1995",
       "ESRB": "E",
       "Genres": [
         "Sports"
@@ -6910,7 +8393,9 @@
         "en"
       ],
       "Tags": [
-        "Hacked"
+        "Hacked",
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -6952,7 +8437,8 @@
     },
     {
       "Titles": [
-        "Space Harrier"
+        "Space Harrier",
+        "Space Harrier (1986)"
       ],
       "Sha1": "e6f18ac4d6898fa690da29b166a2458551b75773",
       "Crc32": "c16af4a3",
@@ -6962,17 +8448,30 @@
         ],
         "TGDB": [
           "117"
+        ],
+        "RAWG": [
+          "55117"
         ]
       },
-      "OverviewId": 25,
+      "OverviewId": 47,
       "Size": 2097152,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA",
+        "Elite Systems",
+        "Takara",
+        "NEC",
+        "Micomsoft",
+        "Dempa"
       ],
       "Developers": [
-        "Sega"
+        "Sega",
+        "SEGA",
+        "Elite Systems",
+        "Dempa",
+        "Rutubo Games"
       ],
-      "ReleaseDate": "12/3/1994",
+      "ReleaseDate": "12/12/1986",
       "ESRB": "E10+",
       "Genres": [
         "Shooter"
@@ -6984,7 +8483,8 @@
         "en"
       ],
       "Tags": [
-        "Translated"
+        "Translated",
+        "Singleplayer"
       ]
     },
     {
@@ -7000,18 +8500,23 @@
         ],
         "TGDB": [
           "4926"
+        ],
+        "RAWG": [
+          "55187"
         ]
       },
-      "OverviewId": 27,
+      "OverviewId": 50,
       "Size": 2621440,
       "Publishers": [
         "LucasArts - Sega",
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
-      "ReleaseDate": "12/2/1994",
+      "ReleaseDate": "1/1/1993",
       "ESRB": "E",
       "Genres": [
         "Action"
@@ -7023,7 +8528,9 @@
         "en"
       ],
       "Tags": [
-        "Fixed"
+        "Fixed",
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -7039,18 +8546,23 @@
         ],
         "TGDB": [
           "4926"
+        ],
+        "RAWG": [
+          "55187"
         ]
       },
-      "OverviewId": 27,
+      "OverviewId": 50,
       "Size": 1048576,
       "Publishers": [
         "LucasArts - Sega",
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
-      "ReleaseDate": "12/2/1994",
+      "ReleaseDate": "1/1/1993",
       "ESRB": "E",
       "Genres": [
         "Action"
@@ -7062,7 +8574,9 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -7081,19 +8595,24 @@
         ],
         "TGDB": [
           "4926"
+        ],
+        "RAWG": [
+          "55187"
         ]
       },
-      "OverviewId": 27,
+      "OverviewId": 50,
       "Size": 2097152,
       "Publishers": [
         "LucasArts - Sega",
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "CloneOf": "swa",
-      "ReleaseDate": "12/2/1994",
+      "ReleaseDate": "1/1/1993",
       "ESRB": "E",
       "Genres": [
         "Action"
@@ -7102,7 +8621,9 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -7121,19 +8642,24 @@
         ],
         "TGDB": [
           "4926"
+        ],
+        "RAWG": [
+          "55187"
         ]
       },
-      "OverviewId": 27,
+      "OverviewId": 50,
       "Size": 2097152,
       "Publishers": [
         "LucasArts - Sega",
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "CloneOf": "swa",
-      "ReleaseDate": "12/2/1994",
+      "ReleaseDate": "1/1/1993",
       "ESRB": "E",
       "Genres": [
         "Action"
@@ -7142,7 +8668,9 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -7161,19 +8689,24 @@
         ],
         "TGDB": [
           "4926"
+        ],
+        "RAWG": [
+          "55187"
         ]
       },
-      "OverviewId": 27,
+      "OverviewId": 50,
       "Size": 2097152,
       "Publishers": [
         "LucasArts - Sega",
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "CloneOf": "swa",
-      "ReleaseDate": "12/2/1994",
+      "ReleaseDate": "1/1/1993",
       "ESRB": "E",
       "Genres": [
         "Action"
@@ -7182,7 +8715,9 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -7201,19 +8736,24 @@
         ],
         "TGDB": [
           "4926"
+        ],
+        "RAWG": [
+          "55187"
         ]
       },
-      "OverviewId": 27,
+      "OverviewId": 50,
       "Size": 2097152,
       "Publishers": [
         "LucasArts - Sega",
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "CloneOf": "swa",
-      "ReleaseDate": "12/2/1994",
+      "ReleaseDate": "1/1/1993",
       "ESRB": "E",
       "Genres": [
         "Action"
@@ -7222,7 +8762,9 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -7241,19 +8783,24 @@
         ],
         "TGDB": [
           "4926"
+        ],
+        "RAWG": [
+          "55187"
         ]
       },
-      "OverviewId": 27,
+      "OverviewId": 50,
       "Size": 2097152,
       "Publishers": [
         "LucasArts - Sega",
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "CloneOf": "swa",
-      "ReleaseDate": "12/2/1994",
+      "ReleaseDate": "1/1/1993",
       "ESRB": "E",
       "Genres": [
         "Action"
@@ -7262,7 +8809,9 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -7281,19 +8830,24 @@
         ],
         "TGDB": [
           "4926"
+        ],
+        "RAWG": [
+          "55187"
         ]
       },
-      "OverviewId": 27,
+      "OverviewId": 50,
       "Size": 2097152,
       "Publishers": [
         "LucasArts - Sega",
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "CloneOf": "swa",
-      "ReleaseDate": "12/2/1994",
+      "ReleaseDate": "1/1/1993",
       "ESRB": "E",
       "Genres": [
         "Action"
@@ -7302,7 +8856,9 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -7321,19 +8877,24 @@
         ],
         "TGDB": [
           "4926"
+        ],
+        "RAWG": [
+          "55187"
         ]
       },
-      "OverviewId": 27,
+      "OverviewId": 50,
       "Size": 2467793,
       "Publishers": [
         "LucasArts - Sega",
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "CloneOf": "swa",
-      "ReleaseDate": "12/2/1994",
+      "ReleaseDate": "1/1/1993",
       "ESRB": "E",
       "Genres": [
         "Action"
@@ -7342,7 +8903,9 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -7361,19 +8924,24 @@
         ],
         "TGDB": [
           "4926"
+        ],
+        "RAWG": [
+          "55187"
         ]
       },
-      "OverviewId": 27,
+      "OverviewId": 50,
       "Size": 2504513,
       "Publishers": [
         "LucasArts - Sega",
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "CloneOf": "swa",
-      "ReleaseDate": "12/2/1994",
+      "ReleaseDate": "1/1/1993",
       "ESRB": "E",
       "Genres": [
         "Action"
@@ -7382,7 +8950,9 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -7401,19 +8971,24 @@
         ],
         "TGDB": [
           "4926"
+        ],
+        "RAWG": [
+          "55187"
         ]
       },
-      "OverviewId": 27,
+      "OverviewId": 50,
       "Size": 3145728,
       "Publishers": [
         "LucasArts - Sega",
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "CloneOf": "swa",
-      "ReleaseDate": "12/2/1994",
+      "ReleaseDate": "1/1/1993",
       "ESRB": "E",
       "Genres": [
         "Action"
@@ -7422,7 +8997,9 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -7441,19 +9018,24 @@
         ],
         "TGDB": [
           "4926"
+        ],
+        "RAWG": [
+          "55187"
         ]
       },
-      "OverviewId": 27,
+      "OverviewId": 50,
       "Size": 3145728,
       "Publishers": [
         "LucasArts - Sega",
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "CloneOf": "swa",
-      "ReleaseDate": "12/2/1994",
+      "ReleaseDate": "1/1/1993",
       "ESRB": "E",
       "Genres": [
         "Action"
@@ -7462,7 +9044,9 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -7481,19 +9065,24 @@
         ],
         "TGDB": [
           "4926"
+        ],
+        "RAWG": [
+          "55187"
         ]
       },
-      "OverviewId": 27,
+      "OverviewId": 50,
       "Size": 3145728,
       "Publishers": [
         "LucasArts - Sega",
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "CloneOf": "swa",
-      "ReleaseDate": "12/2/1994",
+      "ReleaseDate": "1/1/1993",
       "ESRB": "E",
       "Genres": [
         "Action"
@@ -7502,7 +9091,9 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -7521,19 +9112,24 @@
         ],
         "TGDB": [
           "4926"
+        ],
+        "RAWG": [
+          "55187"
         ]
       },
-      "OverviewId": 27,
+      "OverviewId": 50,
       "Size": 2517257,
       "Publishers": [
         "LucasArts - Sega",
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "CloneOf": "swa",
-      "ReleaseDate": "12/2/1994",
+      "ReleaseDate": "1/1/1993",
       "ESRB": "E",
       "Genres": [
         "Action"
@@ -7542,7 +9138,9 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -7561,19 +9159,24 @@
         ],
         "TGDB": [
           "4926"
+        ],
+        "RAWG": [
+          "55187"
         ]
       },
-      "OverviewId": 27,
+      "OverviewId": 50,
       "Size": 2517297,
       "Publishers": [
         "LucasArts - Sega",
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "CloneOf": "swa",
-      "ReleaseDate": "12/2/1994",
+      "ReleaseDate": "1/1/1993",
       "ESRB": "E",
       "Genres": [
         "Action"
@@ -7582,7 +9185,9 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -7601,19 +9206,24 @@
         ],
         "TGDB": [
           "4926"
+        ],
+        "RAWG": [
+          "55187"
         ]
       },
-      "OverviewId": 27,
+      "OverviewId": 50,
       "Size": 2516793,
       "Publishers": [
         "LucasArts - Sega",
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "CloneOf": "swa",
-      "ReleaseDate": "12/2/1994",
+      "ReleaseDate": "1/1/1993",
       "ESRB": "E",
       "Genres": [
         "Action"
@@ -7622,7 +9232,9 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -7641,19 +9253,24 @@
         ],
         "TGDB": [
           "4926"
+        ],
+        "RAWG": [
+          "55187"
         ]
       },
-      "OverviewId": 27,
+      "OverviewId": 50,
       "Size": 3145728,
       "Publishers": [
         "LucasArts - Sega",
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "CloneOf": "swa",
-      "ReleaseDate": "12/2/1994",
+      "ReleaseDate": "1/1/1993",
       "ESRB": "E",
       "Genres": [
         "Action"
@@ -7662,7 +9279,9 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -7681,19 +9300,24 @@
         ],
         "TGDB": [
           "4926"
+        ],
+        "RAWG": [
+          "55187"
         ]
       },
-      "OverviewId": 27,
+      "OverviewId": 50,
       "Size": 2516513,
       "Publishers": [
         "LucasArts - Sega",
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "CloneOf": "swa",
-      "ReleaseDate": "12/2/1994",
+      "ReleaseDate": "1/1/1993",
       "ESRB": "E",
       "Genres": [
         "Action"
@@ -7702,7 +9326,9 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -7721,19 +9347,24 @@
         ],
         "TGDB": [
           "4926"
+        ],
+        "RAWG": [
+          "55187"
         ]
       },
-      "OverviewId": 27,
+      "OverviewId": 50,
       "Size": 2621440,
       "Publishers": [
         "LucasArts - Sega",
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "CloneOf": "swa",
-      "ReleaseDate": "12/2/1994",
+      "ReleaseDate": "1/1/1993",
       "ESRB": "E",
       "Genres": [
         "Action"
@@ -7742,7 +9373,9 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -7761,19 +9394,24 @@
         ],
         "TGDB": [
           "4926"
+        ],
+        "RAWG": [
+          "55187"
         ]
       },
-      "OverviewId": 27,
+      "OverviewId": 50,
       "Size": 2621440,
       "Publishers": [
         "LucasArts - Sega",
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "CloneOf": "swa",
-      "ReleaseDate": "12/2/1994",
+      "ReleaseDate": "1/1/1993",
       "ESRB": "E",
       "Genres": [
         "Action"
@@ -7782,7 +9420,9 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -7802,18 +9442,23 @@
         ],
         "TGDB": [
           "4923"
+        ],
+        "RAWG": [
+          "55185"
         ]
       },
-      "OverviewId": 23,
+      "OverviewId": 43,
       "Size": 2097152,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "CloneOf": "stellar",
-      "ReleaseDate": "5/25/1995",
+      "ReleaseDate": "4/26/1995",
       "Genres": [
         "Shooter"
       ],
@@ -7826,7 +9471,11 @@
       ],
       "Tags": [
         "beta",
-        "Co-op"
+        "Co-op",
+        "Multiplayer",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -7846,18 +9495,23 @@
         ],
         "TGDB": [
           "4923"
+        ],
+        "RAWG": [
+          "55185"
         ]
       },
-      "OverviewId": 23,
+      "OverviewId": 43,
       "Size": 2097152,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "CloneOf": "stellar",
-      "ReleaseDate": "5/25/1995",
+      "ReleaseDate": "4/26/1995",
       "Genres": [
         "Shooter"
       ],
@@ -7870,7 +9524,11 @@
       ],
       "Tags": [
         "beta",
-        "Co-op"
+        "Co-op",
+        "Multiplayer",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -7890,18 +9548,23 @@
         ],
         "TGDB": [
           "4923"
+        ],
+        "RAWG": [
+          "55185"
         ]
       },
-      "OverviewId": 23,
+      "OverviewId": 43,
       "Size": 2097152,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "CloneOf": "stellar",
-      "ReleaseDate": "5/25/1995",
+      "ReleaseDate": "4/26/1995",
       "Genres": [
         "Shooter"
       ],
@@ -7914,7 +9577,11 @@
       ],
       "Tags": [
         "beta",
-        "Co-op"
+        "Co-op",
+        "Multiplayer",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -7934,18 +9601,23 @@
         ],
         "TGDB": [
           "4923"
+        ],
+        "RAWG": [
+          "55185"
         ]
       },
-      "OverviewId": 23,
+      "OverviewId": 43,
       "Size": 2097152,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "CloneOf": "stellar",
-      "ReleaseDate": "5/25/1995",
+      "ReleaseDate": "4/26/1995",
       "Genres": [
         "Shooter"
       ],
@@ -7958,7 +9630,11 @@
       ],
       "Tags": [
         "beta",
-        "Co-op"
+        "Co-op",
+        "Multiplayer",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -7978,18 +9654,23 @@
         ],
         "TGDB": [
           "4923"
+        ],
+        "RAWG": [
+          "55185"
         ]
       },
-      "OverviewId": 23,
+      "OverviewId": 43,
       "Size": 2097152,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "CloneOf": "stellar",
-      "ReleaseDate": "5/25/1995",
+      "ReleaseDate": "4/26/1995",
       "Genres": [
         "Shooter"
       ],
@@ -8002,7 +9683,11 @@
       ],
       "Tags": [
         "beta",
-        "Co-op"
+        "Co-op",
+        "Multiplayer",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -8022,18 +9707,23 @@
         ],
         "TGDB": [
           "4923"
+        ],
+        "RAWG": [
+          "55185"
         ]
       },
-      "OverviewId": 23,
+      "OverviewId": 43,
       "Size": 2097152,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "CloneOf": "stellar",
-      "ReleaseDate": "5/25/1995",
+      "ReleaseDate": "4/26/1995",
       "Genres": [
         "Shooter"
       ],
@@ -8046,7 +9736,11 @@
       ],
       "Tags": [
         "beta",
-        "Co-op"
+        "Co-op",
+        "Multiplayer",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -8066,18 +9760,23 @@
         ],
         "TGDB": [
           "4923"
+        ],
+        "RAWG": [
+          "55185"
         ]
       },
-      "OverviewId": 23,
+      "OverviewId": 43,
       "Size": 2097152,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "CloneOf": "stellar",
-      "ReleaseDate": "5/25/1995",
+      "ReleaseDate": "4/26/1995",
       "Genres": [
         "Shooter"
       ],
@@ -8090,7 +9789,11 @@
       ],
       "Tags": [
         "beta",
-        "Co-op"
+        "Co-op",
+        "Multiplayer",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -8108,15 +9811,22 @@
         ],
         "TGDB": [
           "4927"
+        ],
+        "RAWG": [
+          "55190"
         ]
       },
-      "OverviewId": 29,
+      "OverviewId": 48,
       "Size": 3145728,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA",
+        "Tec Toy"
       ],
       "Developers": [
-        "Red Company"
+        "Red Company",
+        "SEGA",
+        "RED Company"
       ],
       "CloneOf": "tempo",
       "ReleaseDate": "3/24/1995",
@@ -8133,7 +9843,10 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -8151,15 +9864,22 @@
         ],
         "TGDB": [
           "4927"
+        ],
+        "RAWG": [
+          "55190"
         ]
       },
-      "OverviewId": 29,
+      "OverviewId": 48,
       "Size": 3145728,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA",
+        "Tec Toy"
       ],
       "Developers": [
-        "Red Company"
+        "Red Company",
+        "SEGA",
+        "RED Company"
       ],
       "CloneOf": "tempo",
       "ReleaseDate": "3/24/1995",
@@ -8176,7 +9896,10 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -8194,15 +9917,22 @@
         ],
         "TGDB": [
           "4927"
+        ],
+        "RAWG": [
+          "55190"
         ]
       },
-      "OverviewId": 29,
+      "OverviewId": 48,
       "Size": 3145728,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA",
+        "Tec Toy"
       ],
       "Developers": [
-        "Red Company"
+        "Red Company",
+        "SEGA",
+        "RED Company"
       ],
       "CloneOf": "tempo",
       "ReleaseDate": "3/24/1995",
@@ -8219,7 +9949,10 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -8237,15 +9970,22 @@
         ],
         "TGDB": [
           "4927"
+        ],
+        "RAWG": [
+          "55190"
         ]
       },
-      "OverviewId": 29,
+      "OverviewId": 48,
       "Size": 3145728,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA",
+        "Tec Toy"
       ],
       "Developers": [
-        "Red Company"
+        "Red Company",
+        "SEGA",
+        "RED Company"
       ],
       "CloneOf": "tempo",
       "ReleaseDate": "3/24/1995",
@@ -8262,7 +10002,10 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -8280,15 +10023,22 @@
         ],
         "TGDB": [
           "4927"
+        ],
+        "RAWG": [
+          "55190"
         ]
       },
-      "OverviewId": 29,
+      "OverviewId": 48,
       "Size": 3145728,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA",
+        "Tec Toy"
       ],
       "Developers": [
-        "Red Company"
+        "Red Company",
+        "SEGA",
+        "RED Company"
       ],
       "CloneOf": "tempo",
       "ReleaseDate": "3/24/1995",
@@ -8305,7 +10055,10 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -8323,15 +10076,22 @@
         ],
         "TGDB": [
           "4927"
+        ],
+        "RAWG": [
+          "55190"
         ]
       },
-      "OverviewId": 29,
+      "OverviewId": 48,
       "Size": 3145728,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA",
+        "Tec Toy"
       ],
       "Developers": [
-        "Red Company"
+        "Red Company",
+        "SEGA",
+        "RED Company"
       ],
       "CloneOf": "tempo",
       "ReleaseDate": "3/24/1995",
@@ -8348,7 +10108,10 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -8366,15 +10129,22 @@
         ],
         "TGDB": [
           "4927"
+        ],
+        "RAWG": [
+          "55190"
         ]
       },
-      "OverviewId": 29,
+      "OverviewId": 48,
       "Size": 3145728,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA",
+        "Tec Toy"
       ],
       "Developers": [
-        "Red Company"
+        "Red Company",
+        "SEGA",
+        "RED Company"
       ],
       "CloneOf": "tempo",
       "ReleaseDate": "3/24/1995",
@@ -8391,7 +10161,10 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -8409,15 +10182,22 @@
         ],
         "TGDB": [
           "4927"
+        ],
+        "RAWG": [
+          "55190"
         ]
       },
-      "OverviewId": 29,
+      "OverviewId": 48,
       "Size": 3145728,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA",
+        "Tec Toy"
       ],
       "Developers": [
-        "Red Company"
+        "Red Company",
+        "SEGA",
+        "RED Company"
       ],
       "CloneOf": "tempo",
       "ReleaseDate": "3/24/1995",
@@ -8434,7 +10214,10 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -8449,15 +10232,21 @@
         ],
         "TGDB": [
           "4928"
+        ],
+        "RAWG": [
+          "55193"
         ]
       },
-      "OverviewId": 31,
+      "OverviewId": 56,
       "Size": 4194304,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
-      "Developers": [],
-      "ReleaseDate": "1/1/1995",
+      "Developers": [
+        "SEGA"
+      ],
+      "ReleaseDate": "10/21/1993",
       "ESRB": "T",
       "Genres": [
         "Fighting"
@@ -8468,7 +10257,10 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer"
+      ]
     },
     {
       "Titles": [
@@ -8482,15 +10274,21 @@
         ],
         "TGDB": [
           "4928"
+        ],
+        "RAWG": [
+          "55193"
         ]
       },
-      "OverviewId": 31,
+      "OverviewId": 56,
       "Size": 4194304,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
-      "Developers": [],
-      "ReleaseDate": "1/1/1995",
+      "Developers": [
+        "SEGA"
+      ],
+      "ReleaseDate": "10/21/1993",
       "ESRB": "T",
       "Genres": [
         "Fighting"
@@ -8502,7 +10300,9 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -8520,16 +10320,22 @@
         ],
         "TGDB": [
           "4928"
+        ],
+        "RAWG": [
+          "55193"
         ]
       },
-      "OverviewId": 31,
+      "OverviewId": 56,
       "Size": 4194304,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
-      "Developers": [],
+      "Developers": [
+        "SEGA"
+      ],
       "CloneOf": "vf",
-      "ReleaseDate": "1/1/1995",
+      "ReleaseDate": "10/21/1993",
       "ESRB": "T",
       "Genres": [
         "Fighting"
@@ -8538,7 +10344,9 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -8556,16 +10364,22 @@
         ],
         "TGDB": [
           "4928"
+        ],
+        "RAWG": [
+          "55193"
         ]
       },
-      "OverviewId": 31,
+      "OverviewId": 56,
       "Size": 4194304,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
-      "Developers": [],
+      "Developers": [
+        "SEGA"
+      ],
       "CloneOf": "vf",
-      "ReleaseDate": "1/1/1995",
+      "ReleaseDate": "10/21/1993",
       "ESRB": "T",
       "Genres": [
         "Fighting"
@@ -8574,7 +10388,9 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -8592,16 +10408,22 @@
         ],
         "TGDB": [
           "4928"
+        ],
+        "RAWG": [
+          "55193"
         ]
       },
-      "OverviewId": 31,
+      "OverviewId": 55,
       "Size": 4194304,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
-      "Developers": [],
+      "Developers": [
+        "SEGA"
+      ],
       "CloneOf": "vf",
-      "ReleaseDate": "1/1/1995",
+      "ReleaseDate": "10/21/1993",
       "ESRB": "T",
       "Genres": [
         "Fighting"
@@ -8610,7 +10432,9 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -8628,16 +10452,22 @@
         ],
         "TGDB": [
           "4928"
+        ],
+        "RAWG": [
+          "55193"
         ]
       },
-      "OverviewId": 31,
+      "OverviewId": 56,
       "Size": 4194304,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
-      "Developers": [],
+      "Developers": [
+        "SEGA"
+      ],
       "CloneOf": "vf",
-      "ReleaseDate": "1/1/1995",
+      "ReleaseDate": "10/21/1993",
       "ESRB": "T",
       "Genres": [
         "Fighting"
@@ -8646,7 +10476,9 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -8664,16 +10496,22 @@
         ],
         "TGDB": [
           "4928"
+        ],
+        "RAWG": [
+          "55193"
         ]
       },
-      "OverviewId": 31,
+      "OverviewId": 56,
       "Size": 4194304,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
-      "Developers": [],
+      "Developers": [
+        "SEGA"
+      ],
       "CloneOf": "vf",
-      "ReleaseDate": "1/1/1995",
+      "ReleaseDate": "10/21/1993",
       "ESRB": "T",
       "Genres": [
         "Fighting"
@@ -8682,7 +10520,9 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -8700,16 +10540,22 @@
         ],
         "TGDB": [
           "4928"
+        ],
+        "RAWG": [
+          "55193"
         ]
       },
-      "OverviewId": 31,
+      "OverviewId": 56,
       "Size": 4194304,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
-      "Developers": [],
+      "Developers": [
+        "SEGA"
+      ],
       "CloneOf": "vf",
-      "ReleaseDate": "1/1/1995",
+      "ReleaseDate": "10/21/1993",
       "ESRB": "T",
       "Genres": [
         "Fighting"
@@ -8718,7 +10564,9 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -8736,16 +10584,22 @@
         ],
         "TGDB": [
           "4928"
+        ],
+        "RAWG": [
+          "55193"
         ]
       },
-      "OverviewId": 31,
+      "OverviewId": 56,
       "Size": 4194304,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
-      "Developers": [],
+      "Developers": [
+        "SEGA"
+      ],
       "CloneOf": "vf",
-      "ReleaseDate": "1/1/1995",
+      "ReleaseDate": "10/21/1993",
       "ESRB": "T",
       "Genres": [
         "Fighting"
@@ -8754,7 +10608,9 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -9023,18 +10879,23 @@
         ],
         "TGDB": [
           "9083"
+        ],
+        "RAWG": [
+          "55197"
         ]
       },
-      "OverviewId": 18,
+      "OverviewId": 45,
       "Size": 2097152,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "CSK Research Institute Corp."
+        "CSK Research Institute Corp.",
+        "SEGA"
       ],
       "CloneOf": "zaxxon2k",
-      "ReleaseDate": "1/1/1995",
+      "ReleaseDate": "7/14/1995",
       "ESRB": "E",
       "Genres": [
         "Shooter"
@@ -9047,7 +10908,11 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Multiplayer",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -9067,18 +10932,23 @@
         ],
         "TGDB": [
           "9083"
+        ],
+        "RAWG": [
+          "55197"
         ]
       },
-      "OverviewId": 18,
+      "OverviewId": 45,
       "Size": 2097152,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "CSK Research Institute Corp."
+        "CSK Research Institute Corp.",
+        "SEGA"
       ],
       "CloneOf": "zaxxon2k",
-      "ReleaseDate": "1/1/1995",
+      "ReleaseDate": "7/14/1995",
       "ESRB": "E",
       "Genres": [
         "Shooter"
@@ -9091,7 +10961,11 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Multiplayer",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -9111,18 +10985,23 @@
         ],
         "TGDB": [
           "9083"
+        ],
+        "RAWG": [
+          "55197"
         ]
       },
-      "OverviewId": 18,
+      "OverviewId": 45,
       "Size": 2097152,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "CSK Research Institute Corp."
+        "CSK Research Institute Corp.",
+        "SEGA"
       ],
       "CloneOf": "zaxxon2k",
-      "ReleaseDate": "1/1/1995",
+      "ReleaseDate": "7/14/1995",
       "ESRB": "E",
       "Genres": [
         "Shooter"
@@ -9135,7 +11014,11 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Multiplayer",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -9155,18 +11038,23 @@
         ],
         "TGDB": [
           "9083"
+        ],
+        "RAWG": [
+          "55197"
         ]
       },
-      "OverviewId": 18,
+      "OverviewId": 45,
       "Size": 2097152,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "CSK Research Institute Corp."
+        "CSK Research Institute Corp.",
+        "SEGA"
       ],
       "CloneOf": "zaxxon2k",
-      "ReleaseDate": "1/1/1995",
+      "ReleaseDate": "7/14/1995",
       "ESRB": "E",
       "Genres": [
         "Shooter"
@@ -9179,7 +11067,11 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Multiplayer",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -9199,18 +11091,23 @@
         ],
         "TGDB": [
           "9083"
+        ],
+        "RAWG": [
+          "55197"
         ]
       },
-      "OverviewId": 18,
+      "OverviewId": 45,
       "Size": 2097152,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "CSK Research Institute Corp."
+        "CSK Research Institute Corp.",
+        "SEGA"
       ],
       "CloneOf": "zaxxon2k",
-      "ReleaseDate": "1/1/1995",
+      "ReleaseDate": "7/14/1995",
       "ESRB": "E",
       "Genres": [
         "Shooter"
@@ -9223,7 +11120,11 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Multiplayer",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -9243,18 +11144,23 @@
         ],
         "TGDB": [
           "9083"
+        ],
+        "RAWG": [
+          "55197"
         ]
       },
-      "OverviewId": 18,
+      "OverviewId": 45,
       "Size": 2097152,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "CSK Research Institute Corp."
+        "CSK Research Institute Corp.",
+        "SEGA"
       ],
       "CloneOf": "zaxxon2k",
-      "ReleaseDate": "1/1/1995",
+      "ReleaseDate": "7/14/1995",
       "ESRB": "E",
       "Genres": [
         "Shooter"
@@ -9267,7 +11173,11 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Multiplayer",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -9287,18 +11197,23 @@
         ],
         "TGDB": [
           "9083"
+        ],
+        "RAWG": [
+          "55197"
         ]
       },
-      "OverviewId": 18,
+      "OverviewId": 45,
       "Size": 2097152,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "CSK Research Institute Corp."
+        "CSK Research Institute Corp.",
+        "SEGA"
       ],
       "CloneOf": "zaxxon2k",
-      "ReleaseDate": "1/1/1995",
+      "ReleaseDate": "7/14/1995",
       "ESRB": "E",
       "Genres": [
         "Shooter"
@@ -9311,7 +11226,11 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Multiplayer",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -9331,18 +11250,23 @@
         ],
         "TGDB": [
           "9083"
+        ],
+        "RAWG": [
+          "55197"
         ]
       },
-      "OverviewId": 18,
+      "OverviewId": 45,
       "Size": 2097152,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "CSK Research Institute Corp."
+        "CSK Research Institute Corp.",
+        "SEGA"
       ],
       "CloneOf": "zaxxon2k",
-      "ReleaseDate": "1/1/1995",
+      "ReleaseDate": "7/14/1995",
       "ESRB": "E",
       "Genres": [
         "Shooter"
@@ -9355,7 +11279,11 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Multiplayer",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     },
     {
@@ -9375,18 +11303,23 @@
         ],
         "TGDB": [
           "9083"
+        ],
+        "RAWG": [
+          "55197"
         ]
       },
-      "OverviewId": 18,
+      "OverviewId": 45,
       "Size": 2097152,
       "Publishers": [
-        "Sega"
+        "Sega",
+        "SEGA"
       ],
       "Developers": [
-        "CSK Research Institute Corp."
+        "CSK Research Institute Corp.",
+        "SEGA"
       ],
       "CloneOf": "zaxxon2k",
-      "ReleaseDate": "1/1/1995",
+      "ReleaseDate": "7/14/1995",
       "ESRB": "E",
       "Genres": [
         "Shooter"
@@ -9399,7 +11332,11 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Multiplayer",
+        "Singleplayer",
+        "exclusive",
+        "true exclusive"
       ]
     }
   ],
@@ -9514,6 +11451,102 @@
     },
     "37": {
       "en": "X-Men is an unreleased game developed for the Sega 32X. It was set to be an exclusive title for the system, but was cancelled for unknown reasons. A working title appears to have been X-Men: Mind Games.\r\n\r\nA prototype was dumped by Ryo Suzuki of SegaSaturno.com in August 2009. Most emulators will not run the game, however it is compatible with the latest releases of Kega Fusion. This prototype is very incomplete, and though gives hints that X-Men characters Wolverine, Rogue and Iceman would be playable, you can only control Bishop. Magazine shots show that the game progressed far enough for Wolverine to be included as a playable character.\r\n\r\nIt has been suggested that the game eventually became the Sega Saturn/PlayStation/DOS game, The Incredible Hulk: The Pantheon Saga."
+    },
+    "38": {
+      "en": "Cosmic Carnage, known in Japan as Cyber Brawl (サイバーブロール), is a 1994 2-D fighting video game released for the Sega 32X, developed by Givro and published by Sega. It was one of the few original titles created for the add-on during its short lifespan. It hold similarities with and is considered by some a spiritual successor to Fighting Masters, also from this developer."
+    },
+    "39": {
+      "en": "Metal Head is a 3D first-person shooter mecha simulation video game developed and published by Sega, and released in 1995 for the Genesis/Mega Drive's 32X add-on, allowing for fully texture-mapped polygons."
+    },
+    "40": {
+      "en": "Blackthorne is an action-arcade game developed by Blizzard Entertainment, Inc., Mass Media, GBA and 32X. It came out on 01-01-1994. It was published by Interplay Productions. The game is rated as \"Recommended\" on RAWG. Blackthorne is available on PC, Game Boy Advance, Classic Macintosh and SEGA 32X. Matthew Findley and Ronald Millar Sr. produced the game. It was scored by Glenn Stafford. "
+    },
+    "41": {
+      "en": "Doom (typeset as DOOM in official documents) is a 1993 science fiction horror-themed first-person shooter (FPS) video game by id Software. It is considered one of the most significant and influential titles in video game history, for having helped to pioneer the now-ubiquitous first-person shooter. The original game was divided into three nine-level episodes and was distributed via shareware and mail order. The Ultimate Doom, an updated release of the original game featuring a fourth episode, was released in 1995 and sold at retail.\nIn Doom, players assume the role of an unnamed space marine, who became popularly known as &quot;Doomguy&quot;, fighting his way through hordes of invading demons from Hell. With one-third of the game (nine levels) distributed as shareware, Doom was played by an estimated 15–20 million people within two years of its release, popularizing both the business model of online distribution and the mode of gameplay, and spawning a gaming subculture. In addition to popularizing the first-person shooter genre, it pioneered immersive 3D graphics, networked multiplayer gaming, and support for customized additions and modifications via packaged files in a data archive known as &quot;WADs&quot;. As a sign of its effect on the industry, first-person shooter games from the genre&#39;s boom in the 1990s, helped in no small part by the game&#39;s release, became known simply as &quot;Doom clones&quot;. Its graphic violence, as well as satanic imagery, made Doom the subject of considerable controversy.\nThe Doom franchise was later continued with the follow-up Doom II: Hell on Earth (1994) and numerous expansion packs, including Master Levels for Doom II (1995), and Final Doom (1996). Originally released for MS-DOS, the games have been ported to numerous other platforms. Once the game&#39;s source code was released in 1997, it spawned even more adaptations, as fans further ported the code to countless devices. The series started to lose mainstream appeal as the technology of the Doom game engine was surpassed in the mid-1990s, although fans have continued making Wads, speedruns, and modifications to the original. The franchise again received popular attention in 2004 with the release of Doom 3, a retelling of the original game using id Tech 4, with an associated 2005 Doom motion picture. Another release, simply titled Doom and powered by id Tech 6, was released in 2016 and focused on returning to the fast paced action of the first two games."
+    },
+    "42": {
+      "en": "Golf Magazine Presents 36 Great Holes Starring Fred Couples is a golf video game for the Sega 32X. The game features Fred Couples on the cover and is sponsored by Golf Magazine. It was released in 1994 in the North America, Japan, and Europe regions.\nThe game uses 12 male and 12 female players, and is set at 27 golfcourses around the USA."
+    },
+    "43": {
+      "en": "Shadow Squadron is a video game published in 1995 for the Sega 32X, known in Japan and Europe as Stellar Assault."
+    },
+    "44": {
+      "en": "\n      Pitfall: The Mayan Adventure is a side-scrolling action game in which \n      you play adventurer Pitfall Harry Jr. in search of his father, Pitfall \n      Harry. Pitfall Harry has been taken captive by the dreaded warrior \n      spirit Zakelua: Lord of Evil. Armed with only a trusty sling and his \n      father's journal, young Harry Jr. must now venture into the unknown to \n      rescue him...before it's too late! Bungee jump and boomerang your way to \n      safety as you battle through treacherous Mayan jungles, waterfalls, and \n      deserted mines. With 13 levels of fast, gripping action, you will need \n      to be attentive and quick—or prepare to die...\n    This classic game is part of the Virtual Console service, which brings you great games created for consoles such as NES™, Super NES™ and Game Boy™ Advance. See more Virtual Console games for Wii."
+    },
+    "45": {
+      "en": "Zaxxon's Motherbase 2000 (known simply as Motherbase in Europe and Parasquad in Japan) is a shoot 'em up released in 1995 for the Sega 32X. It is the only Zaxxon game to use polygon graphics, though it still uses an isometric perspective as seen in previous games in the series, and relies on 2D graphics for the backgrounds and scenery."
+    },
+    "46": {
+      "en": "Motocross Championship is an action game. You can play Motocross Championship on SEGA 32X. Jesse Taylor produced the game. "
+    },
+    "47": {
+      "en": "Space Harrier (Japanese: スペースハリアー, Hepburn: Supēsu Hariā) is an arcade video game developed and released by Sega Enterprises in December 1985. Originally conceived as a realistic military-themed game played in the third-person perspective and featuring a player-controlled fighter jet, technical and memory restrictions at the time resulted in Sega developer Yu Suzuki redesigning it to fit a fantasy setting centered around a jet-propelled human character. Critically praised for its innovative graphics and gameplay, Space Harrier is often ranked among Suzuki's best works and considered the first successful entry in the third-person and rail shooter game genres. It has made several crossover appearances in other Sega titles and inspired clone games by various developers, while PlatinumGames director Hideki Kamiya cited it as an inspiration for his entering the video game industry.\nSpace Harrier has been ported to over twenty different home computer and gaming platforms, either by Sega or outside developers such as Dempa in Japan and Elite Systems in North America and Europe. Two home-system sequels followed in Space Harrier 3-D and Space Harrier II (both released in 1988), and the arcade spinoff Planet Harriers (2000). A polygon-based remake of the original game was released by Sega for the PlayStation 2 as part of their Sega Ages series in 2003."
+    },
+    "48": {
+      "en": "Tempo (テンポ) is a video game for the Sega 32X released in 1995.\nThe animated backgrounds and imagery is similar to the Rayman games by Ubisoft. The game uses hand-drawn graphics for the backgrounds and sprites. In part because it was released on the failed 32X add-on, it failed to find an audience. Sega nonetheless tried again with two sequels: Tempo Jr. in 1995 for the Game Gear, and Super Tempo in 1998 for the Sega Saturn. Both likewise failed to find an audience."
+    },
+    "49": {
+      "en": "Kolibri is a shooting game created exclusively for the Sega 32X, the Sega Mega Drive/Genesis add-on console. It was designed by Ed Annunziata and developed by Novotrade (now known as Appaloosa). Kolibri is the word or root word for hummingbird in several European languages."
+    },
+    "50": {
+      "en": "Star Wars Arcade (also known as Star Wars) is a video game released in 1993 to arcades. A home port served as a launch title for the Sega 32X in 1994. It is set during the original Star Wars trilogy."
+    },
+    "51": {
+      "en": "Darxide (sometimes spelled DarXide, pronounced \"dark side\") is a shoot 'em up for the Sega 32X by Frontier Developments, released in 1995 only in Europe. It was also scheduled to be a launch title for the unreleased Sega Neptune.\nGameplay is similar to that of Asteroids, only in 3D. Players must destroy a number of space rocks (and on some occasions flying saucers) in order to complete each level.\nOne of the last games released for the 32X, Darxide is one of the few games on the 32X that uses texture mapping.\nIt was followed in 2004 by Darxide EMP, an expanded version released for Pocket PCs and Nokia mobile phones."
+    },
+    "52": {
+      "en": "BC Racers is a racing video game released by Core Design in 1994 for the Sega CD, in 1995 for the Sega 32X and the 3DO, and for the PC as freeware in 1995. It was the third game released in the Chuck Rock series (even though the Chuck Rock connection isn't as prominent in this game). The game was designed by Toby Gard, who later created Lara Croft."
+    },
+    "53": {
+      "en": "Mortal Kombat 2 is an arcade-fighting game developed by Sculptured Software, Midway Games and Probe Entertainment. It came out on 25-06-1993. It was published by Acclaim Entertainment. The game is rated as \"Recommended\" on RAWG. You can play Mortal Kombat 2 on PC, Commodore / Amiga, SEGA Master System and SEGA Saturn. Ken Fedesna and Neil Nicastro produced the game. It was scored by Allister Brimble and Dan Forden. "
+    },
+    "54": {
+      "en": "RBI Baseball '95 is an action game. You can play RBI Baseball '95 on SEGA 32X. \n\n"
+    },
+    "55": {
+      "en": "Virtua Fighter (Japanese: バーチャファイター, Hepburn: Bācha Faitā) is a fighting game created for the Sega Model 1 arcade platform by AM2, a development group within Sega, headed by Yu Suzuki. It was released in October 1993. It is the first game in the Virtua Fighter series, and the first arcade fighting game to feature fully 3D polygon graphics. The game has been ported to several platforms including the Sega Saturn, Sega 32X, and Microsoft Windows. A critically acclaimed and hit game, Virtua Fighter was highly regarded for its in-depth fighting engine and real world fighting techniques, and has been revolutionary and highly influential in the evolution of the genre and video games in general.\nAn update titled Virtua Fighter Remix, developed by AM1, was released for the Saturn in 1995, and ported to the arcade later that same year. The game&#39;s remake, Virtua Fighter 10th Anniversary, was released exclusively for the PlayStation 2 in 2003 as a stand-alone title in Japan and as a bonus to Virtua Fighter 4: Evolution in North America."
+    },
+    "56": {
+      "en": "Virtua Fighter (Japanese: バーチャファイター, Hepburn: Bācha Faitā) is a fighting game created for the Sega Model 1 arcade platform by AM2, a development group within Sega, headed by Yu Suzuki. It was released in October 1993. It is the first game in the Virtua Fighter series, and the first arcade fighting game to feature fully 3D polygon graphics. The game has been ported to several platforms including the Sega Saturn, Sega 32X, and Microsoft Windows. A critically acclaimed and hit game, Virtua Fighter was highly regarded for its in-depth fighting engine and real world fighting techniques, and has been revolutionary and highly influential in the evolution of the genre and video games in general.\nAn update titled Virtua Fighter Remix, developed by AM1, was released for the Saturn in 1995, and ported to the arcade later that same year. The game&#39;s remake, Virtua Fighter 10th Anniversary, was released exclusively for the PlayStation 2 in 2003 as a stand-alone title in Japan and as a bonus to Virtua Fighter 4: Evolution in North America."
+    },
+    "57": {
+      "en": "WWF RAW is a video game based on the television show of the same name produced by the World Wrestling Federation (WWF), released for the SNES, 32X, Mega Drive/Genesis, and Game Boy in late 1994 and early 1995 by Acclaim Entertainment. It is the sequel to the WWF Royal Rumble game that was released in 1993, and is the final part of LJN's 16-bit WWF trilogy. Players can play either One-on-One, Tag Team, Bedlam, Survivor Series, Royal Rumble, or a Raw Endurance Match. Unlike its predecessor, WWF RAW is multitap compatible.\nWWF RAW introduces differences between the characters in that they not only have their own signature moves, but differing move sets altogether (including new over-the-top \"mega moves\"). The game adds many moves not seen in the previous games, such as a DDT, a fallaway slam, and various types of suplexes. Additionally, wrestlers differ in attributes of speed, strength, stamina, and weight.\nThe game itself is arcade-like and involves a \"tug-of-war\" system in which, when the wrestlers lock-up, a meter appears above them and players must repeatedly press buttons to pull the energy away from the opponent's side to theirs. With more energy, they can perform moves with greater impact. Once an opponent's energy is low enough, a player can perform a wrestler's unique signature move."
+    },
+    "58": {
+      "en": "Romance of the Three Kingdoms IV: Wall of Fire (released as Sangokushi IV in Japan) is the fourth in the Romance of the Three Kingdoms series of turn-based strategy games produced by Koei and based on the historical novel Romance of the Three Kingdoms. Romance of the Three Kingdoms IV: Wall of Fire was the last game in the series to be released on the PC in the United States until Romance of the Three Kingdoms XI."
+    },
+    "59": {
+      "en": "After Burner (アフターバーナー, Afutā Bānā) is a 1987 combat flight simulator arcade game designed by Yu Suzuki for Sega AM2. The player flies an F-14 (with moving seat, in some installations) using a specialized joystick. The game spawned several sequels."
+    },
+    "60": {
+      "en": "Star Trek: Starfleet Academy - Starship Bridge Simulator is a video game for the Super Nintendo Entertainment System and Sega Genesis 32X systems that was released in 1994 by Interplay, the same group that produced many later Star Trek starship games."
+    },
+    "61": {
+      "en": "Primal Rage is an arcade-fighting game developed by Atari Games, Teeny Weeny Games and Probe Software. It was originally released in 1995. It was published by Atari. Most rawgers rated the game as \"Meh\". Primal Rage is available on PC, SEGA Saturn, SEGA 32X and Game Gear. \n\n"
+    },
+    "62": {
+      "en": "FIFA Soccer 96 (also known as FIFA 96: Virtual Soccer Stadium) is a video game developed by Extended Play Productions and released by Electronic Arts in 1995. It was released for the Mega Drive/Genesis, Sega Saturn, Sega 32X, Sega Game Gear, PlayStation, Super Nintendo Entertainment System and DOS systems.\nFIFA 96 is the third entry in the FIFA Series, its tagline being Next Generation Soccer. It was the first in the series to feature real-time 3D graphics on the Sega Saturn, PlayStation, 32X, and DOS versions, using technology called \"Virtual Stadium\". The SNES and Genesis editions used the FIFA '95 engine. It is also the first in the series to use real player names and positions, with ranking, transfer and team customisation tools."
+    },
+    "63": {
+      "en": "Knuckles' Chaotix is a 1995 side-scrolling platform game developed and published by Sega for the 32X. A spin-off of the Sonic the Hedgehog series, the game features Knuckles the Echidna and four other characters known as the Chaotix. The story follows the team in their efforts to prevent Doctor Robotnik and Metal Sonic from obtaining six magic rings and conquering a mysterious island. Gameplay is similar to earlier Sonic games: players complete levels while collecting rings and defeating enemies. Knuckles' Chaotix introduces a partner system whereby the player is connected to another character via a tether. This tether behaves like a rubber band and must be handled appropriately to maneuver the characters through the stages.\nUnlike many other Sonic games, Knuckles' Chaotix was not developed by Sonic Team, but another internal development team at Sega. Development can be traced back to Sonic Crackers, a 1994 prototype for the Sega Genesis which experimented with the tethering mechanics and featured Sonic and Tails. The concept was retained when development transitioned to the 32X under the working title Knuckles' Ringstar. Sonic and Tails were removed from the game and replaced by Knuckles and four other characters, including Mighty the Armadillo, who first appeared in the arcade game SegaSonic the Hedgehog (1993).\nCritical reception to Knuckles' Chaotix has been mixed. Critics found the tethering physics cumbersome, although some appreciated it as an attempt by Sega to innovate in the series. It is seen as the last in the \"classic\" 2D style of Sonic games before the series moved to 3D. Some characters and concepts introduced in the game were featured in later Sonic games and media. Despite interest from fans, it has not been re-released beyond a brief period through GameTap in the mid-2000s."
+    },
+    "64": {
+      "en": "World Series Baseball starring Deion Sanders is a baseball video game for the Sega 32X. North American releases feature Deion Sanders, and Japanese releases feature Hideo Nomo. 野茂 英雄ワールドシリーズベースボール"
+    },
+    "65": {
+      "en": "T-MEK is a two-player, sit-down, virtual reality fighting arcade game developed by Atari Games and published by Time Warner Interactive in 1994. Each player can choose their MEK (a hovering tank with special weapons and abilities). One player can play against 6 AI players and the occasional boss, or two players can play against each other and 4 AI players. There is a special tournament mode where two players can go one on one. Up to three T-MEK cabinets can be linked for six-player competitions. T-MEK was later ported to MS-DOS and the Sega 32X; rather than linking multiple systems together, the home versions featured split-screen multiplayer for two players.\nT-MEK featured surround sound, which Time Warner Interactive advertised as \"CAGE Audio\". Each player's station had four speakers; two in front and two behind the player, and a subwoofer mounted directly below the seat. T-MEK has no background music soundtrack, which was a departure for \"deluxe\" arcade games in the coming-of-age era of digitally sampled audio, and instead relied upon the sound to help aid the player in finding enemies."
+    },
+    "66": {
+      "en": "Toughman Contest is a boxing video game for the Sega Genesis/Mega Drive and Sega 32X. The game is based on the Toughman Contest, an amateur boxing competition. The game was released in 1995 in North America and Europe. It features Eric \"Butterbean\" Esch as the cover character as well as the game's final boss. After defeating the final opponent, Butterbean emerges from the crowd to challenge the player."
+    },
+    "67": {
+      "en": "NFL Quarterback Club is an American football video game for multiple platforms that features quarterbacks from the NFL. It is the first game in Acclaim Entertainment's NFL Quarterback Club series.\nThe first game to use the name was a Game Boy title developed by Beam Software and released under Acclaim's LJN brand in 1993 that was a simulation of the NFL Quarterback Challenge. The following year, Acclaim and LJN released a new multiplatform title under the same name, adding options to play full team games under NFL rules, while retaining the Quarterback Challenge mode. The game was released for the Super NES, Genesis and Game Gear. A Game Boy version, called NFL Quarterback Club II and a 32X version were released in 1995. Both these versions omitted the Quarterback Challenge mode, a trend that would continue with NFL Quarterback Club 96."
+    },
+    "68": {
+      "en": "Spider-Man: Web of Fire is a video game released exclusively for the Sega 32X and based on the popular Marvel Comics character Spider-Man. It was the last game released for the 32X system in North America.\nThe player controls Spider-Man through six stages of side-scrolling levels as he goes up against the Neo-Nazi organization H.Y.D.R.A. and their hired hands the New Enforcers. Hydra has taken all of New York hostage as they have set up generators throughout the city which has caused a giant electrical grid to be placed over New York trapping its citizens. The New Enforcers are each guarding the generators to make sure Hydra&#39;s plans go uninterrupted. At the end of the levels Spider-Man must go up against each member of the New Enforcers while destroying each generator. The bosses are Dragon Man, The Eel, Thermite, Blitz, Tangle, and Super-Adaptoid. Vanisher also appears although he is not a boss. The player can also get assistance from fellow superhero Daredevil by collecting &quot;DD&quot; tokens.\nThe character graphics were rendered on Silicon Graphics workstations, using motion captured animation."
+    },
+    "69": {
+      "en": "WWF WrestleMania: The Arcade Game is an arcade-fighting game developed by Sculptured Software, Midway Games and Midway. It was originally released in 1995. It was published by Sculptured Software. The game is rated as \"Exceptional\" on RAWG. You can play WWF WrestleMania: The Arcade Game on PC, SEGA Saturn, PlayStation and SEGA 32X. \n\n"
     }
   }
 }

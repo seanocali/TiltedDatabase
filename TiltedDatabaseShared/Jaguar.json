@@ -1,6 +1,6 @@
 {
   "PlatformName": "Jaguar",
-  "LastUpdate": "5/25/2022 3:01:40 AM",
+  "LastUpdate": "5/26/2022 1:48:47 AM",
   "Games": [
     {
       "Titles": [
@@ -758,25 +758,34 @@
         ],
         "TGDB": [
           "3965"
+        ],
+        "RAWG": [
+          "22746"
         ]
       },
-      "OverviewId": 8,
+      "OverviewId": 57,
       "Size": 2097152,
       "Publishers": [
         "Virgin Interactive",
-        "Virgin Interactive Entertainment, Inc."
+        "Virgin Interactive Entertainment, Inc.",
+        "Codemasters",
+        "Virgin Interactive Entertainment"
       ],
       "Developers": [
         "Sensible Software"
       ],
-      "ReleaseDate": "1/1/1995",
-      "ESRB": "E",
+      "ReleaseDate": "11/28/1993",
+      "ESRB": "T",
       "Genres": [
         "Action",
-        "Strategy"
+        "Strategy",
+        "Arcade"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer"
       ]
     },
     {
@@ -1147,24 +1156,55 @@
         ],
         "TGDB": [
           "2878"
+        ],
+        "RAWG": [
+          "52884"
         ]
       },
-      "OverviewId": 13,
+      "OverviewId": 61,
       "Size": 4194304,
       "Publishers": [
         "Atari",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Bethesda Softworks",
+        "SEGA",
+        "Valve",
+        "Activision Blizzard",
+        "GT Interactive Software",
+        "Ocean Software",
+        "Williams Entertainment",
+        "WMS Industries",
+        "Imagineer",
+        "GT Interactive",
+        "'''Genesis'''",
+        "'''PlayStation",
+        "'''SNES (Europe)'''",
+        "SNES (North America)'''",
+        "'''Game Boy Advance",
+        "'''SNES (Japan)'''"
       ],
       "Developers": [
-        "id Software"
+        "id Software",
+        "Nerve Software"
       ],
-      "ReleaseDate": "1/1/1994",
+      "ReleaseDate": "12/10/1993",
       "ESRB": "M",
       "Genres": [
-        "Shooter"
+        "Shooter",
+        "Action"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Classic",
+        "First-Person",
+        "FPS",
+        "Gore",
+        "Multiplayer",
+        "Singleplayer",
+        "cooperative",
+        "violance"
       ]
     },
     {
@@ -1188,26 +1228,35 @@
         ],
         "TGDB": [
           "3966"
+        ],
+        "RAWG": [
+          "57341"
         ]
       },
-      "OverviewId": 14,
+      "OverviewId": 66,
       "Size": 2097152,
       "Publishers": [
         "Tradewest",
-        "Tradewest, Inc."
+        "Tradewest, Inc.",
+        "Williams Entertainment"
       ],
       "Developers": [
-        "Leland Interactive Media"
+        "Leland Interactive Media",
+        "Telegames"
       ],
-      "ReleaseDate": "4/1/1995",
+      "ReleaseDate": "7/10/1994",
       "ESRB": "T",
+      "Score": 3.1625,
       "Genres": [
         "Fighting"
       ],
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "Singleplayer",
+        "cooperative"
+      ]
     },
     {
       "Titles": [
@@ -1228,17 +1277,24 @@
         ],
         "TGDB": [
           "3967"
+        ],
+        "RAWG": [
+          "57007"
         ]
       },
-      "OverviewId": 15,
+      "OverviewId": 65,
       "Size": 2097152,
       "Publishers": [
         "Virgin Interactive",
         "Virgin Interactibe",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Atari",
+        "Acclaim Entertainment",
+        "Virgin Interactive Entertainment"
       ],
       "Developers": [
-        "Virgin Interactive Entertainment"
+        "Virgin Interactive Entertainment",
+        "Virgin Interactive"
       ],
       "ReleaseDate": "11/1/1994",
       "ESRB": "T",
@@ -1248,7 +1304,10 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer"
+      ]
     },
     {
       "Titles": [
@@ -1266,16 +1325,23 @@
         ],
         "TGDB": [
           "3967"
+        ],
+        "RAWG": [
+          "57007"
         ]
       },
-      "OverviewId": 15,
+      "OverviewId": 65,
       "Size": 2097152,
       "Publishers": [
         "Virgin Interactive",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Atari",
+        "Acclaim Entertainment",
+        "Virgin Interactive Entertainment"
       ],
       "Developers": [
-        "Virgin Interactive Entertainment"
+        "Virgin Interactive Entertainment",
+        "Virgin Interactive"
       ],
       "ReleaseDate": "11/1/1994",
       "ESRB": "T",
@@ -1286,7 +1352,9 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -1305,16 +1373,23 @@
         ],
         "TGDB": [
           "3967"
+        ],
+        "RAWG": [
+          "57007"
         ]
       },
-      "OverviewId": 15,
+      "OverviewId": 65,
       "Size": 2097152,
       "Publishers": [
         "Virgin Interactive",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Atari",
+        "Acclaim Entertainment",
+        "Virgin Interactive Entertainment"
       ],
       "Developers": [
-        "Virgin Interactive Entertainment"
+        "Virgin Interactive Entertainment",
+        "Virgin Interactive"
       ],
       "ReleaseDate": "11/1/1994",
       "ESRB": "T",
@@ -1325,7 +1400,9 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -1381,18 +1458,23 @@
         ],
         "TGDB": [
           "3992"
+        ],
+        "RAWG": [
+          "57060"
         ]
       },
-      "OverviewId": 17,
+      "OverviewId": 67,
       "Size": 2097152,
       "Publishers": [
         "Atari",
-        "U.S. Gold Ltd."
+        "U.S. Gold Ltd.",
+        "U.S. Gold"
       ],
       "Developers": [
-        "U.S. Gold Ltd."
+        "U.S. Gold Ltd.",
+        "U.S. Gold"
       ],
-      "ReleaseDate": "12/1/1995",
+      "ReleaseDate": "1/1/1995",
       "ESRB": "E",
       "Genres": [
         "Sports"
@@ -1403,6 +1485,10 @@
         "de",
         "es",
         "it"
+      ],
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -1553,25 +1639,39 @@
         ],
         "TGDB": [
           "2846"
+        ],
+        "RAWG": [
+          "30459"
         ]
       },
-      "OverviewId": 19,
+      "OverviewId": 73,
       "Size": 2097152,
       "Publishers": [
         "U.S. Gold",
-        "U.S. Gold Ltd."
+        "U.S. Gold Ltd.",
+        "Microïds",
+        "Sunsoft"
       ],
       "Developers": [
-        "Delphine Software International"
+        "Delphine Software International",
+        "Paul Cuisset",
+        "Tiertex",
+        "Chui (Dreamcast)"
       ],
-      "ReleaseDate": "7/1/1995",
+      "ReleaseDate": "1/1/1992",
       "ESRB": "E",
       "Genres": [
-        "Adventure"
+        "Adventure",
+        "Action",
+        "Arcade",
+        "Puzzle"
       ],
       "Languages": [
         "en",
         "fr"
+      ],
+      "Tags": [
+        "Singleplayer"
       ]
     },
     {
@@ -2257,7 +2357,8 @@
     },
     {
       "Titles": [
-        "Pinball Fantasies"
+        "Pinball Fantasies",
+        "Pinball Fantasies (1992)"
       ],
       "Sha1": "4733cf2ede2713467f2a80b052ab94edf6dfe534",
       "Crc32": "5cff14ab",
@@ -2273,21 +2374,32 @@
         ],
         "TGDB": [
           "3978"
+        ],
+        "RAWG": [
+          "55240"
         ]
       },
-      "OverviewId": 32,
+      "OverviewId": 70,
       "Size": 2097152,
       "Publishers": [
         "21st Century Entertainment",
         "21st Century Entertainment Ltd."
       ],
-      "ReleaseDate": "6/1/1995",
+      "Developers": [
+        "Digital Illusions",
+        "Electronic Arts DICE"
+      ],
+      "ReleaseDate": "1/1/1992",
       "ESRB": "E",
       "Genres": [
         "Strategy"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "1-8 players"
       ]
     },
     {
@@ -2309,21 +2421,33 @@
         ],
         "TGDB": [
           "3979"
+        ],
+        "RAWG": [
+          "25886"
         ]
       },
-      "OverviewId": 33,
+      "OverviewId": 63,
       "Size": 4194304,
       "Publishers": [
         "Atari",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Activision Blizzard",
+        "Gamebank Corp."
       ],
       "Developers": [
-        "Activision"
+        "Activision",
+        "Imagitec Design",
+        "Kinesoft",
+        "Kroyer Films",
+        "Redline Games",
+        "Soundelux"
       ],
-      "ReleaseDate": "10/1/1995",
+      "ReleaseDate": "1/1/1995",
       "ESRB": "T",
       "Genres": [
-        "Action"
+        "Action",
+        "Arcade",
+        "Platformer"
       ],
       "Regions": [
         "US",
@@ -2331,6 +2455,9 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer"
       ]
     },
     {
@@ -2453,7 +2580,8 @@
     },
     {
       "Titles": [
-        "Raiden"
+        "Raiden",
+        "Raiden (1991)"
       ],
       "Sha1": "9d2f894da3f25944c2f33e3a109ae8d0d951d329",
       "Crc32": "0509c85e",
@@ -2469,19 +2597,32 @@
         ],
         "TGDB": [
           "3980"
+        ],
+        "RAWG": [
+          "55598"
         ]
       },
-      "OverviewId": 35,
+      "OverviewId": 64,
       "Size": 2097152,
       "Publishers": [
         "Atari",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "DotEmu",
+        "HAMSTER Corporation",
+        "Fabtek",
+        "Arcade version:",
+        "Micronet co., Ltd.",
+        "PlayStation version:",
+        "Liang HWA Electronics",
+        "IBL Corporation",
+        "Seibu Kaihatsu"
       ],
       "Developers": [
-        "Imagitec Design Inc."
+        "Imagitec Design Inc.",
+        "Seibu Kaihatsu"
       ],
       "CloneOf": "raiden",
-      "ReleaseDate": "1/1/1994",
+      "ReleaseDate": "7/6/1991",
       "Genres": [
         "Action",
         "Shooter"
@@ -2489,11 +2630,17 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "Co-op",
+        "Multiplayer",
+        "Singleplayer",
+        "cooperative"
+      ]
     },
     {
       "Titles": [
-        "Raiden"
+        "Raiden",
+        "Raiden (1991)"
       ],
       "Sha1": "50ccf7043a702531a0e9ef86d629d5ede5255c13",
       "Crc32": "31812799",
@@ -2509,18 +2656,31 @@
         ],
         "TGDB": [
           "3980"
+        ],
+        "RAWG": [
+          "55598"
         ]
       },
-      "OverviewId": 35,
+      "OverviewId": 64,
       "Size": 2097152,
       "Publishers": [
         "Atari",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "DotEmu",
+        "HAMSTER Corporation",
+        "Fabtek",
+        "Arcade version:",
+        "Micronet co., Ltd.",
+        "PlayStation version:",
+        "Liang HWA Electronics",
+        "IBL Corporation",
+        "Seibu Kaihatsu"
       ],
       "Developers": [
-        "Imagitec Design Inc."
+        "Imagitec Design Inc.",
+        "Seibu Kaihatsu"
       ],
-      "ReleaseDate": "1/1/1994",
+      "ReleaseDate": "7/6/1991",
       "Genres": [
         "Action",
         "Shooter"
@@ -2528,7 +2688,12 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "Co-op",
+        "Multiplayer",
+        "Singleplayer",
+        "cooperative"
+      ]
     },
     {
       "Titles": [
@@ -2548,24 +2713,53 @@
         ],
         "TGDB": [
           "3982"
+        ],
+        "RAWG": [
+          "5463"
         ]
       },
-      "OverviewId": 36,
+      "OverviewId": 59,
       "Size": 4194304,
       "Publishers": [
         "Ubisoft",
-        "Ubisoft Entertainment"
+        "Ubisoft Entertainment",
+        "Gameloft",
+        "Nintendo",
+        "Feral Interactive"
       ],
       "Developers": [
-        "Ubisoft Entertainment"
+        "Ubisoft Entertainment",
+        "Sony Interactive Entertainment",
+        "Ubisoft",
+        "Ubisoft Bucharest",
+        "Ubisoft Milan",
+        "Ubisoft Montpellier",
+        "Ubisoft Paris",
+        "Ubisoft Sofia",
+        "Ubisoft Shanghai",
+        "Ubi Soft Entertainment",
+        "Ubisoft Casablanca"
       ],
-      "ReleaseDate": "9/8/1995",
-      "ESRB": "E",
+      "ReleaseDate": "1/1/1995",
+      "ESRB": "E10",
       "Genres": [
-        "Platform"
+        "Platform",
+        "Action",
+        "Adventure",
+        "Arcade"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Controller",
+        "Dark",
+        "Multiplayer",
+        "nature",
+        "character",
+        "explore",
+        "balance",
+        "memory"
       ]
     },
     {
@@ -2583,27 +2777,54 @@
         ],
         "TGDB": [
           "3982"
+        ],
+        "RAWG": [
+          "5463"
         ]
       },
-      "OverviewId": 36,
+      "OverviewId": 59,
       "Size": 2097152,
       "Publishers": [
         "Ubisoft",
-        "Ubisoft Entertainment"
+        "Ubisoft Entertainment",
+        "Gameloft",
+        "Nintendo",
+        "Feral Interactive"
       ],
       "Developers": [
-        "Ubisoft Entertainment"
+        "Ubisoft Entertainment",
+        "Sony Interactive Entertainment",
+        "Ubisoft",
+        "Ubisoft Bucharest",
+        "Ubisoft Milan",
+        "Ubisoft Montpellier",
+        "Ubisoft Paris",
+        "Ubisoft Sofia",
+        "Ubisoft Shanghai",
+        "Ubi Soft Entertainment",
+        "Ubisoft Casablanca"
       ],
-      "ReleaseDate": "9/8/1995",
-      "ESRB": "E",
+      "ReleaseDate": "1/1/1995",
+      "ESRB": "E10",
       "Genres": [
-        "Platform"
+        "Platform",
+        "Action",
+        "Adventure",
+        "Arcade"
       ],
       "Languages": [
         "en"
       ],
       "Tags": [
-        "proto"
+        "proto",
+        "Controller",
+        "Dark",
+        "Multiplayer",
+        "nature",
+        "character",
+        "explore",
+        "balance",
+        "memory"
       ]
     },
     {
@@ -2621,27 +2842,54 @@
         ],
         "TGDB": [
           "3982"
+        ],
+        "RAWG": [
+          "5463"
         ]
       },
-      "OverviewId": 36,
+      "OverviewId": 59,
       "Size": 2097152,
       "Publishers": [
         "Ubisoft",
-        "Ubisoft Entertainment"
+        "Ubisoft Entertainment",
+        "Gameloft",
+        "Nintendo",
+        "Feral Interactive"
       ],
       "Developers": [
-        "Ubisoft Entertainment"
+        "Ubisoft Entertainment",
+        "Sony Interactive Entertainment",
+        "Ubisoft",
+        "Ubisoft Bucharest",
+        "Ubisoft Milan",
+        "Ubisoft Montpellier",
+        "Ubisoft Paris",
+        "Ubisoft Sofia",
+        "Ubisoft Shanghai",
+        "Ubi Soft Entertainment",
+        "Ubisoft Casablanca"
       ],
-      "ReleaseDate": "9/8/1995",
-      "ESRB": "E",
+      "ReleaseDate": "1/1/1995",
+      "ESRB": "E10",
       "Genres": [
-        "Platform"
+        "Platform",
+        "Action",
+        "Adventure",
+        "Arcade"
       ],
       "Languages": [
         "en"
       ],
       "Tags": [
-        "proto"
+        "proto",
+        "Controller",
+        "Dark",
+        "Multiplayer",
+        "nature",
+        "character",
+        "explore",
+        "balance",
+        "memory"
       ]
     },
     {
@@ -2754,7 +3002,8 @@
     },
     {
       "Titles": [
-        "Soccer Kid"
+        "Soccer Kid",
+        "Soccer Kid (1993)"
       ],
       "Sha1": "a738a2df47f09c3bfdeddfc01b35f3e8b5c5d99c",
       "Crc32": "42a13ec5",
@@ -2770,18 +3019,30 @@
         ],
         "TGDB": [
           "20278"
+        ],
+        "RAWG": [
+          "53543"
         ]
       },
-      "OverviewId": 39,
+      "OverviewId": 62,
       "Size": 2097152,
       "Publishers": [
         "ReadySoft",
-        "Songbird Productions"
+        "Songbird Productions",
+        "Krisalis Software",
+        "Telegames",
+        "Ocean",
+        "Krisalis",
+        "Yanoman"
       ],
       "Developers": [
-        "ReadySoft Incorporated"
+        "ReadySoft Incorporated",
+        "Krisalis Software",
+        "ReadySoft",
+        "Telegames",
+        "Krisalis"
       ],
-      "ReleaseDate": "2/7/2000",
+      "ReleaseDate": "1/1/1993",
       "Genres": [
         "Platform"
       ],
@@ -2789,12 +3050,14 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Singleplayer"
       ]
     },
     {
       "Titles": [
-        "Soccer Kid"
+        "Soccer Kid",
+        "Soccer Kid (1993)"
       ],
       "Sha1": "b615fe0f229eee89abe4a6fce8e4ce63d2f92c6f",
       "Crc32": "732ffab6",
@@ -2810,23 +3073,39 @@
         ],
         "TGDB": [
           "20278"
+        ],
+        "RAWG": [
+          "53543"
         ]
       },
-      "OverviewId": 39,
+      "OverviewId": 62,
       "Size": 2097152,
       "Publishers": [
-        "Songbird Productions"
+        "Songbird Productions",
+        "Krisalis Software",
+        "ReadySoft",
+        "Telegames",
+        "Ocean",
+        "Krisalis",
+        "Yanoman"
       ],
       "Developers": [
-        "ReadySoft Incorporated"
+        "ReadySoft Incorporated",
+        "Krisalis Software",
+        "ReadySoft",
+        "Telegames",
+        "Krisalis"
       ],
       "CloneOf": "soccerkd",
-      "ReleaseDate": "2/7/2000",
+      "ReleaseDate": "1/1/1993",
       "Genres": [
         "Platform"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer"
       ]
     },
     {
@@ -3008,6 +3287,9 @@
         ],
         "TGDB": [
           "3986"
+        ],
+        "RAWG": [
+          "31951"
         ]
       },
       "OverviewId": 43,
@@ -3046,26 +3328,40 @@
         ],
         "TGDB": [
           "3987"
+        ],
+        "RAWG": [
+          "30059"
         ]
       },
-      "OverviewId": 44,
+      "OverviewId": 69,
       "Size": 2097152,
       "Publishers": [
         "Atari",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Interplay Productions"
       ],
       "Developers": [
-        "Llamasoft Ltd."
+        "Llamasoft Ltd.",
+        "High Voltage Software",
+        "Llamasoft",
+        "Imagitec Design",
+        "Atari Games",
+        "Atari Corporation",
+        "Jeff Minter"
       ],
       "ReleaseDate": "4/1/1994",
       "Genres": [
         "Action",
-        "Shooter"
+        "Shooter",
+        "Arcade"
       ],
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer"
+      ]
     },
     {
       "Titles": [
@@ -3141,26 +3437,41 @@
         ],
         "TGDB": [
           "14796"
+        ],
+        "RAWG": [
+          "22953"
         ]
       },
-      "OverviewId": 45,
+      "OverviewId": 71,
       "Size": 2097152,
       "Publishers": [
         "Ocean",
-        "Ocean Software Ltd."
+        "Ocean Software Ltd.",
+        "Electronic Arts",
+        "MINDSCAPE",
+        "Ocean Software",
+        "Domark",
+        "Bullfrog Productions"
       ],
       "Developers": [
         "Ocean Software Ltd.",
         "Ocean",
-        "Enigma Variations Ltd"
+        "Enigma Variations Ltd",
+        "Bullfrog Productions",
+        "Krisalis Software",
+        "Electronic Arts Japan"
       ],
-      "ReleaseDate": "3/1/1995",
+      "ReleaseDate": "1/1/1994",
       "Genres": [
         "Strategy",
-        "Life Simulation"
+        "Life Simulation",
+        "Simulation"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer"
       ]
     },
     {
@@ -3198,7 +3509,8 @@
     },
     {
       "Titles": [
-        "Total Carnage"
+        "Total Carnage",
+        "Total Carnage (1992)"
       ],
       "Sha1": "4566b33799a7c65b3e9643383d0282172ff619a5",
       "Crc32": "c654681b",
@@ -3214,28 +3526,38 @@
         ],
         "TGDB": [
           "20280"
+        ],
+        "RAWG": [
+          "55253"
         ]
       },
-      "OverviewId": 46,
+      "OverviewId": 68,
       "Size": 4194304,
       "Publishers": [
-        "Songbird Productions"
+        "Songbird Productions",
+        "THQ",
+        "Midway Games"
       ],
       "Developers": [
-        "Hand Made Software"
+        "Hand Made Software",
+        "Midway Games"
       ],
-      "ReleaseDate": "1/1/2005",
+      "ReleaseDate": "1/1/1992",
       "Genres": [
         "Shooter"
       ],
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "Singleplayer",
+        "two-player co-op"
+      ]
     },
     {
       "Titles": [
-        "Total Carnage"
+        "Total Carnage",
+        "Total Carnage (1992)"
       ],
       "Sha1": "1ef1b86abf725f32267bfa140dc049ce9ba92aea",
       "Crc32": "8f80edcf",
@@ -3248,18 +3570,24 @@
         ],
         "TGDB": [
           "20280"
+        ],
+        "RAWG": [
+          "55253"
         ]
       },
-      "OverviewId": 46,
+      "OverviewId": 68,
       "Size": 4194304,
       "Publishers": [
         "Midway",
-        "Songbird Productions"
+        "Songbird Productions",
+        "THQ",
+        "Midway Games"
       ],
       "Developers": [
-        "Hand Made Software"
+        "Hand Made Software",
+        "Midway Games"
       ],
-      "ReleaseDate": "1/1/1995",
+      "ReleaseDate": "1/1/1992",
       "Genres": [
         "Shooter"
       ],
@@ -3268,7 +3596,9 @@
       ],
       "Tags": [
         "beta",
-        "proto"
+        "proto",
+        "Singleplayer",
+        "two-player co-op"
       ]
     },
     {
@@ -3431,26 +3761,35 @@
         ],
         "TGDB": [
           "20282"
+        ],
+        "RAWG": [
+          "57230"
         ]
       },
-      "OverviewId": 48,
+      "OverviewId": 58,
       "Size": 2097152,
       "Publishers": [
         "Atari",
         "Williams Entertainment",
-        "Williams Electronic Games, Inc."
+        "Williams Electronic Games, Inc.",
+        "Tradewest"
       ],
       "Developers": [
-        "Telegames, Inc."
+        "Telegames, Inc.",
+        "Leland Interactive Media"
       ],
       "ReleaseDate": "2/1/1995",
       "Genres": [
-        "Sports"
+        "Sports",
+        "Simulation"
       ],
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer"
+      ]
     },
     {
       "Titles": [
@@ -3654,18 +3993,27 @@
         ],
         "TGDB": [
           "3990"
+        ],
+        "RAWG": [
+          "4005"
         ]
       },
-      "OverviewId": 51,
+      "OverviewId": 56,
       "Size": 2097152,
       "Publishers": [
         "Atari",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "3D Realms",
+        "Apogee Software",
+        "Bethesda Softworks",
+        "id Software",
+        "FormGen"
       ],
       "Developers": [
-        "id Software"
+        "id Software",
+        "Bethesda Softworks"
       ],
-      "ReleaseDate": "1/1/1994",
+      "ReleaseDate": "5/5/1992",
       "ESRB": "M",
       "Genres": [
         "Action",
@@ -3673,6 +4021,18 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "1990's",
+        "Steam Cloud",
+        "Classic",
+        "First-Person",
+        "FPS",
+        "Moddable",
+        "Pixel Graphics",
+        "Retro",
+        "Singleplayer",
+        "World War II"
       ]
     },
     {
@@ -3693,21 +4053,34 @@
         ],
         "TGDB": [
           "20276"
+        ],
+        "RAWG": [
+          "5383"
         ]
       },
-      "OverviewId": 52,
+      "OverviewId": 72,
       "Size": 2097152,
       "Publishers": [
         "Telegames",
-        "Telegames, Inc."
+        "Telegames, Inc.",
+        "Team17 Digital",
+        "Ocean Software",
+        "Microsoft Studios",
+        "Team17 Software Ltd",
+        "Team17 Software, Limited"
       ],
       "Developers": [
-        "Team17 Software Limited"
+        "Team17 Software Limited",
+        "Team17 Digital",
+        "Team 17 Software",
+        "Games from YovoGames !"
       ],
-      "ReleaseDate": "10/1/1998",
+      "ReleaseDate": "1/1/1995",
+      "ESRB": "T",
       "Genres": [
         "Action",
-        "Strategy"
+        "Strategy",
+        "Arcade"
       ],
       "Regions": [
         "US",
@@ -3716,7 +4089,15 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "2D",
+        "Classic",
+        "Multiplayer",
+        "Retro",
+        "Singleplayer",
+        "Turn-Based",
+        "Turn-Based Strategy"
+      ]
     },
     {
       "Titles": [
@@ -3823,26 +4204,38 @@
         ],
         "TGDB": [
           "2581"
+        ],
+        "RAWG": [
+          "31136"
         ]
       },
-      "OverviewId": 54,
+      "OverviewId": 60,
       "Size": 2097152,
       "Publishers": [
         "Atari",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Gremlin Interactive",
+        "Gremlin Graphics"
       ],
       "Developers": [
-        "Gremlin Interactive Ltd."
+        "Gremlin Interactive Ltd.",
+        "Gremlin Interactive",
+        "Gremlin Graphics",
+        "Warp Factory"
       ],
-      "ReleaseDate": "1/1/1994",
+      "ReleaseDate": "1/1/1993",
       "Genres": [
         "Action",
-        "Platform"
+        "Platform",
+        "Arcade"
       ],
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer"
+      ]
     },
     {
       "Titles": [
@@ -4519,33 +4912,61 @@
         ],
         "TGDB": [
           "3982"
+        ],
+        "RAWG": [
+          "5463"
         ]
       },
-      "OverviewId": 36,
+      "OverviewId": 59,
       "Size": 2097152,
       "Publishers": [
         "Ubisoft",
-        "Ubisoft Entertainment"
+        "Ubisoft Entertainment",
+        "Gameloft",
+        "Nintendo",
+        "Feral Interactive"
       ],
       "Developers": [
-        "Ubisoft Entertainment"
+        "Ubisoft Entertainment",
+        "Sony Interactive Entertainment",
+        "Ubisoft",
+        "Ubisoft Bucharest",
+        "Ubisoft Milan",
+        "Ubisoft Montpellier",
+        "Ubisoft Paris",
+        "Ubisoft Sofia",
+        "Ubisoft Shanghai",
+        "Ubi Soft Entertainment",
+        "Ubisoft Casablanca"
       ],
-      "ReleaseDate": "9/8/1995",
-      "ESRB": "E",
+      "ReleaseDate": "1/1/1995",
+      "ESRB": "E10",
       "Genres": [
-        "Platform"
+        "Platform",
+        "Action",
+        "Adventure",
+        "Arcade"
       ],
       "Languages": [
         "en"
       ],
       "Tags": [
-        "demo"
+        "demo",
+        "Controller",
+        "Dark",
+        "Multiplayer",
+        "nature",
+        "character",
+        "explore",
+        "balance",
+        "memory"
       ]
     },
     {
       "Titles": [
         "[BIOS] Soccer Kid",
-        "Soccer Kid"
+        "Soccer Kid",
+        "Soccer Kid (1993)"
       ],
       "Sha1": "59887e23f23b720a0676ef63a0ec0cf53df7e5dc",
       "Crc32": "41a551b0",
@@ -4558,18 +4979,31 @@
         ],
         "TGDB": [
           "20278"
+        ],
+        "RAWG": [
+          "53543"
         ]
       },
-      "OverviewId": 39,
+      "OverviewId": 62,
       "Size": 131072,
       "Publishers": [
-        "Songbird Productions"
+        "Songbird Productions",
+        "Krisalis Software",
+        "ReadySoft",
+        "Telegames",
+        "Ocean",
+        "Krisalis",
+        "Yanoman"
       ],
       "Developers": [
-        "ReadySoft Incorporated"
+        "ReadySoft Incorporated",
+        "Krisalis Software",
+        "ReadySoft",
+        "Telegames",
+        "Krisalis"
       ],
       "CloneOf": "soccerkd",
-      "ReleaseDate": "2/7/2000",
+      "ReleaseDate": "1/1/1993",
       "Genres": [
         "Platform"
       ],
@@ -4577,12 +5011,14 @@
         "en"
       ],
       "Tags": [
-        "BIOS"
+        "BIOS",
+        "Singleplayer"
       ]
     },
     {
       "Titles": [
-        "Soccer Kid"
+        "Soccer Kid",
+        "Soccer Kid (1993)"
       ],
       "Sha1": "9524fa2870865b8433bdba7684861b1ef9092c00",
       "Crc32": "9e265a6e",
@@ -4595,18 +5031,31 @@
         ],
         "TGDB": [
           "20278"
+        ],
+        "RAWG": [
+          "53543"
         ]
       },
-      "OverviewId": 39,
+      "OverviewId": 62,
       "Size": 2097152,
       "Publishers": [
-        "Songbird Productions"
+        "Songbird Productions",
+        "Krisalis Software",
+        "ReadySoft",
+        "Telegames",
+        "Ocean",
+        "Krisalis",
+        "Yanoman"
       ],
       "Developers": [
-        "ReadySoft Incorporated"
+        "ReadySoft Incorporated",
+        "Krisalis Software",
+        "ReadySoft",
+        "Telegames",
+        "Krisalis"
       ],
       "CloneOf": "soccerkd",
-      "ReleaseDate": "2/7/2000",
+      "ReleaseDate": "1/1/1993",
       "Genres": [
         "Platform"
       ],
@@ -4614,7 +5063,8 @@
         "en"
       ],
       "Tags": [
-        "Hacked"
+        "Hacked",
+        "Singleplayer"
       ]
     },
     {
@@ -5461,25 +5911,34 @@
         ],
         "TGDB": [
           "3965"
+        ],
+        "RAWG": [
+          "22746"
         ]
       },
-      "OverviewId": 8,
+      "OverviewId": 57,
       "Size": 2088960,
       "Publishers": [
         "Virgin Interactive",
-        "Virgin Interactive Entertainment, Inc."
+        "Virgin Interactive Entertainment, Inc.",
+        "Codemasters",
+        "Virgin Interactive Entertainment"
       ],
       "Developers": [
         "Sensible Software"
       ],
-      "ReleaseDate": "1/1/1995",
-      "ESRB": "E",
+      "ReleaseDate": "11/28/1993",
+      "ESRB": "T",
       "Genres": [
         "Action",
-        "Strategy"
+        "Strategy",
+        "Arcade"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer"
       ]
     },
     {
@@ -5798,24 +6257,55 @@
         ],
         "TGDB": [
           "2878"
+        ],
+        "RAWG": [
+          "52884"
         ]
       },
-      "OverviewId": 13,
+      "OverviewId": 61,
       "Size": 4186112,
       "Publishers": [
         "Atari",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Bethesda Softworks",
+        "SEGA",
+        "Valve",
+        "Activision Blizzard",
+        "GT Interactive Software",
+        "Ocean Software",
+        "Williams Entertainment",
+        "WMS Industries",
+        "Imagineer",
+        "GT Interactive",
+        "'''Genesis'''",
+        "'''PlayStation",
+        "'''SNES (Europe)'''",
+        "SNES (North America)'''",
+        "'''Game Boy Advance",
+        "'''SNES (Japan)'''"
       ],
       "Developers": [
-        "id Software"
+        "id Software",
+        "Nerve Software"
       ],
-      "ReleaseDate": "1/1/1994",
+      "ReleaseDate": "12/10/1993",
       "ESRB": "M",
       "Genres": [
-        "Shooter"
+        "Shooter",
+        "Action"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Classic",
+        "First-Person",
+        "FPS",
+        "Gore",
+        "Multiplayer",
+        "Singleplayer",
+        "cooperative",
+        "violance"
       ]
     },
     {
@@ -5831,18 +6321,23 @@
         ],
         "TGDB": [
           "3966"
+        ],
+        "RAWG": [
+          "57341"
         ]
       },
-      "OverviewId": 14,
+      "OverviewId": 66,
       "Size": 2088960,
       "Publishers": [
         "Tradewest",
-        "Tradewest, Inc."
+        "Tradewest, Inc.",
+        "Williams Entertainment"
       ],
       "Developers": [
-        "Leland Interactive Media"
+        "Leland Interactive Media",
+        "Telegames"
       ],
-      "ReleaseDate": "4/1/1995",
+      "ReleaseDate": "7/10/1994",
       "ESRB": "T",
       "Genres": [
         "Fighting"
@@ -5850,7 +6345,10 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "Singleplayer",
+        "cooperative"
+      ]
     },
     {
       "Titles": [
@@ -5865,16 +6363,23 @@
         ],
         "TGDB": [
           "3967"
+        ],
+        "RAWG": [
+          "57007"
         ]
       },
-      "OverviewId": 15,
+      "OverviewId": 65,
       "Size": 2088960,
       "Publishers": [
         "Virgin Interactive",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Atari",
+        "Acclaim Entertainment",
+        "Virgin Interactive Entertainment"
       ],
       "Developers": [
-        "Virgin Interactive Entertainment"
+        "Virgin Interactive Entertainment",
+        "Virgin Interactive"
       ],
       "ReleaseDate": "11/1/1994",
       "ESRB": "T",
@@ -5884,7 +6389,10 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer"
+      ]
     },
     {
       "Titles": [
@@ -5899,16 +6407,23 @@
         ],
         "TGDB": [
           "3967"
+        ],
+        "RAWG": [
+          "57007"
         ]
       },
-      "OverviewId": 15,
+      "OverviewId": 65,
       "Size": 2088960,
       "Publishers": [
         "Virgin Interactive",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Atari",
+        "Acclaim Entertainment",
+        "Virgin Interactive Entertainment"
       ],
       "Developers": [
-        "Virgin Interactive Entertainment"
+        "Virgin Interactive Entertainment",
+        "Virgin Interactive"
       ],
       "ReleaseDate": "11/1/1994",
       "ESRB": "T",
@@ -5919,7 +6434,9 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -5935,16 +6452,23 @@
         ],
         "TGDB": [
           "3967"
+        ],
+        "RAWG": [
+          "57007"
         ]
       },
-      "OverviewId": 15,
+      "OverviewId": 65,
       "Size": 2088960,
       "Publishers": [
         "Virgin Interactive",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Atari",
+        "Acclaim Entertainment",
+        "Virgin Interactive Entertainment"
       ],
       "Developers": [
-        "Virgin Interactive Entertainment"
+        "Virgin Interactive Entertainment",
+        "Virgin Interactive"
       ],
       "ReleaseDate": "11/1/1994",
       "ESRB": "T",
@@ -5955,7 +6479,9 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -5999,24 +6525,33 @@
         ],
         "TGDB": [
           "3992"
+        ],
+        "RAWG": [
+          "57060"
         ]
       },
-      "OverviewId": 17,
+      "OverviewId": 67,
       "Size": 2088960,
       "Publishers": [
         "Atari",
-        "U.S. Gold Ltd."
+        "U.S. Gold Ltd.",
+        "U.S. Gold"
       ],
       "Developers": [
-        "U.S. Gold Ltd."
+        "U.S. Gold Ltd.",
+        "U.S. Gold"
       ],
-      "ReleaseDate": "12/1/1995",
+      "ReleaseDate": "1/1/1995",
       "ESRB": "E",
       "Genres": [
         "Sports"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -6135,25 +6670,39 @@
         ],
         "TGDB": [
           "2846"
+        ],
+        "RAWG": [
+          "30459"
         ]
       },
-      "OverviewId": 19,
+      "OverviewId": 73,
       "Size": 2088960,
       "Publishers": [
         "U.S. Gold",
-        "U.S. Gold Ltd."
+        "U.S. Gold Ltd.",
+        "Microïds",
+        "Sunsoft"
       ],
       "Developers": [
-        "Delphine Software International"
+        "Delphine Software International",
+        "Paul Cuisset",
+        "Tiertex",
+        "Chui (Dreamcast)"
       ],
-      "ReleaseDate": "7/1/1995",
+      "ReleaseDate": "1/1/1992",
       "ESRB": "E",
       "Genres": [
-        "Adventure"
+        "Adventure",
+        "Action",
+        "Arcade",
+        "Puzzle"
       ],
       "Languages": [
         "en",
         "fr"
+      ],
+      "Tags": [
+        "Singleplayer"
       ]
     },
     {
@@ -6684,7 +7233,8 @@
     },
     {
       "Titles": [
-        "Pinball Fantasies"
+        "Pinball Fantasies",
+        "Pinball Fantasies (1992)"
       ],
       "Sha1": "c73995d4189e212180480621afcb1a073aa0cb1b",
       "Crc32": "4a9fb36b",
@@ -6694,21 +7244,32 @@
         ],
         "TGDB": [
           "3978"
+        ],
+        "RAWG": [
+          "55240"
         ]
       },
-      "OverviewId": 32,
+      "OverviewId": 70,
       "Size": 2088960,
       "Publishers": [
         "21st Century Entertainment",
         "21st Century Entertainment Ltd."
       ],
-      "ReleaseDate": "6/1/1995",
+      "Developers": [
+        "Digital Illusions",
+        "Electronic Arts DICE"
+      ],
+      "ReleaseDate": "1/1/1992",
       "ESRB": "E",
       "Genres": [
         "Strategy"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "1-8 players"
       ]
     },
     {
@@ -6724,24 +7285,39 @@
         ],
         "TGDB": [
           "3979"
+        ],
+        "RAWG": [
+          "25886"
         ]
       },
-      "OverviewId": 33,
+      "OverviewId": 63,
       "Size": 4186112,
       "Publishers": [
         "Atari",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Activision Blizzard",
+        "Gamebank Corp."
       ],
       "Developers": [
-        "Activision"
+        "Activision",
+        "Imagitec Design",
+        "Kinesoft",
+        "Kroyer Films",
+        "Redline Games",
+        "Soundelux"
       ],
-      "ReleaseDate": "10/1/1995",
+      "ReleaseDate": "1/1/1995",
       "ESRB": "T",
       "Genres": [
-        "Action"
+        "Action",
+        "Arcade",
+        "Platformer"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer"
       ]
     },
     {
@@ -6840,7 +7416,8 @@
     },
     {
       "Titles": [
-        "Raiden"
+        "Raiden",
+        "Raiden (1991)"
       ],
       "Sha1": "ca3919eac9377c0692f1a718920cf767ce424dff",
       "Crc32": "62049d39",
@@ -6850,18 +7427,31 @@
         ],
         "TGDB": [
           "3980"
+        ],
+        "RAWG": [
+          "55598"
         ]
       },
-      "OverviewId": 35,
+      "OverviewId": 64,
       "Size": 2088960,
       "Publishers": [
         "Atari",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "DotEmu",
+        "HAMSTER Corporation",
+        "Fabtek",
+        "Arcade version:",
+        "Micronet co., Ltd.",
+        "PlayStation version:",
+        "Liang HWA Electronics",
+        "IBL Corporation",
+        "Seibu Kaihatsu"
       ],
       "Developers": [
-        "Imagitec Design Inc."
+        "Imagitec Design Inc.",
+        "Seibu Kaihatsu"
       ],
-      "ReleaseDate": "1/1/1994",
+      "ReleaseDate": "7/6/1991",
       "Genres": [
         "Action",
         "Shooter"
@@ -6869,11 +7459,17 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "Co-op",
+        "Multiplayer",
+        "Singleplayer",
+        "cooperative"
+      ]
     },
     {
       "Titles": [
-        "Raiden"
+        "Raiden",
+        "Raiden (1991)"
       ],
       "Sha1": "0cfbdf73a145e7f38526569a1b27fcde3c42a829",
       "Crc32": "2667f38d",
@@ -6883,18 +7479,31 @@
         ],
         "TGDB": [
           "3980"
+        ],
+        "RAWG": [
+          "55598"
         ]
       },
-      "OverviewId": 35,
+      "OverviewId": 64,
       "Size": 2088960,
       "Publishers": [
         "Atari",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "DotEmu",
+        "HAMSTER Corporation",
+        "Fabtek",
+        "Arcade version:",
+        "Micronet co., Ltd.",
+        "PlayStation version:",
+        "Liang HWA Electronics",
+        "IBL Corporation",
+        "Seibu Kaihatsu"
       ],
       "Developers": [
-        "Imagitec Design Inc."
+        "Imagitec Design Inc.",
+        "Seibu Kaihatsu"
       ],
-      "ReleaseDate": "1/1/1994",
+      "ReleaseDate": "7/6/1991",
       "Genres": [
         "Action",
         "Shooter"
@@ -6902,7 +7511,12 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "Co-op",
+        "Multiplayer",
+        "Singleplayer",
+        "cooperative"
+      ]
     },
     {
       "Titles": [
@@ -6916,27 +7530,54 @@
         ],
         "TGDB": [
           "3982"
+        ],
+        "RAWG": [
+          "5463"
         ]
       },
-      "OverviewId": 36,
+      "OverviewId": 59,
       "Size": 2088960,
       "Publishers": [
         "Ubisoft",
-        "Ubisoft Entertainment"
+        "Ubisoft Entertainment",
+        "Gameloft",
+        "Nintendo",
+        "Feral Interactive"
       ],
       "Developers": [
-        "Ubisoft Entertainment"
+        "Ubisoft Entertainment",
+        "Sony Interactive Entertainment",
+        "Ubisoft",
+        "Ubisoft Bucharest",
+        "Ubisoft Milan",
+        "Ubisoft Montpellier",
+        "Ubisoft Paris",
+        "Ubisoft Sofia",
+        "Ubisoft Shanghai",
+        "Ubi Soft Entertainment",
+        "Ubisoft Casablanca"
       ],
-      "ReleaseDate": "9/8/1995",
-      "ESRB": "E",
+      "ReleaseDate": "1/1/1995",
+      "ESRB": "E10",
       "Genres": [
-        "Platform"
+        "Platform",
+        "Action",
+        "Adventure",
+        "Arcade"
       ],
       "Languages": [
         "en"
       ],
       "Tags": [
-        "proto"
+        "proto",
+        "Controller",
+        "Dark",
+        "Multiplayer",
+        "nature",
+        "character",
+        "explore",
+        "balance",
+        "memory"
       ]
     },
     {
@@ -6951,24 +7592,53 @@
         ],
         "TGDB": [
           "3982"
+        ],
+        "RAWG": [
+          "5463"
         ]
       },
-      "OverviewId": 36,
+      "OverviewId": 59,
       "Size": 4186112,
       "Publishers": [
         "Ubisoft",
-        "Ubisoft Entertainment"
+        "Ubisoft Entertainment",
+        "Gameloft",
+        "Nintendo",
+        "Feral Interactive"
       ],
       "Developers": [
-        "Ubisoft Entertainment"
+        "Ubisoft Entertainment",
+        "Sony Interactive Entertainment",
+        "Ubisoft",
+        "Ubisoft Bucharest",
+        "Ubisoft Milan",
+        "Ubisoft Montpellier",
+        "Ubisoft Paris",
+        "Ubisoft Sofia",
+        "Ubisoft Shanghai",
+        "Ubi Soft Entertainment",
+        "Ubisoft Casablanca"
       ],
-      "ReleaseDate": "9/8/1995",
-      "ESRB": "E",
+      "ReleaseDate": "1/1/1995",
+      "ESRB": "E10",
       "Genres": [
-        "Platform"
+        "Platform",
+        "Action",
+        "Adventure",
+        "Arcade"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Controller",
+        "Dark",
+        "Multiplayer",
+        "nature",
+        "character",
+        "explore",
+        "balance",
+        "memory"
       ]
     },
     {
@@ -6983,27 +7653,54 @@
         ],
         "TGDB": [
           "3982"
+        ],
+        "RAWG": [
+          "5463"
         ]
       },
-      "OverviewId": 36,
+      "OverviewId": 59,
       "Size": 2088960,
       "Publishers": [
         "Ubisoft",
-        "Ubisoft Entertainment"
+        "Ubisoft Entertainment",
+        "Gameloft",
+        "Nintendo",
+        "Feral Interactive"
       ],
       "Developers": [
-        "Ubisoft Entertainment"
+        "Ubisoft Entertainment",
+        "Sony Interactive Entertainment",
+        "Ubisoft",
+        "Ubisoft Bucharest",
+        "Ubisoft Milan",
+        "Ubisoft Montpellier",
+        "Ubisoft Paris",
+        "Ubisoft Sofia",
+        "Ubisoft Shanghai",
+        "Ubi Soft Entertainment",
+        "Ubisoft Casablanca"
       ],
-      "ReleaseDate": "9/8/1995",
-      "ESRB": "E",
+      "ReleaseDate": "1/1/1995",
+      "ESRB": "E10",
       "Genres": [
-        "Platform"
+        "Platform",
+        "Action",
+        "Adventure",
+        "Arcade"
       ],
       "Languages": [
         "en"
       ],
       "Tags": [
-        "proto"
+        "proto",
+        "Controller",
+        "Dark",
+        "Multiplayer",
+        "nature",
+        "character",
+        "explore",
+        "balance",
+        "memory"
       ]
     },
     {
@@ -7094,7 +7791,8 @@
     },
     {
       "Titles": [
-        "Soccer Kid"
+        "Soccer Kid",
+        "Soccer Kid (1993)"
       ],
       "Sha1": "4b69e6354791af82988d2df9da10ea418b58f490",
       "Crc32": "ba13ae79",
@@ -7104,18 +7802,30 @@
         ],
         "TGDB": [
           "20278"
+        ],
+        "RAWG": [
+          "53543"
         ]
       },
-      "OverviewId": 39,
+      "OverviewId": 62,
       "Size": 2088960,
       "Publishers": [
         "ReadySoft",
-        "Songbird Productions"
+        "Songbird Productions",
+        "Krisalis Software",
+        "Telegames",
+        "Ocean",
+        "Krisalis",
+        "Yanoman"
       ],
       "Developers": [
-        "ReadySoft Incorporated"
+        "ReadySoft Incorporated",
+        "Krisalis Software",
+        "ReadySoft",
+        "Telegames",
+        "Krisalis"
       ],
-      "ReleaseDate": "2/7/2000",
+      "ReleaseDate": "1/1/1993",
       "Genres": [
         "Platform"
       ],
@@ -7123,12 +7833,14 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Singleplayer"
       ]
     },
     {
       "Titles": [
-        "Soccer Kid"
+        "Soccer Kid",
+        "Soccer Kid (1993)"
       ],
       "Sha1": "5883bf678a4cc23e258d4d5fe1e400660c16bf01",
       "Crc32": "6694cad2",
@@ -7138,22 +7850,38 @@
         ],
         "TGDB": [
           "20278"
+        ],
+        "RAWG": [
+          "53543"
         ]
       },
-      "OverviewId": 39,
+      "OverviewId": 62,
       "Size": 2088960,
       "Publishers": [
-        "Songbird Productions"
+        "Songbird Productions",
+        "Krisalis Software",
+        "ReadySoft",
+        "Telegames",
+        "Ocean",
+        "Krisalis",
+        "Yanoman"
       ],
       "Developers": [
-        "ReadySoft Incorporated"
+        "ReadySoft Incorporated",
+        "Krisalis Software",
+        "ReadySoft",
+        "Telegames",
+        "Krisalis"
       ],
-      "ReleaseDate": "2/7/2000",
+      "ReleaseDate": "1/1/1993",
       "Genres": [
         "Platform"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer"
       ]
     },
     {
@@ -7266,6 +7994,9 @@
         ],
         "TGDB": [
           "3986"
+        ],
+        "RAWG": [
+          "31951"
         ]
       },
       "OverviewId": 43,
@@ -7298,26 +8029,40 @@
         ],
         "TGDB": [
           "3987"
+        ],
+        "RAWG": [
+          "30059"
         ]
       },
-      "OverviewId": 44,
+      "OverviewId": 69,
       "Size": 2088960,
       "Publishers": [
         "Atari",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Interplay Productions"
       ],
       "Developers": [
-        "Llamasoft Ltd."
+        "Llamasoft Ltd.",
+        "High Voltage Software",
+        "Llamasoft",
+        "Imagitec Design",
+        "Atari Games",
+        "Atari Corporation",
+        "Jeff Minter"
       ],
       "ReleaseDate": "4/1/1994",
       "Genres": [
         "Action",
-        "Shooter"
+        "Shooter",
+        "Arcade"
       ],
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer"
+      ]
     },
     {
       "Titles": [
@@ -7375,26 +8120,41 @@
         ],
         "TGDB": [
           "14796"
+        ],
+        "RAWG": [
+          "22953"
         ]
       },
-      "OverviewId": 45,
+      "OverviewId": 71,
       "Size": 2088960,
       "Publishers": [
         "Ocean",
-        "Ocean Software Ltd."
+        "Ocean Software Ltd.",
+        "Electronic Arts",
+        "MINDSCAPE",
+        "Ocean Software",
+        "Domark",
+        "Bullfrog Productions"
       ],
       "Developers": [
         "Ocean Software Ltd.",
         "Ocean",
-        "Enigma Variations Ltd"
+        "Enigma Variations Ltd",
+        "Bullfrog Productions",
+        "Krisalis Software",
+        "Electronic Arts Japan"
       ],
-      "ReleaseDate": "3/1/1995",
+      "ReleaseDate": "1/1/1994",
       "Genres": [
         "Strategy",
-        "Life Simulation"
+        "Life Simulation",
+        "Simulation"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer"
       ]
     },
     {
@@ -7419,7 +8179,8 @@
     },
     {
       "Titles": [
-        "Total Carnage"
+        "Total Carnage",
+        "Total Carnage (1992)"
       ],
       "Sha1": "949a93d364c75ae0b94c8266b7fd0785c995db80",
       "Crc32": "f7f51b2e",
@@ -7429,18 +8190,24 @@
         ],
         "TGDB": [
           "20280"
+        ],
+        "RAWG": [
+          "55253"
         ]
       },
-      "OverviewId": 46,
+      "OverviewId": 68,
       "Size": 4186112,
       "Publishers": [
         "Midway",
-        "Songbird Productions"
+        "Songbird Productions",
+        "THQ",
+        "Midway Games"
       ],
       "Developers": [
-        "Hand Made Software"
+        "Hand Made Software",
+        "Midway Games"
       ],
-      "ReleaseDate": "1/1/1995",
+      "ReleaseDate": "1/1/1992",
       "Genres": [
         "Shooter"
       ],
@@ -7448,12 +8215,15 @@
         "en"
       ],
       "Tags": [
-        "proto"
+        "proto",
+        "Singleplayer",
+        "two-player co-op"
       ]
     },
     {
       "Titles": [
-        "Total Carnage"
+        "Total Carnage",
+        "Total Carnage (1992)"
       ],
       "Sha1": "7d43b85941d96319482b02537c4b2a45431e68e5",
       "Crc32": "e21c7950",
@@ -7463,24 +8233,33 @@
         ],
         "TGDB": [
           "20280"
+        ],
+        "RAWG": [
+          "55253"
         ]
       },
-      "OverviewId": 46,
+      "OverviewId": 68,
       "Size": 4186112,
       "Publishers": [
-        "Songbird Productions"
+        "Songbird Productions",
+        "THQ",
+        "Midway Games"
       ],
       "Developers": [
-        "Hand Made Software"
+        "Hand Made Software",
+        "Midway Games"
       ],
-      "ReleaseDate": "1/1/2005",
+      "ReleaseDate": "1/1/1992",
       "Genres": [
         "Shooter"
       ],
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "Singleplayer",
+        "two-player co-op"
+      ]
     },
     {
       "Titles": [
@@ -7610,25 +8389,34 @@
         ],
         "TGDB": [
           "20282"
+        ],
+        "RAWG": [
+          "57230"
         ]
       },
-      "OverviewId": 48,
+      "OverviewId": 58,
       "Size": 2088960,
       "Publishers": [
         "Atari",
-        "Williams Electronic Games, Inc."
+        "Williams Electronic Games, Inc.",
+        "Tradewest"
       ],
       "Developers": [
-        "Telegames, Inc."
+        "Telegames, Inc.",
+        "Leland Interactive Media"
       ],
       "ReleaseDate": "2/1/1995",
       "Genres": [
-        "Sports"
+        "Sports",
+        "Simulation"
       ],
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer"
+      ]
     },
     {
       "Titles": [
@@ -7774,18 +8562,27 @@
         ],
         "TGDB": [
           "3990"
+        ],
+        "RAWG": [
+          "4005"
         ]
       },
-      "OverviewId": 51,
+      "OverviewId": 56,
       "Size": 2088960,
       "Publishers": [
         "Atari",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "3D Realms",
+        "Apogee Software",
+        "Bethesda Softworks",
+        "id Software",
+        "FormGen"
       ],
       "Developers": [
-        "id Software"
+        "id Software",
+        "Bethesda Softworks"
       ],
-      "ReleaseDate": "1/1/1994",
+      "ReleaseDate": "5/5/1992",
       "ESRB": "M",
       "Genres": [
         "Action",
@@ -7793,6 +8590,18 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "1990's",
+        "Steam Cloud",
+        "Classic",
+        "First-Person",
+        "FPS",
+        "Moddable",
+        "Pixel Graphics",
+        "Retro",
+        "Singleplayer",
+        "World War II"
       ]
     },
     {
@@ -7807,26 +8616,47 @@
         ],
         "TGDB": [
           "20276"
+        ],
+        "RAWG": [
+          "5383"
         ]
       },
-      "OverviewId": 52,
+      "OverviewId": 72,
       "Size": 2088960,
       "Publishers": [
         "Telegames",
-        "Telegames, Inc."
+        "Telegames, Inc.",
+        "Team17 Digital",
+        "Ocean Software",
+        "Microsoft Studios",
+        "Team17 Software Ltd",
+        "Team17 Software, Limited"
       ],
       "Developers": [
-        "Team17 Software Limited"
+        "Team17 Software Limited",
+        "Team17 Digital",
+        "Team 17 Software",
+        "Games from YovoGames !"
       ],
-      "ReleaseDate": "10/1/1998",
+      "ReleaseDate": "1/1/1995",
+      "ESRB": "T",
       "Genres": [
         "Action",
-        "Strategy"
+        "Strategy",
+        "Arcade"
       ],
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "2D",
+        "Classic",
+        "Multiplayer",
+        "Retro",
+        "Singleplayer",
+        "Turn-Based",
+        "Turn-Based Strategy"
+      ]
     },
     {
       "Titles": [
@@ -7909,26 +8739,38 @@
         ],
         "TGDB": [
           "2581"
+        ],
+        "RAWG": [
+          "31136"
         ]
       },
-      "OverviewId": 54,
+      "OverviewId": 60,
       "Size": 2088960,
       "Publishers": [
         "Atari",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Gremlin Interactive",
+        "Gremlin Graphics"
       ],
       "Developers": [
-        "Gremlin Interactive Ltd."
+        "Gremlin Interactive Ltd.",
+        "Gremlin Interactive",
+        "Gremlin Graphics",
+        "Warp Factory"
       ],
-      "ReleaseDate": "1/1/1994",
+      "ReleaseDate": "1/1/1993",
       "Genres": [
         "Action",
-        "Platform"
+        "Platform",
+        "Arcade"
       ],
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer"
+      ]
     },
     {
       "Titles": [
@@ -8152,6 +8994,60 @@
     },
     "55": {
       "en": "Right here inside this cardboard box is the excitement you crave, the challenge you need. Level after level of brain-burning action coming at you from all sides, faster and faster until your thumbs are numb, your eyes are aching, and your mind is molten. Scorching four-way action! 99 levels of action! Demands strategic thinking."
+    },
+    "56": {
+      "en": "Wolfenstein 3D is a first-person shooter developed by id Software. It is the third installment of the Wolfenstein game series and is one of the first FPS titles to be ever released.\nPlot\nThe game is set during World War II. An American spy of Jewish descend, William Blaskowicz is captured by the SS while searching for intel on Operation: Eisenfaust. Blasko is held captive in the Wolfenstein castle which he later escapes, foils the Nazi plan and kills Adolf Hitler.\nGameplay\nWolfenstein 3D consists of three episodes, each of which are divided into 10 levels. Every level is some kind of labyrinth built up from rooms and open spaces that are divided by walls and doors. Moreover, on every level, there are secret rooms, that hold specific bonus items. At the end of each level, the players fight with a boss - a unique and buffed up enemy.\nThe game&#39;s art style is heavily inspired by the German bunkers of that era. Wolfenstein 3D is one of the first games to use 2.5-dimensional graphics to immerse the players.\nThe players are opposed by the SS soldiers, mutants, and guard dogs, which will attack the player only if they get in their line of sight. Several types of enemies can also react to the sounds of gunfire. It is possible to use stealth.\nOn their way, the players can find ammunition and weaponry, which are either placed on the floor or are taken away from the enemy corpses. The game features 4 weapons: a knife, a pistol, an MP40 SMG and a multi-barrel MG."
+    },
+    "57": {
+      "en": "Don't wait till you see the whites of their eyes...\nDon't kid yourself it will be over by Christmas...\nDon't try to shut out the screams...\nAnd don't forget to wash your hands afterwards...\n\nFrom a queue of some 360 \"eager\" conscripts waiting to go to war, a team of up to six will \"volunteer\" for each new mission. Encourage your soldiers to shoot anything that moves, throw grenades, fire bazookas, drive tanks, fly choppers, split up and do their own thing... and die...\nGuide your no-hoper's troop straight through deadly missions.\nAnd if you lose some of them? There's more where that came from...Action-driven, fast-paced classic arcade gameplay\nA mix of tactical insight and fast reflexes required, a good micro would be a plus\nWar has never been so much fun!"
+    },
+    "58": {
+      "en": "Troy Aikman NFL Football is a multiplatform American football video game that was released for the Atari Jaguar, Super NES and the Sega Mega Drive/Genesis.\nTroy Aikman is the first member of the 1993 Dallas Cowboys to have his namesake in a game, followed by Emmitt Smith in Emmitt Smith Football."
+    },
+    "59": {
+      "en": "Purchase this PS one® Classic and play it on both your PS3™ and PSP® (PlayStation®Portable) systems!\n\t\r\nIn the world of Rayman®, people live in peace and harmony with nature, and the Great Protoon maintains the balance of the universe. One fateful day, Mr. Dark steals the Great Protoon and defeats Betilla the Fairy, plunging the whole world into darkness. It's up to Rayman® to defeat Mr. Dark and restore balance to the universe in this classic platforming game. \r\n\r\nKey features:\r\n•\tAction-packed platforming levels have you jump, climb, and swing your way to victory.\r\n•\tExpand your repertoire of moves by learning new Powers.\r\n•\tExplore over 30 levels in 6 diverse and fantastic worlds.\r\n•\tDefeat all of Mister Dark's menacing Antitoon footsoldier minions and face challenging boss battles.\r\n\r\nTransferring to a PSP® system from your PS3™ system:\r\nYou must be signed into the PLAYSTATION®Network account that originally purchased the game.  You must have at least 97 MB free on your Memory Stick Duo™.  Connect your PSP® system to your PS3™ system with a USB cable and switch your PSP® system to USB Mode. Highlight the game on the PS3™ XMB™, press the Δ button and select Copy. \n \r\nPC Store Customers:\r\nLog into your PLAYSTATION®Network account that you originally used to purchased the game.  Then, download the game from your “Download List” in the PLAYSTATION®Store onto your PS3™ system.\n\r\nThis title has been converted from the original PlayStation® disc to the PSP® and the PS3™ systems. Consequently, there may be times where the title plays differently from the PlayStation® disc version, or where some features may not function properly.  This version does not support PlayStation® peripherals (controller, memory card, multitap, etc.), therefore functionalities such as multiplayer, versus, and co-op modes are not available. \n\r\nPurchase or use of this item is subject to the PLAYSTATION®Network Terms of Service and this item’s use restrictions.  If you do not wish to accept all these terms, do not purchase or use this item.  One-time license fee for downloads to up to 2 console systems that are associated with the purchasing account.\n\r\nMemory Stick Duo™ may be required.\n\r\nRAYMAN®  © 1995-2008 Ubisoft Entertainment. All Rights Reserved.  Rayman, the character of Rayman, Ubisoft, Ubi.com, and the Ubisoft logo are trademarks of Ubisoft Entertainment in the U.S. and/or other countries.\r\n\r\n\"PlayStation\", \"PS\" Family logo, and \"PSP\" are registered trademarks of Sony Computer Entertainment Inc."
+    },
+    "60": {
+      "en": "Zool 2 is an arcade game developed by Gremlin Interactive, Gremlin Graphics and Warp Factory. It came out on 01-01-1993. Gremlin Interactive published the game. Most rawgers rated the game as \"Meh\". Zool 2 is available on PC, Jaguar and Commodore / Amiga. It was scored by Neil Biggin and Patrick Phelan. "
+    },
+    "61": {
+      "en": "Doom (typeset as DOOM in official documents) is a 1993 science fiction horror-themed first-person shooter (FPS) video game by id Software. It is considered one of the most significant and influential titles in video game history, for having helped to pioneer the now-ubiquitous first-person shooter. The original game was divided into three nine-level episodes and was distributed via shareware and mail order. The Ultimate Doom, an updated release of the original game featuring a fourth episode, was released in 1995 and sold at retail.\nIn Doom, players assume the role of an unnamed space marine, who became popularly known as &quot;Doomguy&quot;, fighting his way through hordes of invading demons from Hell. With one-third of the game (nine levels) distributed as shareware, Doom was played by an estimated 15–20 million people within two years of its release, popularizing both the business model of online distribution and the mode of gameplay, and spawning a gaming subculture. In addition to popularizing the first-person shooter genre, it pioneered immersive 3D graphics, networked multiplayer gaming, and support for customized additions and modifications via packaged files in a data archive known as &quot;WADs&quot;. As a sign of its effect on the industry, first-person shooter games from the genre&#39;s boom in the 1990s, helped in no small part by the game&#39;s release, became known simply as &quot;Doom clones&quot;. Its graphic violence, as well as satanic imagery, made Doom the subject of considerable controversy.\nThe Doom franchise was later continued with the follow-up Doom II: Hell on Earth (1994) and numerous expansion packs, including Master Levels for Doom II (1995), and Final Doom (1996). Originally released for MS-DOS, the games have been ported to numerous other platforms. Once the game&#39;s source code was released in 1997, it spawned even more adaptations, as fans further ported the code to countless devices. The series started to lose mainstream appeal as the technology of the Doom game engine was surpassed in the mid-1990s, although fans have continued making Wads, speedruns, and modifications to the original. The franchise again received popular attention in 2004 with the release of Doom 3, a retelling of the original game using id Tech 4, with an associated 2005 Doom motion picture. Another release, simply titled Doom and powered by id Tech 6, was released in 2016 and focused on returning to the fast paced action of the first two games."
+    },
+    "62": {
+      "en": "Soccer Kid is a platform video game created by UK-based developer Krisalis and released in 1993 for the Commodore Amiga, 1994 for the Super NES, PC, Amiga CD32 and 3DO Interactive Multiplayer. Its title for the Super NES in the United States is The Adventures of Kid Kleets. It was re-released for the Atari Jaguar in 2000, the Game Boy Advance on September 30, 2002 and the PlayStation on December 13, 2003.\nThe goal of the game is to guide a little soccer player boy through various levels, using his soccer ball as the main tool. The player character can perform runs, shots, bicycle kicks, headers and other sorts of soccer moves to either advance in the level or eliminate enemies."
+    },
+    "63": {
+      "en": "\n      Pitfall: The Mayan Adventure is a side-scrolling action game in which \n      you play adventurer Pitfall Harry Jr. in search of his father, Pitfall \n      Harry. Pitfall Harry has been taken captive by the dreaded warrior \n      spirit Zakelua: Lord of Evil. Armed with only a trusty sling and his \n      father's journal, young Harry Jr. must now venture into the unknown to \n      rescue him...before it's too late! Bungee jump and boomerang your way to \n      safety as you battle through treacherous Mayan jungles, waterfalls, and \n      deserted mines. With 13 levels of fast, gripping action, you will need \n      to be attentive and quick—or prepare to die...\n    This classic game is part of the Virtual Console service, which brings you great games created for consoles such as NES™, Super NES™ and Game Boy™ Advance. See more Virtual Console games for Wii."
+    },
+    "64": {
+      "en": "Raiden (雷電, Raiden) is a 1990 scrolling shooter arcade game that was developed by Seibu Kaihatsu. It was the first game in the Raiden series of scrolling shooter arcade games. Raiden was released in September 1990. The game was distributed in Japan by Tecmo, North America by Fabtek, Taiwan by Liang HWA Electronics, Korea by IBL Corporation, Hong Kong by Wah Yan Electronics, and a few other countries such as Malaysia, though the publishers in those countries are unknown.\nThe title in Japanese translates to \"Thunder And Lightning\". Rai means thunder, and den means lightning. The closest English approximation of the pronunciation is  RY-den."
+    },
+    "65": {
+      "en": "Dragon: The Bruce Lee Story is a multiplatform fighting video game based on the film Dragon: The Bruce Lee Story, which is a semi-fictionalized account of the life of Bruce Lee."
+    },
+    "66": {
+      "en": "Double Dragon V: The Shadow Falls is a 1994 American-produced sequel to Technōs Japan's Double Dragon series. Unlike the previously produced Double Dragon games, Technōs had little or no credited involvement in the development of the game outside of licensing the series' name to publisher Tradewest (the publisher of the first NES version of Double Dragon and the Super NES title Super Double Dragon). Instead, the game was developed by Leland Interactive Media, a subsidiary of Tradewest. Unlike the previous games, which were side-scrolling fighting action games or beat-em-ups, Shadow Falls is a head-to-head fighting game based on the animated Double Dragon TV series in the style of Capcom's 1991 arcade-hit Street Fighter II. Technōs would eventually produce its own fighting game based on the Double Dragon movie the following year simply titled Double Dragon for the Neo Geo. Shadow Falls was originally released for the Super NES and Sega Genesis, and later released for the Atari Jaguar by Telegames (publisher of the Atari Lynx version of the first Double Dragon) in 1995."
+    },
+    "67": {
+      "en": "Fever Pitch Soccer (in North America, Head-On Soccer) is a soccer video game developed by US Gold. It was released in 1995 for the Super NES, Genesis, and Atari Jaguar consoles. It is a slapstick game in which the player tends to have to lean towards \"dirty\" play, and special player abilities include the ability to dive in an attempt to win a free-kick or penalty. There are two gameplay modes: tournament and exhibition. A password is given out following the successful completion of each game in the tournament so that play can be resumed at a later point.\nIn Germany, the Super NES game was released under the title Mario Basler: Jetzt geht’s Los!."
+    },
+    "68": {
+      "en": "Total Carnage is multi-directional arcade shooter released by Midway in 1992. Ports were released for the Super NES in 1993 and Amiga CD32, Amiga, and MS-DOS in 1994. It shares many gameplay elements with Midway's previous title Smash TV, including two-player simultaneous play, and adds scrolling, large enemy vehicles, the ability to collect and place (using a dedicated button) bombs, and a much wider range of gameplay scenarios."
+    },
+    "69": {
+      "en": "Tempest 2000 is an arcade game developed by High Voltage Software, Llamasoft, Imagitec Design and Atari Games. It came out on 01-04-1994. It was published by Interplay Productions. Most rawgers rated the game as \"Meh\". Tempest 2000 is available on Classic Macintosh, SEGA Saturn, PlayStation and Jaguar. \n\n"
+    },
+    "70": {
+      "en": "Pinball Fantasies is a pinball game for the Commodore Amiga personal computer developed by Digital Illusions in late 1992, as a sequel to Pinball Dreams. A further sequel was released in 1995 called Pinball Illusions."
+    },
+    "71": {
+      "en": "Think you can design and build the greatest amusement park in the world? You select the site, you layout the rides. In fact, you control every aspect of running a profitable amusement park; from hiring employees, to developing new rides, to maintaining an adequate supply of soft drinks. Any mistakes, and the bustling hordes of fun-seekers will let you know. Oh, and that Merry-Go-Round in flames is a clue too.Select from dozens of rides and attractions.\nExperience fireworks, weather effects, and more!\nKeep your employees happy, or be forced into some real-time deal making.\nVisit the Bank Manager to keep an eye on your cash flow.\nCheck the park status screen to see what your visitors are thinking. You'd better build a burger stand, the little peeps are getting hungry!"
+    },
+    "72": {
+      "en": "Worms is a turn-based strategy game developed by Team17. It is the first installment of the Worms series of games.\nWorms is a two-dimensional game. The gameplay is similar to the strategies of the time, such as Scorched Earth. The player controls a team of four worms. The objective of the game is to eliminate the enemy team. The player and the AI take turns on which they control a randomly selected worm from their team. During each turn, the player can use any weapon available to them or change the position of a worm. Upon hitting a worm, it&#39;s health points are taken away. The worms die on two occasions: if their health points reach zero or they hit the water. The levels are interactive and their landscapes are destructible, which affects the gameplay.\nPlayers have access to a wide variety of weapons. Apart from RPGs, grenades, and UZI, the game features unusual weapons such as banana bombs or explosive sheep. During the game, weapon crates are dropped from the sky. Players also can use tools such as a blowtorch or a drill, that affect the landscape itself.\nIt is possible to customize the games settings, such as the available weapons, the time limit of a turn and a round."
+    },
+    "73": {
+      "en": "Flashback: The Quest for Identity is an action, adventure, arcade and puzzle game developed by Paul Cuisset, Delphine Software International and Tiertex. It came out on 01-01-1992. Sunsoft published the game. Most rawgers rated the game as \"Exceptional\". Flashback: The Quest for Identity is available on PC, Commodore / Amiga, SEGA CD and Jaguar. The game is sold via PlayStation Store, Xbox Store, Nintendo eShop and GOG. It was scored by Jean Baudlot and Raphaël Gesqua. "
     }
   }
 }

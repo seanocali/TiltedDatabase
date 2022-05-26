@@ -1,6 +1,6 @@
 {
   "PlatformName": "Lynx",
-  "LastUpdate": "5/25/2022 3:01:41 AM",
+  "LastUpdate": "5/26/2022 1:48:56 AM",
   "Games": [
     {
       "Titles": [
@@ -190,9 +190,12 @@
         ],
         "TGDB": [
           "22403"
+        ],
+        "RAWG": [
+          "54577"
         ]
       },
-      "OverviewId": 4,
+      "OverviewId": 90,
       "Size": 131072,
       "Publishers": [
         "Atari",
@@ -201,7 +204,7 @@
       "Developers": [
         "Atari"
       ],
-      "ReleaseDate": "3/1/1992",
+      "ReleaseDate": "1/1/1990",
       "Genres": [
         "Fighting",
         "Sports"
@@ -212,6 +215,10 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -229,20 +236,35 @@
         ],
         "TGDB": [
           "22404"
+        ],
+        "RAWG": [
+          "29371"
         ]
       },
-      "OverviewId": 5,
+      "OverviewId": 115,
       "Size": 262144,
       "Publishers": [
         "Atari",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "SEGA",
+        "Konami"
       ],
       "Developers": [
-        "Atari"
+        "Atari",
+        "Konami Digital Entertainment",
+        "Subway Software",
+        "Park Place Productions",
+        "Denton Designs",
+        "ACME Interactive",
+        "Spirit of Discovery",
+        "Aspect Co.",
+        "Malibu Interactive",
+        "Aspect Co., Ltd."
       ],
       "ReleaseDate": "1/1/1992",
       "Genres": [
-        "Action"
+        "Action",
+        "Adventure"
       ],
       "Regions": [
         "US",
@@ -250,6 +272,9 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer"
       ]
     },
     {
@@ -342,19 +367,25 @@
         ],
         "TGDB": [
           "22406"
+        ],
+        "RAWG": [
+          "31631"
         ]
       },
-      "OverviewId": 8,
+      "OverviewId": 114,
       "Size": 262144,
       "Publishers": [
-        "Atari"
+        "Atari",
+        "Capstone"
       ],
       "Developers": [
-        "Atari"
+        "Atari",
+        "Off the Wall Productions"
       ],
-      "ReleaseDate": "8/1/1991",
+      "ReleaseDate": "1/1/1990",
       "Genres": [
-        "Adventure"
+        "Adventure",
+        "Action"
       ],
       "Regions": [
         "US",
@@ -362,6 +393,10 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -417,19 +452,23 @@
         ],
         "TGDB": [
           "19540"
+        ],
+        "RAWG": [
+          "55734"
         ]
       },
-      "OverviewId": 10,
+      "OverviewId": 98,
       "Size": 131072,
       "Publishers": [
         "Atari",
         "Atari, Inc."
       ],
       "Developers": [
-        "Epyx"
+        "Epyx",
+        "Attention to Detail"
       ],
       "CloneOf": "bluelght",
-      "ReleaseDate": "4/7/1989",
+      "ReleaseDate": "1/1/1989",
       "Genres": [
         "Action",
         "Flight Simulator"
@@ -442,7 +481,8 @@
         "en"
       ],
       "Tags": [
-        "demo"
+        "demo",
+        "Singleplayer"
       ]
     },
     {
@@ -460,18 +500,22 @@
         ],
         "TGDB": [
           "19540"
+        ],
+        "RAWG": [
+          "55734"
         ]
       },
-      "OverviewId": 10,
+      "OverviewId": 98,
       "Size": 131072,
       "Publishers": [
         "Atari",
         "Atari, Inc."
       ],
       "Developers": [
-        "Epyx"
+        "Epyx",
+        "Attention to Detail"
       ],
-      "ReleaseDate": "4/7/1989",
+      "ReleaseDate": "1/1/1989",
       "Genres": [
         "Action",
         "Flight Simulator"
@@ -482,6 +526,9 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer"
       ]
     },
     {
@@ -523,7 +570,10 @@
     },
     {
       "Titles": [
-        "California Games"
+        "California Games",
+        "Calgames",
+        "Jogos de Verão",
+        "Rad Games"
       ],
       "Sha1": "f13e010102ca527a9c393acb52bb949a1ba93e3e",
       "Crc32": "a08f0b59",
@@ -536,20 +586,29 @@
         ],
         "TGDB": [
           "19608"
+        ],
+        "RAWG": [
+          "30959"
         ]
       },
-      "OverviewId": 12,
+      "OverviewId": 86,
       "Size": 131072,
       "Publishers": [
         "Atari",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Runesoft GmbH",
+        "U.S. Gold Ltd."
       ],
       "Developers": [
-        "Epyx"
+        "Epyx",
+        "Runesoft"
       ],
-      "ReleaseDate": "7/7/1989",
+      "ReleaseDate": "1/1/1987",
+      "Score": 4.533333333333333,
       "Genres": [
-        "Sports"
+        "Sports",
+        "Arcade",
+        "Casual"
       ],
       "Regions": [
         "US",
@@ -558,11 +617,15 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer"
+      ]
     },
     {
       "Titles": [
-        "Centipede"
+        "Centipede",
+        "Centipede (1981)"
       ],
       "Sha1": "59a5185203e3550b1cad7b28489915bc8de80851",
       "Crc32": "97501709",
@@ -575,17 +638,25 @@
         ],
         "TGDB": [
           "22409"
+        ],
+        "RAWG": [
+          "52406"
         ]
       },
-      "OverviewId": 13,
+      "OverviewId": 126,
       "Size": 131072,
       "Publishers": [
-        "Shadowsoft"
+        "Shadowsoft",
+        "Atari",
+        "Atarisoft",
+        "Superior Software"
       ],
       "Developers": [
-        "Shadowsoft"
+        "Shadowsoft",
+        "Atari, Inc."
       ],
-      "ReleaseDate": "8/3/1995",
+      "ReleaseDate": "1/1/1981",
+      "Score": 4.07,
       "Genres": [
         "Shooter"
       ],
@@ -596,7 +667,9 @@
         "en"
       ],
       "Tags": [
-        "proto"
+        "proto",
+        "alternating turns",
+        "2 players"
       ]
     },
     {
@@ -614,18 +687,23 @@
         ],
         "TGDB": [
           "19609"
+        ],
+        "RAWG": [
+          "55735"
         ]
       },
-      "OverviewId": 14,
+      "OverviewId": 128,
       "Size": 262144,
       "Publishers": [
         "Atari",
         "Atari, Inc."
       ],
       "Developers": [
-        "Atari"
+        "Atari",
+        "Rebellion",
+        "Atari Corporation"
       ],
-      "ReleaseDate": "2/11/1991",
+      "ReleaseDate": "1/1/1991",
       "Genres": [
         "Racing",
         "Sports"
@@ -637,11 +715,15 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer"
+      ]
     },
     {
       "Titles": [
-        "Chip's Challenge"
+        "Chip's Challenge",
+        "Chip's Challenge (1989)"
       ],
       "Sha1": "6a90e6627086e13d99bacbcaafea7ab2f6aba8a0",
       "Crc32": "6a5f53ed",
@@ -654,18 +736,27 @@
         ],
         "TGDB": [
           "19610"
+        ],
+        "RAWG": [
+          "54171"
         ]
       },
-      "OverviewId": 15,
+      "OverviewId": 110,
       "Size": 131072,
       "Publishers": [
         "Atari",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "U.S. Gold",
+        "Epyx",
+        "Amiga",
+        "ZX Spectrum",
+        "MS-DOS",
+        "Microsoft Studios"
       ],
       "Developers": [
         "Epyx"
       ],
-      "ReleaseDate": "4/3/1989",
+      "ReleaseDate": "1/1/1989",
       "ESRB": "E",
       "Genres": [
         "Puzzle"
@@ -676,6 +767,9 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer"
       ]
     },
     {
@@ -693,19 +787,24 @@
         ],
         "TGDB": [
           "19541"
+        ],
+        "RAWG": [
+          "55736"
         ]
       },
-      "OverviewId": 16,
+      "OverviewId": 101,
       "Size": 131072,
       "Publishers": [
         "Atari"
       ],
       "Developers": [
-        "Atari"
+        "Atari",
+        "Color Dreams"
       ],
-      "ReleaseDate": "8/6/1992",
+      "ReleaseDate": "1/1/1992",
       "Genres": [
-        "Action"
+        "Action",
+        "Puzzle"
       ],
       "Regions": [
         "US",
@@ -713,6 +812,9 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer"
       ]
     },
     {
@@ -849,18 +951,22 @@
         ],
         "TGDB": [
           "19542"
+        ],
+        "RAWG": [
+          "55737"
         ]
       },
-      "OverviewId": 20,
+      "OverviewId": 87,
       "Size": 262144,
       "Publishers": [
         "Atari",
         "Atari, Inc."
       ],
       "Developers": [
-        "Knight Technologies"
+        "Knight Technologies",
+        "John Smedley"
       ],
-      "ReleaseDate": "6/19/1992",
+      "ReleaseDate": "1/1/1992",
       "ESRB": "M",
       "Genres": [
         "Action"
@@ -871,11 +977,18 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "1 player"
       ]
     },
     {
       "Titles": [
-        "Double Dragon"
+        "Double Dragon",
+        "Arcade Archives: Double Dragon",
+        "Double Dragon Advance",
+        "ダブルドラゴン",
+        "ダブルドラゴン アドバンス"
       ],
       "Sha1": "7fc3663bec878b138cfc51f14154823f9701c9e7",
       "Crc32": "fbfc0f05",
@@ -888,19 +1001,28 @@
         ],
         "TGDB": [
           "22413"
+        ],
+        "RAWG": [
+          "3802"
         ]
       },
-      "OverviewId": 21,
+      "OverviewId": 92,
       "Size": 262144,
       "Publishers": [
-        "Telegames"
+        "Telegames",
+        "Technōs Japan Corporation"
       ],
       "Developers": [
-        "Telegames, Inc."
+        "Telegames, Inc.",
+        "Technōs Japan Corporation"
       ],
-      "ReleaseDate": "8/5/1993",
+      "ReleaseDate": "8/1/1987",
+      "ESRB": "T",
+      "Score": 3.1625,
       "Genres": [
-        "Fighting"
+        "Fighting",
+        "Action",
+        "Arcade"
       ],
       "Regions": [
         "US",
@@ -908,6 +1030,11 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "simultaneous",
+        "cooperative",
+        "2 players"
       ]
     },
     {
@@ -926,9 +1053,12 @@
         ],
         "TGDB": [
           "19550"
+        ],
+        "RAWG": [
+          "55739"
         ]
       },
-      "OverviewId": 22,
+      "OverviewId": 125,
       "Size": 262144,
       "Publishers": [
         "Atari"
@@ -936,9 +1066,11 @@
       "Developers": [
         "Atari"
       ],
-      "ReleaseDate": "1/1/1992",
+      "ReleaseDate": "1/1/1991",
       "Genres": [
-        "Horror"
+        "Horror",
+        "Action",
+        "Adventure"
       ],
       "Regions": [
         "US",
@@ -946,11 +1078,17 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Story",
+        "escape",
+        "castle"
       ]
     },
     {
       "Titles": [
-        "Electrocop"
+        "Electrocop",
+        "ElectroCop"
       ],
       "Sha1": "5bd6614bc98a882ec2f465278fe4f1ed6a4e972b",
       "Crc32": "bd97116b",
@@ -963,17 +1101,21 @@
         ],
         "TGDB": [
           "19551"
+        ],
+        "RAWG": [
+          "55740"
         ]
       },
-      "OverviewId": 23,
+      "OverviewId": 103,
       "Size": 131072,
       "Publishers": [
         "Atari"
       ],
       "Developers": [
-        "Atari"
+        "Atari",
+        "Epyx"
       ],
-      "ReleaseDate": "8/9/1989",
+      "ReleaseDate": "1/1/1989",
       "Genres": [
         "Action"
       ],
@@ -983,6 +1125,9 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "1 player"
       ]
     },
     {
@@ -1000,17 +1145,22 @@
         ],
         "TGDB": [
           "22414"
+        ],
+        "RAWG": [
+          "55442"
         ]
       },
-      "OverviewId": 24,
+      "OverviewId": 96,
       "Size": 131072,
       "Publishers": [
-        "Telegames"
+        "Telegames",
+        "Software Sorcery"
       ],
       "Developers": [
-        "Telegames, Inc."
+        "Telegames, Inc.",
+        "Smash 16"
       ],
-      "ReleaseDate": "8/11/1993",
+      "ReleaseDate": "1/1/1990",
       "Genres": [
         "Sports"
       ],
@@ -1020,6 +1170,10 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -1037,19 +1191,31 @@
         ],
         "TGDB": [
           "22415"
+        ],
+        "RAWG": [
+          "29391"
         ]
       },
-      "OverviewId": 25,
+      "OverviewId": 116,
       "Size": 131072,
       "Publishers": [
-        "NuFX"
+        "NuFX",
+        "Capcom",
+        "SEGA",
+        "Strategic Simulations, Inc.",
+        "Infogrames Entertainment",
+        "Pony Canyon, Inc."
       ],
       "Developers": [
-        "Atari"
+        "Atari",
+        "Westwood Studios",
+        "Westwood Associates",
+        "Strategic Simulations, Inc."
       ],
-      "ReleaseDate": "8/5/1993",
+      "ReleaseDate": "1/1/1990",
       "Genres": [
-        "Role-Playing"
+        "Role-Playing",
+        "RPG"
       ],
       "Regions": [
         "US"
@@ -1058,7 +1224,8 @@
         "en"
       ],
       "Tags": [
-        "proto"
+        "proto",
+        "Singleplayer"
       ]
     },
     {
@@ -1141,17 +1308,21 @@
         ],
         "TGDB": [
           "19552"
+        ],
+        "RAWG": [
+          "55741"
         ]
       },
-      "OverviewId": 27,
+      "OverviewId": 113,
       "Size": 131072,
       "Publishers": [
         "Atari"
       ],
       "Developers": [
-        "Atari"
+        "Atari",
+        "Epyx"
       ],
-      "ReleaseDate": "8/2/1989",
+      "ReleaseDate": "10/1/1989",
       "Genres": [
         "Shooter"
       ],
@@ -1161,6 +1332,10 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "One-Player"
       ]
     },
     {
@@ -1179,9 +1354,12 @@
         ],
         "TGDB": [
           "22418"
+        ],
+        "RAWG": [
+          "55742"
         ]
       },
-      "OverviewId": 28,
+      "OverviewId": 112,
       "Size": 131072,
       "Publishers": [
         "Atari"
@@ -1189,7 +1367,7 @@
       "Developers": [
         "Atari"
       ],
-      "ReleaseDate": "8/1/1990",
+      "ReleaseDate": "1/1/1990",
       "Genres": [
         "Fighting"
       ],
@@ -1199,6 +1377,11 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer",
+        "cooperative"
       ]
     },
     {
@@ -1214,14 +1397,20 @@
         ],
         "TGDB": [
           "22418"
+        ],
+        "RAWG": [
+          "55742"
         ]
       },
-      "OverviewId": 28,
+      "OverviewId": 112,
       "Size": 131072,
+      "Publishers": [
+        "Atari"
+      ],
       "Developers": [
         "Atari"
       ],
-      "ReleaseDate": "8/1/1990",
+      "ReleaseDate": "1/1/1990",
       "Genres": [
         "Fighting"
       ],
@@ -1233,7 +1422,10 @@
         "en"
       ],
       "Tags": [
-        "beta"
+        "beta",
+        "Multiplayer",
+        "Singleplayer",
+        "cooperative"
       ]
     },
     {
@@ -1278,7 +1470,8 @@
     },
     {
       "Titles": [
-        "Hard Drivin'"
+        "Hard Drivin'",
+        "Hard Drivin' (1990)"
       ],
       "Sha1": "6d33abd50d46f900e8762d6e64b51e647ea98b07",
       "Crc32": "6df63834",
@@ -1291,17 +1484,25 @@
         ],
         "TGDB": [
           "22420"
+        ],
+        "RAWG": [
+          "55480"
         ]
       },
-      "OverviewId": 30,
+      "OverviewId": 102,
       "Size": 131072,
       "Publishers": [
         "Atari"
       ],
       "Developers": [
-        "Atari"
+        "Atari",
+        "Atari Games",
+        "Tengen",
+        "Domark",
+        "Sterling Silver Software",
+        "Atari Games Applied Research Group"
       ],
-      "ReleaseDate": "8/1/1991",
+      "ReleaseDate": "12/21/1990",
       "Genres": [
         "Racing"
       ],
@@ -1311,6 +1512,10 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "2 players"
       ]
     },
     {
@@ -1427,7 +1632,8 @@
     },
     {
       "Titles": [
-        "Jimmy Connors' Tennis"
+        "Jimmy Connors' Tennis",
+        "Jimmy Connors Tennis"
       ],
       "Sha1": "d9c4220653b2dfbd6b26c0a0c81c40cb3108ee85",
       "Crc32": "2455b6cf",
@@ -1440,14 +1646,21 @@
         ],
         "TGDB": [
           "22425"
+        ],
+        "RAWG": [
+          "53881"
         ]
       },
-      "OverviewId": 34,
+      "OverviewId": 93,
       "Size": 524288,
       "Publishers": [
-        "Atari"
+        "Atari",
+        "Ubisoft Entertainment"
       ],
-      "ReleaseDate": "8/1/1993",
+      "Developers": [
+        "NMS Software"
+      ],
+      "ReleaseDate": "11/1/1993",
       "Genres": [
         "Sports"
       ],
@@ -1457,6 +1670,11 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Two Players",
+        "One player"
       ]
     },
     {
@@ -1485,6 +1703,7 @@
         "Shadowsoft"
       ],
       "ReleaseDate": "8/6/1992",
+      "Score": 3.6388888888888884,
       "Genres": [
         "Fighting"
       ],
@@ -1523,6 +1742,7 @@
         "Atari"
       ],
       "ReleaseDate": "8/2/1990",
+      "Score": 3.6,
       "Genres": [
         "Puzzle"
       ],
@@ -1556,6 +1776,7 @@
         "Atari"
       ],
       "ReleaseDate": "8/2/1990",
+      "Score": 3.6,
       "Genres": [
         "Puzzle"
       ],
@@ -1620,9 +1841,12 @@
         ],
         "TGDB": [
           "22428"
+        ],
+        "RAWG": [
+          "55743"
         ]
       },
-      "OverviewId": 38,
+      "OverviewId": 118,
       "Size": 262144,
       "Publishers": [
         "Atari",
@@ -1631,7 +1855,7 @@
       "Developers": [
         "Lore Games"
       ],
-      "ReleaseDate": "5/8/1992",
+      "ReleaseDate": "1/1/1992",
       "Genres": [
         "Action"
       ],
@@ -1641,6 +1865,9 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer"
       ]
     },
     {
@@ -1732,19 +1959,26 @@
         ],
         "TGDB": [
           "22430"
+        ],
+        "RAWG": [
+          "53918"
         ]
       },
-      "OverviewId": 41,
+      "OverviewId": 127,
       "Size": 262144,
       "Publishers": [
-        "Songbird Productions"
+        "Songbird Productions",
+        "MINDSCAPE"
       ],
       "Developers": [
-        "Songbird Productions"
+        "Songbird Productions",
+        "Milestone S.r.l.",
+        "Audiogenic"
       ],
-      "ReleaseDate": "10/1/2004",
+      "ReleaseDate": "1/1/1990",
       "Genres": [
-        "Puzzle"
+        "Puzzle",
+        "Strategy"
       ],
       "Regions": [
         "US"
@@ -1753,7 +1987,8 @@
         "en"
       ],
       "Tags": [
-        "proto"
+        "proto",
+        "Singleplayer"
       ]
     },
     {
@@ -1771,17 +2006,21 @@
         ],
         "TGDB": [
           "22431"
+        ],
+        "RAWG": [
+          "55744"
         ]
       },
-      "OverviewId": 42,
+      "OverviewId": 100,
       "Size": 262144,
       "Publishers": [
         "Atari"
       ],
       "Developers": [
-        "Atari"
+        "Atari",
+        "Brian A. Rice"
       ],
-      "ReleaseDate": "8/5/1992",
+      "ReleaseDate": "1/1/1992",
       "Genres": [
         "Puzzle"
       ],
@@ -1791,6 +2030,10 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -1945,20 +2188,31 @@
         ],
         "TGDB": [
           "22434"
+        ],
+        "RAWG": [
+          "52438"
         ]
       },
-      "OverviewId": 45,
+      "OverviewId": 123,
       "Size": 131072,
       "Publishers": [
         "Atari",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Midway Games",
+        "Namco",
+        "Midway Manufacturing"
       ],
       "Developers": [
-        "Atari"
+        "Atari",
+        "Midway Games",
+        "Midway Manufacturing",
+        "General Computer Corporation"
       ],
-      "ReleaseDate": "1/1/1990",
+      "ReleaseDate": "1/12/1981",
+      "Score": 4.39,
       "Genres": [
-        "Action"
+        "Action",
+        "Arcade"
       ],
       "Regions": [
         "US",
@@ -1966,11 +2220,16 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "alternating turns",
+        "2 players"
       ]
     },
     {
       "Titles": [
-        "NFL Football"
+        "NFL Football",
+        "NFL Football (1979)"
       ],
       "Sha1": "caea445bddcf75bcbe13920718279220d1acb869",
       "Crc32": "006fd398",
@@ -1983,14 +2242,21 @@
         ],
         "TGDB": [
           "22435"
+        ],
+        "RAWG": [
+          "55309"
         ]
       },
-      "OverviewId": 46,
+      "OverviewId": 88,
       "Size": 262144,
       "Publishers": [
-        "Atari"
+        "Atari",
+        "Mattel"
       ],
-      "ReleaseDate": "12/31/1992",
+      "Developers": [
+        "Mattel"
+      ],
+      "ReleaseDate": "1/1/1979",
       "Genres": [
         "Sports"
       ],
@@ -2000,6 +2266,9 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Multiplayer"
       ]
     },
     {
@@ -2042,7 +2311,8 @@
     },
     {
       "Titles": [
-        "Ninja Gaiden III - The Ancient Ship of Doom"
+        "Ninja Gaiden III - The Ancient Ship of Doom",
+        "Ninja Gaiden III: The Ancient Ship of Doom (1991)"
       ],
       "Sha1": "37861cc3025d9addbace8d07c8f65961cba29eaa",
       "Crc32": "f3e3f811",
@@ -2052,24 +2322,42 @@
         ],
         "MESS": [
           "ngaiden3"
+        ],
+        "RAWG": [
+          "53975"
         ]
       },
+      "OverviewId": 111,
       "Size": 524288,
       "Publishers": [
-        "Atari"
+        "Atari",
+        "Tecmo",
+        "KOEI TECMO GAMES CO."
       ],
-      "ReleaseDate": "1/1/1993",
+      "Developers": [
+        "Tecmo",
+        "KOEI TECMO GAMES CO."
+      ],
+      "ReleaseDate": "6/21/1991",
+      "Genres": [
+        "Action",
+        "Platformer"
+      ],
       "Regions": [
         "US",
         "EU"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer"
       ]
     },
     {
       "Titles": [
-        "Pac-Land"
+        "Pac-Land",
+        "Pac-Land (1985)"
       ],
       "Sha1": "58b57835703e3145a54e1c0ada38c9218bf4cd3d",
       "Crc32": "aa50dd22",
@@ -2082,17 +2370,28 @@
         ],
         "TGDB": [
           "23774"
+        ],
+        "RAWG": [
+          "55576"
         ]
       },
-      "OverviewId": 48,
+      "OverviewId": 105,
       "Size": 131072,
       "Publishers": [
-        "Atari"
+        "Atari",
+        "Namco",
+        "Bally Midway",
+        "NEC",
+        "Grandslam Entertainment",
+        "Quicksilva"
       ],
       "Developers": [
-        "Atari"
+        "Atari",
+        "NAMCO",
+        "Grandslam Entertainment",
+        "Mr. Micro"
       ],
-      "ReleaseDate": "8/1/1991",
+      "ReleaseDate": "11/21/1985",
       "Genres": [
         "Adventure"
       ],
@@ -2102,6 +2401,11 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "alternating turns",
+        "2 players"
       ]
     },
     {
@@ -2119,18 +2423,25 @@
         ],
         "TGDB": [
           "23890"
+        ],
+        "RAWG": [
+          "53467"
         ]
       },
-      "OverviewId": 49,
+      "OverviewId": 104,
       "Size": 131072,
       "Publishers": [
         "Atari",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "MINDSCAPE",
+        "Elite Systems"
       ],
       "Developers": [
-        "Atari"
+        "Atari",
+        "Atari Games",
+        "Eastridge Technology (NES)"
       ],
-      "ReleaseDate": "1/1/1990",
+      "ReleaseDate": "4/1/1985",
       "ESRB": "E",
       "Genres": [
         "Action"
@@ -2141,6 +2452,10 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "2 players"
       ]
     },
     {
@@ -2194,19 +2509,34 @@
         ],
         "MESS": [
           "pitfight"
+        ],
+        "RAWG": [
+          "55583"
         ]
       },
+      "OverviewId": 129,
       "Size": 524288,
       "Publishers": [
-        "Atari"
+        "Atari",
+        "Konami",
+        "Tengen"
       ],
-      "ReleaseDate": "1/1/1992",
+      "Developers": [
+        "Atari Games"
+      ],
+      "ReleaseDate": "1/1/1990",
+      "Genres": [
+        "Fighting"
+      ],
       "Regions": [
         "US",
         "EU"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Up to 3 players simultaneously"
       ]
     },
     {
@@ -2249,7 +2579,8 @@
     },
     {
       "Titles": [
-        "QIX"
+        "QIX",
+        "Qix (1990)"
       ],
       "Sha1": "30b8369ea396347d4847990691d880c313aacae7",
       "Crc32": "b9881423",
@@ -2262,18 +2593,33 @@
         ],
         "TGDB": [
           "27052"
+        ],
+        "RAWG": [
+          "54003"
         ]
       },
-      "OverviewId": 52,
+      "OverviewId": 124,
       "Size": 131072,
       "Publishers": [
         "Telegames",
-        "Telegames, Inc."
+        "Telegames, Inc.",
+        "Atari",
+        "TAITO Corporation",
+        "Nintendo",
+        "Taito",
+        "Takara"
       ],
       "Developers": [
-        "Knight Technologies"
+        "Knight Technologies",
+        "Atari",
+        "Taito",
+        "TAITO Corporation",
+        "Novotrade",
+        "Takara",
+        "Nintendo",
+        "Alien Technology"
       ],
-      "ReleaseDate": "1/1/1991",
+      "ReleaseDate": "4/13/1990",
       "Genres": [
         "Action"
       ],
@@ -2284,11 +2630,15 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "alternating turns",
+        "2 players"
+      ]
     },
     {
       "Titles": [
-        "Raiden"
+        "Raiden",
+        "Raiden (1991)"
       ],
       "Sha1": "df48f69a7257a40844812e5b0bda9efdf093b7f6",
       "Crc32": "bcd10c3a",
@@ -2301,18 +2651,31 @@
         ],
         "TGDB": [
           "31701"
+        ],
+        "RAWG": [
+          "55598"
         ]
       },
-      "OverviewId": 53,
+      "OverviewId": 109,
       "Size": 262144,
       "Publishers": [
         "Telegames",
-        "Telegames, Inc."
+        "Telegames, Inc.",
+        "DotEmu",
+        "HAMSTER Corporation",
+        "Fabtek",
+        "Arcade version:",
+        "Micronet co., Ltd.",
+        "PlayStation version:",
+        "Liang HWA Electronics",
+        "IBL Corporation",
+        "Seibu Kaihatsu"
       ],
       "Developers": [
-        "Seibu Kaihatsu Inc."
+        "Seibu Kaihatsu Inc.",
+        "Seibu Kaihatsu"
       ],
-      "ReleaseDate": "10/20/1997",
+      "ReleaseDate": "7/6/1991",
       "Genres": [
         "Shooter"
       ],
@@ -2323,7 +2686,10 @@
         "en"
       ],
       "Tags": [
-        "Co-op"
+        "Co-op",
+        "Multiplayer",
+        "Singleplayer",
+        "cooperative"
       ]
     },
     {
@@ -2353,6 +2719,7 @@
         "Epyx"
       ],
       "ReleaseDate": "1/1/1991",
+      "Score": 2.9,
       "Genres": [
         "Action"
       ],
@@ -2417,18 +2784,25 @@
         ],
         "TGDB": [
           "22438"
+        ],
+        "RAWG": [
+          "55754"
         ]
       },
-      "OverviewId": 56,
+      "OverviewId": 122,
       "Size": 262144,
       "Publishers": [
         "Atari",
-        "Unreleased (Prototype)"
+        "Unreleased (Prototype)",
+        "THQ",
+        "'''Arcade:'''",
+        "'''Super NES:'''"
       ],
       "Developers": [
-        "Atari"
+        "Atari",
+        "Equilibrium"
       ],
-      "ReleaseDate": "8/4/1993",
+      "ReleaseDate": "1/1/1991",
       "Genres": [
         "Racing"
       ],
@@ -2437,6 +2811,10 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -2451,17 +2829,25 @@
         ],
         "TGDB": [
           "22438"
+        ],
+        "RAWG": [
+          "55754"
         ]
       },
-      "OverviewId": 56,
+      "OverviewId": 122,
       "Size": 262144,
       "Publishers": [
-        "Unreleased (Prototype)"
+        "Unreleased (Prototype)",
+        "Atari",
+        "THQ",
+        "'''Arcade:'''",
+        "'''Super NES:'''"
       ],
       "Developers": [
-        "Atari"
+        "Atari",
+        "Equilibrium"
       ],
-      "ReleaseDate": "8/4/1993",
+      "ReleaseDate": "1/1/1991",
       "Genres": [
         "Racing"
       ],
@@ -2470,6 +2856,10 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -2484,17 +2874,25 @@
         ],
         "TGDB": [
           "22438"
+        ],
+        "RAWG": [
+          "55754"
         ]
       },
-      "OverviewId": 56,
+      "OverviewId": 122,
       "Size": 262144,
       "Publishers": [
-        "Unreleased (Prototype)"
+        "Unreleased (Prototype)",
+        "Atari",
+        "THQ",
+        "'''Arcade:'''",
+        "'''Super NES:'''"
       ],
       "Developers": [
-        "Atari"
+        "Atari",
+        "Equilibrium"
       ],
-      "ReleaseDate": "8/4/1993",
+      "ReleaseDate": "1/1/1991",
       "Genres": [
         "Racing"
       ],
@@ -2503,6 +2901,10 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -2520,17 +2922,22 @@
         ],
         "TGDB": [
           "27037"
+        ],
+        "RAWG": [
+          "54018"
         ]
       },
-      "OverviewId": 57,
+      "OverviewId": 94,
       "Size": 262144,
       "Publishers": [
-        "Atari"
+        "Atari",
+        "U.S. Gold"
       ],
       "Developers": [
-        "Atari"
+        "Atari",
+        "Atari Games"
       ],
-      "ReleaseDate": "8/1/1990",
+      "ReleaseDate": "1/1/1987",
       "Genres": [
         "Racing",
         "Shooter"
@@ -2541,6 +2948,9 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer"
       ]
     },
     {
@@ -2673,19 +3083,24 @@
         ],
         "TGDB": [
           "27040"
+        ],
+        "RAWG": [
+          "55747"
         ]
       },
-      "OverviewId": 61,
+      "OverviewId": 117,
       "Size": 262144,
       "Publishers": [
         "Atari"
       ],
       "Developers": [
-        "Atari"
+        "Atari",
+        "Atari Games"
       ],
-      "ReleaseDate": "8/1/1991",
+      "ReleaseDate": "1/1/1989",
       "Genres": [
-        "Shooter"
+        "Shooter",
+        "Racing"
       ],
       "Regions": [
         "US",
@@ -2693,6 +3108,9 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer"
       ]
     },
     {
@@ -2710,6 +3128,9 @@
         ],
         "TGDB": [
           "19555"
+        ],
+        "RAWG": [
+          "779741"
         ]
       },
       "OverviewId": 62,
@@ -2734,7 +3155,8 @@
     },
     {
       "Titles": [
-        "Shadow of the Beast"
+        "Shadow of the Beast",
+        "Shadow of the Beast (1989)"
       ],
       "Sha1": "8b891b5dafba71740294c8dc818717d3b00be3a5",
       "Crc32": "eb78baa3",
@@ -2747,17 +3169,24 @@
         ],
         "TGDB": [
           "27041"
+        ],
+        "RAWG": [
+          "54310"
         ]
       },
-      "OverviewId": 63,
+      "OverviewId": 119,
       "Size": 262144,
       "Publishers": [
-        "Atari"
+        "Atari",
+        "Psygnosis",
+        "SCE Studio Liverpool"
       ],
       "Developers": [
-        "Psygnosis Limited"
+        "Psygnosis Limited",
+        "Ubisoft Reflections",
+        "Reflections Interactive"
       ],
-      "ReleaseDate": "8/1/1992",
+      "ReleaseDate": "1/1/1989",
       "Genres": [
         "Action"
       ],
@@ -2767,6 +3196,9 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer"
       ]
     },
     {
@@ -2784,17 +3216,21 @@
         ],
         "TGDB": [
           "27045"
+        ],
+        "RAWG": [
+          "54897"
         ]
       },
-      "OverviewId": 64,
+      "OverviewId": 99,
       "Size": 131072,
       "Publishers": [
-        "Atari"
+        "Atari",
+        "Activision Blizzard"
       ],
       "Developers": [
         "Atari"
       ],
-      "ReleaseDate": "8/3/1990",
+      "ReleaseDate": "1/1/1986",
       "Genres": [
         "Puzzle"
       ],
@@ -2804,6 +3240,10 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "atari",
+        "solitaire"
       ]
     },
     {
@@ -2821,17 +3261,21 @@
         ],
         "TGDB": [
           "27042"
+        ],
+        "RAWG": [
+          "55746"
         ]
       },
-      "OverviewId": 65,
+      "OverviewId": 106,
       "Size": 262144,
       "Publishers": [
         "Atari"
       ],
       "Developers": [
-        "Atari"
+        "Atari",
+        "Atari Games"
       ],
-      "ReleaseDate": "8/1/1992",
+      "ReleaseDate": "1/1/1991",
       "Genres": [
         "Shooter"
       ],
@@ -2841,6 +3285,9 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer"
       ]
     },
     {
@@ -2860,17 +3307,21 @@
         ],
         "TGDB": [
           "27053"
+        ],
+        "RAWG": [
+          "55748"
         ]
       },
-      "OverviewId": 66,
+      "OverviewId": 121,
       "Size": 131072,
       "Publishers": [
         "Atari"
       ],
       "Developers": [
-        "Atari"
+        "Atari",
+        "Atari Corporation"
       ],
-      "ReleaseDate": "8/2/1995",
+      "ReleaseDate": "1/1/1995",
       "Genres": [
         "Shooter"
       ],
@@ -2880,6 +3331,9 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer"
       ]
     },
     {
@@ -2998,9 +3452,12 @@
         ],
         "TGDB": [
           "19556"
+        ],
+        "RAWG": [
+          "55749"
         ]
       },
-      "OverviewId": 69,
+      "OverviewId": 130,
       "Size": 131072,
       "Publishers": [
         "Atari",
@@ -3009,9 +3466,10 @@
       "Developers": [
         "Epyx"
       ],
-      "ReleaseDate": "9/14/1990",
+      "ReleaseDate": "1/1/1990",
       "Genres": [
-        "Adventure"
+        "Adventure",
+        "Action"
       ],
       "Regions": [
         "US",
@@ -3020,7 +3478,10 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer"
+      ]
     },
     {
       "Titles": [
@@ -3037,17 +3498,28 @@
         ],
         "TGDB": [
           "27046"
+        ],
+        "RAWG": [
+          "54106"
         ]
       },
-      "OverviewId": 70,
+      "OverviewId": 95,
       "Size": 262144,
       "Publishers": [
-        "Atari"
+        "Atari",
+        "SEGA",
+        "Taito",
+        "Ocean",
+        "Fabtek",
+        "Magic Team (iOS)"
       ],
       "Developers": [
-        "Atari"
+        "Atari",
+        "Tad Corporation",
+        "Daiei Seisakusho (NES)",
+        "Magic Team (iOS)"
       ],
-      "ReleaseDate": "8/1/1992",
+      "ReleaseDate": "1/1/1989",
       "Genres": [
         "Adventure"
       ],
@@ -3057,6 +3529,10 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "2 players"
       ]
     },
     {
@@ -3112,6 +3588,9 @@
         ],
         "TGDB": [
           "27048"
+        ],
+        "RAWG": [
+          "55750"
         ]
       },
       "OverviewId": 72,
@@ -3120,9 +3599,10 @@
         "Atari"
       ],
       "Developers": [
-        "Atari"
+        "Atari",
+        "Entertainment Sciences"
       ],
-      "ReleaseDate": "8/8/1991",
+      "ReleaseDate": "1/1/1985",
       "Genres": [
         "Shooter"
       ],
@@ -3132,6 +3612,9 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "2 players"
       ]
     },
     {
@@ -3149,19 +3632,25 @@
         ],
         "TGDB": [
           "27049"
+        ],
+        "RAWG": [
+          "55702"
         ]
       },
-      "OverviewId": 73,
+      "OverviewId": 107,
       "Size": 262144,
       "Publishers": [
         "Atari"
       ],
       "Developers": [
-        "Atari"
+        "Atari",
+        "Imagitec Design",
+        "IDL"
       ],
-      "ReleaseDate": "8/1/1991",
+      "ReleaseDate": "1/1/1991",
       "Genres": [
-        "Role-Playing"
+        "Role-Playing",
+        "Action"
       ],
       "Regions": [
         "US",
@@ -3169,11 +3658,16 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Singe-player"
       ]
     },
     {
       "Titles": [
-        "Warbirds"
+        "Warbirds",
+        "Warbirds (1991)"
       ],
       "Sha1": "2c376581ac20fb5de8538b51820e1f007cca8260",
       "Crc32": "b946ba49",
@@ -3186,9 +3680,12 @@
         ],
         "TGDB": [
           "19557"
+        ],
+        "RAWG": [
+          "55751"
         ]
       },
-      "OverviewId": 74,
+      "OverviewId": 108,
       "Size": 131072,
       "Publishers": [
         "Atari"
@@ -3196,7 +3693,7 @@
       "Developers": [
         "Atari"
       ],
-      "ReleaseDate": "8/8/1991",
+      "ReleaseDate": "1/1/1991",
       "Genres": [
         "Shooter"
       ],
@@ -3206,6 +3703,10 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -3260,18 +3761,27 @@
         ],
         "TGDB": [
           "19558"
+        ],
+        "RAWG": [
+          "52473"
         ]
       },
-      "OverviewId": 76,
+      "OverviewId": 89,
       "Size": 131072,
       "Publishers": [
         "Atari",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Bally Midway",
+        "SunSoft (NES)"
       ],
       "Developers": [
-        "Bally Mfg. Corp."
+        "Bally Mfg. Corp.",
+        "Midway Games",
+        "SunSoft",
+        "Bally Midway"
       ],
-      "ReleaseDate": "1/1/1990",
+      "ReleaseDate": "1/1/1987",
+      "Score": 4.0,
       "Genres": [
         "Shooter"
       ],
@@ -3282,7 +3792,10 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "Up to 3 players simultaneously",
+        "cooperative"
+      ]
     },
     {
       "Titles": [
@@ -3299,18 +3812,22 @@
         ],
         "TGDB": [
           "19559"
+        ],
+        "RAWG": [
+          "55726"
         ]
       },
-      "OverviewId": 77,
+      "OverviewId": 120,
       "Size": 262144,
       "Publishers": [
         "Atari",
         "Atari, Inc."
       ],
       "Developers": [
-        "Atari"
+        "Atari",
+        "Atari Games"
       ],
-      "ReleaseDate": "11/8/1991",
+      "ReleaseDate": "1/1/1987",
       "Genres": [
         "Action"
       ],
@@ -3321,7 +3838,11 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "Singleplayer",
+        "Two-player",
+        "cooperative"
+      ]
     },
     {
       "Titles": [
@@ -3338,19 +3859,25 @@
         ],
         "TGDB": [
           "19560"
+        ],
+        "RAWG": [
+          "55752"
         ]
       },
-      "OverviewId": 78,
+      "OverviewId": 97,
       "Size": 131072,
       "Publishers": [
-        "Atari"
+        "Atari",
+        "Epyx"
       ],
       "Developers": [
-        "Atari"
+        "Atari",
+        "Epyx"
       ],
-      "ReleaseDate": "8/3/1990",
+      "ReleaseDate": "1/1/1990",
       "Genres": [
-        "Shooter"
+        "Shooter",
+        "Action"
       ],
       "Regions": [
         "US",
@@ -3358,6 +3885,10 @@
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -3638,24 +4169,32 @@
         ],
         "TGDB": [
           "22403"
+        ],
+        "RAWG": [
+          "54577"
         ]
       },
-      "OverviewId": 4,
+      "OverviewId": 90,
       "Size": 262208,
       "Publishers": [
         "Atari Corp",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Atari"
       ],
       "Developers": [
         "Atari"
       ],
-      "ReleaseDate": "3/1/1992",
+      "ReleaseDate": "1/1/1990",
       "Genres": [
         "Fighting",
         "Sports"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -3670,24 +4209,32 @@
         ],
         "TGDB": [
           "22403"
+        ],
+        "RAWG": [
+          "54577"
         ]
       },
-      "OverviewId": 4,
+      "OverviewId": 90,
       "Size": 131136,
       "Publishers": [
         "Atari Corp",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Atari"
       ],
       "Developers": [
         "Atari"
       ],
-      "ReleaseDate": "3/1/1992",
+      "ReleaseDate": "1/1/1990",
       "Genres": [
         "Fighting",
         "Sports"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -3702,18 +4249,22 @@
         ],
         "TGDB": [
           "22403"
+        ],
+        "RAWG": [
+          "54577"
         ]
       },
-      "OverviewId": 4,
+      "OverviewId": 90,
       "Size": 262208,
       "Publishers": [
         "Atari Corp",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Atari"
       ],
       "Developers": [
         "Atari"
       ],
-      "ReleaseDate": "3/1/1992",
+      "ReleaseDate": "1/1/1990",
       "Genres": [
         "Fighting",
         "Sports"
@@ -3722,7 +4273,9 @@
         "en"
       ],
       "Tags": [
-        "Alternate"
+        "Alternate",
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -3737,18 +4290,22 @@
         ],
         "TGDB": [
           "22403"
+        ],
+        "RAWG": [
+          "54577"
         ]
       },
-      "OverviewId": 4,
+      "OverviewId": 90,
       "Size": 262208,
       "Publishers": [
         "Atari Corp",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Atari"
       ],
       "Developers": [
         "Atari"
       ],
-      "ReleaseDate": "3/1/1992",
+      "ReleaseDate": "1/1/1990",
       "Genres": [
         "Fighting",
         "Sports"
@@ -3757,7 +4314,9 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -3772,23 +4331,42 @@
         ],
         "TGDB": [
           "22404"
+        ],
+        "RAWG": [
+          "29371"
         ]
       },
-      "OverviewId": 5,
+      "OverviewId": 115,
       "Size": 262208,
       "Publishers": [
         "DC Comics Inc",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Atari",
+        "SEGA",
+        "Konami"
       ],
       "Developers": [
-        "Atari"
+        "Atari",
+        "Konami Digital Entertainment",
+        "Subway Software",
+        "Park Place Productions",
+        "Denton Designs",
+        "ACME Interactive",
+        "Spirit of Discovery",
+        "Aspect Co.",
+        "Malibu Interactive",
+        "Aspect Co., Ltd."
       ],
       "ReleaseDate": "1/1/1992",
       "Genres": [
-        "Action"
+        "Action",
+        "Adventure"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer"
       ]
     },
     {
@@ -3803,26 +4381,43 @@
         ],
         "TGDB": [
           "22404"
+        ],
+        "RAWG": [
+          "29371"
         ]
       },
-      "OverviewId": 5,
+      "OverviewId": 115,
       "Size": 262208,
       "Publishers": [
         "DC Comics Inc",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Atari",
+        "SEGA",
+        "Konami"
       ],
       "Developers": [
-        "Atari"
+        "Atari",
+        "Konami Digital Entertainment",
+        "Subway Software",
+        "Park Place Productions",
+        "Denton Designs",
+        "ACME Interactive",
+        "Spirit of Discovery",
+        "Aspect Co.",
+        "Malibu Interactive",
+        "Aspect Co., Ltd."
       ],
       "ReleaseDate": "1/1/1992",
       "Genres": [
-        "Action"
+        "Action",
+        "Adventure"
       ],
       "Languages": [
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "Singleplayer"
       ]
     },
     {
@@ -3996,22 +4591,33 @@
         ],
         "TGDB": [
           "22406"
+        ],
+        "RAWG": [
+          "31631"
         ]
       },
-      "OverviewId": 8,
+      "OverviewId": 114,
       "Size": 262208,
       "Publishers": [
-        "Atari Corp"
+        "Atari Corp",
+        "Atari",
+        "Capstone"
       ],
       "Developers": [
-        "Atari"
+        "Atari",
+        "Off the Wall Productions"
       ],
-      "ReleaseDate": "8/1/1991",
+      "ReleaseDate": "1/1/1990",
       "Genres": [
-        "Adventure"
+        "Adventure",
+        "Action"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -4026,25 +4632,34 @@
         ],
         "TGDB": [
           "22406"
+        ],
+        "RAWG": [
+          "31631"
         ]
       },
-      "OverviewId": 8,
+      "OverviewId": 114,
       "Size": 262208,
       "Publishers": [
-        "Atari Corp"
+        "Atari Corp",
+        "Atari",
+        "Capstone"
       ],
       "Developers": [
-        "Atari"
+        "Atari",
+        "Off the Wall Productions"
       ],
-      "ReleaseDate": "8/1/1991",
+      "ReleaseDate": "1/1/1990",
       "Genres": [
-        "Adventure"
+        "Adventure",
+        "Action"
       ],
       "Languages": [
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -4124,24 +4739,32 @@
         ],
         "TGDB": [
           "19540"
+        ],
+        "RAWG": [
+          "55734"
         ]
       },
-      "OverviewId": 10,
+      "OverviewId": 98,
       "Size": 262208,
       "Publishers": [
         "Epyx Inc",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Atari"
       ],
       "Developers": [
-        "Epyx"
+        "Epyx",
+        "Attention to Detail"
       ],
-      "ReleaseDate": "4/7/1989",
+      "ReleaseDate": "1/1/1989",
       "Genres": [
         "Action",
         "Flight Simulator"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer"
       ]
     },
     {
@@ -4156,18 +4779,23 @@
         ],
         "TGDB": [
           "19540"
+        ],
+        "RAWG": [
+          "55734"
         ]
       },
-      "OverviewId": 10,
+      "OverviewId": 98,
       "Size": 131136,
       "Publishers": [
         "Epyx Inc",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Atari"
       ],
       "Developers": [
-        "Epyx"
+        "Epyx",
+        "Attention to Detail"
       ],
-      "ReleaseDate": "4/7/1989",
+      "ReleaseDate": "1/1/1989",
       "Genres": [
         "Action",
         "Flight Simulator"
@@ -4176,7 +4804,8 @@
         "en"
       ],
       "Tags": [
-        "Alternate"
+        "Alternate",
+        "Singleplayer"
       ]
     },
     {
@@ -4191,18 +4820,23 @@
         ],
         "TGDB": [
           "19540"
+        ],
+        "RAWG": [
+          "55734"
         ]
       },
-      "OverviewId": 10,
+      "OverviewId": 98,
       "Size": 262208,
       "Publishers": [
         "Epyx Inc",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Atari"
       ],
       "Developers": [
-        "Epyx"
+        "Epyx",
+        "Attention to Detail"
       ],
-      "ReleaseDate": "4/7/1989",
+      "ReleaseDate": "1/1/1989",
       "Genres": [
         "Action",
         "Flight Simulator"
@@ -4211,7 +4845,8 @@
         "en"
       ],
       "Tags": [
-        "demo"
+        "demo",
+        "Singleplayer"
       ]
     },
     {
@@ -4226,18 +4861,23 @@
         ],
         "TGDB": [
           "19540"
+        ],
+        "RAWG": [
+          "55734"
         ]
       },
-      "OverviewId": 10,
+      "OverviewId": 98,
       "Size": 131136,
       "Publishers": [
         "Epyx Inc",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Atari"
       ],
       "Developers": [
-        "Epyx"
+        "Epyx",
+        "Attention to Detail"
       ],
-      "ReleaseDate": "4/7/1989",
+      "ReleaseDate": "1/1/1989",
       "Genres": [
         "Action",
         "Flight Simulator"
@@ -4247,7 +4887,8 @@
       ],
       "Tags": [
         "Alternate",
-        "demo"
+        "demo",
+        "Singleplayer"
       ]
     },
     {
@@ -4315,7 +4956,10 @@
     },
     {
       "Titles": [
-        "California Games"
+        "California Games",
+        "Calgames",
+        "Jogos de Verão",
+        "Rad Games"
       ],
       "Sha1": "97bc95db4cdbcffa8f7a12949d6e9986f1c28f33",
       "Crc32": "0ce53b00",
@@ -4325,29 +4969,44 @@
         ],
         "TGDB": [
           "19608"
+        ],
+        "RAWG": [
+          "30959"
         ]
       },
-      "OverviewId": 12,
+      "OverviewId": 86,
       "Size": 262208,
       "Publishers": [
         "Epyx Inc",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Runesoft GmbH",
+        "U.S. Gold Ltd."
       ],
       "Developers": [
-        "Epyx"
+        "Epyx",
+        "Runesoft"
       ],
-      "ReleaseDate": "1/1/1991",
+      "ReleaseDate": "1/1/1987",
+      "Score": 4.533333333333333,
       "Genres": [
-        "Sports"
+        "Sports",
+        "Arcade",
+        "Casual"
       ],
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer"
+      ]
     },
     {
       "Titles": [
-        "California Games"
+        "California Games",
+        "Calgames",
+        "Jogos de Verão",
+        "Rad Games"
       ],
       "Sha1": "9c89db856a1b85afdb0334d2bc5d9dffa1d3cca2",
       "Crc32": "2918ea2e",
@@ -4357,29 +5016,44 @@
         ],
         "TGDB": [
           "19608"
+        ],
+        "RAWG": [
+          "30959"
         ]
       },
-      "OverviewId": 12,
+      "OverviewId": 86,
       "Size": 131136,
       "Publishers": [
         "Epyx Inc",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Runesoft GmbH",
+        "U.S. Gold Ltd."
       ],
       "Developers": [
-        "Epyx"
+        "Epyx",
+        "Runesoft"
       ],
-      "ReleaseDate": "1/1/1991",
+      "ReleaseDate": "1/1/1987",
+      "Score": 4.533333333333333,
       "Genres": [
-        "Sports"
+        "Sports",
+        "Arcade",
+        "Casual"
       ],
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer"
+      ]
     },
     {
       "Titles": [
-        "California Games"
+        "California Games",
+        "Calgames",
+        "Jogos de Verão",
+        "Rad Games"
       ],
       "Sha1": "ae369a7a3f076de1449097d3b926e3ab4dae242c",
       "Crc32": "da7d96fd",
@@ -4389,31 +5063,43 @@
         ],
         "TGDB": [
           "19608"
+        ],
+        "RAWG": [
+          "30959"
         ]
       },
-      "OverviewId": 12,
+      "OverviewId": 86,
       "Size": 131136,
       "Publishers": [
         "Epyx Inc",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Runesoft GmbH",
+        "U.S. Gold Ltd."
       ],
       "Developers": [
-        "Epyx"
+        "Epyx",
+        "Runesoft"
       ],
-      "ReleaseDate": "1/1/1991",
+      "ReleaseDate": "1/1/1987",
+      "Score": 4.533333333333333,
       "Genres": [
-        "Sports"
+        "Sports",
+        "Arcade",
+        "Casual"
       ],
       "Languages": [
         "en"
       ],
       "Tags": [
-        "Alternate"
+        "Alternate",
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
       "Titles": [
-        "Centipede"
+        "Centipede",
+        "Centipede (1981)"
       ],
       "Sha1": "ec45d3e3d9ceba61ada730fb3b499074fd31a034",
       "Crc32": "e38a0f69",
@@ -4423,27 +5109,40 @@
         ],
         "TGDB": [
           "22409"
+        ],
+        "RAWG": [
+          "52406"
         ]
       },
-      "OverviewId": 13,
+      "OverviewId": 126,
       "Size": 131136,
       "Publishers": [
-        "Shadowsoft Inc"
+        "Shadowsoft Inc",
+        "Atari",
+        "Atarisoft",
+        "Superior Software"
       ],
       "Developers": [
-        "Shadowsoft"
+        "Shadowsoft",
+        "Atari, Inc."
       ],
-      "ReleaseDate": "8/3/1995",
+      "ReleaseDate": "1/1/1981",
+      "Score": 4.07,
       "Genres": [
         "Shooter"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "alternating turns",
+        "2 players"
       ]
     },
     {
       "Titles": [
-        "Centipede"
+        "Centipede",
+        "Centipede (1981)"
       ],
       "Sha1": "9954707eeba52904533cef59e5aae6e196434534",
       "Crc32": "70cc4ae8",
@@ -4453,17 +5152,25 @@
         ],
         "TGDB": [
           "22409"
+        ],
+        "RAWG": [
+          "52406"
         ]
       },
-      "OverviewId": 13,
+      "OverviewId": 126,
       "Size": 131136,
       "Publishers": [
-        "Shadowsoft Inc"
+        "Shadowsoft Inc",
+        "Atari",
+        "Atarisoft",
+        "Superior Software"
       ],
       "Developers": [
-        "Shadowsoft"
+        "Shadowsoft",
+        "Atari, Inc."
       ],
-      "ReleaseDate": "8/3/1995",
+      "ReleaseDate": "1/1/1981",
+      "Score": 4.07,
       "Genres": [
         "Shooter"
       ],
@@ -4471,7 +5178,9 @@
         "en"
       ],
       "Tags": [
-        "Alternate"
+        "Alternate",
+        "alternating turns",
+        "2 players"
       ]
     },
     {
@@ -4486,18 +5195,24 @@
         ],
         "TGDB": [
           "19609"
+        ],
+        "RAWG": [
+          "55735"
         ]
       },
-      "OverviewId": 14,
+      "OverviewId": 128,
       "Size": 262208,
       "Publishers": [
         "Atari Corp",
-        "Atari, Inc."
-      ],
-      "Developers": [
+        "Atari, Inc.",
         "Atari"
       ],
-      "ReleaseDate": "2/11/1991",
+      "Developers": [
+        "Atari",
+        "Rebellion",
+        "Atari Corporation"
+      ],
+      "ReleaseDate": "1/1/1991",
       "Genres": [
         "Racing",
         "Sports"
@@ -4505,7 +5220,10 @@
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer"
+      ]
     },
     {
       "Titles": [
@@ -4519,18 +5237,24 @@
         ],
         "TGDB": [
           "19609"
+        ],
+        "RAWG": [
+          "55735"
         ]
       },
-      "OverviewId": 14,
+      "OverviewId": 128,
       "Size": 262208,
       "Publishers": [
         "Atari Corp",
-        "Atari, Inc."
-      ],
-      "Developers": [
+        "Atari, Inc.",
         "Atari"
       ],
-      "ReleaseDate": "2/11/1991",
+      "Developers": [
+        "Atari",
+        "Rebellion",
+        "Atari Corporation"
+      ],
+      "ReleaseDate": "1/1/1991",
       "Genres": [
         "Racing",
         "Sports"
@@ -4539,12 +5263,15 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
       "Titles": [
-        "Chip's Challenge"
+        "Chip's Challenge",
+        "Chip's Challenge (1989)"
       ],
       "Sha1": "8d07f19d5aae9b18b0f29a46d276578b439a69e7",
       "Crc32": "ad7c002b",
@@ -4554,29 +5281,43 @@
         ],
         "TGDB": [
           "19610"
+        ],
+        "RAWG": [
+          "54171"
         ]
       },
-      "OverviewId": 15,
+      "OverviewId": 110,
       "Size": 262208,
       "Publishers": [
         "Epyx Inc",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Atari",
+        "U.S. Gold",
+        "Epyx",
+        "Amiga",
+        "ZX Spectrum",
+        "MS-DOS",
+        "Microsoft Studios"
       ],
       "Developers": [
         "Epyx"
       ],
-      "ReleaseDate": "4/3/1989",
+      "ReleaseDate": "1/1/1989",
       "ESRB": "E",
       "Genres": [
         "Puzzle"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer"
       ]
     },
     {
       "Titles": [
-        "Chip's Challenge"
+        "Chip's Challenge",
+        "Chip's Challenge (1989)"
       ],
       "Sha1": "92af2d566c6bbf626a21dbfa41af16d73e0a774d",
       "Crc32": "f45f784a",
@@ -4586,18 +5327,28 @@
         ],
         "TGDB": [
           "19610"
+        ],
+        "RAWG": [
+          "54171"
         ]
       },
-      "OverviewId": 15,
+      "OverviewId": 110,
       "Size": 131136,
       "Publishers": [
         "Epyx Inc",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Atari",
+        "U.S. Gold",
+        "Epyx",
+        "Amiga",
+        "ZX Spectrum",
+        "MS-DOS",
+        "Microsoft Studios"
       ],
       "Developers": [
         "Epyx"
       ],
-      "ReleaseDate": "4/3/1989",
+      "ReleaseDate": "1/1/1989",
       "ESRB": "E",
       "Genres": [
         "Puzzle"
@@ -4606,7 +5357,8 @@
         "en"
       ],
       "Tags": [
-        "Alternate"
+        "Alternate",
+        "Singleplayer"
       ]
     },
     {
@@ -4801,22 +5553,31 @@
         ],
         "TGDB": [
           "19541"
+        ],
+        "RAWG": [
+          "55736"
         ]
       },
-      "OverviewId": 16,
+      "OverviewId": 101,
       "Size": 262208,
       "Publishers": [
-        "Atari Corp"
-      ],
-      "Developers": [
+        "Atari Corp",
         "Atari"
       ],
-      "ReleaseDate": "8/6/1992",
+      "Developers": [
+        "Atari",
+        "Color Dreams"
+      ],
+      "ReleaseDate": "1/1/1992",
       "Genres": [
-        "Action"
+        "Action",
+        "Puzzle"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer"
       ]
     },
     {
@@ -4831,25 +5592,32 @@
         ],
         "TGDB": [
           "19541"
+        ],
+        "RAWG": [
+          "55736"
         ]
       },
-      "OverviewId": 16,
+      "OverviewId": 101,
       "Size": 131136,
       "Publishers": [
-        "Atari Corp"
-      ],
-      "Developers": [
+        "Atari Corp",
         "Atari"
       ],
-      "ReleaseDate": "8/6/1992",
+      "Developers": [
+        "Atari",
+        "Color Dreams"
+      ],
+      "ReleaseDate": "1/1/1992",
       "Genres": [
-        "Action"
+        "Action",
+        "Puzzle"
       ],
       "Languages": [
         "en"
       ],
       "Tags": [
-        "Alternate"
+        "Alternate",
+        "Singleplayer"
       ]
     },
     {
@@ -4995,24 +5763,32 @@
         ],
         "TGDB": [
           "19542"
+        ],
+        "RAWG": [
+          "55737"
         ]
       },
-      "OverviewId": 20,
+      "OverviewId": 87,
       "Size": 262208,
       "Publishers": [
         "Atari Corp",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Atari"
       ],
       "Developers": [
-        "Knight Technologies"
+        "Knight Technologies",
+        "John Smedley"
       ],
-      "ReleaseDate": "6/19/1992",
+      "ReleaseDate": "1/1/1992",
       "ESRB": "M",
       "Genres": [
         "Action"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "1 player"
       ]
     },
     {
@@ -5028,24 +5804,32 @@
         ],
         "TGDB": [
           "19542"
+        ],
+        "RAWG": [
+          "55737"
         ]
       },
-      "OverviewId": 20,
+      "OverviewId": 87,
       "Size": 262208,
       "Publishers": [
         "Atari Corp",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Atari"
       ],
       "Developers": [
-        "Knight Technologies"
+        "Knight Technologies",
+        "John Smedley"
       ],
-      "ReleaseDate": "6/19/1992",
+      "ReleaseDate": "1/1/1992",
       "ESRB": "M",
       "Genres": [
         "Action"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "1 player"
       ]
     },
     {
@@ -5061,18 +5845,23 @@
         ],
         "TGDB": [
           "19542"
+        ],
+        "RAWG": [
+          "55737"
         ]
       },
-      "OverviewId": 20,
+      "OverviewId": 87,
       "Size": 262208,
       "Publishers": [
         "Atari Corp",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Atari"
       ],
       "Developers": [
-        "Knight Technologies"
+        "Knight Technologies",
+        "John Smedley"
       ],
-      "ReleaseDate": "6/19/1992",
+      "ReleaseDate": "1/1/1992",
       "ESRB": "M",
       "Genres": [
         "Action"
@@ -5081,7 +5870,8 @@
         "en"
       ],
       "Tags": [
-        "Alternate"
+        "Alternate",
+        "1 player"
       ]
     },
     {
@@ -5097,18 +5887,23 @@
         ],
         "TGDB": [
           "19542"
+        ],
+        "RAWG": [
+          "55737"
         ]
       },
-      "OverviewId": 20,
+      "OverviewId": 87,
       "Size": 262208,
       "Publishers": [
         "Atari Corp",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Atari"
       ],
       "Developers": [
-        "Knight Technologies"
+        "Knight Technologies",
+        "John Smedley"
       ],
-      "ReleaseDate": "6/19/1992",
+      "ReleaseDate": "1/1/1992",
       "ESRB": "M",
       "Genres": [
         "Action"
@@ -5117,12 +5912,17 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "1 player"
       ]
     },
     {
       "Titles": [
-        "Double Dragon"
+        "Double Dragon",
+        "Arcade Archives: Double Dragon",
+        "Double Dragon Advance",
+        "ダブルドラゴン",
+        "ダブルドラゴン アドバンス"
       ],
       "Sha1": "1227eb28e6bad3c30b38d3dbfa9f929d836300c5",
       "Crc32": "bcb2e75a",
@@ -5132,27 +5932,45 @@
         ],
         "TGDB": [
           "22413"
+        ],
+        "RAWG": [
+          "3802"
         ]
       },
-      "OverviewId": 21,
+      "OverviewId": 92,
       "Size": 262208,
       "Publishers": [
-        "Telegames"
+        "Telegames",
+        "Technōs Japan Corporation"
       ],
       "Developers": [
-        "Telegames, Inc."
+        "Telegames, Inc.",
+        "Technōs Japan Corporation"
       ],
-      "ReleaseDate": "8/5/1993",
+      "ReleaseDate": "8/1/1987",
+      "ESRB": "T",
+      "Score": 3.1625,
       "Genres": [
-        "Fighting"
+        "Fighting",
+        "Action",
+        "Arcade"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "simultaneous",
+        "cooperative",
+        "2 players"
       ]
     },
     {
       "Titles": [
-        "Double Dragon"
+        "Double Dragon",
+        "Arcade Archives: Double Dragon",
+        "Double Dragon Advance",
+        "ダブルドラゴン",
+        "ダブルドラゴン アドバンス"
       ],
       "Sha1": "52f841faa4ffa234144a78073a066bc636376248",
       "Crc32": "a4e78202",
@@ -5162,31 +5980,44 @@
         ],
         "TGDB": [
           "22413"
+        ],
+        "RAWG": [
+          "3802"
         ]
       },
-      "OverviewId": 21,
+      "OverviewId": 92,
       "Size": 262208,
       "Publishers": [
-        "Telegames"
+        "Telegames",
+        "Technōs Japan Corporation"
       ],
       "Developers": [
-        "Telegames, Inc."
+        "Telegames, Inc.",
+        "Technōs Japan Corporation"
       ],
-      "ReleaseDate": "8/5/1993",
+      "ReleaseDate": "8/1/1987",
+      "ESRB": "T",
+      "Score": 3.1625,
       "Genres": [
-        "Fighting"
+        "Fighting",
+        "Action",
+        "Arcade"
       ],
       "Languages": [
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "simultaneous",
+        "cooperative",
+        "2 players"
       ]
     },
     {
       "Titles": [
         "Dracula - The Undead",
-        "Dracula: The Undead"
+        "Dracula: The Undead",
+        "Dracula the Undead"
       ],
       "Sha1": "824f245004a778613c85d40c9a2785a8cefe4181",
       "Crc32": "0f4b4071",
@@ -5196,28 +6027,40 @@
         ],
         "TGDB": [
           "19550"
+        ],
+        "RAWG": [
+          "55739"
         ]
       },
-      "OverviewId": 22,
+      "OverviewId": 125,
       "Size": 262208,
       "Publishers": [
-        "Atari Corp"
+        "Atari Corp",
+        "Atari"
       ],
       "Developers": [
         "Atari"
       ],
-      "ReleaseDate": "8/1/1991",
+      "ReleaseDate": "1/1/1991",
       "Genres": [
-        "Horror"
+        "Horror",
+        "Action",
+        "Adventure"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Story",
+        "escape",
+        "castle"
       ]
     },
     {
       "Titles": [
         "Dracula - The Undead",
-        "Dracula: The Undead"
+        "Dracula: The Undead",
+        "Dracula the Undead"
       ],
       "Sha1": "3b3346863f0d248c904e62af914f8c5ed5d2f76f",
       "Crc32": "adfb50e9",
@@ -5227,30 +6070,40 @@
         ],
         "TGDB": [
           "19550"
+        ],
+        "RAWG": [
+          "55739"
         ]
       },
-      "OverviewId": 22,
+      "OverviewId": 125,
       "Size": 262208,
       "Publishers": [
-        "Atari Corp"
+        "Atari Corp",
+        "Atari"
       ],
       "Developers": [
         "Atari"
       ],
-      "ReleaseDate": "8/1/1991",
+      "ReleaseDate": "1/1/1991",
       "Genres": [
-        "Horror"
+        "Horror",
+        "Action",
+        "Adventure"
       ],
       "Languages": [
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "Story",
+        "escape",
+        "castle"
       ]
     },
     {
       "Titles": [
-        "Electrocop"
+        "Electrocop",
+        "ElectroCop"
       ],
       "Sha1": "5c3fa6a1daed62d541456451cc533de766361174",
       "Crc32": "cd9b18d3",
@@ -5260,27 +6113,36 @@
         ],
         "TGDB": [
           "19551"
+        ],
+        "RAWG": [
+          "55740"
         ]
       },
-      "OverviewId": 23,
+      "OverviewId": 103,
       "Size": 262208,
       "Publishers": [
-        "Atari Corp"
-      ],
-      "Developers": [
+        "Atari Corp",
         "Atari"
       ],
-      "ReleaseDate": "8/9/1989",
+      "Developers": [
+        "Atari",
+        "Epyx"
+      ],
+      "ReleaseDate": "1/1/1989",
       "Genres": [
         "Action"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "1 player"
       ]
     },
     {
       "Titles": [
-        "Electrocop"
+        "Electrocop",
+        "ElectroCop"
       ],
       "Sha1": "c06e983638b4466322a15a367cdaeb56fc2486e6",
       "Crc32": "765d742d",
@@ -5290,17 +6152,22 @@
         ],
         "TGDB": [
           "19551"
+        ],
+        "RAWG": [
+          "55740"
         ]
       },
-      "OverviewId": 23,
+      "OverviewId": 103,
       "Size": 131136,
       "Publishers": [
-        "Atari Corp"
-      ],
-      "Developers": [
+        "Atari Corp",
         "Atari"
       ],
-      "ReleaseDate": "8/9/1989",
+      "Developers": [
+        "Atari",
+        "Epyx"
+      ],
+      "ReleaseDate": "1/1/1989",
       "Genres": [
         "Action"
       ],
@@ -5308,7 +6175,8 @@
         "en"
       ],
       "Tags": [
-        "Alternate"
+        "Alternate",
+        "1 player"
       ]
     },
     {
@@ -5323,22 +6191,31 @@
         ],
         "TGDB": [
           "22414"
+        ],
+        "RAWG": [
+          "55442"
         ]
       },
-      "OverviewId": 24,
+      "OverviewId": 96,
       "Size": 262208,
       "Publishers": [
-        "Telegames"
+        "Telegames",
+        "Software Sorcery"
       ],
       "Developers": [
-        "Telegames, Inc."
+        "Telegames, Inc.",
+        "Smash 16"
       ],
-      "ReleaseDate": "8/11/1993",
+      "ReleaseDate": "1/1/1990",
       "Genres": [
         "Sports"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -5353,17 +6230,22 @@
         ],
         "TGDB": [
           "22414"
+        ],
+        "RAWG": [
+          "55442"
         ]
       },
-      "OverviewId": 24,
+      "OverviewId": 96,
       "Size": 131136,
       "Publishers": [
-        "Telegames"
+        "Telegames",
+        "Software Sorcery"
       ],
       "Developers": [
-        "Telegames, Inc."
+        "Telegames, Inc.",
+        "Smash 16"
       ],
-      "ReleaseDate": "8/11/1993",
+      "ReleaseDate": "1/1/1990",
       "Genres": [
         "Sports"
       ],
@@ -5371,7 +6253,9 @@
         "en"
       ],
       "Tags": [
-        "Alternate"
+        "Alternate",
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -5386,25 +6270,38 @@
         ],
         "TGDB": [
           "22415"
+        ],
+        "RAWG": [
+          "29391"
         ]
       },
-      "OverviewId": 25,
+      "OverviewId": 116,
       "Size": 131136,
       "Publishers": [
-        "Atari Corp"
+        "Atari Corp",
+        "Capcom",
+        "SEGA",
+        "Strategic Simulations, Inc.",
+        "Infogrames Entertainment",
+        "Pony Canyon, Inc."
       ],
       "Developers": [
-        "Atari"
+        "Atari",
+        "Westwood Studios",
+        "Westwood Associates",
+        "Strategic Simulations, Inc."
       ],
-      "ReleaseDate": "8/5/1993",
+      "ReleaseDate": "1/1/1990",
       "Genres": [
-        "Role-Playing"
+        "Role-Playing",
+        "RPG"
       ],
       "Languages": [
         "en"
       ],
       "Tags": [
-        "proto"
+        "proto",
+        "Singleplayer"
       ]
     },
     {
@@ -5483,22 +6380,30 @@
         ],
         "TGDB": [
           "22417"
+        ],
+        "RAWG": [
+          "55738"
         ]
       },
-      "OverviewId": 79,
+      "OverviewId": 91,
       "Size": 262208,
       "Publishers": [
         "Telegames"
       ],
       "Developers": [
-        "Telegames, Inc."
+        "Telegames, Inc.",
+        "Telegames"
       ],
-      "ReleaseDate": "8/1/1991",
+      "ReleaseDate": "1/1/1991",
       "Genres": [
-        "Puzzle"
+        "Puzzle",
+        "Strategy"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "2 players"
       ]
     },
     {
@@ -5514,22 +6419,30 @@
         ],
         "TGDB": [
           "22417"
+        ],
+        "RAWG": [
+          "55738"
         ]
       },
-      "OverviewId": 79,
+      "OverviewId": 91,
       "Size": 131136,
       "Publishers": [
         "Telegames"
       ],
       "Developers": [
-        "Telegames, Inc."
+        "Telegames, Inc.",
+        "Telegames"
       ],
-      "ReleaseDate": "8/1/1991",
+      "ReleaseDate": "1/1/1991",
       "Genres": [
-        "Puzzle"
+        "Puzzle",
+        "Strategy"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "2 players"
       ]
     },
     {
@@ -5545,25 +6458,31 @@
         ],
         "TGDB": [
           "22417"
+        ],
+        "RAWG": [
+          "55738"
         ]
       },
-      "OverviewId": 79,
+      "OverviewId": 91,
       "Size": 131136,
       "Publishers": [
         "Telegames"
       ],
       "Developers": [
-        "Telegames, Inc."
+        "Telegames, Inc.",
+        "Telegames"
       ],
-      "ReleaseDate": "8/1/1991",
+      "ReleaseDate": "1/1/1991",
       "Genres": [
-        "Puzzle"
+        "Puzzle",
+        "Strategy"
       ],
       "Languages": [
         "en"
       ],
       "Tags": [
-        "Alternate"
+        "Alternate",
+        "2 players"
       ]
     },
     {
@@ -5642,22 +6561,31 @@
         ],
         "TGDB": [
           "22418"
+        ],
+        "RAWG": [
+          "55742"
         ]
       },
-      "OverviewId": 28,
+      "OverviewId": 112,
       "Size": 262208,
       "Publishers": [
-        "Tengen Inc"
+        "Tengen Inc",
+        "Atari"
       ],
       "Developers": [
         "Atari"
       ],
-      "ReleaseDate": "8/1/1990",
+      "ReleaseDate": "1/1/1990",
       "Genres": [
         "Fighting"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer",
+        "cooperative"
       ]
     },
     {
@@ -5673,17 +6601,21 @@
         ],
         "TGDB": [
           "22418"
+        ],
+        "RAWG": [
+          "55742"
         ]
       },
-      "OverviewId": 28,
+      "OverviewId": 112,
       "Size": 131136,
       "Publishers": [
-        "Tengen Inc"
+        "Tengen Inc",
+        "Atari"
       ],
       "Developers": [
         "Atari"
       ],
-      "ReleaseDate": "8/1/1990",
+      "ReleaseDate": "1/1/1990",
       "Genres": [
         "Fighting"
       ],
@@ -5691,7 +6623,10 @@
         "en"
       ],
       "Tags": [
-        "Alternate"
+        "Alternate",
+        "Multiplayer",
+        "Singleplayer",
+        "cooperative"
       ]
     },
     {
@@ -5798,7 +6733,8 @@
     },
     {
       "Titles": [
-        "Hard Drivin'"
+        "Hard Drivin'",
+        "Hard Drivin' (1990)"
       ],
       "Sha1": "d15e40f97d277615e03e861d5962d3f5b35e1d58",
       "Crc32": "2f20bac7",
@@ -5808,27 +6744,41 @@
         ],
         "TGDB": [
           "22420"
+        ],
+        "RAWG": [
+          "55480"
         ]
       },
-      "OverviewId": 30,
+      "OverviewId": 102,
       "Size": 262208,
       "Publishers": [
-        "Tengen Inc"
-      ],
-      "Developers": [
+        "Tengen Inc",
         "Atari"
       ],
-      "ReleaseDate": "1/1/1993",
+      "Developers": [
+        "Atari",
+        "Atari Games",
+        "Tengen",
+        "Domark",
+        "Sterling Silver Software",
+        "Atari Games Applied Research Group"
+      ],
+      "ReleaseDate": "12/21/1990",
       "Genres": [
         "Racing"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "2 players"
       ]
     },
     {
       "Titles": [
-        "Hard Drivin'"
+        "Hard Drivin'",
+        "Hard Drivin' (1990)"
       ],
       "Sha1": "afe1a2b3ed37596378b2d40f54e1635bf15c5600",
       "Crc32": "9add0861",
@@ -5838,27 +6788,41 @@
         ],
         "TGDB": [
           "22420"
+        ],
+        "RAWG": [
+          "55480"
         ]
       },
-      "OverviewId": 30,
+      "OverviewId": 102,
       "Size": 131136,
       "Publishers": [
-        "Tengen Inc"
-      ],
-      "Developers": [
+        "Tengen Inc",
         "Atari"
       ],
-      "ReleaseDate": "1/1/1993",
+      "Developers": [
+        "Atari",
+        "Atari Games",
+        "Tengen",
+        "Domark",
+        "Sterling Silver Software",
+        "Atari Games Applied Research Group"
+      ],
+      "ReleaseDate": "12/21/1990",
       "Genres": [
         "Racing"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "2 players"
       ]
     },
     {
       "Titles": [
-        "Hard Drivin'"
+        "Hard Drivin'",
+        "Hard Drivin' (1990)"
       ],
       "Sha1": "758ac32ef7c1aa7ad96393236795d70058d9af2c",
       "Crc32": "69b874b2",
@@ -5868,17 +6832,26 @@
         ],
         "TGDB": [
           "22420"
+        ],
+        "RAWG": [
+          "55480"
         ]
       },
-      "OverviewId": 30,
+      "OverviewId": 102,
       "Size": 131136,
       "Publishers": [
-        "Tengen Inc"
-      ],
-      "Developers": [
+        "Tengen Inc",
         "Atari"
       ],
-      "ReleaseDate": "1/1/1993",
+      "Developers": [
+        "Atari",
+        "Atari Games",
+        "Tengen",
+        "Domark",
+        "Sterling Silver Software",
+        "Atari Games Applied Research Group"
+      ],
+      "ReleaseDate": "12/21/1990",
       "Genres": [
         "Racing"
       ],
@@ -5886,7 +6859,9 @@
         "en"
       ],
       "Tags": [
-        "Alternate"
+        "Alternate",
+        "Singleplayer",
+        "2 players"
       ]
     },
     {
@@ -6071,19 +7046,31 @@
         ],
         "TGDB": [
           "22425"
+        ],
+        "RAWG": [
+          "53881"
         ]
       },
-      "OverviewId": 34,
+      "OverviewId": 93,
       "Size": 524352,
       "Publishers": [
-        "Atari Corp"
+        "Atari Corp",
+        "Ubisoft Entertainment"
       ],
-      "ReleaseDate": "8/1/1993",
+      "Developers": [
+        "NMS Software"
+      ],
+      "ReleaseDate": "11/1/1993",
       "Genres": [
         "Sports"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Two Players",
+        "One player"
       ]
     },
     {
@@ -6099,19 +7086,31 @@
         ],
         "TGDB": [
           "22425"
+        ],
+        "RAWG": [
+          "53881"
         ]
       },
-      "OverviewId": 34,
+      "OverviewId": 93,
       "Size": 524352,
       "Publishers": [
-        "Atari Corp"
+        "Atari Corp",
+        "Ubisoft Entertainment"
       ],
-      "ReleaseDate": "8/1/1993",
+      "Developers": [
+        "NMS Software"
+      ],
+      "ReleaseDate": "11/1/1993",
       "Genres": [
         "Sports"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Two Players",
+        "One player"
       ]
     },
     {
@@ -6127,14 +7126,21 @@
         ],
         "TGDB": [
           "22425"
+        ],
+        "RAWG": [
+          "53881"
         ]
       },
-      "OverviewId": 34,
+      "OverviewId": 93,
       "Size": 524352,
       "Publishers": [
-        "Atari Corp"
+        "Atari Corp",
+        "Ubisoft Entertainment"
       ],
-      "ReleaseDate": "8/1/1993",
+      "Developers": [
+        "NMS Software"
+      ],
+      "ReleaseDate": "11/1/1993",
       "Genres": [
         "Sports"
       ],
@@ -6142,7 +7148,10 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "Singleplayer",
+        "Two Players",
+        "One player"
       ]
     },
     {
@@ -6168,6 +7177,7 @@
         "Shadowsoft"
       ],
       "ReleaseDate": "1/1/1993",
+      "Score": 3.6388888888888884,
       "Genres": [
         "Fighting"
       ],
@@ -6198,6 +7208,7 @@
         "Shadowsoft"
       ],
       "ReleaseDate": "1/1/1993",
+      "Score": 3.6388888888888884,
       "Genres": [
         "Fighting"
       ],
@@ -6228,6 +7239,7 @@
         "Shadowsoft"
       ],
       "ReleaseDate": "1/1/1993",
+      "Score": 3.6388888888888884,
       "Genres": [
         "Fighting"
       ],
@@ -6262,6 +7274,7 @@
         "Atari"
       ],
       "ReleaseDate": "8/2/1990",
+      "Score": 3.6,
       "Genres": [
         "Puzzle"
       ],
@@ -6294,6 +7307,7 @@
         "Atari"
       ],
       "ReleaseDate": "8/2/1990",
+      "Score": 3.6,
       "Genres": [
         "Puzzle"
       ],
@@ -6422,23 +7436,30 @@
         ],
         "TGDB": [
           "22428"
+        ],
+        "RAWG": [
+          "55743"
         ]
       },
-      "OverviewId": 38,
+      "OverviewId": 118,
       "Size": 262208,
       "Publishers": [
         "Atari Corp",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Atari"
       ],
       "Developers": [
         "Lore Games"
       ],
-      "ReleaseDate": "5/8/1992",
+      "ReleaseDate": "1/1/1992",
       "Genres": [
         "Action"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer"
       ]
     },
     {
@@ -6453,18 +7474,22 @@
         ],
         "TGDB": [
           "22428"
+        ],
+        "RAWG": [
+          "55743"
         ]
       },
-      "OverviewId": 38,
+      "OverviewId": 118,
       "Size": 262208,
       "Publishers": [
         "Atari Corp",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Atari"
       ],
       "Developers": [
         "Lore Games"
       ],
-      "ReleaseDate": "5/8/1992",
+      "ReleaseDate": "1/1/1992",
       "Genres": [
         "Action"
       ],
@@ -6472,7 +7497,8 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "Singleplayer"
       ]
     },
     {
@@ -6694,22 +7720,31 @@
         ],
         "TGDB": [
           "22431"
+        ],
+        "RAWG": [
+          "55744"
         ]
       },
-      "OverviewId": 42,
+      "OverviewId": 100,
       "Size": 262208,
       "Publishers": [
-        "Atari Corp"
-      ],
-      "Developers": [
+        "Atari Corp",
         "Atari"
       ],
-      "ReleaseDate": "8/5/1992",
+      "Developers": [
+        "Atari",
+        "Brian A. Rice"
+      ],
+      "ReleaseDate": "1/1/1992",
       "Genres": [
         "Puzzle"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -6724,17 +7759,22 @@
         ],
         "TGDB": [
           "22431"
+        ],
+        "RAWG": [
+          "55744"
         ]
       },
-      "OverviewId": 42,
+      "OverviewId": 100,
       "Size": 262208,
       "Publishers": [
-        "Atari Corp"
-      ],
-      "Developers": [
+        "Atari Corp",
         "Atari"
       ],
-      "ReleaseDate": "8/5/1992",
+      "Developers": [
+        "Atari",
+        "Brian A. Rice"
+      ],
+      "ReleaseDate": "1/1/1992",
       "Genres": [
         "Puzzle"
       ],
@@ -6742,7 +7782,9 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -6934,23 +7976,38 @@
         ],
         "TGDB": [
           "22434"
+        ],
+        "RAWG": [
+          "52438"
         ]
       },
-      "OverviewId": 45,
+      "OverviewId": 123,
       "Size": 262208,
       "Publishers": [
         "Atari Corp",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Midway Games",
+        "Namco",
+        "Midway Manufacturing"
       ],
       "Developers": [
-        "Atari"
+        "Atari",
+        "Midway Games",
+        "Midway Manufacturing",
+        "General Computer Corporation"
       ],
-      "ReleaseDate": "1/1/1990",
+      "ReleaseDate": "1/12/1981",
+      "Score": 4.39,
       "Genres": [
-        "Action"
+        "Action",
+        "Arcade"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "alternating turns",
+        "2 players"
       ]
     },
     {
@@ -6967,26 +8024,39 @@
         ],
         "TGDB": [
           "22434"
+        ],
+        "RAWG": [
+          "52438"
         ]
       },
-      "OverviewId": 45,
+      "OverviewId": 123,
       "Size": 131136,
       "Publishers": [
         "Atari Corp",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Midway Games",
+        "Namco",
+        "Midway Manufacturing"
       ],
       "Developers": [
-        "Atari"
+        "Atari",
+        "Midway Games",
+        "Midway Manufacturing",
+        "General Computer Corporation"
       ],
-      "ReleaseDate": "1/1/1990",
+      "ReleaseDate": "1/12/1981",
+      "Score": 4.39,
       "Genres": [
-        "Action"
+        "Action",
+        "Arcade"
       ],
       "Languages": [
         "en"
       ],
       "Tags": [
-        "Alternate"
+        "Alternate",
+        "alternating turns",
+        "2 players"
       ]
     },
     {
@@ -7003,31 +8073,45 @@
         ],
         "TGDB": [
           "22434"
+        ],
+        "RAWG": [
+          "52438"
         ]
       },
-      "OverviewId": 45,
+      "OverviewId": 123,
       "Size": 131136,
       "Publishers": [
         "Atari Corp",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Midway Games",
+        "Namco",
+        "Midway Manufacturing"
       ],
       "Developers": [
-        "Atari"
+        "Atari",
+        "Midway Games",
+        "Midway Manufacturing",
+        "General Computer Corporation"
       ],
-      "ReleaseDate": "1/1/1990",
+      "ReleaseDate": "1/12/1981",
+      "Score": 4.39,
       "Genres": [
-        "Action"
+        "Action",
+        "Arcade"
       ],
       "Languages": [
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "alternating turns",
+        "2 players"
       ]
     },
     {
       "Titles": [
-        "NFL Football"
+        "NFL Football",
+        "NFL Football (1979)"
       ],
       "Sha1": "22735fcd59eb028a4041027a369602b0bd968eb5",
       "Crc32": "c398359e",
@@ -7037,24 +8121,35 @@
         ],
         "TGDB": [
           "22435"
+        ],
+        "RAWG": [
+          "55309"
         ]
       },
-      "OverviewId": 46,
+      "OverviewId": 88,
       "Size": 262208,
       "Publishers": [
-        "Atari Corp"
+        "Atari Corp",
+        "Mattel"
       ],
-      "ReleaseDate": "12/31/1992",
+      "Developers": [
+        "Mattel"
+      ],
+      "ReleaseDate": "1/1/1979",
       "Genres": [
         "Sports"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Multiplayer"
       ]
     },
     {
       "Titles": [
-        "NFL Football"
+        "NFL Football",
+        "NFL Football (1979)"
       ],
       "Sha1": "76b4d3c29c1e68c8a62cc2913daf4884c3913b62",
       "Crc32": "cdf2732f",
@@ -7064,14 +8159,21 @@
         ],
         "TGDB": [
           "22435"
+        ],
+        "RAWG": [
+          "55309"
         ]
       },
-      "OverviewId": 46,
+      "OverviewId": 88,
       "Size": 262208,
       "Publishers": [
-        "Atari Corp"
+        "Atari Corp",
+        "Mattel"
       ],
-      "ReleaseDate": "12/31/1992",
+      "Developers": [
+        "Mattel"
+      ],
+      "ReleaseDate": "1/1/1979",
       "Genres": [
         "Sports"
       ],
@@ -7079,7 +8181,8 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "Multiplayer"
       ]
     },
     {
@@ -7248,7 +8351,8 @@
     },
     {
       "Titles": [
-        "Pac-Land"
+        "Pac-Land",
+        "Pac-Land (1985)"
       ],
       "Sha1": "b8d8d6f09322a4d4fddb4526195c2c070371677a",
       "Crc32": "635179ba",
@@ -7258,27 +8362,45 @@
         ],
         "TGDB": [
           "23774"
+        ],
+        "RAWG": [
+          "55576"
         ]
       },
-      "OverviewId": 48,
+      "OverviewId": 105,
       "Size": 262208,
       "Publishers": [
-        "Atari Corp"
+        "Atari Corp",
+        "Atari",
+        "Namco",
+        "Bally Midway",
+        "NEC",
+        "Grandslam Entertainment",
+        "Quicksilva"
       ],
       "Developers": [
-        "Atari"
+        "Atari",
+        "NAMCO",
+        "Grandslam Entertainment",
+        "Mr. Micro"
       ],
-      "ReleaseDate": "8/1/1991",
+      "ReleaseDate": "11/21/1985",
       "Genres": [
         "Adventure"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "alternating turns",
+        "2 players"
       ]
     },
     {
       "Titles": [
-        "Pac-Land"
+        "Pac-Land",
+        "Pac-Land (1985)"
       ],
       "Sha1": "ca4f651c9955b756a88d3e7714f033c592fa0f6a",
       "Crc32": "5b57126a",
@@ -7288,17 +8410,29 @@
         ],
         "TGDB": [
           "23774"
+        ],
+        "RAWG": [
+          "55576"
         ]
       },
-      "OverviewId": 48,
+      "OverviewId": 105,
       "Size": 131136,
       "Publishers": [
-        "Atari Corp"
+        "Atari Corp",
+        "Atari",
+        "Namco",
+        "Bally Midway",
+        "NEC",
+        "Grandslam Entertainment",
+        "Quicksilva"
       ],
       "Developers": [
-        "Atari"
+        "Atari",
+        "NAMCO",
+        "Grandslam Entertainment",
+        "Mr. Micro"
       ],
-      "ReleaseDate": "8/1/1991",
+      "ReleaseDate": "11/21/1985",
       "Genres": [
         "Adventure"
       ],
@@ -7306,7 +8440,10 @@
         "en"
       ],
       "Tags": [
-        "Alternate"
+        "Alternate",
+        "Singleplayer",
+        "alternating turns",
+        "2 players"
       ]
     },
     {
@@ -7321,24 +8458,36 @@
         ],
         "TGDB": [
           "23890"
+        ],
+        "RAWG": [
+          "53467"
         ]
       },
-      "OverviewId": 49,
+      "OverviewId": 104,
       "Size": 262208,
       "Publishers": [
         "Tengen Inc",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Atari",
+        "MINDSCAPE",
+        "Elite Systems"
       ],
       "Developers": [
-        "Atari"
+        "Atari",
+        "Atari Games",
+        "Eastridge Technology (NES)"
       ],
-      "ReleaseDate": "1/1/1990",
+      "ReleaseDate": "4/1/1985",
       "ESRB": "E",
       "Genres": [
         "Action"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "2 players"
       ]
     },
     {
@@ -7353,24 +8502,36 @@
         ],
         "TGDB": [
           "23890"
+        ],
+        "RAWG": [
+          "53467"
         ]
       },
-      "OverviewId": 49,
+      "OverviewId": 104,
       "Size": 131136,
       "Publishers": [
         "Tengen Inc",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Atari",
+        "MINDSCAPE",
+        "Elite Systems"
       ],
       "Developers": [
-        "Atari"
+        "Atari",
+        "Atari Games",
+        "Eastridge Technology (NES)"
       ],
-      "ReleaseDate": "1/1/1990",
+      "ReleaseDate": "4/1/1985",
       "ESRB": "E",
       "Genres": [
         "Action"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "2 players"
       ]
     },
     {
@@ -7385,18 +8546,26 @@
         ],
         "TGDB": [
           "23890"
+        ],
+        "RAWG": [
+          "53467"
         ]
       },
-      "OverviewId": 49,
+      "OverviewId": 104,
       "Size": 131136,
       "Publishers": [
         "Tengen Inc",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Atari",
+        "MINDSCAPE",
+        "Elite Systems"
       ],
       "Developers": [
-        "Atari"
+        "Atari",
+        "Atari Games",
+        "Eastridge Technology (NES)"
       ],
-      "ReleaseDate": "1/1/1990",
+      "ReleaseDate": "4/1/1985",
       "ESRB": "E",
       "Genres": [
         "Action"
@@ -7405,7 +8574,9 @@
         "en"
       ],
       "Tags": [
-        "Alternate"
+        "Alternate",
+        "Singleplayer",
+        "2 players"
       ]
     },
     {
@@ -7650,7 +8821,8 @@
     {
       "Titles": [
         "Qix",
-        "QIX"
+        "QIX",
+        "Qix (1990)"
       ],
       "Sha1": "ed3ce34c4dec35edc4885de2cfa1a8dc61a38452",
       "Crc32": "48e45bd2",
@@ -7660,30 +8832,49 @@
         ],
         "TGDB": [
           "27052"
+        ],
+        "RAWG": [
+          "54003"
         ]
       },
-      "OverviewId": 52,
+      "OverviewId": 124,
       "Size": 262208,
       "Publishers": [
         "Telegames",
-        "Telegames, Inc."
+        "Telegames, Inc.",
+        "Atari",
+        "TAITO Corporation",
+        "Nintendo",
+        "Taito",
+        "Takara"
       ],
       "Developers": [
-        "Knight Technologies"
+        "Knight Technologies",
+        "Atari",
+        "Taito",
+        "TAITO Corporation",
+        "Novotrade",
+        "Takara",
+        "Nintendo",
+        "Alien Technology"
       ],
-      "ReleaseDate": "1/1/1991",
+      "ReleaseDate": "4/13/1990",
       "Genres": [
         "Action"
       ],
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "alternating turns",
+        "2 players"
+      ]
     },
     {
       "Titles": [
         "Qix",
-        "QIX"
+        "QIX",
+        "Qix (1990)"
       ],
       "Sha1": "ab9545de5b867c930afed570668d03b1ee41a9dd",
       "Crc32": "5651e1a8",
@@ -7693,18 +8884,33 @@
         ],
         "TGDB": [
           "27052"
+        ],
+        "RAWG": [
+          "54003"
         ]
       },
-      "OverviewId": 52,
+      "OverviewId": 124,
       "Size": 131136,
       "Publishers": [
         "Telegames",
-        "Telegames, Inc."
+        "Telegames, Inc.",
+        "Atari",
+        "TAITO Corporation",
+        "Nintendo",
+        "Taito",
+        "Takara"
       ],
       "Developers": [
-        "Knight Technologies"
+        "Knight Technologies",
+        "Atari",
+        "Taito",
+        "TAITO Corporation",
+        "Novotrade",
+        "Takara",
+        "Nintendo",
+        "Alien Technology"
       ],
-      "ReleaseDate": "1/1/1991",
+      "ReleaseDate": "4/13/1990",
       "Genres": [
         "Action"
       ],
@@ -7712,12 +8918,15 @@
         "en"
       ],
       "Tags": [
-        "Alternate"
+        "Alternate",
+        "alternating turns",
+        "2 players"
       ]
     },
     {
       "Titles": [
-        "Raiden"
+        "Raiden",
+        "Raiden (1991)"
       ],
       "Sha1": "3b0048d6b3ab5af0812c470217cfede5bb1bf791",
       "Crc32": "df1741bb",
@@ -7727,18 +8936,31 @@
         ],
         "TGDB": [
           "31701"
+        ],
+        "RAWG": [
+          "55598"
         ]
       },
-      "OverviewId": 53,
+      "OverviewId": 109,
       "Size": 262208,
       "Publishers": [
         "Atari Corp",
-        "Telegames, Inc."
+        "Telegames, Inc.",
+        "DotEmu",
+        "HAMSTER Corporation",
+        "Fabtek",
+        "Arcade version:",
+        "Micronet co., Ltd.",
+        "PlayStation version:",
+        "Liang HWA Electronics",
+        "IBL Corporation",
+        "Seibu Kaihatsu"
       ],
       "Developers": [
-        "Seibu Kaihatsu Inc."
+        "Seibu Kaihatsu Inc.",
+        "Seibu Kaihatsu"
       ],
-      "ReleaseDate": "10/20/1997",
+      "ReleaseDate": "7/6/1991",
       "Genres": [
         "Shooter"
       ],
@@ -7746,12 +8968,16 @@
         "en"
       ],
       "Tags": [
-        "Co-op"
+        "Co-op",
+        "Multiplayer",
+        "Singleplayer",
+        "cooperative"
       ]
     },
     {
       "Titles": [
-        "Raiden"
+        "Raiden",
+        "Raiden (1991)"
       ],
       "Sha1": "e02593514a5a081a9dceeebeb2972917a7939ede",
       "Crc32": "51d8c2e8",
@@ -7761,18 +8987,31 @@
         ],
         "TGDB": [
           "31701"
+        ],
+        "RAWG": [
+          "55598"
         ]
       },
-      "OverviewId": 53,
+      "OverviewId": 109,
       "Size": 262208,
       "Publishers": [
         "Atari Corp",
-        "Telegames, Inc."
+        "Telegames, Inc.",
+        "DotEmu",
+        "HAMSTER Corporation",
+        "Fabtek",
+        "Arcade version:",
+        "Micronet co., Ltd.",
+        "PlayStation version:",
+        "Liang HWA Electronics",
+        "IBL Corporation",
+        "Seibu Kaihatsu"
       ],
       "Developers": [
-        "Seibu Kaihatsu Inc."
+        "Seibu Kaihatsu Inc.",
+        "Seibu Kaihatsu"
       ],
-      "ReleaseDate": "10/20/1997",
+      "ReleaseDate": "7/6/1991",
       "Genres": [
         "Shooter"
       ],
@@ -7780,12 +9019,16 @@
         "en"
       ],
       "Tags": [
-        "Co-op"
+        "Co-op",
+        "Multiplayer",
+        "Singleplayer",
+        "cooperative"
       ]
     },
     {
       "Titles": [
-        "Raiden"
+        "Raiden",
+        "Raiden (1991)"
       ],
       "Sha1": "752a58e02787afc145f5245aec3577ad4bff954e",
       "Crc32": "2702ba4f",
@@ -7795,18 +9038,31 @@
         ],
         "TGDB": [
           "31701"
+        ],
+        "RAWG": [
+          "55598"
         ]
       },
-      "OverviewId": 53,
+      "OverviewId": 109,
       "Size": 262208,
       "Publishers": [
         "Atari Corp",
-        "Telegames, Inc."
+        "Telegames, Inc.",
+        "DotEmu",
+        "HAMSTER Corporation",
+        "Fabtek",
+        "Arcade version:",
+        "Micronet co., Ltd.",
+        "PlayStation version:",
+        "Liang HWA Electronics",
+        "IBL Corporation",
+        "Seibu Kaihatsu"
       ],
       "Developers": [
-        "Seibu Kaihatsu Inc."
+        "Seibu Kaihatsu Inc.",
+        "Seibu Kaihatsu"
       ],
-      "ReleaseDate": "10/20/1997",
+      "ReleaseDate": "7/6/1991",
       "Genres": [
         "Shooter"
       ],
@@ -7815,7 +9071,10 @@
       ],
       "Tags": [
         "Alternate",
-        "Co-op"
+        "Co-op",
+        "Multiplayer",
+        "Singleplayer",
+        "cooperative"
       ]
     },
     {
@@ -7842,6 +9101,7 @@
         "Epyx"
       ],
       "ReleaseDate": "1/1/1991",
+      "Score": 2.9,
       "Genres": [
         "Action"
       ],
@@ -7874,6 +9134,7 @@
         "Epyx"
       ],
       "ReleaseDate": "1/1/1991",
+      "Score": 2.9,
       "Genres": [
         "Action"
       ],
@@ -8229,22 +9490,31 @@
         ],
         "TGDB": [
           "27040"
+        ],
+        "RAWG": [
+          "55747"
         ]
       },
-      "OverviewId": 61,
+      "OverviewId": 117,
       "Size": 262208,
       "Publishers": [
-        "Tengen Inc"
-      ],
-      "Developers": [
+        "Tengen Inc",
         "Atari"
       ],
-      "ReleaseDate": "8/1/1991",
+      "Developers": [
+        "Atari",
+        "Atari Games"
+      ],
+      "ReleaseDate": "1/1/1989",
       "Genres": [
-        "Shooter"
+        "Shooter",
+        "Racing"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer"
       ]
     },
     {
@@ -8259,25 +9529,32 @@
         ],
         "TGDB": [
           "27040"
+        ],
+        "RAWG": [
+          "55747"
         ]
       },
-      "OverviewId": 61,
+      "OverviewId": 117,
       "Size": 262208,
       "Publishers": [
-        "Tengen Inc"
-      ],
-      "Developers": [
+        "Tengen Inc",
         "Atari"
       ],
-      "ReleaseDate": "8/1/1991",
+      "Developers": [
+        "Atari",
+        "Atari Games"
+      ],
+      "ReleaseDate": "1/1/1989",
       "Genres": [
-        "Shooter"
+        "Shooter",
+        "Racing"
       ],
       "Languages": [
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "Singleplayer"
       ]
     },
     {
@@ -8292,6 +9569,9 @@
         ],
         "TGDB": [
           "19555"
+        ],
+        "RAWG": [
+          "779741"
         ]
       },
       "OverviewId": 62,
@@ -8322,6 +9602,9 @@
         ],
         "TGDB": [
           "19555"
+        ],
+        "RAWG": [
+          "779741"
         ]
       },
       "OverviewId": 62,
@@ -8345,7 +9628,8 @@
     },
     {
       "Titles": [
-        "Shadow of the Beast"
+        "Shadow of the Beast",
+        "Shadow of the Beast (1989)"
       ],
       "Sha1": "04d0eec3d595b3da9fec55a20ef7fbc0d2a19c26",
       "Crc32": "904ff064",
@@ -8355,27 +9639,38 @@
         ],
         "TGDB": [
           "27041"
+        ],
+        "RAWG": [
+          "54310"
         ]
       },
-      "OverviewId": 63,
+      "OverviewId": 119,
       "Size": 262208,
       "Publishers": [
-        "Atari Corp"
+        "Atari Corp",
+        "Psygnosis",
+        "SCE Studio Liverpool"
       ],
       "Developers": [
-        "Psygnosis Limited"
+        "Psygnosis Limited",
+        "Ubisoft Reflections",
+        "Reflections Interactive"
       ],
-      "ReleaseDate": "8/1/1992",
+      "ReleaseDate": "1/1/1989",
       "Genres": [
         "Action"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer"
       ]
     },
     {
       "Titles": [
-        "Shadow of the Beast"
+        "Shadow of the Beast",
+        "Shadow of the Beast (1989)"
       ],
       "Sha1": "f4bda927017465cfd417d5ad8a62fa095cc3a101",
       "Crc32": "d43a8430",
@@ -8385,17 +9680,24 @@
         ],
         "TGDB": [
           "27041"
+        ],
+        "RAWG": [
+          "54310"
         ]
       },
-      "OverviewId": 63,
+      "OverviewId": 119,
       "Size": 262208,
       "Publishers": [
-        "Atari Corp"
+        "Atari Corp",
+        "Psygnosis",
+        "SCE Studio Liverpool"
       ],
       "Developers": [
-        "Psygnosis Limited"
+        "Psygnosis Limited",
+        "Ubisoft Reflections",
+        "Reflections Interactive"
       ],
-      "ReleaseDate": "8/1/1992",
+      "ReleaseDate": "1/1/1989",
       "Genres": [
         "Action"
       ],
@@ -8403,12 +9705,14 @@
         "en"
       ],
       "Tags": [
-        "Alternate"
+        "Alternate",
+        "Singleplayer"
       ]
     },
     {
       "Titles": [
-        "Shadow of the Beast"
+        "Shadow of the Beast",
+        "Shadow of the Beast (1989)"
       ],
       "Sha1": "88b31086dee1c4a4f40c47aa6848d4fdd398c9b0",
       "Crc32": "0948227a",
@@ -8418,17 +9722,24 @@
         ],
         "TGDB": [
           "27041"
+        ],
+        "RAWG": [
+          "54310"
         ]
       },
-      "OverviewId": 63,
+      "OverviewId": 119,
       "Size": 262208,
       "Publishers": [
-        "Atari Corp"
+        "Atari Corp",
+        "Psygnosis",
+        "SCE Studio Liverpool"
       ],
       "Developers": [
-        "Psygnosis Limited"
+        "Psygnosis Limited",
+        "Ubisoft Reflections",
+        "Reflections Interactive"
       ],
-      "ReleaseDate": "8/1/1992",
+      "ReleaseDate": "1/1/1989",
       "Genres": [
         "Action"
       ],
@@ -8436,7 +9747,8 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "Singleplayer"
       ]
     },
     {
@@ -8451,22 +9763,30 @@
         ],
         "TGDB": [
           "27045"
+        ],
+        "RAWG": [
+          "54897"
         ]
       },
-      "OverviewId": 64,
+      "OverviewId": 99,
       "Size": 262208,
       "Publishers": [
-        "Atari Corp"
+        "Atari Corp",
+        "Activision Blizzard"
       ],
       "Developers": [
         "Atari"
       ],
-      "ReleaseDate": "8/3/1990",
+      "ReleaseDate": "1/1/1986",
       "Genres": [
         "Puzzle"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "atari",
+        "solitaire"
       ]
     },
     {
@@ -8481,17 +9801,21 @@
         ],
         "TGDB": [
           "27045"
+        ],
+        "RAWG": [
+          "54897"
         ]
       },
-      "OverviewId": 64,
+      "OverviewId": 99,
       "Size": 131136,
       "Publishers": [
-        "Atari Corp"
+        "Atari Corp",
+        "Activision Blizzard"
       ],
       "Developers": [
         "Atari"
       ],
-      "ReleaseDate": "8/3/1990",
+      "ReleaseDate": "1/1/1986",
       "Genres": [
         "Puzzle"
       ],
@@ -8499,7 +9823,9 @@
         "en"
       ],
       "Tags": [
-        "Alternate"
+        "Alternate",
+        "atari",
+        "solitaire"
       ]
     },
     {
@@ -8514,22 +9840,30 @@
         ],
         "TGDB": [
           "27042"
+        ],
+        "RAWG": [
+          "55746"
         ]
       },
-      "OverviewId": 65,
+      "OverviewId": 106,
       "Size": 262208,
       "Publishers": [
-        "Tengen Inc"
-      ],
-      "Developers": [
+        "Tengen Inc",
         "Atari"
       ],
-      "ReleaseDate": "8/1/1992",
+      "Developers": [
+        "Atari",
+        "Atari Games"
+      ],
+      "ReleaseDate": "1/1/1991",
       "Genres": [
         "Shooter"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer"
       ]
     },
     {
@@ -8544,17 +9878,22 @@
         ],
         "TGDB": [
           "27042"
+        ],
+        "RAWG": [
+          "55746"
         ]
       },
-      "OverviewId": 65,
+      "OverviewId": 106,
       "Size": 262208,
       "Publishers": [
-        "Tengen Inc"
-      ],
-      "Developers": [
+        "Tengen Inc",
         "Atari"
       ],
-      "ReleaseDate": "8/1/1992",
+      "Developers": [
+        "Atari",
+        "Atari Games"
+      ],
+      "ReleaseDate": "1/1/1991",
       "Genres": [
         "Shooter"
       ],
@@ -8562,7 +9901,8 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "Singleplayer"
       ]
     },
     {
@@ -8577,22 +9917,30 @@
         ],
         "TGDB": [
           "27053"
+        ],
+        "RAWG": [
+          "55748"
         ]
       },
-      "OverviewId": 66,
+      "OverviewId": 121,
       "Size": 262208,
       "Publishers": [
-        "Atari Corp"
-      ],
-      "Developers": [
+        "Atari Corp",
         "Atari"
       ],
-      "ReleaseDate": "8/2/1995",
+      "Developers": [
+        "Atari",
+        "Atari Corporation"
+      ],
+      "ReleaseDate": "1/1/1995",
       "Genres": [
         "Shooter"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer"
       ]
     },
     {
@@ -8607,17 +9955,22 @@
         ],
         "TGDB": [
           "27053"
+        ],
+        "RAWG": [
+          "55748"
         ]
       },
-      "OverviewId": 66,
+      "OverviewId": 121,
       "Size": 131136,
       "Publishers": [
-        "Atari Corp"
-      ],
-      "Developers": [
+        "Atari Corp",
         "Atari"
       ],
-      "ReleaseDate": "8/2/1995",
+      "Developers": [
+        "Atari",
+        "Atari Corporation"
+      ],
+      "ReleaseDate": "1/1/1995",
       "Genres": [
         "Shooter"
       ],
@@ -8625,7 +9978,8 @@
         "en"
       ],
       "Tags": [
-        "Alternate"
+        "Alternate",
+        "Singleplayer"
       ]
     },
     {
@@ -9023,22 +10377,37 @@
         ],
         "TGDB": [
           "27046"
+        ],
+        "RAWG": [
+          "54106"
         ]
       },
-      "OverviewId": 70,
+      "OverviewId": 95,
       "Size": 262208,
       "Publishers": [
-        "Atari Corp"
+        "Atari Corp",
+        "SEGA",
+        "Taito",
+        "Ocean",
+        "Fabtek",
+        "Magic Team (iOS)"
       ],
       "Developers": [
-        "Atari"
+        "Atari",
+        "Tad Corporation",
+        "Daiei Seisakusho (NES)",
+        "Magic Team (iOS)"
       ],
-      "ReleaseDate": "8/1/1992",
+      "ReleaseDate": "1/1/1989",
       "Genres": [
         "Adventure"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "2 players"
       ]
     },
     {
@@ -9053,17 +10422,28 @@
         ],
         "TGDB": [
           "27046"
+        ],
+        "RAWG": [
+          "54106"
         ]
       },
-      "OverviewId": 70,
+      "OverviewId": 95,
       "Size": 262208,
       "Publishers": [
-        "Atari Corp"
+        "Atari Corp",
+        "SEGA",
+        "Taito",
+        "Ocean",
+        "Fabtek",
+        "Magic Team (iOS)"
       ],
       "Developers": [
-        "Atari"
+        "Atari",
+        "Tad Corporation",
+        "Daiei Seisakusho (NES)",
+        "Magic Team (iOS)"
       ],
-      "ReleaseDate": "8/1/1992",
+      "ReleaseDate": "1/1/1989",
       "Genres": [
         "Adventure"
       ],
@@ -9071,7 +10451,9 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "Singleplayer",
+        "2 players"
       ]
     },
     {
@@ -9129,22 +10511,30 @@
         ],
         "TGDB": [
           "27048"
+        ],
+        "RAWG": [
+          "55750"
         ]
       },
       "OverviewId": 72,
       "Size": 262208,
       "Publishers": [
-        "Atari Corp"
-      ],
-      "Developers": [
+        "Atari Corp",
         "Atari"
       ],
-      "ReleaseDate": "8/8/1991",
+      "Developers": [
+        "Atari",
+        "Entertainment Sciences"
+      ],
+      "ReleaseDate": "1/1/1985",
       "Genres": [
         "Shooter"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "2 players"
       ]
     },
     {
@@ -9159,17 +10549,22 @@
         ],
         "TGDB": [
           "27048"
+        ],
+        "RAWG": [
+          "55750"
         ]
       },
       "OverviewId": 72,
       "Size": 131136,
       "Publishers": [
-        "Atari Corp"
-      ],
-      "Developers": [
+        "Atari Corp",
         "Atari"
       ],
-      "ReleaseDate": "8/8/1991",
+      "Developers": [
+        "Atari",
+        "Entertainment Sciences"
+      ],
+      "ReleaseDate": "1/1/1985",
       "Genres": [
         "Shooter"
       ],
@@ -9177,7 +10572,8 @@
         "en"
       ],
       "Tags": [
-        "Alternate"
+        "Alternate",
+        "2 players"
       ]
     },
     {
@@ -9192,22 +10588,33 @@
         ],
         "TGDB": [
           "27049"
+        ],
+        "RAWG": [
+          "55702"
         ]
       },
-      "OverviewId": 73,
+      "OverviewId": 107,
       "Size": 262208,
       "Publishers": [
-        "Atari Corp"
-      ],
-      "Developers": [
+        "Atari Corp",
         "Atari"
       ],
-      "ReleaseDate": "8/1/1991",
+      "Developers": [
+        "Atari",
+        "Imagitec Design",
+        "IDL"
+      ],
+      "ReleaseDate": "1/1/1991",
       "Genres": [
-        "Role-Playing"
+        "Role-Playing",
+        "Action"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Singleplayer",
+        "Singe-player"
       ]
     },
     {
@@ -9222,30 +10629,40 @@
         ],
         "TGDB": [
           "27049"
+        ],
+        "RAWG": [
+          "55702"
         ]
       },
-      "OverviewId": 73,
+      "OverviewId": 107,
       "Size": 262208,
       "Publishers": [
-        "Atari Corp"
-      ],
-      "Developers": [
+        "Atari Corp",
         "Atari"
       ],
-      "ReleaseDate": "8/1/1991",
+      "Developers": [
+        "Atari",
+        "Imagitec Design",
+        "IDL"
+      ],
+      "ReleaseDate": "1/1/1991",
       "Genres": [
-        "Role-Playing"
+        "Role-Playing",
+        "Action"
       ],
       "Languages": [
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "Singleplayer",
+        "Singe-player"
       ]
     },
     {
       "Titles": [
-        "Warbirds"
+        "Warbirds",
+        "Warbirds (1991)"
       ],
       "Sha1": "1ef0c1f7400debef08854bf521585bd3f10e7f67",
       "Crc32": "78574d46",
@@ -9255,27 +10672,36 @@
         ],
         "TGDB": [
           "19557"
+        ],
+        "RAWG": [
+          "55751"
         ]
       },
-      "OverviewId": 74,
+      "OverviewId": 108,
       "Size": 262208,
       "Publishers": [
-        "Atari Corp"
+        "Atari Corp",
+        "Atari"
       ],
       "Developers": [
         "Atari"
       ],
-      "ReleaseDate": "8/8/1991",
+      "ReleaseDate": "1/1/1991",
       "Genres": [
         "Shooter"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
       "Titles": [
-        "Warbirds"
+        "Warbirds",
+        "Warbirds (1991)"
       ],
       "Sha1": "340e76e14d0d1b961d2c2d2b1b7146381dda3a48",
       "Crc32": "a6ae2301",
@@ -9285,27 +10711,36 @@
         ],
         "TGDB": [
           "19557"
+        ],
+        "RAWG": [
+          "55751"
         ]
       },
-      "OverviewId": 74,
+      "OverviewId": 108,
       "Size": 131136,
       "Publishers": [
-        "Atari Corp"
+        "Atari Corp",
+        "Atari"
       ],
       "Developers": [
         "Atari"
       ],
-      "ReleaseDate": "8/8/1991",
+      "ReleaseDate": "1/1/1991",
       "Genres": [
         "Shooter"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
       "Titles": [
-        "Warbirds"
+        "Warbirds",
+        "Warbirds (1991)"
       ],
       "Sha1": "8401148c26175cee32bb1be9657fd0f54a9571d9",
       "Crc32": "ff7e433e",
@@ -9315,17 +10750,21 @@
         ],
         "TGDB": [
           "19557"
+        ],
+        "RAWG": [
+          "55751"
         ]
       },
-      "OverviewId": 74,
+      "OverviewId": 108,
       "Size": 131136,
       "Publishers": [
-        "Atari Corp"
+        "Atari Corp",
+        "Atari"
       ],
       "Developers": [
         "Atari"
       ],
-      "ReleaseDate": "8/8/1991",
+      "ReleaseDate": "1/1/1991",
       "Genres": [
         "Shooter"
       ],
@@ -9333,7 +10772,9 @@
         "en"
       ],
       "Tags": [
-        "Alternate"
+        "Alternate",
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -9441,25 +10882,38 @@
         ],
         "TGDB": [
           "19558"
+        ],
+        "RAWG": [
+          "52473"
         ]
       },
-      "OverviewId": 76,
+      "OverviewId": 89,
       "Size": 262208,
       "Publishers": [
         "Atari Corp",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Atari",
+        "Bally Midway",
+        "SunSoft (NES)"
       ],
       "Developers": [
-        "Bally Mfg. Corp."
+        "Bally Mfg. Corp.",
+        "Midway Games",
+        "SunSoft",
+        "Bally Midway"
       ],
-      "ReleaseDate": "1/1/1990",
+      "ReleaseDate": "1/1/1987",
+      "Score": 4.0,
       "Genres": [
         "Shooter"
       ],
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "Up to 3 players simultaneously",
+        "cooperative"
+      ]
     },
     {
       "Titles": [
@@ -9473,25 +10927,38 @@
         ],
         "TGDB": [
           "19558"
+        ],
+        "RAWG": [
+          "52473"
         ]
       },
-      "OverviewId": 76,
+      "OverviewId": 89,
       "Size": 131136,
       "Publishers": [
         "Atari Corp",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Atari",
+        "Bally Midway",
+        "SunSoft (NES)"
       ],
       "Developers": [
-        "Bally Mfg. Corp."
+        "Bally Mfg. Corp.",
+        "Midway Games",
+        "SunSoft",
+        "Bally Midway"
       ],
-      "ReleaseDate": "1/1/1990",
+      "ReleaseDate": "1/1/1987",
+      "Score": 4.0,
       "Genres": [
         "Shooter"
       ],
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "Up to 3 players simultaneously",
+        "cooperative"
+      ]
     },
     {
       "Titles": [
@@ -9505,25 +10972,38 @@
         ],
         "TGDB": [
           "19558"
+        ],
+        "RAWG": [
+          "52473"
         ]
       },
-      "OverviewId": 76,
+      "OverviewId": 89,
       "Size": 131136,
       "Publishers": [
         "Atari Corp",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Atari",
+        "Bally Midway",
+        "SunSoft (NES)"
       ],
       "Developers": [
-        "Bally Mfg. Corp."
+        "Bally Mfg. Corp.",
+        "Midway Games",
+        "SunSoft",
+        "Bally Midway"
       ],
-      "ReleaseDate": "1/1/1990",
+      "ReleaseDate": "1/1/1987",
+      "Score": 4.0,
       "Genres": [
         "Shooter"
       ],
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "Up to 3 players simultaneously",
+        "cooperative"
+      ]
     },
     {
       "Titles": [
@@ -9537,25 +11017,38 @@
         ],
         "TGDB": [
           "19558"
+        ],
+        "RAWG": [
+          "52473"
         ]
       },
-      "OverviewId": 76,
+      "OverviewId": 89,
       "Size": 131136,
       "Publishers": [
         "Atari Corp",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Atari",
+        "Bally Midway",
+        "SunSoft (NES)"
       ],
       "Developers": [
-        "Bally Mfg. Corp."
+        "Bally Mfg. Corp.",
+        "Midway Games",
+        "SunSoft",
+        "Bally Midway"
       ],
-      "ReleaseDate": "1/1/1990",
+      "ReleaseDate": "1/1/1987",
+      "Score": 4.0,
       "Genres": [
         "Shooter"
       ],
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "Up to 3 players simultaneously",
+        "cooperative"
+      ]
     },
     {
       "Titles": [
@@ -9569,18 +11062,28 @@
         ],
         "TGDB": [
           "19558"
+        ],
+        "RAWG": [
+          "52473"
         ]
       },
-      "OverviewId": 76,
+      "OverviewId": 89,
       "Size": 262208,
       "Publishers": [
         "Atari Corp",
-        "Atari, Inc."
+        "Atari, Inc.",
+        "Atari",
+        "Bally Midway",
+        "SunSoft (NES)"
       ],
       "Developers": [
-        "Bally Mfg. Corp."
+        "Bally Mfg. Corp.",
+        "Midway Games",
+        "SunSoft",
+        "Bally Midway"
       ],
-      "ReleaseDate": "1/1/1990",
+      "ReleaseDate": "1/1/1987",
+      "Score": 4.0,
       "Genres": [
         "Shooter"
       ],
@@ -9588,7 +11091,9 @@
         "en"
       ],
       "Tags": [
-        "Alternate"
+        "Alternate",
+        "Up to 3 players simultaneously",
+        "cooperative"
       ]
     },
     {
@@ -9603,25 +11108,34 @@
         ],
         "TGDB": [
           "19559"
+        ],
+        "RAWG": [
+          "55726"
         ]
       },
-      "OverviewId": 77,
+      "OverviewId": 120,
       "Size": 262208,
       "Publishers": [
         "Tengen Inc",
-        "Atari, Inc."
-      ],
-      "Developers": [
+        "Atari, Inc.",
         "Atari"
       ],
-      "ReleaseDate": "11/8/1991",
+      "Developers": [
+        "Atari",
+        "Atari Games"
+      ],
+      "ReleaseDate": "1/1/1987",
       "Genres": [
         "Action"
       ],
       "Languages": [
         "en"
       ],
-      "Tags": []
+      "Tags": [
+        "Singleplayer",
+        "Two-player",
+        "cooperative"
+      ]
     },
     {
       "Titles": [
@@ -9635,18 +11149,23 @@
         ],
         "TGDB": [
           "19559"
+        ],
+        "RAWG": [
+          "55726"
         ]
       },
-      "OverviewId": 77,
+      "OverviewId": 120,
       "Size": 262208,
       "Publishers": [
         "Tengen Inc",
-        "Atari, Inc."
-      ],
-      "Developers": [
+        "Atari, Inc.",
         "Atari"
       ],
-      "ReleaseDate": "11/8/1991",
+      "Developers": [
+        "Atari",
+        "Atari Games"
+      ],
+      "ReleaseDate": "1/1/1987",
       "Genres": [
         "Action"
       ],
@@ -9654,7 +11173,10 @@
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "Singleplayer",
+        "Two-player",
+        "cooperative"
       ]
     },
     {
@@ -9669,22 +11191,33 @@
         ],
         "TGDB": [
           "19560"
+        ],
+        "RAWG": [
+          "55752"
         ]
       },
-      "OverviewId": 78,
+      "OverviewId": 97,
       "Size": 262208,
       "Publishers": [
-        "Epyx Inc"
+        "Epyx Inc",
+        "Atari",
+        "Epyx"
       ],
       "Developers": [
-        "Atari"
+        "Atari",
+        "Epyx"
       ],
-      "ReleaseDate": "8/3/1990",
+      "ReleaseDate": "1/1/1990",
       "Genres": [
-        "Shooter"
+        "Shooter",
+        "Action"
       ],
       "Languages": [
         "en"
+      ],
+      "Tags": [
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -9699,25 +11232,34 @@
         ],
         "TGDB": [
           "19560"
+        ],
+        "RAWG": [
+          "55752"
         ]
       },
-      "OverviewId": 78,
+      "OverviewId": 97,
       "Size": 131136,
       "Publishers": [
-        "Epyx Inc"
+        "Epyx Inc",
+        "Atari",
+        "Epyx"
       ],
       "Developers": [
-        "Atari"
+        "Atari",
+        "Epyx"
       ],
-      "ReleaseDate": "8/3/1990",
+      "ReleaseDate": "1/1/1990",
       "Genres": [
-        "Shooter"
+        "Shooter",
+        "Action"
       ],
       "Languages": [
         "en"
       ],
       "Tags": [
-        "Alternate"
+        "Alternate",
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -9732,25 +11274,34 @@
         ],
         "TGDB": [
           "19560"
+        ],
+        "RAWG": [
+          "55752"
         ]
       },
-      "OverviewId": 78,
+      "OverviewId": 97,
       "Size": 196672,
       "Publishers": [
-        "Epyx Inc"
+        "Epyx Inc",
+        "Atari",
+        "Epyx"
       ],
       "Developers": [
-        "Atari"
+        "Atari",
+        "Epyx"
       ],
-      "ReleaseDate": "8/3/1990",
+      "ReleaseDate": "1/1/1990",
       "Genres": [
-        "Shooter"
+        "Shooter",
+        "Action"
       ],
       "Languages": [
         "en"
       ],
       "Tags": [
-        "Bad Dump"
+        "Bad Dump",
+        "Multiplayer",
+        "Singleplayer"
       ]
     },
     {
@@ -12816,6 +14367,141 @@
     },
     "85": {
       "en": "Tetris for Atari ST"
+    },
+    "86": {
+      "en": "California Games was the original &quot;Extreme Games&quot; – what today&#39;s generation might call &quot;X-Games in the sun&quot;. Players can select sponsors (absent in some versions) and compete in events such as skateboarding, footbag, surfing, roller skating, flying disc (frisbee) and BMX. The surfing event is ranked by judges, which give a score to help the players improve their routine.\nThe Atari versions (2600 and Lynx) of the game omit the flying disc and roller skating events, while the Genesis version omits only the flying disc event."
+    },
+    "87": {
+      "en": "Dirty Larry—Renegade Cop is a beat 'em up game for the Atari Lynx published by Atari Corporation in 1992. You play as Dirty Larry, a cop who fights criminals. The player moves through each level beating up criminals and picking up weapons to get to the boss at the end."
+    },
+    "88": {
+      "en": "NFL Football is a sports video game developed by Mattel and released for its Intellivision video game system in 1979. The players each control a football team competing in a standard four-quarter game. Like Mattel's other sports video games, NFL Football did not use any official National Football League team names or player names, even though Mattel obtained a license from the NFL and used the league's logo in its box art."
+    },
+    "89": {
+      "en": "Xenophobe is a 1987 arcade game developed and published by Bally Midway. Starbases, moons, ships, and space cities are infested with aliens, and the players have to kill the aliens before each is completely overrun. The screen is split into three horizontally-scrolling windows, one for each of up to three players, yet all players are in the same game world."
+    },
+    "90": {
+      "en": "Basketbrawl is a video game released for the Atari 7800 in 1990, then later for the Atari Lynx in 1992. It is a sports simulation which allows hitting and fighting with other players. The name is a portmanteau of the words basketball and brawl. Basketbrawl is similar to the 1989 Midway arcade game Arch Rivals which had the tagline \"A basket brawl!\"\nAtari released another sports/fighting combo for the Atari 7800 in 1990 as Ninja Golf. Both were in the final 11 games published by Atari for that system in 1990-91 before dropping support."
+    },
+    "91": {
+      "en": "The Fidelity Ultimate Chess Challenge is a chess video game released for the Atari Lynx by Telegames in 1991. Players can either play one player vs the game engine or two players (using the same console). The game engine uses the experience of Fidelity Electronics, makers of various chess computers and elaborates the Master rated (2325 Elo) chess program. It uses the program of the 6502 programs (Sensory 9—Excellence) series.\nThe program has 17 levels of play. Eight of them are time based level setting the average response time from 5 seconds (level time 1) to 4 minutes (level 8). The eight following levels restrict the program ability to lookahead. For example, level depth 1 restricts the program to a lookahead of 1 ply or 1 half move, level depth 2 restricts the computer's lookahead to 2 plies or 2 half moves, and so on to level depth 8. The 17th level is an infinite level, the computation can either be stopped by the user or by the finding of a forced mate."
+    },
+    "92": {
+      "en": "Set in a post-apocalyptic New York, Double Dragon is the story of Billy and Jimmy Lee, twin brothers trained in the fighting style of Sou-Setsu-Ken. Together, they manage a small martial arts training school, teaching their students in self-defense. One day, Billy&#39;s girlfriend, Marian, is kidnapped off the street by the &quot;Black Warriors&quot;, a savage street gang led by a man named Willy. The Black Warriors demand the Lee brothers disclose their martial arts secrets in exchange for Marian&#39;s freedom. The Lee brothers set out on a rescue mission to crush the Black Warriors and save Marian.\nUsing whatever techniques they have at their disposal, from the basic punches and kicks to the invulnerable elbow strike, as well any weapon that comes into their hands, the Lee brothers must pursue the gang through the city slum, industrial area and the forest before reaching their hideout to confront the big boss, Willy.\nThe NES version of this game also has an additional VS. fighting mode for one or two players. Players choose from a field of six different characters (Billy and 5 of the enemy characters) and enter into a one-on-one fighting match. Players have to punch, kick, jumpkick, and even use a weapon against their opponents until someone&#39;s health bar is fully drained. The winner is the last one standing."
+    },
+    "93": {
+      "en": "Jimmy Connors Tennis is a tennis simulation video game developed by NMS Software for the Nintendo Entertainment System and the Game Boy, and published by Ubisoft in 1993. The game was also developed for the Atari Lynx console by Handmade Software and published by Ubisoft.\nThe game features the name and likeness of American world-number-one tennis champion Jimmy Connors. Ubisoft published Jimmy Connors Tennis two years after Connors' late-career comeback in the Men's Singles division at the 1991 US Open, where he reached the semifinals."
+    },
+    "94": {
+      "en": "RoadBlasters is an arcade game released by Atari Games in 1987. In RoadBlasters, the player must navigate a sports car through 50 different rally races, getting to the finish line before running out of fuel."
+    },
+    "95": {
+      "en": "Toki, known in Japan as JuJu Densetsu (JuJu伝説) is a 1989 shoot 'em up platformer arcade game, or a \"run and gun\" developed and published in Japan by TAD Corporation and published in North America by Fabtek. It was designed by Akira Sakuma and features elements of tongue-in-cheek humor combined with the action. The player takes control of an enchanted ape who must battle hordes of jungle monsters with energy balls from his mouth. The ultimate goal is to destroy the evil wizard who cast a spell on the title protagonist; thereby transforming him from an ape back into a human, and rescuing the kidnapped princess. The game was ported to several video game consoles and home computers."
+    },
+    "96": {
+      "en": "European Soccer Challenge is an association football (soccer) video game developed by Smash 16 and distributed by Software Sorcery for the Amiga and Amstrad CPC in 1990."
+    },
+    "97": {
+      "en": "Zarlor Mercenary is a shoot 'em up video game for the Atari Lynx handheld console, developed by Epyx."
+    },
+    "98": {
+      "en": "Blue Lightning is a pseudo-simulation computer game in which the player controls a military airplane. The game was one of the first games for the Atari Lynx, released in 1989 and was programmed by Epyx, headed by lead programmer, Brian Bowhay, (who also developed the Lynx). The game was well received by critics.\nIn 1995 a remake, developed by Attention to Detail, was released as a pack-in game for the Atari Jaguar CD."
+    },
+    "99": {
+      "en": "Shanghai is a computerized version of mahjong solitaire published by Activision in 1986 for the Amiga, Atari ST, Atari 8-bit family, Commodore 64, IBM PC, Macintosh, Apple IIGS and Master System."
+    },
+    "100": {
+      "en": "Lynx Casino is a 1992 gambling simulator for the Atari Lynx developed by Brian A. Rice Inc. It includes Blackjack, Craps, Roulette, slot machines, and video poker."
+    },
+    "101": {
+      "en": "Crystal Mines II is a puzzle video game designed and programmed by Ken Beckett for Color Dreams and licensed to Atari, who published it as a cartridge for their Lynx handheld system. The game was also released on the Gameboy. The game is a sequel to Crystal Mines for the Nintendo Entertainment System. Both releases are similar to Boulder Dash, a genre which has since become known as \"rocks and diamonds\" games.\nThe Lynx game features 150 levels and 31 bonus levels. The levels were designed by Scott Davis, Danny Sosebee, Lee Rider, Joel Byers, Jim Treadway, Gabriel Beckett and Ron Degen. Music was designed by Ken Calderone, and graphics were by Nina, Dan Burke and Ken Beckett."
+    },
+    "102": {
+      "en": "Hard Drivin' is a 1989 driving arcade game that invites players to test drive a high-powered sports car on stunt and speed courses. The game featured one of the first 3D polygon driving environments via a simulator cabinet, rendered with a custom architecture. The force feedback, car physics simulator, game design and most game programming were done by Max Behensky. According to the in-game credit screen, Hard Drivin' was designed by two teams working concurrently in the United States and Ireland.\nDevelopment began in 1988. Atari also originally intended to release the game in 1988. However, according to one of Atari's engineers and designers, it was delayed due to the dispute from its Vice President claiming that no one would buy an arcade cabinet for $10,000 after The Last Starfighter arcade game was canceled for the same reason a few years earlier. After weeks of research, it was decided that $10,000 was an acceptable price point.\nHard Drivin' was released in February 1989, when arcade driving games were largely implemented with scaled 2D sprites, such as Pole Position and OutRun, and when filled-polygon 3D graphics of any kind were rare in games. Hard Drivin' is the second commercially released arcade racing game to use 3D polygons, after Winning Run.\nIn total, there are fifteen variations of the arcade unit. The eleven cockpit and four compact machines included various British, German and Japanese versions.\nHard Drivin' sold 3,318 video game arcade cabinets. It was followed by a sequel, Race Drivin', in 1990. The PC games Stunt Driver and Stunts, although not official licences, shared many elements with the two games."
+    },
+    "103": {
+      "en": "Electrocop is a 1989 video game developed by Epyx and published by Atari. It was one of the first games developed for the Atari Lynx, and was released with the platform's launch.\nFrom the game's opening: \"The Criminal Brain has kidnapped the President's daughter and you have to go save her. You, Electrocop, have to enter a fortress to save her with loads of robots to attack, doors to hack open and a few bonus games within the terminals to play while you wait.\"\nA long-running rumor was that Electrocop was initially developed as a 3D sequel to Impossible Mission. However, when asked about this rumor, Electrocop developer Greg Omi said, \"It's funny, but I can't remember if it was supposed to be a sequel to Impossible Mission or not. I remember writing a story and basic game design and pitching it to RJ [Mical], but I don't remember if they were asking for a sequel.\""
+    },
+    "104": {
+      "en": "Paperboy is a 1985 arcade game developed and published by Atari Games. The player takes the role of a paperboy who delivers a fictional newspaper called \"The Daily Sun\" along a suburban street on his bicycle. The game was ported to a wide range of video game consoles and personal computers. The Nintendo Entertainment System version is the first NES game developed in the United States, and the Sega Master System version represented the first SMS game developed in the United Kingdom. Paperboy is notable for its unusual theme, which extends to using bike handlebars as the controller.\nA sequel for home computers and consoles, Paperboy 2, was released in 1991."
+    },
+    "105": {
+      "en": "Pac-Land (パックランド, Pakku-Rando) is an entry in the Pac-Man series of arcade video games, released into arcades by Namco, and its American distributor Bally Midway (later Midway Games), in August 1984. It was the first Namco arcade game to use the then-new arcade system later titled Namco Pac-Land.\nPac-Land features parallax scrolling for some of the background elements, a feature that would not become commonplace until the 16-bit console era began much later."
+    },
+    "106": {
+      "en": "Steel Talons is a 3D arcade game by released by Atari Games in 1991. The player takes on the role of a pilot for an \"AT1196 Steel Talons combat helicopter\". Steel Talons was ported to the Sega Genesis, Atari Lynx, Atari ST, Atari Falcon, and the Super Nintendo Entertainment System.\nThe helicopter is equipped with a machine gun, rockets, and a limited number of air-to-surface guided missiles. The game came as a two-player cockpit cabinet and featured both cooperative and competitive game play modes. In the single-player mode, there are 19 computer simulated missions. In the two player mode, two players may work together in the simulation world, or they may choose to go at combat with each other where the mission objective is to destroy the other player."
+    },
+    "107": {
+      "en": "Mainly titled Prophecy I - The Viking Child is a game created by Imagitec Design Limited on Amiga, Atari ST, Atari Lynx, Game Boy and MS-DOS in 1991. 18 months later, the game was planned to be released on the Sega Game Gear by Autumn and the Sega Master System by Winter as well as a planned released for the Commodore 64. Also there was a planned sequel titled \"Viking Child 2\". However all planned releases were cancelled in their early stages along with the sequel.\nProgramming of the Lead version (Atari ST version) was done by Mark Fisher (a.k.a. Fish, Mr Fish) Original graphics were created by Anthony Rosbottom (a.k.a. Bliz, Blizzard) Music was written by Barry Leitch &amp; Ian Howe."
+    },
+    "108": {
+      "en": "Warbirds is a computer game developed by Atari in 1991 for the Atari Lynx."
+    },
+    "109": {
+      "en": "Raiden (雷電, Raiden) is a 1990 scrolling shooter arcade game that was developed by Seibu Kaihatsu. It was the first game in the Raiden series of scrolling shooter arcade games. Raiden was released in September 1990. The game was distributed in Japan by Tecmo, North America by Fabtek, Taiwan by Liang HWA Electronics, Korea by IBL Corporation, Hong Kong by Wah Yan Electronics, and a few other countries such as Malaysia, though the publishers in those countries are unknown.\nThe title in Japanese translates to \"Thunder And Lightning\". Rai means thunder, and den means lightning. The closest English approximation of the pronunciation is  RY-den."
+    },
+    "110": {
+      "en": "Chip's Challenge is a top-down tile-based puzzle video game originally published in 1989 by Epyx as a launch title for the Atari Lynx. It was later ported to several other systems and was included in the Windows 3.1 bundle Microsoft Entertainment Pack 4 (1992), and the Windows version of the Best of Microsoft Entertainment Pack (1995), where it found a much larger audience.\nThe original game was designed by developer Chuck Sommerville, who also made about a third of the levels. Most of the conversions from the Atari Lynx original to other formats were carried out by Images Software in the UK.\nThe game was re-released on Steam on May 28, 2015, along with a sequel, Chip's Challenge 2, which was also designed by Sommerville."
+    },
+    "111": {
+      "en": "Ninja Gaiden III: The Ancient Ship of Doom is a side-scrolling platforming video game developed and published by Tecmo. It was released in Japan on June 26, 1991 (1991-06-26) for the Famicom and in North America in August 1991 for the Nintendo Entertainment System (NES). The NES version was not released in Europe. It was later ported to the Atari Lynx by Atari and released in 1993 in North America and Europe, the European version retaining the North American Ninja Gaiden III title. It was also re-released as part of its Ninja Gaiden Trilogy Super NES compilation in 1995 in Japan and North America. Long after, it was released for the Virtual Console service in North America on February 18, 2008 (2008-02-18) for the Wii and in North America and Europe on November 28, 2013 (2013-11-28) and January 23, 2014 (2014-01-23) respectively for the Nintendo 3DS. It was designed by Masato Kato, who took over for Hideo Yoshizawa—designer of the first two games in the NES series.\nThe game is the third installment of the Ninja Gaiden trilogy, in which the events take place between the first two games in the series, Ninja Gaiden and Ninja Gaiden II: The Dark Sword of Chaos. The player controls Ryu Hayabusa as he is framed for the murder of Irene Lew and investigates the circumstances behind her death. He eventually discovers a plan by CIA agent Foster and another person named Clancy to utilize an interdimensional rift to create and control a race of energy-infused superhuman mutants. The game features similar gameplay from its previous two Ninja Gaiden titles and includes some new features such as the ability to hang overhead from pipes and sword power-ups.\nAs with the previous titles, Ninja Gaiden III received mostly positive reviews from critics. Early reviews praised the game for its plot, gameplay, and difficulty; later reviews criticized it for that plot being overly outlandish, inconsistent level designs, and the game's difficulty level, in which the North American version was intentionally made harder than the Japanese version through limited continues, stronger enemies, and omission of a password system. The Atari Lynx port, while receiving general praise for graphics and controls, received poor reception for its sound and for the inability for players to see characters and items, attributing it to the Lynx's small screen."
+    },
+    "112": {
+      "en": "Gauntlet: The Third Encounter is an arcade-style action game by Atari that was released on the Atari Lynx handheld in 1990."
+    },
+    "113": {
+      "en": "Gates of Zendocon is a 1989 shoot-em-up action video game by Epyx written by Peter Engelbrite for the 1989 color portable handheld console Atari Lynx.\nThe game is a horizontally oriented, automatically scrolling shooter where the player flies a space ship across 51 levels (\"universes\"). During gameplay there are a number of little alien allies that aid the player and protect the ship. If the player gets hit by an enemy or projectile, the ship sprite will reflect the damage: it can lose the laser tip and the engine before the last hit. There is a bonus level hidden inside the game where the player can earn high scores by destroying the faces of the game's creators."
+    },
+    "114": {
+      "en": "Bill & Ted's Excellent Adventure is an action-adventure game developed by Atari and Off the Wall Productions. It came out on 01-01-1990. Capstone published the game. Bill & Ted's Excellent Adventure is available on PC, Commodore / Amiga and Atari Lynx. \n\n"
+    },
+    "115": {
+      "en": "Batman Returns is an action-adventure game developed by Atari, Konami Digital Entertainment, Subway Software and Park Place Productions. It was originally released in 1992. It was published by SEGA. The game is rated as \"Recommended\" on RAWG. You can play Batman Returns on SEGA CD, Atari Lynx, NES and SNES. \n\n"
+    },
+    "116": {
+      "en": "Eye of the Beholder is a RPG game developed by Westwood Studios, Westwood Associates and Strategic Simulations, Inc.. It was originally released in 1990. Capcom published the game. Most rawgers rated the game as \"Recommended\". You can play Eye of the Beholder on SEGA CD, Game Boy Advance, Atari Lynx and SNES. You can purchase the game on GOG. It was scored by '''Amiga''', Motohiro Kawashima, Paul S. Mudra and PC. "
+    },
+    "117": {
+      "en": "S.T.U.N. Runner (Spread Tunnel Underground Network Runner) is a fast-paced, racing/shooter arcade game released by Atari Games in 1989. The player pilots a futuristic speed bike which can exceed 900 mph through various tunnels and courses, with changing environments, hazards and enemies. S.T.U.N. Runner was notable for its early use of high-speed 3D polygonal graphics, and was based on an evolution of Atari's pioneering Hard Drivin' hardware."
+    },
+    "118": {
+      "en": "Kung Food is a video game developed for the Atari Lynx handheld by Christian Urqhart and Steven Mitchell and published by Atari Corporation in 1992. The player controls a protagonist who uses martial arts to overcome mutant vegetables that have invaded his freezer. Earlier in his career, Urquhart authored a number of ZX Spectrum titles."
+    },
+    "119": {
+      "en": "Shadow of the Beast is a platform game developed by Reflections and published by Psygnosis in 1989. The original version was released for the Amiga, and was later ported to many other systems. The game was known for its graphics, with many colours on screen and up to twelve levels of parallax scrolling backdrops, and for its atmospheric score composed by David Whittaker that used high-quality instrument samples.\nIt was followed by two sequels, Shadow of the Beast II in 1990 and Shadow of the Beast III in 1993. A remake was released for the PlayStation 4 in May 2016, and included the Amiga original."
+    },
+    "120": {
+      "en": "Xybots is a 1987 third-person shooter arcade game by Atari Games. In Xybots, up to two players control \"Major Rock Hardy\" and \"Captain Ace Gunn\", who must travel through a 3D maze and fight against a series of robots known as the Xybots whose mission is to destroy all mankind. The game features a split screen display showing the gameplay on the bottom half of the screen and information on player status and the current level on the top half. Designed by Ed Logg, it was originally conceived as a sequel to his previous title, Gauntlet. The game was well received, with reviewers lauding the game's various features, particularly the cooperative multiplayer aspect. Despite this, it was met with limited financial success, which has been attributed to its unique control scheme that involves rotating the joystick to turn the player character.\nXybots was ported to various personal computers and the Atari Lynx handheld. Versions for the Nintendo Entertainment System and Sega Genesis/Mega Drive were announced, but never released. Emulated versions of the arcade game were later released as part of various compilations, starting with Midway Arcade Treasures 2 in 2004."
+    },
+    "121": {
+      "en": "Super Asteroids &amp; Missile Command (also known as Super Asteroids and Super Missile Command is an Atari Lynx video game released by Atari in 1995. It combines the classic video games Asteroids and Missile Command into a single game cartridge. It was the final game released by Atari for the Lynx handheld."
+    },
+    "122": {
+      "en": "Road Riot 4WD is a video game that was originally released in 1991 for video arcades. A port of the game was also released for the Super NES. Versions of the game for the Atari Lynx and Sega Genesis were developed, but never released."
+    },
+    "123": {
+      "en": "Ms. Pac-Man is an arcade video game from the Golden Age. It was produced by Illinois-based Midway Manufacturing corporation, the North American publisher of Pac-Man. Ms. Pac-Man was released in North America in January 1982, and is one of the most popular arcade video games of all time. This popularity led to its adoption as an official title by Namco, the creator of Pac-Man, which was released in the United States in late 1980. Ms. Pac-Man introduced a female protagonist, new maze designs, and several other improved gameplay changes over the original Pac-Man. Ms. Pac-Man became the most successful American-produced arcade game of 1982, selling 115,000 arcade cabinets."
+    },
+    "124": {
+      "en": "Qix (pronounced \"kicks\") is an arcade game released by Taito America Corporation in October 1981. The objective of Qix is to fence off, or claim, a supermajority of the playfield. At the start of each level, the playing field is a large, empty rectangle, containing the \"Qix\"—a stick-like entity that performs graceful but unpredictable motions within the confines of the rectangle.\nQix was ported to the contemporary Atari 5200 (1982), Atari 8-bit family (1983), and Commodore 64 (1983), then was brought to a wide variety of systems in the late 1980s and early 1990s: MS-DOS (1989), Amiga (1989), another version for the C64 (1989), Apple IIgs (1990), Game Boy (1990), Nintendo Entertainment System (1991), and Atari Lynx (1991)."
+    },
+    "125": {
+      "en": "Dracula - The Undead is a video game released in 1991 for the Atari Lynx handheld system. The game is loosely based on Bram Stoker's novel Dracula and features Bram Stoker in the story as the narrator. The player takes the role of Jonathan Harker as he tries to escape from Dracula's Castle."
+    },
+    "126": {
+      "en": "Centipede is a vertically oriented fixed shooter arcade game produced by Atari, Inc. in 1980. The game was designed by Ed Logg and Dona Bailey. It was one of the most commercially successful games from the video arcade's golden age. The player fights off centipedes, spiders, scorpions and fleas, completing a round after eliminating the centipede that winds down the playing field.\nCentipede was ported to Atari's own Atari 2600, Atari 5200, Atari 7800, and Atari 8-bit family. Under the Atarisoft label, the game was sold for the Apple II, Commodore 64, ColecoVision, VIC-20, IBM PC (as a PC booter), Intellivision, and TI-99/4A. Superior Software published the port for the BBC Micro."
+    },
+    "127": {
+      "en": "Loopz is a puzzle video game originally designed and programmed by Ian Upton for the Atari ST in 1989. He previously worked as head game designer for Audiogenic, who acquired exclusive rights to the game, then in 1990 arranged for Mindscape to publish it for computers in North America and consoles worldwide.\nThe Nintendo Entertainment System version (programmed by Bits Studios) and the Game Boy version (programmed by Argonaut Software) were released in 1990. A sequel, Super Loopz, was published for the Super NES by Imagineer and for the Commodore Amiga CD32 by Audiogenic. Audiogenic also published versions of the original game for the Acorn Electron, BBC Micro, ZX Spectrum, Amstrad CPC, Commodore 64, Atari ST, Commodore Amiga, and IBM PC in 1990 and 1991.\nAn Apple Macintosh version was in development for Audiogenic, but never completed, and a version was written for the Atari Lynx, also for Audiogenic by Hand Made Software but lay unreleased until picked up by Songbird Productions in 2004.\nAn agreement was reached between Audiogenic Software and the defunct Atari Classics Programmer's Club in 1995 for development of an Atari 800XL version of the game. This version remained incomplete by the time it was abandoned in October 1998. There was some discussion in 2005 over the possibility of resurrecting this version of the game but the project remains on hold.\nAudiogenic licensed the Loopz concept to Capcom who developed a prototype coin-op, but it was never released. Similarly Audiogenic developed an SWP (skill-with-prizes) version on behalf of Barcrest, a leading UK manufacturer of pub games, and this too remains unreleased.\nThe main focus is on the playing board where random pieces of different shapes are presented to the player. A shape is either a single square containing a straight line or 90° corner or a combination of multiple such squares. The player must then try to make loops out of them. Once a loop is completed, all pieces involved will disappear. (You cannot make any line overlapping the edge, in other words, it cannot be placed in this way)\nThere exist three different play modes, two of which can be played with two players. The third mode of play starts with a loop already created and then takes away random pieces of it, so the player has to put them back in after they show up.\nThe cover art is reminiscent of the band Pink Floyd's The Dark Side of the Moon album."
+    },
+    "128": {
+      "en": "Checkered Flag is a racing video game, released for the Atari Lynx in 1991, and for the Atari Jaguar in 1994.\nA sequel was originally planned for the Jaguar under the name Checkered Flag 2, but the game was redesigned and retitled \"Redline Racing\". Destination Software also planned to release a Game Boy Advance version of the title around 2005, but it was canceled before it was released."
+    },
+    "129": {
+      "en": "Pit-Fighter is a 1990 arcade fighting game by Atari Games, notable for its early use of digitized live actors. The Japanese arcade release was published by Konami.\nThe graphical animations for the player character and opponents were created through a bluescreen process, where the various poses and moves of the characters were acted out by hired actors in front of a video camera. The game's on-screen character animation are replays of the actual footage, not a rotoscoped (redrawn) animation as was common in other games. Pit-Fighter was the second fighting game to use digitized sprites, after Home Data's Reikai Dōshi: Chinese Exorcist."
+    },
+    "130": {
+      "en": "Todd's Adventures in Slime World is a side-scrolling platform video game first released for the Atari Lynx in 1990, with Sega Mega Drive/Genesis and PC Engine CD versions following in 1992."
     }
   }
 }
