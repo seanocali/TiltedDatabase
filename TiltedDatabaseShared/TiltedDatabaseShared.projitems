@@ -9,9 +9,6 @@
     <Import_RootNamespace>TiltedDatabaseShared</Import_RootNamespace>
   </PropertyGroup>
   <ItemGroup>
-    <Resource Include="$(MSBuildThisFileDirectory)3DO.json" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="$(MSBuildThisFileDirectory)3DO.zip" />
     <None Include="$(MSBuildThisFileDirectory)Adventure Vision.zip" />
     <None Include="$(MSBuildThisFileDirectory)Amiga CD32.zip" />
